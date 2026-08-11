@@ -1,0 +1,224 @@
+{
+  "updatedAt": "2026-08-11T08:34:16.225918+00:00",
+  "source": "aihot.virxact.com",
+  "count": 10,
+  "items": [
+    {
+      "rank": 1,
+      "id": "cmsn2u3mt067ero8opidmwvz7",
+      "title": "Meta 发布开源模型 Muse Glimmer",
+      "source": {
+        "name": "X：AI at Meta (@AIatMeta)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7",
+        "original": "https://x.com/AIatMeta/status/2086757844544811485",
+        "story": "https://aihot.virxact.com/story/95622627-c0da-45ac-b3c0-119d05cc2f8d"
+      },
+      "sourceCount": 16,
+      "signalCount": 10,
+      "sourceNames": [
+        "X：AI at Meta (@AIatMeta)",
+        "X：Mark Zuckerberg (@finkd)",
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "X：Kim (@kimmonismus)",
+        "IT之家（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Testing Catalog (@testingcatalog)",
+        "Artificial Intelligence News（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）",
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "TechCrunch：AI（RSS）",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "Ars Technica：AI（RSS）",
+        "Simon Willison 博客"
+      ],
+      "latestAt": "2026-08-11T00:58:11.868Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmsnix1by08d3rohfftiex1xp",
+      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
+        "original": "https://www.anthropic.com/research/riemann-zeta",
+        "story": "https://aihot.virxact.com/story/beeb1e2e-87ce-43e0-a9bd-b13238e1105f"
+      },
+      "sourceCount": 6,
+      "signalCount": 1,
+      "sourceNames": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "X：Anthropic (@AnthropicAI)",
+        "X：Deedy Das (@deedydas)",
+        "X：Kim (@kimmonismus)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "latestAt": "2026-08-11T03:10:03.995Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmsnejv4i042qrohff64pz0jh",
+      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+      "source": {
+        "name": "OpenRouter：Announcements（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh",
+        "original": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
+        "story": "https://aihot.virxact.com/story/93c3e165-8ab6-4e93-8872-201607ad998b"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "OpenRouter：Announcements（RSS）",
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "latestAt": "2026-08-10T16:56:27.775Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmsmf2q0t030sroadf0o5jwoa",
+      "title": "宇树科技今日启动申购，A 股迎来“人形机器人第一股”",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsmf2q0t030sroadf0o5jwoa",
+        "original": "https://www.ithome.com/0/987/649.htm",
+        "story": "https://aihot.virxact.com/story/dd84387e-0a7d-43a6-aecd-5987448f599d"
+      },
+      "sourceCount": 1,
+      "signalCount": 12,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-10T13:11:37.460Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmso95agg0ig3rofwaqvy9crw",
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "source": {
+        "name": "公众号：智谱（GLM）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+        "story": "https://aihot.virxact.com/story/6f6d219d-fe8e-463c-99b4-c5ab3ba1039b"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "公众号：智谱（GLM）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-11T07:11:46.049Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmsnrwnsb0i1erohfuhfjc4q6",
+      "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
+      "source": {
+        "name": "X：Jensen Huang (@JensenHuang)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6",
+        "original": "https://x.com/JensenHuang/status/2086934705207959965",
+        "story": "https://aihot.virxact.com/story/4cd0dff0-6fba-4913-91d3-f57962079ccf"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "X：Jensen Huang (@JensenHuang)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-11T05:11:44.548Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmsn32xab06ehro8ou4tskajr",
+      "title": "扎克伯格：超级智能应人人可用",
+      "source": {
+        "name": "X：Mark Zuckerberg (@finkd)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr",
+        "original": "https://x.com/finkd/status/2086754845218726027",
+        "story": "https://aihot.virxact.com/story/4564c504-625a-4843-8884-4c5db65cec1a"
+      },
+      "sourceCount": 3,
+      "signalCount": 0,
+      "sourceNames": [
+        "X：Mark Zuckerberg (@finkd)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-08-10T15:44:34.992Z"
+    },
+    {
+      "rank": 8,
+      "id": "cmso58oqr0b7trofwl3dcmz7y",
+      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
+        "original": "https://www.ithome.com/0/988/239.htm",
+        "story": "https://aihot.virxact.com/story/ab0924af-8885-4de7-be22-e3060ddab398"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：Kim (@kimmonismus)"
+      ],
+      "latestAt": "2026-08-11T07:47:21.421Z"
+    },
+    {
+      "rank": 9,
+      "id": "cmsn3w3ln012wror1xk5nrmcw",
+      "title": "Scale AI 开源 Muse 系列模型",
+      "source": {
+        "name": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw",
+        "original": "https://x.com/alexandr_wang/status/2086756152034066792",
+        "story": "https://aihot.virxact.com/story/601b8222-634d-4c67-a41f-aa6e6cd20a6d"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "sourceNames": [
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      ],
+      "latestAt": "2026-08-10T10:46:12.574Z"
+    },
+    {
+      "rank": 10,
+      "id": "cmsmlho8005dmrohfoz27j6em",
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "source": {
+        "name": "公众号：千问APP（阿里）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+        "story": "https://aihot.virxact.com/story/5cfd0934-6a50-4e93-8a18-e9899c819304"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "公众号：千问APP（阿里）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-10T03:11:32.821Z"
+    }
+  ]
+}
