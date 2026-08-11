@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0D0E11">
+<meta name="description" content="ZerONE AI 资讯 — 每日精选 AI 行业动态：模型发布、产品上线、行业事件、论文与教程">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230D0E11' stroke='%233DD68C' stroke-width='1.5'/%3E%3Ctext x='16' y='22' font-size='14' text-anchor='middle' fill='%233DD68C' font-family='ui-monospace,monospace' font-weight='700'%3E01%3C/text%3E%3C/svg%3E">
+<title>ZerONE · AI 动态</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+/* News page specific styles — editorial, clean, no AI glow */
+.news-wrap{max-width:760px;margin:0 auto;padding:48px 22px 80px}
+.news-header{margin-bottom:40px}
+.news-header h1{font-size:28px;font-weight:800;color:var(--text);letter-spacing:-.02em;margin-bottom:6px}
+.news-header .sub{font-size:13px;color:var(--text-2);font-family:var(--mono)}
+.news-cats{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:32px;border-bottom:1px solid var(--line-soft);padding-bottom:0}
+.news-cats .cat{
+  padding:8px 14px;font-size:13px;color:var(--text-2);cursor:pointer;
+  border-bottom:2px solid transparent;margin-bottom:-1px;transition:all .2s var(--ease);
+  font-family:var(--sans);background:none;border-top:none;border-left:none;border-right:none;
+}
+.news-cats .cat:hover{color:var(--text)}
+.news-cats .cat.active{color:var(--amber);border-bottom-color:var(--amber)}
+.article{padding:24px 0;border-bottom:1px solid var(--line-soft);animation:fadeInUp .4s var(--ease) both}
+.article:last-child{border-bottom:none}
+.article .tag{
+  display:inline-block;font-size:11px;font-family:var(--mono);color:var(--amber);
+  border:1px solid var(--line);padding:2px 8px;border-radius:3px;margin-bottom:10px;
+  letter-spacing:.04em
+}
+.article .title{
+  font-size:17px;font-weight:700;color:var(--text);line-height:1.5;
+  margin-bottom:8px;display:block;transition:color .15s
+}
+.article .title:hover{color:var(--amber)}
+.article .summary{font-size:14px;color:var(--text-2);line-height:1.75;margin-bottom:10px}
+.article .meta{font-size:12px;color:var(--text-3);font-family:var(--mono)}
+.article .meta .dot{margin:0 6px}
+.news-back{
+  display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--text-2);
+  margin-bottom:24px;transition:color .15s
+}
+.news-back:hover{color:var(--amber)}
+.news-loading{text-align:center;padding:60px 0;color:var(--text-3);font-size:14px}
+</style>
+</head>
+<body>
+<div class="news-wrap">
+  <a href="index.html" class="news-back">← 返回首页</a>
+  <div class="news-header">
+    <h1>AI 动态</h1>
+    <div class="sub" id="news-meta">—</div>
+  </div>
+  <div class="news-cats" id="news-cats">
+    <button class="cat active" data-cat="all">全部</button>
+    <button class="cat" data-cat="ai-models">模型发布</button>
+    <button class="cat" data-cat="ai-products">产品上线</button>
+    <button class="cat" data-cat="industry">行业事件</button>
+    <button class="cat" data-cat="paper">论文</button>
+    <button class="cat" data-cat="tip">教程/实践</button>
+  </div>
+  <div id="news-list"></div>
+</div>
+<script src="js/app.js"></script>
+<script>
+(function(){
+  'use strict';
+  var items=[], current='all';
+  var catLabels={all:'全部','ai-models':'模型发布','ai-products':'产品上线',industry:'行业事件',paper:'论文',tip:'教程/实践'};
+
+  function fmtTime(iso){
+    if(!iso) return '';
+    var d=new Date(iso);
+    var now=new Date();
+    var diff=(now-d)/1000;
+    if(diff<3600) return Math.max(1,Math.floor(diff/60))+' 分钟前';
+    if(diff<86400) return Math.floor(diff/3600)+' 小时前';
+    var days=Math.floor(diff/86400);
+    if(days<7) return days+' 天前';
+    return (d.getMonth()+1)+'/'+d.getDate();
+  }
+
+  function renderList(){
+    var list=document.getElementById('news-list');
+    var filtered=current==='all'?items:items.filter(function(i){return i.category===current});
+    if(!filtered.length){list.innerHTML='<div class="news-loading">该分类暂无内容</div>';return}
+    list.innerHTML=filtered.map(function(item,idx){
+      var tag=catLabels[item.category]||item.category;
+      var url=(item.links&&(item.links.original||item.links.aihot))||'#';
+      var src=item.source?window.fmt.esc(item.source.name):'';
+      var t=fmtTime(item.publishedAt||item.discoveredAt);
+      return '<article class="article" style="animation-delay:'+(idx*0.04)+'s">'+
+        '<span class="tag">'+window.fmt.esc(tag)+'</span>'+
+        '<a class="title" href="'+window.fmt.esc(url)+'" target="_blank" rel="noopener">'+window.fmt.esc(item.title)+'</a>'+
+        '<p class="summary">'+window.fmt.esc(item.summary||'')+'</p>'+
+        '<div class="meta">'+src+'<span class="dot">·</span>'+t+'</div>'+
+      '</article>';
+    }).join('');
+  }
+
+  document.querySelectorAll('#news-cats .cat').forEach(function(btn){
+    btn.addEventListener('click',function(){
+      document.querySelectorAll('#news-cats .cat').forEach(function(b){b.classList.remove('active')});
+      this.classList.add('active');
+      current=this.getAttribute('data-cat');
+      renderList();
+    });
+  });
+
+  (async function(){
+    var list=document.getElementById('news-list');
+    list.innerHTML='<div class="news-loading">加载中…</div>';
+    try{
+      var data=await window.API.get(['data/ai_news.json']);
+      items=data.items||[];
+      document.getElementById('news-meta').textContent=
+        '过去 24 小时 · '+items.length+' 条精选 · 来源 aihot.virxact.com';
+      renderList();
+    }catch(e){
+      list.innerHTML='<div class="news-loading">数据加载失败：'+e.message+'</div>';
+    }
+  })();
+})();
+</script>
+<footer style="text-align:center;padding:20px 10px;margin-top:40px;border-top:1px solid rgba(255,255,255,.07);font-size:12px;color:#4A4A52">
+  本网页数据及框架参考 <a href="https://aihot.virxact.com/" target="_blank" rel="noopener" style="color:#3DD68C;text-decoration:none">aihot.virxact.com</a>
+  &nbsp;·&nbsp; 数据由 GitHub Actions 每日自动抓取
+</footer>
+</body>
+</html>
