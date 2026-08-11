@@ -1,0 +1,114 @@
+/* ==========================================================================
+   THEMES — ZerONE Multi-Style System
+   4 themes × 2 modes (dark/light) = 8 variants
+   Based on Awwwards Biophilic + Editorial design principles
+   ========================================================================== */
+
+/* ===== Theme 1: Biophilic Dark (from prompt — charcoal + moss + gold) ===== */
+[data-theme="biophilic"][data-mode="dark"] {
+  --bg:#0A0C0D; --bg-2:#0E1112; --panel:#121617;
+  --line:rgba(74,107,92,.16); --line-soft:rgba(255,255,255,.06);
+  --text:#C8C5BE; --text-2:#7A756C; --text-3:#3D3A35;
+  --amber:#D4AF68; --amber-deep:#9A7E45; --amber-dim:rgba(212,175,104,.12);
+  --cool:#6B8F85;
+}
+[data-theme="biophilic"][data-mode="light"] {
+  --bg:#F5F3EE; --bg-2:#EFEBE3; --panel:#FFFFFF;
+  --line:rgba(74,107,92,.20); --line-soft:rgba(0,0,0,.07);
+  --text:#2A2825; --text-2:#6B6359; --text-3:#A89E90;
+  --amber:#9A7E45; --amber-deep:#6B5530; --amber-dim:rgba(154,126,69,.10);
+  --cool:#5A7B70;
+}
+
+/* ===== Theme 2: Editorial Light (杂志风 — clean white + bronze) ===== */
+[data-theme="editorial"][data-mode="dark"] {
+  --bg:#1A1714; --bg-2:#211E1A; --panel:#28241F;
+  --line:rgba(210,168,105,.15); --line-soft:rgba(255,255,255,.06);
+  --text:#E0DCD5; --text-2:#968D80; --text-3:#4A443C;
+  --amber:#D2A869; --amber-deep:#8B7355; --amber-dim:rgba(210,168,105,.12);
+  --cool:#8B9DAF;
+}
+[data-theme="editorial"][data-mode="light"] {
+  --bg:#FAFAF7; --bg-2:#F5F2EC; --panel:#FFFFFF;
+  --line:rgba(139,115,85,.18); --line-soft:rgba(0,0,0,.06);
+  --text:#1A1714; --text-2:#6B6356; --text-3:#B0A696;
+  --amber:#8B7355; --amber-deep:#5A4733; --amber-dim:rgba(139,115,85,.08);
+  --cool:#6B8BAF;
+}
+
+/* ===== Theme 3: Terminal Dark (current jade green — kept as default) ===== */
+[data-theme="terminal"][data-mode="dark"] {
+  --bg:#0D0E11; --bg-2:#111318; --panel:#16181D;
+  --line:rgba(61,214,140,.14); --line-soft:rgba(255,255,255,.07);
+  --text:#D4D4D8; --text-2:#8A8A93; --text-3:#4A4A52;
+  --amber:#3DD68C; --amber-deep:#1FAA6B; --amber-dim:rgba(61,214,140,.12);
+  --cool:#6B7FA3;
+}
+[data-theme="terminal"][data-mode="light"] {
+  --bg:#F4F6F4; --bg-2:#EBEFEA; --panel:#FFFFFF;
+  --line:rgba(31,170,107,.18); --line-soft:rgba(0,0,0,.07);
+  --text:#1A2B20; --text-2:#5A6B5F; --text-3:#A0B0A5;
+  --amber:#1FAA6B; --amber-deep:#0D7A4A; --amber-dim:rgba(31,170,107,.08);
+  --cool:#5A7B8F;
+}
+
+/* ===== Theme 4: Ocean Deep (深海蓝 — from prompt's ocean theme) ===== */
+[data-theme="ocean"][data-mode="dark"] {
+  --bg:#0A1428; --bg-2:#0E1A35; --panel:#132040;
+  --line:rgba(79,195,247,.14); --line-soft:rgba(255,255,255,.06);
+  --text:#C5DCE8; --text-2:#6B8CA0; --text-3:#3A5060;
+  --amber:#4FC3F7; --amber-deep:#1A87AD; --amber-dim:rgba(79,195,247,.12);
+  --cool:#80DEEA;
+}
+[data-theme="ocean"][data-mode="light"] {
+  --bg:#E8F1F8; --bg-2:#DDE9F3; --panel:#FFFFFF;
+  --line:rgba(26,135,173,.18); --line-soft:rgba(0,0,0,.06);
+  --text:#0A1428; --text-2:#4A6B80; --text-3:#9AB0C0;
+  --amber:#1A87AD; --amber-deep:#0A5A7A; --amber-dim:rgba(26,135,173,.08);
+  --cool:#4A90A8;
+}
+
+/* ===== Theme Switcher UI ===== */
+.theme-switcher {
+  position: fixed; top: 16px; right: 16px; z-index: 9999;
+  display: flex; align-items: center; gap: 8px;
+  background: var(--panel); border: 1px solid var(--line);
+  border-radius: 20px; padding: 4px 6px;
+  backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 2px 12px rgba(0,0,0,.2);
+  transition: opacity .3s var(--ease);
+}
+.theme-btn {
+  width: 20px; height: 20px; border-radius: 50%;
+  border: 2px solid transparent; cursor: pointer;
+  transition: all .25s var(--ease);
+  position: relative;
+}
+.theme-btn:hover { transform: scale(1.15); }
+.theme-btn.active { border-color: var(--text); transform: scale(1.1); }
+.theme-btn[data-t="biophilic"] { background: linear-gradient(135deg,#0A0C0D 40%,#D4AF68 100%); }
+.theme-btn[data-t="editorial"] { background: linear-gradient(135deg,#FAFAF7 40%,#8B7355 100%); }
+.theme-btn[data-t="terminal"]  { background: linear-gradient(135deg,#0D0E11 40%,#3DD68C 100%); }
+.theme-btn[data-t="ocean"]     { background: linear-gradient(135deg,#0A1428 40%,#4FC3F7 100%); }
+
+/* ===== Mode Toggle (light/dark) ===== */
+.mode-toggle {
+  position: fixed; bottom: 16px; right: 16px; z-index: 9999;
+  width: 40px; height: 40px; border-radius: 50%;
+  background: var(--panel); border: 1px solid var(--line);
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer; font-size: 18px;
+  backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  box-shadow: 0 2px 12px rgba(0,0,0,.2);
+  transition: all .3s var(--ease);
+  user-select: none;
+}
+.mode-toggle:hover { transform: scale(1.08); }
+.mode-toggle:active { transform: scale(0.95); }
+
+/* Hide switcher on very small screens to avoid clutter */
+@media (max-width: 380px) {
+  .theme-switcher { padding: 3px 4px; }
+  .theme-btn { width: 16px; height: 16px; }
+  .mode-toggle { width: 34px; height: 34px; font-size: 15px; }
+}
