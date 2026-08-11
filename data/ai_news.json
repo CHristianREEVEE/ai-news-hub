@@ -1,0 +1,447 @@
+{
+  "updatedAt": "2026-08-11T08:34:14.931398+00:00",
+  "source": "aihot.virxact.com",
+  "total": 20,
+  "items": [
+    {
+      "id": "cmsodc28j0n07rofw30v8pe9v",
+      "title": "窃取专有 LLM API 的推理轨迹：加密块可跨会话互换引发解密越狱",
+      "originalTitle": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "研究发现，Anthropic、OpenAI 和 Google 等专有 LLM 的加密推理轨迹块可跨会话、用户和模型互换，攻击者将其注入同提供商防护较弱的模型，即可强制其以明文输出推理内容。",
+      "source": {
+        "name": "HuggingFace Daily Papers（社区热门论文）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsodc28j0n07rofw30v8pe9v",
+        "original": "https://arxiv.org/abs/2608.09867"
+      },
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "discoveredAt": "2026-08-11T07:58:18.452Z",
+      "category": "paper",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsodc28j0n07rofw30v8pe9v"
+      }
+    },
+    {
+      "id": "cmso95agg0ig3rofwaqvy9crw",
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "originalTitle": "ZCode全面升级，GLM最佳Harness，让复杂任务自主交付",
+      "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+      "source": {
+        "name": "公众号：智谱（GLM）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9"
+      },
+      "publishedAt": "2026-08-11T05:52:25.000Z",
+      "discoveredAt": "2026-08-11T06:01:05.940Z",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw"
+      }
+    },
+    {
+      "id": "cmso8nqa70eq4rofw24w1wlwt",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+      "originalTitle": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+      "source": {
+        "name": "MarkTechPost（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt",
+        "original": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis"
+      },
+      "publishedAt": "2026-08-11T05:44:38.000Z",
+      "discoveredAt": "2026-08-11T05:47:24.900Z",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt"
+      }
+    },
+    {
+      "id": "cmso7i0al0dlsrofwivmpsjh1",
+      "title": "编写智能体时，哪种编程语言最合适？",
+      "originalTitle": null,
+      "summary": "针对\"动态语言比静态语言更省 LLM token\"的流行说法，作者用 GPT-5.6 Sol 让智能体实现 zstd 解码器进行实测。结果显示，medium 努力度下动态语言表现更好，ultra 下静态语言反而更优，且此前评测存在测试路径错误等缺陷。作者认为，琐碎任务上的性能无法推广到更大问题。",
+      "source": {
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
+        "original": "http://danluu.com/pl-tokens"
+      },
+      "publishedAt": "2026-08-11T04:58:14.908Z",
+      "discoveredAt": "2026-08-11T05:14:58.582Z",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1"
+      }
+    },
+    {
+      "id": "cmso6wigb0d1profw2f6djg98",
+      "title": "RynnValue：用时间距离扩展机器人价值基础模型",
+      "originalTitle": "RynnValue： Scaling Robotic Value Foundation Models with Temporal Distance",
+      "summary": "RynnValue 是一款开源的机器人操作价值基础模型，用时间距离替代偏好或进度等任务内锚点作为监督信号，可直接从时间戳生成标签，扩展至超 7，000 小时、约 300 万条指令条件片段。",
+      "source": {
+        "name": "HuggingFace Daily Papers（社区热门论文）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmso6wigb0d1profw2f6djg98",
+        "original": "https://arxiv.org/abs/2608.09853"
+      },
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "discoveredAt": "2026-08-11T04:58:17.200Z",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmso6wigb0d1profw2f6djg98"
+      }
+    },
+    {
+      "id": "cmso58oqr0b7trofwl3dcmz7y",
+      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+      "originalTitle": null,
+      "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
+        "original": "https://www.ithome.com/0/988/239.htm"
+      },
+      "publishedAt": "2026-08-11T03:57:53.000Z",
+      "discoveredAt": "2026-08-11T04:11:43.726Z",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y"
+      }
+    },
+    {
+      "id": "cmsnxf57501y5rofw32tota54",
+      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
+      "originalTitle": "How to ground Genie Agents in both structured data and documents without losing governance",
+      "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
+      "source": {
+        "name": "Databricks：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54",
+        "original": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance"
+      },
+      "publishedAt": "2026-08-10T23:08:50.000Z",
+      "discoveredAt": "2026-08-11T00:32:50.702Z",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54"
+      }
+    },
+    {
+      "id": "cmsnx040k01glrofwfqxdc8h5",
+      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+      "originalTitle": "微信的这几个AI新功能，正在杀死朋友圈最后一点人味。",
+      "summary": "微信基于小微推出朋友圈AI帮写与AI点评内测功能，前者可根据图片和已写文字生成3条朋友圈文案，后者可长按文字生成评价或快捷评论。作者认为这两个功能将AI置于社交核心位置，可能鼓励AI内容、破坏朋友圈自2012年确立的\"记录美好生活\"基调。公众号端小微还常驻首位，自动总结常看公众号文章，作者担忧这会反向影响创作者内容生产。",
+      "source": {
+        "name": "公众号：数字生命卡兹克"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48"
+      },
+      "publishedAt": "2026-08-11T00:12:00.000Z",
+      "discoveredAt": "2026-08-11T00:21:07.918Z",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5"
+      }
+    },
+    {
+      "id": "cmsnrwnsb0i1erohfuhfjc4q6",
+      "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
+      "originalTitle": "http://x.com/i/article/2086933422921117696",
+      "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+      "source": {
+        "name": "X：Jensen Huang (@JensenHuang)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6",
+        "original": "https://x.com/JensenHuang/status/2086934705207959965"
+      },
+      "publishedAt": "2026-08-10T21:56:21.000Z",
+      "discoveredAt": "2026-08-10T21:58:30.136Z",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
+      }
+    },
+    {
+      "id": "cmsnkpjin0c2nrohfczauf2t2",
+      "title": "OpenAI 推出 GPT-5.6-Cyber，面向授权漏洞研究的网络安全专用模型",
+      "originalTitle": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "OpenAI 发布网络安全专用模型 GPT-5.6-Cyber，可通过 Daybreak Red 获取，用于授权的漏洞研究、漏洞验证和安全测试。该模型旨在应对网络防御窗口不断收窄的挑战，为安全研究人员提供专门工具。",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2",
+        "original": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+      },
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "discoveredAt": "2026-08-10T18:37:00.128Z",
+      "category": "ai-models",
+      "score": 55,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2"
+      }
+    },
+    {
+      "id": "cmsnj5lkg08hprohfi5aoql6k",
+      "title": "AI Harness 的 ARR 倍数：25-125 倍区间与加速趋势",
+      "originalTitle": "AI Harness' ARR Multiples",
+      "summary": "Harvey、Legora 与 Sierra 在九个月内相继跨过 1 亿美元年经常性收入（ARR）门槛，Ramp 与 Decagon 分别以 14 亿美元和 3500 万美元夹在两侧。",
+      "source": {
+        "name": "Tomer Tunguz 博客（VC 分析）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnj5lkg08hprohfi5aoql6k",
+        "original": "https://www.tomtunguz.com/ai-harness-arr-multiples"
+      },
+      "publishedAt": "2026-08-09T00:00:00.000Z",
+      "discoveredAt": "2026-08-10T17:53:30.203Z",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnj5lkg08hprohfi5aoql6k"
+      }
+    },
+    {
+      "id": "cmsnix1by08d3rohfftiex1xp",
+      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+      "originalTitle": "Learning more about Claude's mathematical capabilities",
+      "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
+        "original": "https://www.anthropic.com/research/riemann-zeta"
+      },
+      "publishedAt": "2026-08-10T17:46:50.781Z",
+      "discoveredAt": "2026-08-10T17:46:50.781Z",
+      "category": "paper",
+      "score": 57,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
+      }
+    },
+    {
+      "id": "cmsnfpcwf05ecrohfuzbjwyar",
+      "title": "Claude Code 自动模式默认开启原理",
+      "originalTitle": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+      "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+      "source": {
+        "name": "X：Claude Devs (@ClaudeDevs)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
+        "original": "https://x.com/ClaudeDevs/status/2086844755770757531"
+      },
+      "publishedAt": "2026-08-10T15:58:56.000Z",
+      "discoveredAt": "2026-08-10T16:16:53.681Z",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
+      }
+    },
+    {
+      "id": "cmsnejv4i042qrohff64pz0jh",
+      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
+      "originalTitle": "Model Routing Powered by Wisdom of the Market",
+      "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
+      "source": {
+        "name": "OpenRouter：Announcements（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh",
+        "original": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router"
+      },
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "discoveredAt": "2026-08-10T15:44:34.992Z",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh"
+      }
+    },
+    {
+      "id": "cmsnbzkyr01qjrohfmjqlmjk5",
+      "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+      "originalTitle": "Can Agents Use a Computer Yet？ We've Got the Data",
+      "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+      "source": {
+        "name": "a16z：News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5",
+        "original": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve"
+      },
+      "publishedAt": "2026-08-10T14:00:46.000Z",
+      "discoveredAt": "2026-08-10T14:32:49.512Z",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5"
+      }
+    },
+    {
+      "id": "cmsnbc14r0aezron58wsytu43",
+      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+      "originalTitle": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+      "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
+      "source": {
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
+        "original": "https://bobdahacker.com/blog/tldv-hack"
+      },
+      "publishedAt": "2026-08-10T14:03:26.804Z",
+      "discoveredAt": "2026-08-10T14:14:33.122Z",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43"
+      }
+    },
+    {
+      "id": "cmsn68brx03q2ron5vwp3pwta",
+      "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+      "originalTitle": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+      "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+      "source": {
+        "name": "LMSYS：Blog（Chatbot Arena 团队）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta",
+        "original": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer"
+      },
+      "publishedAt": "2026-08-10T11:51:38.747Z",
+      "discoveredAt": "2026-08-10T11:51:38.747Z",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta"
+      }
+    },
+    {
+      "id": "cmsn3w3ln012wror1xk5nrmcw",
+      "title": "Scale AI 开源 Muse 系列模型",
+      "originalTitle": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+      "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+      "source": {
+        "name": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw",
+        "original": "https://x.com/alexandr_wang/status/2086756152034066792"
+      },
+      "publishedAt": "2026-08-10T10:06:51.000Z",
+      "discoveredAt": "2026-08-10T10:46:12.574Z",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw"
+      }
+    },
+    {
+      "id": "cmsn32xab06ehro8ou4tskajr",
+      "title": "扎克伯格：超级智能应人人可用",
+      "originalTitle": "I believe everyone should have access to superintelligence， and I wrote a long piece about Meta's ph…",
+      "summary": "我相信每个人都应能使用超级智能，我撰写了一篇长文，阐述 Meta 为所有人构建积极未来的理念与价值观。http://meta.com/thefutureisforeveryone",
+      "source": {
+        "name": "X：Mark Zuckerberg (@finkd)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr",
+        "original": "https://x.com/finkd/status/2086754845218726027"
+      },
+      "publishedAt": "2026-08-10T10:01:39.000Z",
+      "discoveredAt": "2026-08-10T10:23:31.191Z",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr"
+      }
+    },
+    {
+      "id": "cmsn2u3mt067ero8opidmwvz7",
+      "title": "Meta 发布开源模型 Muse Glimmer",
+      "originalTitle": "Introducing Muse Glimmer， an open-weight 30B-parameter model optimized for local， always-on agent wo…",
+      "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。\n\n与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。\n\n秉承我们长期分享基础 AI 研究的传统，我们以宽松的 Apache 2.0 许可证发布模型权重。",
+      "source": {
+        "name": "X：AI at Meta (@AIatMeta)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7",
+        "original": "https://x.com/AIatMeta/status/2086757844544811485"
+      },
+      "publishedAt": "2026-08-10T10:13:34.000Z",
+      "discoveredAt": "2026-08-10T10:16:39.953Z",
+      "category": "ai-models",
+      "score": 58,
+      "selected": true,
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7"
+      }
+    }
+  ]
+}
