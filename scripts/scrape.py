@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 AI News Hub — Daily Scraper
-Fetches GitHub trending repos and AI model rankings, saves to /data/*.json
+Fetches GitHub trending repos, AI model rankings, and AIHOT news.
 Runs on GitHub Actions (Ubuntu) with Python 3.11+
 """
 import json, os, sys, time, datetime, requests
@@ -9,8 +9,7 @@ from pathlib import Path
 
 # ===== Config =====
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-REPO_OWNER = "CHristianREEVEE"
-REPO_NAME = "ai-news-hub"
+AIHOT_BASE = "https://aihot.virxact.com/api/v1"
 DATA_DIR = Path(__file__).parent.parent / "data"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
 
@@ -164,6 +163,39 @@ def save_daily_snapshot(gh_data, rk_data):
     index["days"] = sorted(index["days"], reverse=True)[:30]  # Keep 30 days
     save_json(index_path, index)
 
+# ===== AIHOT API =====
+def fetch_aihot(path, **params):
+    """Fetch from AIHOT public API (anonymous, no key needed)"""
+    url = f"{AIHOT_BASE}/{path}"
+    r = requests.get(url, params=params, timeout=30, headers={"User-Agent": "ZerONE-Bot/1.0"})
+    r.raise_for_status()
+    return r.json()
+
+def scrape_aihot_news():
+    """Fetch curated AI news from AIHOT"""
+    data = fetch_aihot("items", mode="selected", window="24h", limit=50)
+    return {
+        "updatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "source": "aihot.virxact.com",
+        "total": len(data.get("items", [])),
+        "items": data.get("items", []),
+    }
+
+def scrape_aihot_hot_topics():
+    """Fetch hot topics ranking from AIHOT"""
+    data = fetch_aihot("hot-topics")
+    return {
+        "updatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "source": "aihot.virxact.com",
+        "count": data.get("count", 0),
+        "items": data.get("items", []),
+    }
+
+def scrape_aihot_daily():
+    """Fetch latest AI daily report from AIHOT"""
+    data = fetch_aihot("dailies/latest")
+    return data
+
 def main():
     print(f"🚀 AI News Hub Scraper — {datetime.datetime.now().isoformat()}")
     print()
@@ -188,6 +220,39 @@ def main():
     print("\n💾 Saving data files...")
     save_json(DATA_DIR / "github_hot.json", gh_data)
     save_json(DATA_DIR / "ai_rankings.json", rk_data)
+    
+    # AIHOT news
+    print("\n📰 Fetching AIHOT curated news...")
+    try:
+        news_data = scrape_aihot_news()
+        print(f"  ✓ {news_data['total']} news items")
+    except Exception as e:
+        print(f"  ✗ AIHOT news error: {e}")
+        news_data = {"updatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(), "source": "aihot.virxact.com", "total": 0, "items": []}
+    
+    time.sleep(1)
+    
+    print("🔥 Fetching AIHOT hot topics...")
+    try:
+        hot_data = scrape_aihot_hot_topics()
+        print(f"  ✓ {hot_data['count']} hot topics")
+    except Exception as e:
+        print(f"  ✗ AIHOT hot topics error: {e}")
+        hot_data = {"updatedAt": datetime.datetime.now(datetime.timezone.utc).isoformat(), "source": "aihot.virxact.com", "count": 0, "items": []}
+    
+    time.sleep(1)
+    
+    print("📄 Fetching AIHOT daily report...")
+    try:
+        daily_data = scrape_aihot_daily()
+        print(f"  ✓ Daily report for {daily_data.get('report',{}).get('date','?')}")
+    except Exception as e:
+        print(f"  ✗ AIHOT daily error: {e}")
+        daily_data = {}
+    
+    save_json(DATA_DIR / "ai_news.json", news_data)
+    save_json(DATA_DIR / "hot_topics.json", hot_data)
+    save_json(DATA_DIR / "ai_daily.json", daily_data)
     
     # Save daily snapshot
     print("\n📸 Creating daily snapshot...")
