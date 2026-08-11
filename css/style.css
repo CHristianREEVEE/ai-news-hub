@@ -1,20 +1,20 @@
 /* ==========================================================================
-   GITHUB · AI HOT — 16 Territory Studio FUI 科幻数据流风格
-   近黑底 + 琥珀橙单强调色，HUD 数据读出、扫描线、数据流层叠
+   ZerONE AI 资讯站 — 翡翠绿 HUD 数据流风格
+   深墨底 + 翡翠绿单强调色，HUD 数据读出、扫描线、数据流层叠
    ========================================================================== */
 :root{
-  --bg:#0A0A0C;
-  --bg-2:#0E0E12;
-  --panel:#111116;
-  --line:rgba(255,180,84,.14);
+  --bg:#0D0E11;
+  --bg-2:#111318;
+  --panel:#16181D;
+  --line:rgba(61,214,140,.14);
   --line-soft:rgba(255,255,255,.07);
-  --text:#E8E6E1;
-  --text-2:#9A968E;
-  --text-3:#5E5B55;
-  --amber:#FFB454;
-  --amber-deep:#C77E2A;
-  --amber-dim:rgba(255,180,84,.12);
-  --cool:#7A8BA8;
+  --text:#D4D4D8;
+  --text-2:#8A8A93;
+  --text-3:#4A4A52;
+  --amber:#3DD68C;
+  --amber-deep:#1FAA6B;
+  --amber-dim:rgba(61,214,140,.12);
+  --cool:#6B7FA3;
   --mono:ui-monospace,"Cascadia Code","SF Mono",Consolas,monospace;
   --sans:"PingFang SC","HarmonyOS Sans SC","Microsoft YaHei","Noto Sans SC",system-ui,sans-serif;
   --ease:cubic-bezier(.16,1,.3,1);
@@ -26,7 +26,7 @@ body{
   line-height:1.7;-webkit-font-smoothing:antialiased;color-scheme:dark;
   overflow-x:hidden;
 }
-::selection{background:rgba(255,180,84,.35);color:#fff}
+::selection{background:rgba(61,214,140,.35);color:#fff}
 a{color:inherit;text-decoration:none}
 :focus-visible{outline:2px solid var(--amber);outline-offset:3px;border-radius:4px}
 .container{max-width:1180px;margin:0 auto;padding:0 22px}
@@ -44,13 +44,13 @@ a{color:inherit;text-decoration:none}
 }
 .scanline{
   position:fixed;left:0;right:0;top:0;height:120px;z-index:-1;pointer-events:none;
-  background:linear-gradient(180deg,transparent,rgba(255,180,84,.045),transparent);
+  background:linear-gradient(180deg,transparent,rgba(61,214,140,.045),transparent);
   animation:scan 9s linear infinite;
 }
 @keyframes scan{0%{transform:translateY(-140px)}100%{transform:translateY(100vh)}}
 .scanline-v{
   position:fixed;top:0;bottom:0;left:0;width:1px;z-index:-1;pointer-events:none;
-  background:linear-gradient(180deg,transparent,rgba(255,180,84,.12),transparent);
+  background:linear-gradient(180deg,transparent,rgba(61,214,140,.12),transparent);
   animation:scanV 7s linear infinite;
 }
 @keyframes scanV{0%{transform:translateX(0)}100%{transform:translateX(100vw)}}
@@ -67,7 +67,7 @@ a{color:inherit;text-decoration:none}
   width:28px;height:28px;border:1px solid var(--amber);border-radius:4px;
   display:grid;place-items:center;color:var(--amber);
   font-family:var(--mono);font-size:13px;font-weight:700;
-  box-shadow:0 0 12px rgba(255,180,84,.35),inset 0 0 8px rgba(255,180,84,.15);
+  box-shadow:0 0 12px rgba(61,214,140,.35),inset 0 0 8px rgba(61,214,140,.15);
 }
 .hud-logo small{font-weight:400;color:var(--text-3);font-size:12px;letter-spacing:.14em}
 .hud-nav{display:flex;gap:6px;margin-left:auto}
@@ -90,7 +90,7 @@ a{color:inherit;text-decoration:none}
   border:1px solid var(--line);background:var(--amber-dim);padding:6px 13px;border-radius:3px;
 }
 .pulse-dot{width:7px;height:7px;border-radius:50%;background:var(--amber);animation:pulse 1.6s ease-in-out infinite}
-@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(255,180,84,.5);opacity:1}50%{box-shadow:0 0 0 7px rgba(255,180,84,0);opacity:.75}}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(61,214,140,.5);opacity:1}50%{box-shadow:0 0 0 7px rgba(61,214,140,0);opacity:.75}}
 .signal h1{
   font-size:clamp(2rem,5vw,3.3rem);font-weight:800;line-height:1.15;letter-spacing:-.01em;
   margin-top:18px;
@@ -123,12 +123,12 @@ a{color:inherit;text-decoration:none}
 /* ---------- 今日概览双栏 ---------- */
 .overview{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:8px}
 .ov-col{border:1px solid var(--line-soft);background:var(--panel);border-radius:6px;overflow:hidden}
-.ov-head{font-size:12px;letter-spacing:.12em;color:var(--text-2);padding:12px 18px;border-bottom:1px solid var(--line-soft);background:rgba(255,180,84,.04);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.ov-head{font-size:12px;letter-spacing:.12em;color:var(--text-2);padding:12px 18px;border-bottom:1px solid var(--line-soft);background:rgba(61,214,140,.04);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
 .ov-meta{color:var(--text-3);font-size:11px}
 .ov-body{display:flex;flex-direction:column}
 .ov-item{display:flex;align-items:center;gap:12px;padding:12px 18px;border-bottom:1px solid var(--line-soft);transition:background .2s}
 .ov-item:last-child{border-bottom:none}
-.ov-item:hover{background:rgba(255,180,84,.05)}
+.ov-item:hover{background:rgba(61,214,140,.05)}
 .ov-rank{font-family:var(--mono);font-size:15px;font-weight:700;color:var(--text-3);width:22px;text-align:center;flex:none}
 .ov-rank.gold{color:var(--amber)}
 .ov-main{min-width:0;flex:1}
@@ -171,11 +171,11 @@ a{color:inherit;text-decoration:none}
 .daily-title{font-size:21px;font-weight:800;margin-bottom:4px}
 .daily-sub{font-family:var(--mono);font-size:12px;color:var(--text-3);margin-bottom:18px}
 .daily-block{border:1px solid var(--line-soft);border-radius:6px;background:var(--panel);margin-bottom:16px;overflow:hidden}
-.daily-block .db-head{font-family:var(--mono);font-size:12px;letter-spacing:.12em;color:var(--amber);padding:11px 18px;border-bottom:1px solid var(--line-soft);background:rgba(255,180,84,.05);display:flex;justify-content:space-between;gap:10px}
+.daily-block .db-head{font-family:var(--mono);font-size:12px;letter-spacing:.12em;color:var(--amber);padding:11px 18px;border-bottom:1px solid var(--line-soft);background:rgba(61,214,140,.05);display:flex;justify-content:space-between;gap:10px}
 .daily-block .db-head span{color:var(--text-3)}
 .daily-row{display:flex;align-items:center;gap:12px;padding:10px 18px;border-bottom:1px solid var(--line-soft);font-size:13.5px}
 .daily-row:last-child{border-bottom:none}
-.daily-row:hover{background:rgba(255,180,84,.04)}
+.daily-row:hover{background:rgba(61,214,140,.04)}
 .daily-row .dr-rank{font-family:var(--mono);color:var(--text-3);width:24px;text-align:center;font-weight:700}
 .daily-row .dr-rank.top{color:var(--amber)}
 .daily-row .dr-name{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:600}
@@ -198,7 +198,7 @@ a{color:inherit;text-decoration:none}
 .repo-row:hover{border-color:var(--line);transform:translateX(3px);background:#141419}
 .repo-row:hover::before{opacity:1}
 .repo-rank{font-family:var(--mono);font-size:22px;font-weight:700;color:var(--text-3);text-align:center}
-.repo-rank.top{color:var(--amber);text-shadow:0 0 14px rgba(255,180,84,.5)}
+.repo-rank.top{color:var(--amber);text-shadow:0 0 14px rgba(61,214,140,.5)}
 .repo-main{min-width:0}
 .repo-name{font-size:16px;font-weight:700;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 .repo-name a{color:var(--text);transition:color .2s}
@@ -226,11 +226,11 @@ a{color:inherit;text-decoration:none}
 .rank-table thead th{
   font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;color:var(--text-3);
   text-align:left;padding:11px 18px;border-bottom:1px solid var(--line);
-  background:rgba(255,180,84,.05);font-weight:600;
+  background:rgba(61,214,140,.05);font-weight:600;
 }
 .rank-table tbody td{padding:11px 18px;border-bottom:1px solid var(--line-soft);font-size:14px}
 .rank-table tbody tr{transition:background .18s}
-.rank-table tbody tr:hover{background:rgba(255,180,84,.05)}
+.rank-table tbody tr:hover{background:rgba(61,214,140,.05)}
 .rank-table tbody tr:last-child td{border-bottom:none}
 .rank-no{font-family:var(--mono);color:var(--text-3);font-weight:700;width:52px}
 .rank-no.top{color:var(--amber)}
@@ -279,13 +279,11 @@ a{color:inherit;text-decoration:none}
   --radius-sm:4px;--radius-md:6px;--radius-lg:10px;
   --space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-5:24px;--space-6:32px;--space-7:48px;
   --font-xs:11px;--font-sm:12.5px;--font-base:14px;--font-md:15px;--font-lg:18px;--font-xl:22px;--font-2xl:28px;
-  --shadow-card:0 2px 8px rgba(0,0,0,.3),0 0 1px rgba(255,180,84,.06);
-  --shadow-hover:0 8px 24px rgba(0,0,0,.4),0 0 1px rgba(255,180,84,.12);
-  --shadow-glow:0 0 20px rgba(255,180,84,.15);
-  --glass-bg:rgba(17,17,22,.72);
+  --shadow-card:0 2px 8px rgba(0,0,0,.3),0 0 1px rgba(61,214,140,.06);
+  --shadow-hover:0 8px 24px rgba(0,0,0,.4),0 0 1px rgba(61,214,140,.12);
+  --shadow-glow:0 0 20px rgba(61,214,140,.15);
+  --glass-bg:rgba(22,24,29,.72);
   --glass-border:rgba(255,255,255,.06);
-  --grad-amber:linear-gradient(135deg,#FFB454 0%,#FF8A3D 50%,#C77E2A 100%);
-  --grad-text:linear-gradient(135deg,#FFD599 0%,#FFB454 40%,#FF8A3D 100%);
 }
 
 /* ---------- Entrance Animations (react-bits) ---------- */
@@ -316,11 +314,8 @@ a{color:inherit;text-decoration:none}
 .repo-row:nth-child(9){animation-delay:.45s}
 .repo-row:nth-child(10){animation-delay:.5s}
 
-/* ---------- Gradient Text (impeccable: colorize) ---------- */
-.signal h1 .accent{
-  background:var(--grad-text);-webkit-background-clip:text;background-clip:text;
-  -webkit-text-fill-color:transparent;color:transparent;
-}
+/* ---------- Solid accent text (no gradients — impeccable: avoid AI look) ---------- */
+.signal h1 .accent{color:var(--amber)}
 
 /* ---------- Card Depth (impeccable: polish) ---------- */
 .repo-row{box-shadow:var(--shadow-card)}
@@ -338,13 +333,13 @@ a{color:inherit;text-decoration:none}
 
 /* ---------- HUD mark glow pulse ---------- */
 .hud-mark{animation:hudGlow 3s ease-in-out infinite}
-@keyframes hudGlow{0%,100%{box-shadow:0 0 12px rgba(255,180,84,.35),inset 0 0 8px rgba(255,180,84,.15)}50%{box-shadow:0 0 18px rgba(255,180,84,.5),inset 0 0 12px rgba(255,180,84,.2)}}
+@keyframes hudGlow{0%,100%{box-shadow:0 0 12px rgba(61,214,140,.35),inset 0 0 8px rgba(61,214,140,.15)}50%{box-shadow:0 0 18px rgba(61,214,140,.5),inset 0 0 12px rgba(61,214,140,.2)}}
 
 /* ---------- Shimmer loading effect ---------- */
 .state-loading{position:relative;overflow:hidden}
 .state-loading::after{
   content:"";position:absolute;inset:0;
-  background:linear-gradient(90deg,transparent,rgba(255,180,84,.06),transparent);
+  background:linear-gradient(90deg,transparent,rgba(61,214,140,.06),transparent);
   background-size:200% 100%;animation:shimmer 1.5s infinite;
 }
 
