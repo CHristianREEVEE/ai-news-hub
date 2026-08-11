@@ -268,3 +268,96 @@ a{color:inherit;text-decoration:none}
   *,*::before,*::after{animation-duration:.01ms !important;animation-iteration-count:1 !important;transition-duration:.01ms !important}
   .scanline,.scanline-v{display:none}
 }
+
+/* ==========================================================================
+   ENHANCEMENTS — ui-ux-pro-max + impeccable + react-bits principles
+   Surgical additions, no existing rules modified (Karpathy: touch only what you must)
+   ========================================================================== */
+
+/* ---------- Design Tokens (ui-ux-pro-max) ---------- */
+:root{
+  --radius-sm:4px;--radius-md:6px;--radius-lg:10px;
+  --space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-5:24px;--space-6:32px;--space-7:48px;
+  --font-xs:11px;--font-sm:12.5px;--font-base:14px;--font-md:15px;--font-lg:18px;--font-xl:22px;--font-2xl:28px;
+  --shadow-card:0 2px 8px rgba(0,0,0,.3),0 0 1px rgba(255,180,84,.06);
+  --shadow-hover:0 8px 24px rgba(0,0,0,.4),0 0 1px rgba(255,180,84,.12);
+  --shadow-glow:0 0 20px rgba(255,180,84,.15);
+  --glass-bg:rgba(17,17,22,.72);
+  --glass-border:rgba(255,255,255,.06);
+  --grad-amber:linear-gradient(135deg,#FFB454 0%,#FF8A3D 50%,#C77E2A 100%);
+  --grad-text:linear-gradient(135deg,#FFD599 0%,#FFB454 40%,#FF8A3D 100%);
+}
+
+/* ---------- Entrance Animations (react-bits) ---------- */
+@keyframes fadeInUp{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes scaleIn{from{opacity:0;transform:scale(.96)}to{opacity:1;transform:scale(1)}}
+@keyframes shimmer{0%{background-position:-200% 0}100%{background-position:200% 0}}
+
+.signal{animation:fadeInUp .7s var(--ease) both}
+.signal-stats{animation:scaleIn .6s .15s var(--ease) both}
+.overview{animation:fadeInUp .6s .2s var(--ease) both}
+.sec-head{animation:fadeIn .5s var(--ease) both}
+.peek-grid .peek-card{animation:scaleIn .5s var(--ease) both}
+.peek-grid .peek-card:nth-child(1){animation-delay:.25s}
+.peek-grid .peek-card:nth-child(2){animation-delay:.35s}
+.peek-grid .peek-card:nth-child(3){animation-delay:.45s}
+
+/* Staggered list item entrance */
+.repo-row{animation:fadeInUp .4s var(--ease) both}
+.repo-row:nth-child(1){animation-delay:.05s}
+.repo-row:nth-child(2){animation-delay:.1s}
+.repo-row:nth-child(3){animation-delay:.15s}
+.repo-row:nth-child(4){animation-delay:.2s}
+.repo-row:nth-child(5){animation-delay:.25s}
+.repo-row:nth-child(6){animation-delay:.3s}
+.repo-row:nth-child(7){animation-delay:.35s}
+.repo-row:nth-child(8){animation-delay:.4s}
+.repo-row:nth-child(9){animation-delay:.45s}
+.repo-row:nth-child(10){animation-delay:.5s}
+
+/* ---------- Gradient Text (impeccable: colorize) ---------- */
+.signal h1 .accent{
+  background:var(--grad-text);-webkit-background-clip:text;background-clip:text;
+  -webkit-text-fill-color:transparent;color:transparent;
+}
+
+/* ---------- Card Depth (impeccable: polish) ---------- */
+.repo-row{box-shadow:var(--shadow-card)}
+.repo-row:hover{box-shadow:var(--shadow-hover),var(--shadow-glow)}
+.ov-col{box-shadow:var(--shadow-card)}
+.peek-card{box-shadow:var(--shadow-card);transition:transform .3s var(--ease),box-shadow .3s var(--ease)}
+.peek-card:hover{transform:translateY(-2px);box-shadow:var(--shadow-hover)}
+.rank-table{box-shadow:var(--shadow-card)}
+
+/* ---------- Micro-interactions (impeccable: harden) ---------- */
+.ov-item{transition:padding-left .25s var(--ease),background .2s}
+.ov-item:hover{padding-left:24px}
+.daily-row{transition:padding-left .25s var(--ease),background .18s}
+.daily-row:hover{padding-left:24px}
+
+/* ---------- HUD mark glow pulse ---------- */
+.hud-mark{animation:hudGlow 3s ease-in-out infinite}
+@keyframes hudGlow{0%,100%{box-shadow:0 0 12px rgba(255,180,84,.35),inset 0 0 8px rgba(255,180,84,.15)}50%{box-shadow:0 0 18px rgba(255,180,84,.5),inset 0 0 12px rgba(255,180,84,.2)}}
+
+/* ---------- Shimmer loading effect ---------- */
+.state-loading{position:relative;overflow:hidden}
+.state-loading::after{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(90deg,transparent,rgba(255,180,84,.06),transparent);
+  background-size:200% 100%;animation:shimmer 1.5s infinite;
+}
+
+/* ---------- Scroll reveal ---------- */
+.reveal{opacity:0;transform:translateY(28px);transition:opacity .6s var(--ease),transform .6s var(--ease)}
+.reveal.in{opacity:1;transform:translateY(0)}
+
+/* ---------- Footer credit polish ---------- */
+footer a{transition:opacity .2s,letter-spacing .2s}
+footer a:hover{opacity:.85;letter-spacing:.04em}
+
+/* ---------- Mobile animation guard ---------- */
+@media (max-width:640px){
+  .repo-row:nth-child(n+6){animation:none}
+  .peek-grid .peek-card{animation:fadeIn .4s both}
+}
