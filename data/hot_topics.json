@@ -1,10 +1,59 @@
 {
-  "updatedAt": "2026-08-12T04:58:31.796714+00:00",
+  "updatedAt": "2026-08-13T05:01:54.077272+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "cmsqq3bc001snro7vo8picfbp",
+      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+      "source": {
+        "name": "公众号：数字生命卡兹克"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+        "story": "https://aihot.virxact.com/story/da7a0855-584c-4fcb-a86e-bb1010102297"
+      },
+      "sourceCount": 5,
+      "signalCount": 24,
+      "sourceNames": [
+        "X：X.PIN (@thexpin)",
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：SemiAnalysis (@SemiAnalysis_)",
+        "公众号：数字生命卡兹克"
+      ],
+      "latestAt": "2026-08-12T23:30:59.607Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmsqf39o0015groxvnc7oiwop",
+      "title": "Cursor 与 SpaceXAI 联合发布 Grok 4.6",
+      "source": {
+        "name": "Cursor Blog"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop",
+        "original": "https://cursor.com/blog/grok-4-6",
+        "story": "https://aihot.virxact.com/story/33140bc7-aa76-4593-b76f-eb73d454644a"
+      },
+      "sourceCount": 8,
+      "signalCount": 6,
+      "sourceNames": [
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：cb_doge (@cb_doge)",
+        "IT之家（RSS）",
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "X：Kim (@kimmonismus)",
+        "X：Testing Catalog (@testingcatalog)",
+        "Cursor Blog",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "latestAt": "2026-08-12T18:45:53.185Z"
+    },
+    {
+      "rank": 3,
       "id": "cmsoolxde07isrop2eb5rrtvq",
       "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
       "source": {
@@ -15,8 +64,8 @@
         "original": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
         "story": "https://aihot.virxact.com/story/9be57839-b305-48e0-b1b2-04e2a835c22c"
       },
-      "sourceCount": 9,
-      "signalCount": 5,
+      "sourceCount": 10,
+      "signalCount": 7,
       "sourceNames": [
         "NVIDIA Blog（RSS）",
         "X：Artificial Analysis (@ArtificialAnlys)",
@@ -26,12 +75,13 @@
         "X：阿易 AI Notes (@AYi_AInotes)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "X：洪明 (@hongming731)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "MarkTechPost（RSS）"
       ],
-      "latestAt": "2026-08-12T02:13:34.951Z"
+      "latestAt": "2026-08-12T07:18:08.367Z"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "id": "cmsp2ogsx044frorth62oy70c",
       "title": "Gemini月活10亿，Gemma下载破10亿",
       "source": {
@@ -43,7 +93,7 @@
         "story": "https://aihot.virxact.com/story/badb65b5-cafb-4337-8002-626ad8d42c1d"
       },
       "sourceCount": 8,
-      "signalCount": 3,
+      "signalCount": 4,
       "sourceNames": [
         "X：Josh Woodward (@joshwoodward, Google Labs VP)",
         "X：Sundar Pichai (@sundarpichai)",
@@ -57,67 +107,47 @@
       "latestAt": "2026-08-11T23:13:33.712Z"
     },
     {
-      "rank": 3,
-      "id": "cmsn2u3mt067ero8opidmwvz7",
-      "title": "Meta 发布开源模型 Muse Glimmer",
+      "rank": 5,
+      "id": "cmsr160kg0dk0roz2mb20yxwk",
+      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
       "source": {
-        "name": "X：AI at Meta (@AIatMeta)"
+        "name": "公众号：数字生命卡兹克"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7",
-        "original": "https://x.com/AIatMeta/status/2086757844544811485",
-        "story": "https://aihot.virxact.com/story/95622627-c0da-45ac-b3c0-119d05cc2f8d"
+        "aihot": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+        "story": "https://aihot.virxact.com/story/3311ca2e-b109-421f-84c0-b7ffded46aa8"
       },
-      "sourceCount": 16,
-      "signalCount": 11,
+      "sourceCount": 2,
+      "signalCount": 5,
       "sourceNames": [
-        "X：AI at Meta (@AIatMeta)",
-        "X：Mark Zuckerberg (@finkd)",
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "X：Kim (@kimmonismus)",
         "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Testing Catalog (@testingcatalog)",
-        "Artificial Intelligence News（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "The Decoder：AI News（RSS）",
-        "MarkTechPost（RSS）",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "TechCrunch：AI（RSS）",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "Ars Technica：AI（RSS）",
-        "Simon Willison 博客"
+        "公众号：数字生命卡兹克"
       ],
-      "latestAt": "2026-08-11T00:58:11.868Z"
+      "latestAt": "2026-08-13T04:41:00.631Z"
     },
     {
-      "rank": 4,
-      "id": "cmsnix1by08d3rohfftiex1xp",
-      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+      "rank": 6,
+      "id": "cmsqagyyz00yuroucf55e5fue",
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
       "source": {
-        "name": "Anthropic：Research（发表成果 · 网页）"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-        "original": "https://www.anthropic.com/research/riemann-zeta",
-        "story": "https://aihot.virxact.com/story/beeb1e2e-87ce-43e0-a9bd-b13238e1105f"
+        "aihot": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue",
+        "original": "https://www.ithome.com/0/989/001.htm",
+        "story": "https://aihot.virxact.com/story/5829f929-b678-424c-995f-f9047b2f7833"
       },
-      "sourceCount": 8,
+      "sourceCount": 2,
       "signalCount": 2,
       "sourceNames": [
-        "Anthropic：Research（发表成果 · 网页）",
-        "X：Anthropic (@AnthropicAI)",
-        "X：Deedy Das (@deedydas)",
-        "X：Kim (@kimmonismus)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "IT之家（RSS）",
-        "TechCrunch：AI（RSS）"
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-08-11T19:10:09.963Z"
+      "latestAt": "2026-08-12T16:13:41.612Z"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "id": "cmspeby640gglrorthm2cj8os",
       "title": "NVIDIA 携手 Apollo、BlackRock 等成立融资平台，AI 工厂算力成为可投资资产类别",
       "source": {
@@ -128,18 +158,39 @@
         "original": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute",
         "story": "https://aihot.virxact.com/story/4cd0dff0-6fba-4913-91d3-f57962079ccf"
       },
-      "sourceCount": 4,
+      "sourceCount": 5,
       "signalCount": 0,
       "sourceNames": [
-        "X：Jensen Huang (@JensenHuang)",
         "IT之家（RSS）",
         "The Decoder：AI News（RSS）",
-        "NVIDIA Blog（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "NVIDIA Blog（RSS）",
+        "X：阑夕 (@foxshuo)"
       ],
-      "latestAt": "2026-08-12T01:14:00.619Z"
+      "latestAt": "2026-08-12T04:58:48.819Z"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "id": "cmsostkpq05iurohd30b8ubmy",
+      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsostkpq05iurohd30b8ubmy",
+        "original": "https://www.ithome.com/0/988/524.htm",
+        "story": "https://aihot.virxact.com/story/653280c3-3d2c-4517-bfad-c5a97edaa35b"
+      },
+      "sourceCount": 2,
+      "signalCount": 5,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-08-12T12:48:15.527Z"
+    },
+    {
+      "rank": 9,
       "id": "cmsodc28j0n07rofw30v8pe9v",
       "title": "窃取专有 LLM API 的推理轨迹：加密块可跨会话互换引发解密越狱",
       "source": {
@@ -162,29 +213,7 @@
       "latestAt": "2026-08-11T22:58:24.648Z"
     },
     {
-      "rank": 7,
-      "id": "cmso58oqr0b7trofwl3dcmz7y",
-      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmso58oqr0b7trofwl3dcmz7y",
-        "original": "https://www.ithome.com/0/988/239.htm",
-        "story": "https://aihot.virxact.com/story/ab0924af-8885-4de7-be22-e3060ddab398"
-      },
-      "sourceCount": 4,
-      "signalCount": 2,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "X：Kim (@kimmonismus)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-08-11T13:17:34.697Z"
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "id": "cmsogatbh0qdgrofwzm7gdk0a",
       "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
       "source": {
@@ -203,45 +232,6 @@
         "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "latestAt": "2026-08-12T03:17:43.393Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmsostkpq05iurohd30b8ubmy",
-      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsostkpq05iurohd30b8ubmy",
-        "original": "https://www.ithome.com/0/988/524.htm",
-        "story": "https://aihot.virxact.com/story/653280c3-3d2c-4517-bfad-c5a97edaa35b"
-      },
-      "sourceCount": 1,
-      "signalCount": 3,
-      "sourceNames": [
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-11T15:11:50.154Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmsnejv4i042qrohff64pz0jh",
-      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-      "source": {
-        "name": "OpenRouter：Announcements（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsnejv4i042qrohff64pz0jh",
-        "original": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-        "story": "https://aihot.virxact.com/story/93c3e165-8ab6-4e93-8872-201607ad998b"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "OpenRouter：Announcements（RSS）",
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "latestAt": "2026-08-10T16:56:27.775Z"
     }
   ]
 }
