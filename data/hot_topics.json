@@ -1,10 +1,165 @@
 {
-  "updatedAt": "2026-08-13T05:01:54.077272+00:00",
+  "updatedAt": "2026-08-14T04:59:05.523494+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "cmsrscwfn03f7ro0n7qijclds",
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds",
+        "original": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "story": "https://aihot.virxact.com/story/2dc37050-6375-45a7-8668-26d97fc0c333"
+      },
+      "sourceCount": 17,
+      "signalCount": 12,
+      "sourceNames": [
+        "X：Google DeepMind (@GoogleDeepMind)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "Google DeepMind：Blog（RSS）",
+        "X：fofr (@fofrAI)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
+        "Ars Technica：AI（RSS）",
+        "X：Sundar Pichai (@sundarpichai)",
+        "X：Google AI for Developers (@googleaidevs)",
+        "X：Google AI (@GoogleAI)",
+        "X：Demis Hassabis (@demishassabis)",
+        "X：Lee Robinson (@leerob)",
+        "MarkTechPost（RSS）",
+        "The Decoder：AI News（RSS）",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Ammaar Reshi (@ammaar)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-14T00:19:55.879Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmsrfaw5c0xo2roz2s8b4p2sv",
+      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+      "source": {
+        "name": "DeepSeek：API 更新日志"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsrfaw5c0xo2roz2s8b4p2sv",
+        "original": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-13",
+        "story": "https://aihot.virxact.com/story/4f717b32-d278-4c1a-9e48-e10cbfa1c741"
+      },
+      "sourceCount": 12,
+      "signalCount": 24,
+      "sourceNames": [
+        "X：X.PIN (@thexpin)",
+        "IT之家（RSS）",
+        "X：SemiAnalysis (@SemiAnalysis_)",
+        "Simon Willison 博客",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "DeepSeek：API 更新日志",
+        "公众号：DeepSeek（深度求索）",
+        "X：DeepSeek (@deepseek_ai)",
+        "X：Kim (@kimmonismus)",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-08-13T16:52:19.501Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmsrjqqfg02z0ro469zple5jl",
+      "title": "DeepSeek Harness v0.1 开发者预览版发布",
+      "source": {
+        "name": "X：DeepSeek (@deepseek_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl",
+        "original": "https://x.com/deepseek_ai/status/2087887408440164663",
+        "story": "https://aihot.virxact.com/story/2187bbdf-9658-475f-9871-1a389677483a"
+      },
+      "sourceCount": 3,
+      "signalCount": 15,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：Tianyi Cui（@tianyi）",
+        "X：DeepSeek (@deepseek_ai)"
+      ],
+      "latestAt": "2026-08-13T13:21:00.781Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmsqabu0f001krouc6sfhic2d",
+      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+      "source": {
+        "name": "xAI：News（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d",
+        "original": "https://x.ai/news/grok-4-6",
+        "story": "https://aihot.virxact.com/story/5fe3ff3d-4e3d-43d1-959b-4aad7e6d239c"
+      },
+      "sourceCount": 10,
+      "signalCount": 15,
+      "sourceNames": [
+        "X：Kim (@kimmonismus)",
+        "X：cb_doge (@cb_doge)",
+        "X：Elon Musk (@elonmusk, xAI)",
+        "xAI：News（网页）",
+        "IT之家（RSS）",
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "X：Testing Catalog (@testingcatalog)",
+        "The Decoder：AI News（RSS）",
+        "X：Lee Robinson (@leerob)",
+        "MarkTechPost（RSS）"
+      ],
+      "latestAt": "2026-08-13T06:21:00.587Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmss6lsb701tsroib0kxz9q8q",
+      "title": "从0到1带你速通DeepSeek Harness。",
+      "source": {
+        "name": "公众号：数字生命卡兹克"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
+        "story": "https://aihot.virxact.com/story/ac78c7de-4715-47f8-8a93-0f82a093ed4d"
+      },
+      "sourceCount": 1,
+      "signalCount": 9,
+      "sourceNames": [
+        "公众号：数字生命卡兹克"
+      ],
+      "latestAt": "2026-08-14T00:01:01.197Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmsrlvwfp05gdro46mbfqtsgm",
+      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+      "source": {
+        "name": "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm",
+        "original": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+        "story": "https://aihot.virxact.com/story/5829f929-b678-424c-995f-f9047b2f7833"
+      },
+      "sourceCount": 4,
+      "signalCount": 3,
+      "sourceNames": [
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "IT之家（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      ],
+      "latestAt": "2026-08-13T14:52:12.026Z"
+    },
+    {
+      "rank": 7,
       "id": "cmsqq3bc001snro7vo8picfbp",
       "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
       "source": {
@@ -13,101 +168,56 @@
       "links": {
         "aihot": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
         "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-        "story": "https://aihot.virxact.com/story/da7a0855-584c-4fcb-a86e-bb1010102297"
+        "story": "https://aihot.virxact.com/story/97341836-95fd-4603-8770-4c67b8318dc7"
       },
-      "sourceCount": 5,
-      "signalCount": 24,
+      "sourceCount": 1,
+      "signalCount": 4,
       "sourceNames": [
-        "X：X.PIN (@thexpin)",
-        "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：SemiAnalysis (@SemiAnalysis_)",
         "公众号：数字生命卡兹克"
       ],
       "latestAt": "2026-08-12T23:30:59.607Z"
     },
     {
-      "rank": 2,
-      "id": "cmsqf39o0015groxvnc7oiwop",
-      "title": "Cursor 与 SpaceXAI 联合发布 Grok 4.6",
+      "rank": 8,
+      "id": "cmsqj4ly004izroxvzl349s3r",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
       "source": {
-        "name": "Cursor Blog"
+        "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop",
-        "original": "https://cursor.com/blog/grok-4-6",
-        "story": "https://aihot.virxact.com/story/33140bc7-aa76-4593-b76f-eb73d454644a"
+        "aihot": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+        "original": "https://claude.com/blog/cowork-chrome-side-panel",
+        "story": "https://aihot.virxact.com/story/138babd3-b1fe-4683-bc17-8354285297b5"
       },
-      "sourceCount": 8,
-      "signalCount": 6,
+      "sourceCount": 2,
+      "signalCount": 0,
       "sourceNames": [
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：cb_doge (@cb_doge)",
-        "IT之家（RSS）",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "X：Kim (@kimmonismus)",
-        "X：Testing Catalog (@testingcatalog)",
-        "Cursor Blog",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Claude：Blog（网页）",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-08-12T18:45:53.185Z"
+      "latestAt": "2026-08-13T10:21:04.567Z"
     },
     {
-      "rank": 3,
-      "id": "cmsoolxde07isrop2eb5rrtvq",
-      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+      "rank": 9,
+      "id": "cmsrcljcc0uanroz24r5ebcz9",
+      "title": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
       "source": {
-        "name": "NVIDIA Blog（RSS）"
+        "name": "公众号：小红书技术（dots.llm）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq",
-        "original": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-        "story": "https://aihot.virxact.com/story/9be57839-b305-48e0-b1b2-04e2a835c22c"
+        "aihot": "https://aihot.virxact.com/items/cmsrcljcc0uanroz24r5ebcz9",
+        "original": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0",
+        "story": "https://aihot.virxact.com/story/ab7ebeaf-0f4b-4f84-a7c6-754318ae4316"
       },
-      "sourceCount": 10,
-      "signalCount": 7,
+      "sourceCount": 1,
+      "signalCount": 2,
       "sourceNames": [
-        "NVIDIA Blog（RSS）",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Kim (@kimmonismus)",
-        "The Decoder：AI News（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：洪明 (@hongming731)",
-        "IT之家（RSS）",
-        "MarkTechPost（RSS）"
+        "公众号：小红书技术（dots.llm）"
       ],
-      "latestAt": "2026-08-12T07:18:08.367Z"
+      "latestAt": "2026-08-13T10:01:01.438Z"
     },
     {
-      "rank": 4,
-      "id": "cmsp2ogsx044frorth62oy70c",
-      "title": "Gemini月活10亿，Gemma下载破10亿",
-      "source": {
-        "name": "X：Logan Kilpatrick (@OfficialLoganK)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsp2ogsx044frorth62oy70c",
-        "original": "https://x.com/OfficialLoganK/status/2087262466703286652",
-        "story": "https://aihot.virxact.com/story/badb65b5-cafb-4337-8002-626ad8d42c1d"
-      },
-      "sourceCount": 8,
-      "signalCount": 4,
-      "sourceNames": [
-        "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-        "X：Sundar Pichai (@sundarpichai)",
-        "X：Gemini (@GeminiApp)",
-        "X：Demis Hassabis (@demishassabis)",
-        "TechCrunch：AI（RSS）",
-        "X：Logan Kilpatrick (@OfficialLoganK)",
-        "Ars Technica：AI（RSS）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-11T23:13:33.712Z"
-    },
-    {
-      "rank": 5,
+      "rank": 10,
       "id": "cmsr160kg0dk0roz2mb20yxwk",
       "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
       "source": {
@@ -116,122 +226,14 @@
       "links": {
         "aihot": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
         "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-        "story": "https://aihot.virxact.com/story/3311ca2e-b109-421f-84c0-b7ffded46aa8"
+        "story": "https://aihot.virxact.com/story/07dd0a31-ce82-43df-8f45-5dc417921e84"
       },
-      "sourceCount": 2,
-      "signalCount": 5,
+      "sourceCount": 1,
+      "signalCount": 2,
       "sourceNames": [
-        "IT之家（RSS）",
         "公众号：数字生命卡兹克"
       ],
       "latestAt": "2026-08-13T04:41:00.631Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmsqagyyz00yuroucf55e5fue",
-      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue",
-        "original": "https://www.ithome.com/0/989/001.htm",
-        "story": "https://aihot.virxact.com/story/5829f929-b678-424c-995f-f9047b2f7833"
-      },
-      "sourceCount": 2,
-      "signalCount": 2,
-      "sourceNames": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-12T16:13:41.612Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmspeby640gglrorthm2cj8os",
-      "title": "NVIDIA 携手 Apollo、BlackRock 等成立融资平台，AI 工厂算力成为可投资资产类别",
-      "source": {
-        "name": "NVIDIA Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmspeby640gglrorthm2cj8os",
-        "original": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute",
-        "story": "https://aihot.virxact.com/story/4cd0dff0-6fba-4913-91d3-f57962079ccf"
-      },
-      "sourceCount": 5,
-      "signalCount": 0,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "NVIDIA Blog（RSS）",
-        "X：阑夕 (@foxshuo)"
-      ],
-      "latestAt": "2026-08-12T04:58:48.819Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmsostkpq05iurohd30b8ubmy",
-      "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsostkpq05iurohd30b8ubmy",
-        "original": "https://www.ithome.com/0/988/524.htm",
-        "story": "https://aihot.virxact.com/story/653280c3-3d2c-4517-bfad-c5a97edaa35b"
-      },
-      "sourceCount": 2,
-      "signalCount": 5,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-08-12T12:48:15.527Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmsodc28j0n07rofw30v8pe9v",
-      "title": "窃取专有 LLM API 的推理轨迹：加密块可跨会话互换引发解密越狱",
-      "source": {
-        "name": "HuggingFace Daily Papers（社区热门论文）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsodc28j0n07rofw30v8pe9v",
-        "original": "https://arxiv.org/abs/2608.09867",
-        "story": "https://aihot.virxact.com/story/343e37a4-e9ca-41af-aa94-6963e25aeb13"
-      },
-      "sourceCount": 5,
-      "signalCount": 0,
-      "sourceNames": [
-        "HuggingFace Daily Papers（社区热门论文）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "The Decoder：AI News（RSS）",
-        "Simon Willison 博客"
-      ],
-      "latestAt": "2026-08-11T22:58:24.648Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmsogatbh0qdgrofwzm7gdk0a",
-      "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
-      "source": {
-        "name": "公众号：蚂蚁百灵（Ling）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsogatbh0qdgrofwzm7gdk0a",
-        "original": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
-        "story": "https://aihot.virxact.com/story/65284516-19d8-49e1-a8e1-34be612dfd44"
-      },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "sourceNames": [
-        "公众号：蚂蚁百灵（Ling）",
-        "IT之家（RSS）",
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "latestAt": "2026-08-12T03:17:43.393Z"
     }
   ]
 }

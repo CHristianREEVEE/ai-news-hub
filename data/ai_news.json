@@ -1,336 +1,236 @@
 {
-  "updatedAt": "2026-08-13T05:01:52.635470+00:00",
+  "updatedAt": "2026-08-14T04:59:02.111074+00:00",
   "source": "aihot.virxact.com",
-  "total": 15,
+  "total": 10,
   "items": [
     {
-      "id": "cmsr160kg0dk0roz2mb20yxwk",
-      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-      "originalTitle": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式。",
-      "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+      "id": "cmssf79uf05rwrod09r9ocb2w",
+      "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
+      "originalTitle": "从跑起来到训起来：Ling-3.0-tiny × ASystem AReno，打通单机 Agentic RL 闭环",
+      "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
+      "source": {
+        "name": "公众号：蚂蚁百灵（Ling）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmssf79uf05rwrod09r9ocb2w",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c"
+      },
+      "publishedAt": "2026-08-14T04:00:00.000Z",
+      "discoveredAt": "2026-08-14T04:01:40.908Z",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "reason": "真正可复用的不是井字棋，而是把可复现错误、可验证反馈、本地训练和同环境复测串成的轻量后训练闭环，适合为本地小模型稳定工具调用和格式约束。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmssf79uf05rwrod09r9ocb2w"
+      }
+    },
+    {
+      "id": "cmss6lsb701tsroib0kxz9q8q",
+      "title": "从0到1带你速通DeepSeek Harness。",
+      "originalTitle": null,
+      "summary": null,
       "source": {
         "name": "公众号：数字生命卡兹克"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
-        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7"
+        "aihot": "https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2"
       },
-      "publishedAt": "2026-08-13T04:32:24.000Z",
-      "discoveredAt": "2026-08-13T04:41:00.631Z",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
-      }
-    },
-    {
-      "id": "cmsqu0nr604oeroz2rh6b6mqt",
-      "title": "新兴多智能体系统的模式与问题",
-      "originalTitle": "Patterns and problems in emerging multiagent systems",
-      "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
-      "source": {
-        "name": "Anthropic：Research（发表成果 · 网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt",
-        "original": "https://www.anthropic.com/research/multiagent-systems"
-      },
-      "publishedAt": "2026-08-13T01:20:54.259Z",
-      "discoveredAt": "2026-08-13T01:20:54.259Z",
-      "category": "paper",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt"
-      }
-    },
-    {
-      "id": "cmsqq3bc001snro7vo8picfbp",
-      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-      "originalTitle": "一夜之间，DeepSeek V4 Pro和Grok 4.6把全球大模型推入了新的斩杀线。",
-      "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
-      "source": {
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
-        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301"
-      },
-      "publishedAt": "2026-08-12T22:22:28.000Z",
-      "discoveredAt": "2026-08-12T23:30:59.607Z",
+      "publishedAt": "2026-08-13T23:58:00.000Z",
+      "discoveredAt": "2026-08-14T00:01:01.197Z",
       "category": "tip",
       "score": 69,
       "selected": true,
+      "reason": "文章把Harness定位为插件化基建而非单一Agent，Cordis内核的时间与空间可组合性解释了Agent如何在运行中插拔能力，这比模板本身更值得理解。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp"
+        "url": "https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q"
       }
     },
     {
-      "id": "cmsqj4ly004izroxvzl349s3r",
-      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-      "originalTitle": "The Claude in Chrome side panel is now Claude Cowork",
-      "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+      "id": "cmss20h5g02uxroh6q6r1nqu9",
+      "title": "Claude 接管应用日常维护：388 个 PR 的实践",
+      "originalTitle": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
+      "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
       "source": {
-        "name": "Claude：Blog（网页）"
+        "name": "X：Boris Cherny (@bcherny)"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
-        "original": "https://claude.com/blog/cowork-chrome-side-panel"
+        "aihot": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9",
+        "original": "https://x.com/bcherny/status/2088014489438621990"
       },
-      "publishedAt": "2026-08-12T20:15:51.977Z",
-      "discoveredAt": "2026-08-12T20:15:51.977Z",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
-      }
-    },
-    {
-      "id": "cmsqgeo2e02cvroxvpnycl2zi",
-      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-      "originalTitle": "Your contributors are AI-first now. Is your project？",
-      "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
-      "source": {
-        "name": "GitHub Blog"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
-        "original": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project"
-      },
-      "publishedAt": "2026-08-12T18:00:08.000Z",
-      "discoveredAt": "2026-08-12T18:59:53.288Z",
+      "publishedAt": "2026-08-13T21:27:02.000Z",
+      "discoveredAt": "2026-08-13T21:52:28.613Z",
       "category": "tip",
-      "score": 67,
+      "score": 66,
       "selected": true,
+      "reason": "这套做法的增量在于把日常维护拆成可复用的定时例程，并通过当日 PR 反馈迭代提示词，使机械性代码改动从逐条审查转向批量合并。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
+        "url": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9"
       }
     },
     {
-      "id": "cmsqf39o0015groxvnc7oiwop",
-      "title": "Cursor 与 SpaceXAI 联合发布 Grok 4.6",
-      "originalTitle": "Introducing Grok 4.6",
-      "summary": "Cursor 与 SpaceXAI 今日发布 Grok 4.6，重点强化长时运行智能体与交互式视觉任务，在多项智能体编程与知识工作基准上达到前沿水平，并在 Artificial Analysis Intelligence Index 上追平 GPT-5.6 Sol。",
+      "id": "cmsruj6ik02dfrozeclkuve05",
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+      "originalTitle": "Cloud agents start 3x faster with builds",
+      "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
       "source": {
         "name": "Cursor Blog"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop",
-        "original": "https://cursor.com/blog/grok-4-6"
+        "aihot": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05",
+        "original": "https://cursor.com/blog/builds"
       },
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "discoveredAt": "2026-08-12T18:23:01.544Z",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop"
-      }
-    },
-    {
-      "id": "cmsqe6mat01bsroli3hw71nz7",
-      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-      "originalTitle": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-      "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-      "source": {
-        "name": "Google Research：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7",
-        "original": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality"
-      },
-      "publishedAt": "2026-08-12T17:57:36.369Z",
-      "discoveredAt": "2026-08-12T17:57:36.369Z",
-      "category": "paper",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7"
-      }
-    },
-    {
-      "id": "cmsqbnb8j01nrroosmwa5r6mj",
-      "title": "微软首发自研推理模型MAI-Thinking-1",
-      "originalTitle": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
-      "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
-      "source": {
-        "name": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj",
-        "original": "https://x.com/mustafasuleyman/status/2087570047967408396"
-      },
-      "publishedAt": "2026-08-12T16:00:59.000Z",
-      "discoveredAt": "2026-08-12T16:46:38.109Z",
-      "category": "ai-models",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj"
-      }
-    },
-    {
-      "id": "cmsqagyyz00yuroucf55e5fue",
-      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "originalTitle": null,
-      "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue",
-        "original": "https://www.ithome.com/0/989/001.htm"
-      },
-      "publishedAt": "2026-08-12T16:10:01.000Z",
-      "discoveredAt": "2026-08-12T16:13:41.612Z",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue"
-      }
-    },
-    {
-      "id": "cmsqabu0f001krouc6sfhic2d",
-      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-      "originalTitle": "Introducing Grok 4.6",
-      "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
-      "source": {
-        "name": "xAI：News（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d",
-        "original": "https://x.ai/news/grok-4-6"
-      },
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "discoveredAt": "2026-08-12T16:09:42.032Z",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d"
-      }
-    },
-    {
-      "id": "cmsq9h6gs01x5ronde8fdla7e",
-      "title": "OpenRouter 推出实时网页搜索基准测试：如何为智能体选择引擎、深度与模型",
-      "originalTitle": "Live Web Search Benchmarks： Pick the Right Engine， Depth， and Model for Your Agent",
-      "summary": "OpenRouter 发布实时排行榜，系统评测模型、搜索引擎、搜索方法与预算四类配置组合。数据显示，将搜索预算从 1 轮增至 25 轮可使 BrowseComp 得分近乎翻倍，成本仅增 2.5-7 倍；模型选择比引擎更重要，平均分差 15 分 vs 10 分。失败率高的任务应降低搜索深度以控制成本。",
-      "source": {
-        "name": "OpenRouter：Announcements（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e",
-        "original": "https://openrouter.ai/blog/announcements/web-search-benchmark"
-      },
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "discoveredAt": "2026-08-12T15:45:47.855Z",
+      "publishedAt": "2026-08-13T12:00:00.000Z",
+      "discoveredAt": "2026-08-13T18:23:04.579Z",
       "category": "ai-products",
-      "score": 67,
+      "score": 65,
       "selected": true,
+      "reason": "把环境准备从每次会话冷启动改为后台持续快照，云代理长任务的启动成本和中断风险降低，为把更多工程流程交给自动代理提供了更可靠的运行基础。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e"
+        "url": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05"
       }
     },
     {
-      "id": "cmsq5saxh051mro2e90h10exo",
-      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
-      "originalTitle": "I wrote an AI textbook - how long until AI can do it better？",
-      "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
+      "id": "cmsruetoy027hrozeecu4ixrc",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+      "originalTitle": "The builder's guide to GPT-5.6",
+      "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
       "source": {
-        "name": "Nathan Lambert：Interconnects（RSS）"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
-        "original": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until"
+        "aihot": "https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc",
+        "original": "https://openai.com/index/builders-guide-to-gpt-5-6"
       },
-      "publishedAt": "2026-08-12T13:01:16.000Z",
-      "discoveredAt": "2026-08-12T14:02:32.019Z",
+      "publishedAt": "2026-08-13T11:00:00.000Z",
+      "discoveredAt": "2026-08-13T18:19:39.804Z",
       "category": "tip",
-      "score": 62,
+      "score": 80,
       "selected": true,
+      "reason": "最实际的改变在 API 原语，让同一模型在 ARC-AGI-3 上用约六分之一输出 token 拿到近三倍分数，影响开发者对推理成本和上下文架构的判断。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo"
+        "url": "https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc"
       }
     },
     {
-      "id": "cmsq1hwsb02norobuzbw8cdcc",
-      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
-      "originalTitle": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-      "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+      "id": "cmsrtfqyv04btro0nle3m5b20",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+      "originalTitle": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
       "source": {
-        "name": "X：OpenRouter (@OpenRouter)"
+        "name": "Google Blog：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsq1hwsb02norobuzbw8cdcc",
-        "original": "https://x.com/OpenRouter/status/2087509478480765218"
+        "aihot": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20",
+        "original": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets"
       },
-      "publishedAt": "2026-08-12T12:00:18.000Z",
-      "discoveredAt": "2026-08-12T12:02:29.478Z",
+      "publishedAt": "2026-08-13T16:45:00.000Z",
+      "discoveredAt": "2026-08-13T17:52:24.043Z",
       "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "reason": "与单独 BI 工具不同，Sheets canvas 直接在原表上生成可读写界面，临时仪表盘能沿用表格的共享和权限体系，降低轻量场景的搭建成本。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
+      }
+    },
+    {
+      "id": "cmsrscwfn03f7ro0n7qijclds",
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+      "originalTitle": "Introducing Gemini 3.7 Flash",
+      "summary": "Google DeepMind 发布 Gemini 3.7 Flash，距 3.6 Flash 仅三周，主打编程与智能体任务，输入/输出价格分别为每百万 token $0.75 和 $3.75，为原 3.6 Flash 的一半。",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds",
+        "original": "https://deepmind.google/blog/introducing-gemini-3-7-flash"
+      },
+      "publishedAt": "2026-08-13T17:04:18.000Z",
+      "discoveredAt": "2026-08-13T17:22:11.372Z",
+      "category": "ai-models",
       "score": 72,
       "selected": true,
+      "reason": "相比 3.6 Flash，价格减半且 FrontierCode 和 DeepSWE 分数提升，让成本敏感型编码智能体团队有了新的性价比基线。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsq1hwsb02norobuzbw8cdcc"
+        "url": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds"
       }
     },
     {
-      "id": "cmspr6h6s01hero4hjcdf95mw",
-      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-      "originalTitle": null,
-      "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+      "id": "cmsrramim02jero0nte55cfgi",
+      "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+      "originalTitle": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+      "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
       "source": {
-        "name": "IT之家（RSS）"
+        "name": "MiniMax：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmspr6h6s01hero4hjcdf95mw",
-        "original": "https://www.ithome.com/0/988/766.htm"
+        "aihot": "https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi",
+        "original": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model"
       },
-      "publishedAt": "2026-08-12T06:46:51.000Z",
-      "discoveredAt": "2026-08-12T07:13:37.844Z",
+      "publishedAt": "2026-08-13T16:52:23.676Z",
+      "discoveredAt": "2026-08-13T16:52:23.676Z",
       "category": "ai-models",
-      "score": 71,
+      "score": 63,
       "selected": true,
+      "reason": "把简单描述扩展成包含配器进出、情绪曲线和演唱方式的专业模板，降低了非专业创作者控制音乐生成细节的门槛。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmspr6h6s01hero4hjcdf95mw"
+        "url": "https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi"
       }
     },
     {
-      "id": "cmspo193n05q2rojeue8j2k5a",
-      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-      "originalTitle": "一家声称提供\"100%由人类撰写、绝不使用AI\"的医学研究的公司，其实100%由AI驱动",
-      "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
+      "id": "cmsrjqqfg02z0ro469zple5jl",
+      "title": "DeepSeek Harness v0.1 开发者预览版发布",
+      "originalTitle": "🧩 DeepSeek Harness v0.1 is now available in Developer Preview！ 🔹 We're opening it up to developer…",
+      "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
       "source": {
-        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+        "name": "X：DeepSeek (@deepseek_ai)"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
-        "original": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai"
+        "aihot": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl",
+        "original": "https://x.com/deepseek_ai/status/2087887408440164663"
       },
-      "publishedAt": "2026-08-12T05:41:30.137Z",
-      "discoveredAt": "2026-08-12T05:45:36.772Z",
-      "category": "industry",
-      "score": 76,
+      "publishedAt": "2026-08-13T13:02:03.000Z",
+      "discoveredAt": "2026-08-13T13:21:00.781Z",
+      "category": "ai-products",
+      "score": 66,
       "selected": true,
+      "reason": "插件化把模型、工具、会话拆成可替换单元，影响在于选择智能体框架时可以从整体选型转为逐组件比较，降低被单一编排方案绑定的迁移成本。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a"
+        "url": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl"
+      }
+    },
+    {
+      "id": "cmsrcljcc0uanroz24r5ebcz9",
+      "title": "小红书开源连续自回归语音合成模型 dots.tts：打造可持续扩展的 TTS 基座",
+      "originalTitle": null,
+      "summary": "小红书 dots 团队开源 20 亿参数全连续端到端自回归语音合成模型 dots.tts，在 Seed-TTS-Eval 三个子集上取得最佳平均内容准确度和平均说话人相似度。",
+      "source": {
+        "name": "公众号：小红书技术（dots.llm）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsrcljcc0uanroz24r5ebcz9",
+        "original": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496062&idx=1&sn=d4c48926c5d7607f129dfea03699a6c0"
+      },
+      "publishedAt": "2026-08-13T09:59:00.000Z",
+      "discoveredAt": "2026-08-13T10:01:01.438Z",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "reason": "连续自回归跳过离散 Token 的信息损失，又用语义编码器回灌历史抑制累积误差，为音色克隆和低步数流式共用同一基座提供了路径。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmsrcljcc0uanroz24r5ebcz9"
       }
     }
   ]
