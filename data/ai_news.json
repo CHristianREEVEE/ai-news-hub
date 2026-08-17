@@ -1,52 +1,52 @@
 {
-  "updatedAt": "2026-08-16T03:56:34.877783+00:00",
+  "updatedAt": "2026-08-17T03:59:07.760369+00:00",
   "source": "aihot.virxact.com",
   "total": 2,
   "items": [
     {
-      "id": "cmsuto7hk0912rouhodiiywlk",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "originalTitle": "Cursor 现已成为 SpaceX 的一部分",
-      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+      "id": "cmswesk6a0r2hrovml2edcl2c",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+      "originalTitle": "Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
+      "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+      "source": {
+        "name": "Simon Willison 博客"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c",
+        "original": "https://simonwillison.net/2026/Aug/16/qwen-38-27b"
+      },
+      "publishedAt": "2026-08-16T22:00:39.000Z",
+      "discoveredAt": "2026-08-16T23:01:19.206Z",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "reason": "把 Qwen 3.8 27B 的推理档位成本量化成时间差异，xhigh 默认让生成同一 SVG 从 137 秒膨胀到 21 分钟，这个默认值比能力更影响本地选型。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c"
+      }
+    },
+    {
+      "id": "cmsvptx2m061frovmjoavsi0l",
+      "title": "新兴多智能体系统的模式与问题",
+      "originalTitle": null,
+      "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
       "source": {
         "name": "Hacker News 热门（buzzing.cc 中文翻译）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk",
-        "original": "https://cursor.com/blog/joining-spacex"
+        "aihot": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
+        "original": "https://www.anthropic.com/research/multiagent-systems"
       },
-      "publishedAt": "2026-08-15T20:05:54.703Z",
-      "discoveredAt": "2026-08-15T20:22:17.762Z",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "reason": "收购把 Cursor 的模型能力放到 SpaceX 的算力规模上，Grok 4.6 的发布提示编码模型的能力和运行成本可能同时改善。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk"
-      }
-    },
-    {
-      "id": "cmsuaf2hr05zgroe0y1e7275v",
-      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
-      "originalTitle": "AI-generated books are flooding Amazon and tanking sales for human authors",
-      "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-        "original": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors"
-      },
-      "publishedAt": "2026-08-15T11:00:50.000Z",
-      "discoveredAt": "2026-08-15T11:23:17.740Z",
+      "publishedAt": "2026-08-16T11:17:57.393Z",
+      "discoveredAt": "2026-08-16T11:22:31.379Z",
       "category": "paper",
-      "score": 70,
+      "score": 73,
       "selected": true,
-      "reason": "这项研究把市场稀释从推测变成可量化证据，版权诉讼中此前缺少的经验性数据可能由此补上，并影响合理使用的判断。",
+      "reason": "相较单智能体基准，这组实验把价格串谋、任务冲突与信息共享失败做成可观测案例，为评估智能体协作系统提供了此前很少被量化的失败模式。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v"
+        "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l"
       }
     }
   ]
