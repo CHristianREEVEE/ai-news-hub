@@ -1,10 +1,83 @@
 {
-  "updatedAt": "2026-08-18T03:55:18.103281+00:00",
+  "updatedAt": "2026-08-19T03:56:24.954102+00:00",
   "source": "aihot.virxact.com",
-  "count": 3,
+  "count": 9,
   "items": [
     {
       "rank": 1,
+      "id": "cmsz0hbsg05l0ro204080cotv",
+      "title": "OpenAI 在“关键网络能力”时代放缓模型开发节奏",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
+        "original": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "story": "https://aihot.virxact.com/story/1c28288a-22d7-4d4e-9bf1-a384527b1454"
+      },
+      "sourceCount": 12,
+      "signalCount": 2,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "X：OpenAI (@OpenAI)",
+        "X：Kim (@kimmonismus)",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+        "X：Greg Brockman (@gdb)",
+        "The Decoder：AI News（RSS）",
+        "X：Sam Altman (@sama)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Testing Catalog (@testingcatalog)",
+        "The Verge：AI（RSS）",
+        "X：Peter Steinberger (@steipete)"
+      ],
+      "latestAt": "2026-08-18T19:59:44.558Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmszeb2mx0b3srodpef1ub0j0",
+      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+      "source": {
+        "name": "公众号：智谱（GLM）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+        "story": "https://aihot.virxact.com/story/7f3cbcf6-3c01-4e1a-a296-45ffd92f099a"
+      },
+      "sourceCount": 4,
+      "signalCount": 3,
+      "sourceNames": [
+        "X：智谱 Z.ai (@Zai_org)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "公众号：智谱（GLM）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-19T01:23:46.651Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmsz8gh3n06e4rodpl8l2syek",
+      "title": "Claude 如何加速蛋白质设计与分析化学研究",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
+        "original": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+        "story": "https://aihot.virxact.com/story/6ed4b694-76eb-4642-8e0e-e1d26ddd0b44"
+      },
+      "sourceCount": 3,
+      "signalCount": 1,
+      "sourceNames": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "X：Anthropic (@AnthropicAI)",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-08-18T23:18:18.849Z"
+    },
+    {
+      "rank": 4,
       "id": "cmsx9jvre05y6romms3bo1umb",
       "title": "NVIDIA 与 SB Energy 合作锁定俄亥俄州 PORTS-Pike 园区电力容量，OpenAI 将入驻",
       "source": {
@@ -28,7 +101,67 @@
       "latestAt": "2026-08-18T00:22:25.999Z"
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "id": "cmsyqip4o14umroz0ch5iv0iv",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+      "source": {
+        "name": "Hugging Face：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsyqip4o14umroz0ch5iv0iv",
+        "original": "https://huggingface.co/blog/multi-vector-encoder",
+        "story": "https://aihot.virxact.com/story/411a1a5a-e329-4eeb-83d0-34d48dbb7214"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "sourceNames": [
+        "Hugging Face：Blog（RSS）"
+      ],
+      "latestAt": "2026-08-18T14:05:05.620Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmsxsvb5s0a4troz0z2q2nu3h",
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "source": {
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
+        "original": "https://cursor.com/changelog/origin-code-hosting",
+        "story": "https://aihot.virxact.com/story/a0b46a26-95de-4cae-b75e-54c1f123937c"
+      },
+      "sourceCount": 3,
+      "signalCount": 2,
+      "sourceNames": [
+        "X：Eric Zakariasson (@ericzakariasson)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-08-18T22:23:58.177Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmsz79zol04j8rodpvun6zobl",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "source": {
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
+        "original": "https://www.modular.com/blog/mojo-open-source",
+        "story": "https://aihot.virxact.com/story/4b339413-0f68-410d-8a56-720f603e1eaf"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Simon Willison 博客"
+      ],
+      "latestAt": "2026-08-18T22:01:40.332Z"
+    },
+    {
+      "rank": 8,
       "id": "cmsxld6es03o8roz0jblf3ii9",
       "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
       "source": {
@@ -50,24 +183,23 @@
       "latestAt": "2026-08-17T20:53:05.960Z"
     },
     {
-      "rank": 3,
-      "id": "cmsxsvb5s0a4troz0z2q2nu3h",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "rank": 9,
+      "id": "cmsx9jy2a05yerommy1e0jc6t",
+      "title": "A 股迎来“人形机器人第一股”，宇树科技官宣 8 月 19 日科创板上市",
       "source": {
-        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
-        "original": "https://cursor.com/changelog/origin-code-hosting",
-        "story": "https://aihot.virxact.com/story/a0b46a26-95de-4cae-b75e-54c1f123937c"
+        "aihot": "https://aihot.virxact.com/items/cmsx9jy2a05yerommy1e0jc6t",
+        "original": "https://www.ithome.com/0/990/812.htm",
+        "story": "https://aihot.virxact.com/story/1a6febe1-053d-4dab-ad21-d1ab648da020"
       },
-      "sourceCount": 2,
-      "signalCount": 2,
+      "sourceCount": 1,
+      "signalCount": 3,
       "sourceNames": [
-        "X：Eric Zakariasson (@ericzakariasson)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-08-17T22:23:07.832Z"
+      "latestAt": "2026-08-17T13:22:19.094Z"
     }
   ]
 }
