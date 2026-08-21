@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-08-20T03:58:04.540745+00:00",
+  "updatedAt": "2026-08-21T03:58:01.216145+00:00",
   "source": "aihot.virxact.com",
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+    {
+      "rank": 1,
+      "id": "cmt0d2tsl1961rodpnvzxo4cc",
+      "title": "OpenRouter 宣布加入 Stripe",
+      "source": {
+        "name": "OpenRouter：Announcements（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc",
+        "original": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+        "story": "https://aihot.virxact.com/story/bca5db53-0103-4fbd-85c6-05d34c5deb4f"
+      },
+      "sourceCount": 10,
+      "signalCount": 8,
+      "sourceNames": [
+        "OpenRouter：Announcements（RSS）",
+        "X：Deedy Das (@deedydas)",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "a16z：News（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "IT之家（RSS）",
+        "Artificial Intelligence News（RSS）"
+      ],
+      "latestAt": "2026-08-20T10:11:40.364Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmt1tonwa07i9roovrze0ll65",
+      "title": "Anthropic 如何开展 AI 教学",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
+        "original": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+        "story": "https://aihot.virxact.com/story/36b3d0dc-1d86-4fdb-aa96-1390e2cb6e4a"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "Claude：Blog（网页）",
+        "X：Claude (@claudeai)"
+      ],
+      "latestAt": "2026-08-20T19:30:00.807Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmt1xbu7q0b7troovffggr2jh",
+      "title": "Grok Build 全面上线网页与移动端，所有套餐可用",
+      "source": {
+        "name": "xAI：News（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh",
+        "original": "https://x.ai/news/grok-build-for-everyone",
+        "story": "https://aihot.virxact.com/story/909ed9ae-ebef-478f-b801-67bd70f5c6e6"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "X：Andrew Milich (@milichab)",
+        "xAI：News（网页）"
+      ],
+      "latestAt": "2026-08-20T19:38:45.834Z"
+    }
+  ]
 }

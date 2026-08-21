@@ -1,6 +1,191 @@
 {
-  "updatedAt": "2026-08-20T03:56:58.988276+00:00",
+  "updatedAt": "2026-08-21T03:57:59.287401+00:00",
   "source": "aihot.virxact.com",
-  "total": 0,
-  "items": []
+  "total": 8,
+  "items": [
+    {
+      "id": "cmt1z1q5n0c93roovlvh40tew",
+      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+      "originalTitle": "Build production agents with computer use， the Skills API， and the Files API",
+      "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew",
+        "original": "https://claude.com/blog/computer-use-skills-api-files-api"
+      },
+      "publishedAt": "2026-08-20T20:27:01.660Z",
+      "discoveredAt": "2026-08-20T20:27:01.660Z",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "reason": "这次正式版让 computer use 每轮可执行多个动作，浏览器工具按页面结构而非像素定位元素，长流程任务的调用次数和执行时间可能明显下降，对无 API 系统上的自动化团队影响直接。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew"
+      }
+    },
+    {
+      "id": "cmt1xbu7q0b7troovffggr2jh",
+      "title": "Grok Build 全面上线网页与移动端，所有套餐可用",
+      "originalTitle": "Grok Build on web and mobile",
+      "summary": "Grok Build 现已面向所有套餐开放，支持网页、iOS 和 Android 端使用。用户描述应用、游戏或网站后，Grok 可在聊天中实时生成可运行版本。该功能自 7 月推出 Early Beta 以来，新增了发布分享、接入 X 及调用 Grok 自身模型等能力，发布的应用可获得 grok.me 链接并支持自定义域名、导出到 GitHub 等。",
+      "source": {
+        "name": "xAI：News（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh",
+        "original": "https://x.ai/news/grok-build-for-everyone"
+      },
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "discoveredAt": "2026-08-20T19:38:45.834Z",
+      "category": "ai-products",
+      "score": 82,
+      "selected": true,
+      "reason": "全量开放把应用生成从早期测试变为普通用户可用的工具，发布链接和X内嵌卡片让作品直接进入社交传播，降低了分享与分发的门槛。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh"
+      }
+    },
+    {
+      "id": "cmt1tonwa07i9roovrze0ll65",
+      "title": "Anthropic 如何开展 AI 教学",
+      "originalTitle": "Anthropic's approach to teaching and learning AI",
+      "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
+        "original": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai"
+      },
+      "publishedAt": "2026-08-20T17:56:58.396Z",
+      "discoveredAt": "2026-08-20T17:56:58.396Z",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "reason": "把 AI 教育的重心从功能操作转向任务分工与核查强度，4D 框架与按风险比例验证这类心态对组织设计 AI 素养课程有实际参考价值。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65"
+      }
+    },
+    {
+      "id": "cmt1rv5n8066iroovaxgoej1b",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+      "originalTitle": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
+      "source": {
+        "name": "Hugging Face：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+        "original": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+      },
+      "publishedAt": "2026-08-20T16:52:57.000Z",
+      "discoveredAt": "2026-08-20T17:06:06.252Z",
+      "category": "ai-models",
+      "score": 61,
+      "selected": true,
+      "reason": "约300M参数的draft模型换最高3.18倍吞吐，贪心输出不变，LFM2.5-2.6B在M4 Max达139 tok/s，本地agent门槛被拉低。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b"
+      }
+    },
+    {
+      "id": "cmt1r7jjh05lgroovc4zwypj6",
+      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+      "originalTitle": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+      "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+      "source": {
+        "name": "Google Cloud：Databases（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
+        "original": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search"
+      },
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "discoveredAt": "2026-08-20T16:47:41.109Z",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "reason": "四层树把搜索复杂度从 O(N^1/2) 逐级降到 O(N^1/4)，配合内存优化让向量索引扩到百亿规模，这会影响依赖大规模向量检索的 RAG 应用在做容量规划时的性能假设。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6"
+      }
+    },
+    {
+      "id": "cmt1pkwbj04bxroovzkfca5c7",
+      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+      "originalTitle": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+      "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+      "source": {
+        "name": "Mistral AI：News（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
+        "original": "https://mistral.ai/news/agentic-search"
+      },
+      "publishedAt": "2026-08-20T16:02:07.300Z",
+      "discoveredAt": "2026-08-20T16:02:07.300Z",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "reason": "相比一次性 RAG，五个检索工具让模型按需查证、打开和阅读原文，精度从 26.7% 升到 86%，说明检索质量开始取决于模型推理而非分块策略。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
+      }
+    },
+    {
+      "id": "cmt1k19bn06qgrokx1p75h1gv",
+      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+      "originalTitle": "The Claude Code Guide For Startups",
+      "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
+        "original": "https://claude.com/blog/claude-code-guide-for-startups"
+      },
+      "publishedAt": "2026-08-20T13:26:53.704Z",
+      "discoveredAt": "2026-08-20T13:26:53.704Z",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "reason": "指南把十几家创业公司实践归纳为五个可操作规则，其中「修复原则而非修复个案」对搭建自改进 agent 流程具有直接参考价值。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
+      }
+    },
+    {
+      "id": "cmt1di48c04vuro1q95i06dby",
+      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+      "originalTitle": null,
+      "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby",
+        "original": "https://www.ithome.com/0/992/239.htm"
+      },
+      "publishedAt": "2026-08-20T09:45:51.000Z",
+      "discoveredAt": "2026-08-20T10:24:01.577Z",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "reason": "它把 GUI 智能体评测从模拟分数推向真实手机操作，自建 MobileWorld-Real 基准和百台真机环境，使落地型团队能按真机成功率而非仅看模拟榜单做选型。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby"
+      }
+    }
+  ]
 }
