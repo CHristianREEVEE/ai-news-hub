@@ -1,190 +1,213 @@
 {
-  "updatedAt": "2026-08-21T03:57:59.287401+00:00",
+  "updatedAt": "2026-08-22T03:53:14.152458+00:00",
   "source": "aihot.virxact.com",
-  "total": 8,
+  "total": 9,
   "items": [
     {
-      "id": "cmt1z1q5n0c93roovlvh40tew",
-      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-      "originalTitle": "Build production agents with computer use， the Skills API， and the Files API",
-      "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+      "id": "cmt3dpn230oxyro6t7ynmpyc2",
+      "title": "Claude Platform 发布 Python SDK v1.0，迁移至 httpx2",
+      "originalTitle": "Claude Platform release notes - August 20， 2026",
+      "summary": "Anthropic 发布 Claude Python SDK v1.0，HTTP 层从 httpx 迁移至 API 兼容的 httpx2，并移除 Text Completions API 等长期弃用功能。",
+      "source": {
+        "name": "Claude Platform：开发者版本说明（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt3dpn230oxyro6t7ynmpyc2",
+        "original": "https://platform.claude.com/docs/en/release-notes/overview#august-20-2026"
+      },
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "discoveredAt": "2026-08-21T20:05:26.561Z",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "reason": "这次 v1.0 的破坏性变更集中在 HTTP 层与弃用参数，迁移指南给出前后对照，方便维护旧代码的人逐项核对更新点。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt3dpn230oxyro6t7ynmpyc2"
+      }
+    },
+    {
+      "id": "cmt396dpw0kj0ro6tdktqkp8s",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+      "originalTitle": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
       "source": {
         "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew",
-        "original": "https://claude.com/blog/computer-use-skills-api-files-api"
+        "aihot": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
+        "original": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders"
       },
-      "publishedAt": "2026-08-20T20:27:01.660Z",
-      "discoveredAt": "2026-08-20T20:27:01.660Z",
+      "publishedAt": "2026-08-21T17:58:29.461Z",
+      "discoveredAt": "2026-08-21T17:58:29.461Z",
       "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "reason": "相较直接开放模型，以限定输出物提供补丁和告警的控制方式，为防御能力安全放量给出了可参照的产品分发思路，也解释了后续基金与验证计划的逻辑。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s"
+      }
+    },
+    {
+      "id": "cmt393qow0kfiro6tpe87m4nu",
+      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+      "originalTitle": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+      "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+      "source": {
+        "name": "LMSYS：Blog（Chatbot Arena 团队）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu",
+        "original": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery"
+      },
+      "publishedAt": "2026-08-21T17:56:25.415Z",
+      "discoveredAt": "2026-08-21T17:56:25.415Z",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "reason": "权重加载从磁盘改为 CUDA IPC 零拷贝后，重启不再重复反量化与分片，让大模型服务的滚动更新和故障切换从分钟级预算变成秒级。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt393qow0kfiro6tpe87m4nu"
+      }
+    },
+    {
+      "id": "cmt393qov0kfhro6tuwhxhubl",
+      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+      "originalTitle": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+      "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
+      "source": {
+        "name": "LMSYS：Blog（Chatbot Arena 团队）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl",
+        "original": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell"
+      },
+      "publishedAt": "2026-08-21T17:56:25.415Z",
+      "discoveredAt": "2026-08-21T17:56:25.415Z",
+      "category": "paper",
       "score": 63,
       "selected": true,
-      "reason": "这次正式版让 computer use 每轮可执行多个动作，浏览器工具按页面结构而非像素定位元素，长流程任务的调用次数和执行时间可能明显下降，对无 API 系统上的自动化团队影响直接。",
+      "reason": "对做单请求低延迟推理的团队，可迁移的是先把主机从 GPU 进度上解绑再优化 GPU 关键路径，否则主机的同步等待会变成每步的 GPU 气泡，这与具体模型无关。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew"
+        "url": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl"
       }
     },
     {
-      "id": "cmt1xbu7q0b7troovffggr2jh",
-      "title": "Grok Build 全面上线网页与移动端，所有套餐可用",
-      "originalTitle": "Grok Build on web and mobile",
-      "summary": "Grok Build 现已面向所有套餐开放，支持网页、iOS 和 Android 端使用。用户描述应用、游戏或网站后，Grok 可在聊天中实时生成可运行版本。该功能自 7 月推出 Early Beta 以来，新增了发布分享、接入 X 及调用 Grok 自身模型等能力，发布的应用可获得 grok.me 链接并支持自定义域名、导出到 GitHub 等。",
-      "source": {
-        "name": "xAI：News（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh",
-        "original": "https://x.ai/news/grok-build-for-everyone"
-      },
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "discoveredAt": "2026-08-20T19:38:45.834Z",
-      "category": "ai-products",
-      "score": 82,
-      "selected": true,
-      "reason": "全量开放把应用生成从早期测试变为普通用户可用的工具，发布链接和X内嵌卡片让作品直接进入社交传播，降低了分享与分发的门槛。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh"
-      }
-    },
-    {
-      "id": "cmt1tonwa07i9roovrze0ll65",
-      "title": "Anthropic 如何开展 AI 教学",
-      "originalTitle": "Anthropic's approach to teaching and learning AI",
-      "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+      "id": "cmt31oi0x0ehyro6tui3xycqe",
+      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+      "originalTitle": "The AI-Native SDLC playbook",
+      "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
       "source": {
         "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
-        "original": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai"
+        "aihot": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe",
+        "original": "https://claude.com/blog/the-ai-native-sdlc-playbook"
       },
-      "publishedAt": "2026-08-20T17:56:58.396Z",
-      "discoveredAt": "2026-08-20T17:56:58.396Z",
-      "category": "ai-products",
-      "score": 60,
+      "publishedAt": "2026-08-21T14:28:27.351Z",
+      "discoveredAt": "2026-08-21T14:28:27.351Z",
+      "category": "tip",
+      "score": 73,
       "selected": true,
-      "reason": "把 AI 教育的重心从功能操作转向任务分工与核查强度，4D 框架与按风险比例验证这类心态对组织设计 AI 素养课程有实际参考价值。",
+      "reason": "把各阶段产物固化为可版本化 markdown 并让下一阶段读取，人工审查就从逐行看代码转向在关卡看代理标记，对改造研发流程的团队有直接参考价值。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65"
+        "url": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe"
       }
     },
     {
-      "id": "cmt1rv5n8066iroovaxgoej1b",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-      "originalTitle": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
+      "id": "cmt30vskr0e0wro6t19q13yic",
+      "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
+      "originalTitle": "Measuring benchmark optimization in speech recognition",
+      "summary": "Hugging Face 最新研究引入三项测试量化语音识别中的基准优化（benchmaxxing）现象。对 11 个开源 ASR 模型的评估显示，多个高分系统会复现 VoxPopuli 和 LibriSpeech 基准的错误转录文本，即使音频内容与之矛盾。部分模型甚至依赖声学线索识别基准来源，导致其得分高估了真实转录能力。",
       "source": {
         "name": "Hugging Face：Blog（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
-        "original": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+        "aihot": "https://aihot.virxact.com/items/cmt30vskr0e0wro6t19q13yic",
+        "original": "https://huggingface.co/blog/asr-benchmark-optimization"
       },
-      "publishedAt": "2026-08-20T16:52:57.000Z",
-      "discoveredAt": "2026-08-20T17:06:06.252Z",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "discoveredAt": "2026-08-21T14:06:17.786Z",
+      "category": "paper",
+      "score": 69,
+      "selected": true,
+      "reason": "研究把语音识别中的基准优化现象变成可量化检验，三项探针和开源脚本让模型评估者能区分真实转写提升与仅针对测试集的拟合。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmt30vskr0e0wro6t19q13yic"
+      }
+    },
+    {
+      "id": "cmt2yscvm0ca8ro6t0u6vtfnt",
+      "title": "面壁智能 OpenBMB 推出 MathForm，面向 Lean 4 数学自动形式化的开源框架、数据集与模型",
+      "originalTitle": "🧮 Introducing MathForm， an open-source framework， dataset， and model for mathematical autoformaliza…",
+      "summary": "面壁智能 OpenBMB 推出 MathForm，一个面向 Lean 4 数学自动形式化的开源框架、数据集与模型。其 FormalVerse 数据集含 367K+ 已验证示例；在匹配 100K 预算下，基于其训练的模型 Consistency Check 达 60.32%，优于 FineLeanCorpus（46.53%）与 NuminaMath-LEAN（41.49%）。",
+      "source": {
+        "name": "X：面壁智能 OpenBMB (@OpenBMB)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt",
+        "original": "https://x.com/OpenBMB/status/2090786300194590816"
+      },
+      "publishedAt": "2026-08-21T13:01:13.000Z",
+      "discoveredAt": "2026-08-21T13:07:37.079Z",
       "category": "ai-models",
-      "score": 61,
+      "score": 69,
       "selected": true,
-      "reason": "约300M参数的draft模型换最高3.18倍吞吐，贪心输出不变，LFM2.5-2.6B在M4 Max达139 tok/s，本地agent门槛被拉低。",
+      "reason": "数学形式化的难点是编译通过但语义漂移，该框架用检索规划和语义一致性反馈迭代修正，并开源数据集和 8B 模型，给小模型做形式化提供了可复用路径。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b"
+        "url": "https://aihot.virxact.com/items/cmt2yscvm0ca8ro6t0u6vtfnt"
       }
     },
     {
-      "id": "cmt1r7jjh05lgroovc4zwypj6",
-      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-      "originalTitle": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
-      "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+      "id": "cmt2ry1sl04ywro6t5znttdrs",
+      "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+      "originalTitle": "每个模特都会出轨",
+      "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
       "source": {
-        "name": "Google Cloud：Databases（RSS）"
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
-        "original": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search"
+        "aihot": "https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs",
+        "original": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks"
       },
-      "publishedAt": "2026-08-20T16:00:00.000Z",
-      "discoveredAt": "2026-08-20T16:47:41.109Z",
-      "category": "ai-products",
-      "score": 65,
+      "publishedAt": "2026-08-21T09:25:43.682Z",
+      "discoveredAt": "2026-08-21T09:56:05.530Z",
+      "category": "paper",
+      "score": 75,
       "selected": true,
-      "reason": "四层树把搜索复杂度从 O(N^1/2) 逐级降到 O(N^1/4)，配合内存优化让向量索引扩到百亿规模，这会影响依赖大规模向量检索的 RAG 应用在做容量规划时的性能假设。",
+      "reason": "比既往报告更高的作弊率之外，反作弊提示把网页搜索压下去后，模型转向基础设施探测，说明提示词缓解不彻底，隔离网络等结构性手段才是诚实测量的必需。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6"
+        "url": "https://aihot.virxact.com/items/cmt2ry1sl04ywro6t5znttdrs"
       }
     },
     {
-      "id": "cmt1pkwbj04bxroovzkfca5c7",
-      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-      "originalTitle": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-      "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+      "id": "cmt2qvfnj03zxro6tehwcikx4",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "originalTitle": null,
+      "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
       "source": {
-        "name": "Mistral AI：News（网页）"
+        "name": "DeepSeek：API 更新日志"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
-        "original": "https://mistral.ai/news/agentic-search"
+        "aihot": "https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4",
+        "original": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21"
       },
-      "publishedAt": "2026-08-20T16:02:07.300Z",
-      "discoveredAt": "2026-08-20T16:02:07.300Z",
-      "category": "ai-products",
+      "publishedAt": "2026-08-21T09:26:04.727Z",
+      "discoveredAt": "2026-08-21T09:26:04.727Z",
+      "category": "ai-models",
       "score": 67,
       "selected": true,
-      "reason": "相比一次性 RAG，五个检索工具让模型按需查证、打开和阅读原文，精度从 26.7% 升到 86%，说明检索质量开始取决于模型推理而非分块策略。",
+      "reason": "实验版在纯文本能力与正式版持平的基础上补齐视觉，多模态 Agent 基准接近 Opus-4.8，让依赖视觉的 DeepSeek 工作流无需切换后端即可评估更强感知能力。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
-      }
-    },
-    {
-      "id": "cmt1k19bn06qgrokx1p75h1gv",
-      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-      "originalTitle": "The Claude Code Guide For Startups",
-      "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
-        "original": "https://claude.com/blog/claude-code-guide-for-startups"
-      },
-      "publishedAt": "2026-08-20T13:26:53.704Z",
-      "discoveredAt": "2026-08-20T13:26:53.704Z",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "reason": "指南把十几家创业公司实践归纳为五个可操作规则，其中「修复原则而非修复个案」对搭建自改进 agent 流程具有直接参考价值。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
-      }
-    },
-    {
-      "id": "cmt1di48c04vuro1q95i06dby",
-      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-      "originalTitle": null,
-      "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby",
-        "original": "https://www.ithome.com/0/992/239.htm"
-      },
-      "publishedAt": "2026-08-20T09:45:51.000Z",
-      "discoveredAt": "2026-08-20T10:24:01.577Z",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "reason": "它把 GUI 智能体评测从模拟分数推向真实手机操作，自建 MobileWorld-Real 基准和百台真机环境，使落地型团队能按真机成功率而非仅看模拟榜单做选型。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmt1di48c04vuro1q95i06dby"
+        "url": "https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4"
       }
     }
   ]
