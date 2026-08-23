@@ -1,75 +1,69 @@
 {
-  "updatedAt": "2026-08-22T03:53:20.746215+00:00",
+  "updatedAt": "2026-08-23T03:58:21.833096+00:00",
   "source": "aihot.virxact.com",
   "count": 3,
   "items": [
     {
       "rank": 1,
-      "id": "cmt0d2tsl1961rodpnvzxo4cc",
-      "title": "OpenRouter 宣布加入 Stripe",
+      "id": "cmt2qvfnj03zxro6tehwcikx4",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
       "source": {
-        "name": "OpenRouter：Announcements（RSS）"
+        "name": "DeepSeek：API 更新日志"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc",
-        "original": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-        "story": "https://aihot.virxact.com/story/bca5db53-0103-4fbd-85c6-05d34c5deb4f"
+        "aihot": "https://aihot.virxact.com/items/cmt2qvfnj03zxro6tehwcikx4",
+        "original": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
+        "story": "https://aihot.virxact.com/story/65baa744-d848-42a6-a194-495e34f1391d"
       },
-      "sourceCount": 10,
-      "signalCount": 7,
+      "sourceCount": 5,
+      "signalCount": 12,
       "sourceNames": [
-        "OpenRouter：Announcements（RSS）",
-        "X：Deedy Das (@deedydas)",
-        "X：OpenRouter (@OpenRouter)",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "a16z：News（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）",
         "IT之家（RSS）",
-        "Artificial Intelligence News（RSS）"
+        "DeepSeek：API 更新日志",
+        "X：DeepSeek (@deepseek_ai)",
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-08-20T10:11:40.364Z"
+      "latestAt": "2026-08-21T19:28:29.571Z"
     },
     {
       "rank": 2,
-      "id": "cmt1tonwa07i9roovrze0ll65",
-      "title": "Anthropic 如何开展 AI 教学",
+      "id": "cmt3wt4qm13utro6t0hb6ga3y",
+      "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
       "source": {
-        "name": "Claude：Blog（网页）"
+        "name": "X：蚂蚁百灵 (@AntLingAGI)"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
-        "original": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-        "story": "https://aihot.virxact.com/story/36b3d0dc-1d86-4fdb-aa96-1390e2cb6e4a"
+        "aihot": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
+        "original": "https://x.com/AntLingAGI/status/2091021795373855124",
+        "story": "https://aihot.virxact.com/story/d45274fb-e883-4618-9a67-286e48802868"
       },
       "sourceCount": 2,
       "signalCount": 0,
       "sourceNames": [
-        "Claude：Blog（网页）",
-        "X：Claude (@claudeai)"
+        "LMSYS：Blog（Chatbot Arena 团队）",
+        "X：蚂蚁百灵 (@AntLingAGI)"
       ],
-      "latestAt": "2026-08-20T19:30:00.807Z"
+      "latestAt": "2026-08-22T05:00:00.912Z"
     },
     {
       "rank": 3,
-      "id": "cmt1xbu7q0b7troovffggr2jh",
-      "title": "Grok Build 全面上线网页与移动端，所有套餐可用",
+      "id": "cmt4gz31f1l1qro6tprhfg5ys",
+      "title": "第二届世界人形机器人运动会开幕：2056 台机器人齐聚“冰丝带”，666 支队伍竞技 51 赛项",
       "source": {
-        "name": "xAI：News（网页）"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh",
-        "original": "https://x.ai/news/grok-build-for-everyone",
-        "story": "https://aihot.virxact.com/story/909ed9ae-ebef-478f-b801-67bd70f5c6e6"
+        "aihot": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
+        "original": "https://www.ithome.com/0/993/105.htm",
+        "story": "https://aihot.virxact.com/story/a88d42ee-b797-4168-8777-fc40d06d45cb"
       },
-      "sourceCount": 2,
-      "signalCount": 0,
+      "sourceCount": 1,
+      "signalCount": 2,
       "sourceNames": [
-        "X：Andrew Milich (@milichab)",
-        "xAI：News（网页）"
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-08-20T19:38:45.834Z"
+      "latestAt": "2026-08-22T14:24:29.219Z"
     }
   ]
 }
