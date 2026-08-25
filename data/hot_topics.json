@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-08-24T04:02:48.337491+00:00",
+  "updatedAt": "2026-08-25T03:56:49.127916+00:00",
   "source": "aihot.virxact.com",
-  "count": 1,
-  "items": [
-    {
-      "rank": 1,
-      "id": "cmt5wf8hm0shgro737h9vww1k",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-        "original": "https://www.ithome.com/0/993/305.htm",
-        "story": "https://aihot.virxact.com/story/0c44bc77-77d8-459b-b7bd-d567bd1c4b0c"
-      },
-      "sourceCount": 1,
-      "signalCount": 1,
-      "sourceNames": [
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-23T14:24:41.763Z"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
