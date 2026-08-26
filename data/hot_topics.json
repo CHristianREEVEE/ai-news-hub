@@ -1,6 +1,73 @@
 {
-  "updatedAt": "2026-08-25T03:56:49.127916+00:00",
+  "updatedAt": "2026-08-26T04:00:49.912833+00:00",
   "source": "aihot.virxact.com",
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+    {
+      "rank": 1,
+      "id": "cmt8z2eko055crolytaitdxv8",
+      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8",
+        "original": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+        "story": "https://aihot.virxact.com/story/d2a4bf8a-d93d-4c77-81a1-a0b5a0765549"
+      },
+      "sourceCount": 4,
+      "signalCount": 2,
+      "sourceNames": [
+        "X：Claude (@claudeai)",
+        "TechCrunch：AI（RSS）",
+        "Claude：Blog（网页）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-25T23:25:10.909Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmt8qee503kvpro73kzthenuu",
+      "title": "Apple 发布 M6 与 M5 Ultra，性能与 AI 算力大幅跃升",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu",
+        "original": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+        "story": "https://aihot.virxact.com/story/b66ffa10-b581-4fd9-acd3-077f4e8481da"
+      },
+      "sourceCount": 5,
+      "signalCount": 3,
+      "sourceNames": [
+        "X：Kim (@kimmonismus)",
+        "Ars Technica：AI（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Apple：Newsroom（RSS）",
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "latestAt": "2026-08-25T15:18:18.011Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmt8qee503kvnro73qp7543yv",
+      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv",
+        "original": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+        "story": "https://aihot.virxact.com/story/be39d8ed-ecd3-41d3-8970-f67a0152ae2b"
+      },
+      "sourceCount": 3,
+      "signalCount": 2,
+      "sourceNames": [
+        "Apple：Newsroom（RSS）",
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "latestAt": "2026-08-25T14:27:44.324Z"
+    }
+  ]
 }
