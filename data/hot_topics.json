@@ -1,10 +1,161 @@
 {
-  "updatedAt": "2026-08-26T04:00:49.912833+00:00",
+  "updatedAt": "2026-08-27T14:06:27.245776+00:00",
   "source": "aihot.virxact.com",
-  "count": 3,
+  "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "cmtb6o47l0mmaroamhnqtifvv",
+      "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
+      "source": {
+        "name": "智谱：研究（网页内嵌数据）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv",
+        "original": "https://www.zhipuai.cn/zh/research/163",
+        "story": "https://aihot.virxact.com/story/f8c2f6a7-79c2-4a69-847b-48bc9b5dc7fe"
+      },
+      "sourceCount": 11,
+      "signalCount": 8,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：智谱 Z.ai (@Zai_org)",
+        "X：OpenRouter (@OpenRouter)",
+        "公众号：智谱（GLM）",
+        "X：Kim (@kimmonismus)",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "MarkTechPost（RSS）",
+        "公众号：数字生命卡兹克",
+        "智谱：研究（网页内嵌数据）"
+      ],
+      "latestAt": "2026-08-27T07:10:28.200Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmtacq8vz0aedroj24bcix9go",
+      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go",
+        "original": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+        "story": "https://aihot.virxact.com/story/d49c0d4e-02fa-458f-8954-71cf7b7378d3"
+      },
+      "sourceCount": 9,
+      "signalCount": 4,
+      "sourceNames": [
+        "Google DeepMind：Blog（RSS）",
+        "X：Sundar Pichai (@sundarpichai)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
+        "X：Google AI (@GoogleAI)",
+        "The Verge：AI（RSS）",
+        "Ars Technica：AI（RSS）",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-27T05:25:24.038Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmtaighmj02k5rovu2z28rxc2",
+      "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2",
+        "original": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+        "story": "https://aihot.virxact.com/story/104e012f-d50f-43c2-859a-deddb2ed0bb0"
+      },
+      "sourceCount": 8,
+      "signalCount": 4,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "X：OpenAI (@OpenAI)",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：Kim (@kimmonismus)",
+        "The Verge：AI（RSS）",
+        "IT之家（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-08-27T04:18:18.270Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmta2veap03nmrolwxllvp4ay",
+      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+      "source": {
+        "name": "Qwen：Blog Retrieval（API）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay",
+        "original": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+        "story": "https://aihot.virxact.com/story/e6788dcb-8234-4128-9903-5e3e53e2ddad"
+      },
+      "sourceCount": 8,
+      "signalCount": 3,
+      "sourceNames": [
+        "Qwen：Blog Retrieval（API）",
+        "X：Kim (@kimmonismus)",
+        "LMSYS：Blog（Chatbot Arena 团队）",
+        "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）",
+        "X：SemiAnalysis (@SemiAnalysis_)",
+        "Simon Willison 博客"
+      ],
+      "latestAt": "2026-08-27T01:03:18.088Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmtaxja5w0ckaroamws5is8wp",
+      "title": "NVIDIA 季度营收指引达 1080 亿美元，首次突破单季千亿大关",
+      "source": {
+        "name": "Tomer Tunguz 博客（VC 分析）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtaxja5w0ckaroamws5is8wp",
+        "original": "https://www.tomtunguz.com/nvidia-q2-fy27-earnings",
+        "story": "https://aihot.virxact.com/story/023af2f9-23ec-4b61-9125-e1939e1f20d2"
+      },
+      "sourceCount": 3,
+      "signalCount": 0,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Tomer Tunguz 博客（VC 分析）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-27T06:25:24.707Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmtaq20ih062wroamdrhb54b6",
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
+        "original": "https://www.ithome.com/0/994/791.htm",
+        "story": "https://aihot.virxact.com/story/1d723bbb-f726-4eff-97e9-31dd9c02c84c"
+      },
+      "sourceCount": 4,
+      "signalCount": 3,
+      "sourceNames": [
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Kim (@kimmonismus)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-26T23:25:21.048Z"
+    },
+    {
+      "rank": 7,
       "id": "cmt8z2eko055crolytaitdxv8",
       "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
       "source": {
@@ -16,7 +167,7 @@
         "story": "https://aihot.virxact.com/story/d2a4bf8a-d93d-4c77-81a1-a0b5a0765549"
       },
       "sourceCount": 4,
-      "signalCount": 2,
+      "signalCount": 3,
       "sourceNames": [
         "X：Claude (@claudeai)",
         "TechCrunch：AI（RSS）",
@@ -26,7 +177,7 @@
       "latestAt": "2026-08-25T23:25:10.909Z"
     },
     {
-      "rank": 2,
+      "rank": 8,
       "id": "cmt8qee503kvpro73kzthenuu",
       "title": "Apple 发布 M6 与 M5 Ultra，性能与 AI 算力大幅跃升",
       "source": {
@@ -49,25 +200,43 @@
       "latestAt": "2026-08-25T15:18:18.011Z"
     },
     {
-      "rank": 3,
-      "id": "cmt8qee503kvnro73qp7543yv",
-      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+      "rank": 9,
+      "id": "cmtar8e770746roam1wznm4mi",
+      "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
       "source": {
-        "name": "Apple：Newsroom（RSS）"
+        "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv",
-        "original": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-        "story": "https://aihot.virxact.com/story/be39d8ed-ecd3-41d3-8970-f67a0152ae2b"
+        "aihot": "https://aihot.virxact.com/items/cmtar8e770746roam1wznm4mi",
+        "original": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+        "story": "https://aihot.virxact.com/story/099dd15a-0a70-403c-a533-911c01a9e618"
       },
-      "sourceCount": 3,
-      "signalCount": 2,
+      "sourceCount": 2,
+      "signalCount": 1,
       "sourceNames": [
-        "Apple：Newsroom（RSS）",
-        "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "TechCrunch：AI（RSS）",
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-08-25T14:27:44.324Z"
+      "latestAt": "2026-08-27T02:25:22.411Z"
+    },
+    {
+      "rank": 10,
+      "id": "cmtas790607swroamcmunq53y",
+      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtas790607swroamcmunq53y",
+        "original": "https://www.ithome.com/0/994/807.htm",
+        "story": "https://aihot.virxact.com/story/b475083d-0095-468c-a599-e2168a8373e5"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-27T00:25:21.192Z"
     }
   ]
 }
