@@ -1,39 +1,59 @@
 {
-  "updatedAt": "2026-08-27T14:06:27.245776+00:00",
+  "updatedAt": "2026-08-28T15:17:10.170857+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmtb6o47l0mmaroamhnqtifvv",
-      "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
+      "id": "cmtcjzlxy03f8rodbxqdotbhg",
+      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
       "source": {
-        "name": "智谱：研究（网页内嵌数据）"
+        "name": "公众号：腾讯混元"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv",
-        "original": "https://www.zhipuai.cn/zh/research/163",
-        "story": "https://aihot.virxact.com/story/f8c2f6a7-79c2-4a69-847b-48bc9b5dc7fe"
+        "aihot": "https://aihot.virxact.com/items/cmtcjzlxy03f8rodbxqdotbhg",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
+        "story": "https://aihot.virxact.com/story/d1714ea4-c09f-4f86-8113-b53270bc43f6"
       },
-      "sourceCount": 11,
-      "signalCount": 8,
+      "sourceCount": 5,
+      "signalCount": 12,
       "sourceNames": [
+        "公众号：腾讯混元",
         "IT之家（RSS）",
-        "X：智谱 Z.ai (@Zai_org)",
-        "X：OpenRouter (@OpenRouter)",
-        "公众号：智谱（GLM）",
-        "X：Kim (@kimmonismus)",
+        "X：腾讯混元 (@TencentHunyuan)",
         "X：Testing Catalog (@testingcatalog)",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "MarkTechPost（RSS）",
-        "公众号：数字生命卡兹克",
-        "智谱：研究（网页内嵌数据）"
+        "X：Kim (@kimmonismus)"
       ],
-      "latestAt": "2026-08-27T07:10:28.200Z"
+      "latestAt": "2026-08-28T07:48:18.361Z"
     },
     {
       "rank": 2,
+      "id": "cmtbq1hfq156croamzzo9gno2",
+      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
+        "original": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+        "story": "https://aihot.virxact.com/story/53ba41b3-5fac-4211-a4f4-d7db1350805c"
+      },
+      "sourceCount": 8,
+      "signalCount": 6,
+      "sourceNames": [
+        "Google DeepMind：Blog（RSS）",
+        "X：Google AI (@GoogleAI)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
+        "The Decoder：AI News（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Gemini (@GeminiApp)",
+        "IT之家（RSS）",
+        "X：Google DeepMind (@GoogleDeepMind)"
+      ],
+      "latestAt": "2026-08-28T14:28:28.948Z"
+    },
+    {
+      "rank": 3,
       "id": "cmtacq8vz0aedroj24bcix9go",
       "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
       "source": {
@@ -44,8 +64,8 @@
         "original": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
         "story": "https://aihot.virxact.com/story/d49c0d4e-02fa-458f-8954-71cf7b7378d3"
       },
-      "sourceCount": 9,
-      "signalCount": 4,
+      "sourceCount": 12,
+      "signalCount": 6,
       "sourceNames": [
         "Google DeepMind：Blog（RSS）",
         "X：Sundar Pichai (@sundarpichai)",
@@ -55,12 +75,40 @@
         "Ars Technica：AI（RSS）",
         "X：Artificial Analysis (@ArtificialAnlys)",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）",
+        "Google AI：DEV 作者专属（RSS）"
       ],
-      "latestAt": "2026-08-27T05:25:24.038Z"
+      "latestAt": "2026-08-28T13:39:33.349Z"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "id": "cmtb6o47l0mmaroamhnqtifvv",
+      "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
+      "source": {
+        "name": "智谱：研究（网页内嵌数据）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv",
+        "original": "https://www.zhipuai.cn/zh/research/163",
+        "story": "https://aihot.virxact.com/story/f8c2f6a7-79c2-4a69-847b-48bc9b5dc7fe"
+      },
+      "sourceCount": 7,
+      "signalCount": 13,
+      "sourceNames": [
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "MarkTechPost（RSS）",
+        "公众号：数字生命卡兹克",
+        "智谱：研究（网页内嵌数据）",
+        "The Decoder：AI News（RSS）",
+        "X：X.PIN (@thexpin)",
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      ],
+      "latestAt": "2026-08-27T13:35:19.215Z"
+    },
+    {
+      "rank": 5,
       "id": "cmtaighmj02k5rovu2z28rxc2",
       "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
       "source": {
@@ -71,8 +119,8 @@
         "original": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
         "story": "https://aihot.virxact.com/story/104e012f-d50f-43c2-859a-deddb2ed0bb0"
       },
-      "sourceCount": 8,
-      "signalCount": 4,
+      "sourceCount": 10,
+      "signalCount": 6,
       "sourceNames": [
         "TechCrunch：AI（RSS）",
         "X：OpenAI (@OpenAI)",
@@ -81,38 +129,60 @@
         "X：Kim (@kimmonismus)",
         "The Verge：AI（RSS）",
         "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：小北 (@frxiaobei)",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-08-27T04:18:18.270Z"
+      "latestAt": "2026-08-27T16:31:54.711Z"
     },
     {
-      "rank": 4,
-      "id": "cmta2veap03nmrolwxllvp4ay",
-      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+      "rank": 6,
+      "id": "cmtaq20ih062wroamdrhb54b6",
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
       "source": {
-        "name": "Qwen：Blog Retrieval（API）"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay",
-        "original": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-        "story": "https://aihot.virxact.com/story/e6788dcb-8234-4128-9903-5e3e53e2ddad"
+        "aihot": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
+        "original": "https://www.ithome.com/0/994/791.htm",
+        "story": "https://aihot.virxact.com/story/1d723bbb-f726-4eff-97e9-31dd9c02c84c"
       },
-      "sourceCount": 8,
+      "sourceCount": 5,
       "signalCount": 3,
       "sourceNames": [
-        "Qwen：Blog Retrieval（API）",
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
         "X：Kim (@kimmonismus)",
-        "LMSYS：Blog（Chatbot Arena 团队）",
-        "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "The Decoder：AI News（RSS）",
+        "IT之家（RSS）",
+        "X：阑夕 (@foxshuo)"
+      ],
+      "latestAt": "2026-08-28T10:44:26.878Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmta9ciqt07c1roj219h5liie",
+      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+      "source": {
+        "name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie",
+        "original": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+        "story": "https://aihot.virxact.com/story/56b0f962-1658-4b7e-aef8-27753d4b3580"
+      },
+      "sourceCount": 5,
+      "signalCount": 3,
+      "sourceNames": [
         "MarkTechPost（RSS）",
+        "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
         "X：SemiAnalysis (@SemiAnalysis_)",
         "Simon Willison 博客"
       ],
       "latestAt": "2026-08-27T01:03:18.088Z"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "id": "cmtaxja5w0ckaroamws5is8wp",
       "title": "NVIDIA 季度营收指引达 1080 亿美元，首次突破单季千亿大关",
       "source": {
@@ -133,74 +203,26 @@
       "latestAt": "2026-08-27T06:25:24.707Z"
     },
     {
-      "rank": 6,
-      "id": "cmtaq20ih062wroamdrhb54b6",
-      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
-        "original": "https://www.ithome.com/0/994/791.htm",
-        "story": "https://aihot.virxact.com/story/1d723bbb-f726-4eff-97e9-31dd9c02c84c"
-      },
-      "sourceCount": 4,
-      "signalCount": 3,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Kim (@kimmonismus)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-26T23:25:21.048Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmt8z2eko055crolytaitdxv8",
-      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8",
-        "original": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
-        "story": "https://aihot.virxact.com/story/d2a4bf8a-d93d-4c77-81a1-a0b5a0765549"
-      },
-      "sourceCount": 4,
-      "signalCount": 3,
-      "sourceNames": [
-        "X：Claude (@claudeai)",
-        "TechCrunch：AI（RSS）",
-        "Claude：Blog（网页）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-25T23:25:10.909Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmt8qee503kvpro73kzthenuu",
-      "title": "Apple 发布 M6 与 M5 Ultra，性能与 AI 算力大幅跃升",
-      "source": {
-        "name": "Apple：Newsroom（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu",
-        "original": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-        "story": "https://aihot.virxact.com/story/b66ffa10-b581-4fd9-acd3-077f4e8481da"
-      },
-      "sourceCount": 5,
-      "signalCount": 3,
-      "sourceNames": [
-        "X：Kim (@kimmonismus)",
-        "Ars Technica：AI（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Apple：Newsroom（RSS）",
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "latestAt": "2026-08-25T15:18:18.011Z"
-    },
-    {
       "rank": 9,
+      "id": "cmtb43lik0i9sroamwtuxb1bu",
+      "title": "唐杰宣布GLM-5.3 Flash AA登顶OpenRouter",
+      "source": {
+        "name": "X：唐杰（@jietang）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtb43lik0i9sroamwtuxb1bu",
+        "original": "https://x.com/jietang/status/2092850258573471936",
+        "story": "https://aihot.virxact.com/story/18de9f71-f6fe-4839-882d-9405fac96df1"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "sourceNames": [
+        "X：唐杰（@jietang）"
+      ],
+      "latestAt": "2026-08-27T05:58:28.764Z"
+    },
+    {
+      "rank": 10,
       "id": "cmtar8e770746roam1wznm4mi",
       "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
       "source": {
@@ -212,31 +234,12 @@
         "story": "https://aihot.virxact.com/story/099dd15a-0a70-403c-a533-911c01a9e618"
       },
       "sourceCount": 2,
-      "signalCount": 1,
+      "signalCount": 2,
       "sourceNames": [
         "TechCrunch：AI（RSS）",
         "IT之家（RSS）"
       ],
       "latestAt": "2026-08-27T02:25:22.411Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmtas790607swroamcmunq53y",
-      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtas790607swroamcmunq53y",
-        "original": "https://www.ithome.com/0/994/807.htm",
-        "story": "https://aihot.virxact.com/story/b475083d-0095-468c-a599-e2168a8373e5"
-      },
-      "sourceCount": 1,
-      "signalCount": 1,
-      "sourceNames": [
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-27T00:25:21.192Z"
     }
   ]
 }
