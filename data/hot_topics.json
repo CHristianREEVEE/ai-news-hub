@@ -1,10 +1,40 @@
 {
-  "updatedAt": "2026-08-28T15:17:10.170857+00:00",
+  "updatedAt": "2026-08-29T09:59:29.923693+00:00",
   "source": "aihot.virxact.com",
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "rank": 1,
+      "id": "cmtdqc5oj03wzro2mgyc5a49x",
+      "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x",
+        "original": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "story": "https://aihot.virxact.com/story/e110ece2-e3c3-4c72-bde8-e80bd8dad08e"
+      },
+      "sourceCount": 12,
+      "signalCount": 13,
+      "sourceNames": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "X：OpenAI (@OpenAI)",
+        "X：Tibo (@thsottiaux)",
+        "IT之家（RSS）",
+        "X：Yuchen Jin (@Yuchenj_UW)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：小北 (@frxiaobei)",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Kim (@kimmonismus)",
+        "The Decoder：AI News（RSS）",
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "latestAt": "2026-08-29T09:44:26.244Z"
+    },
+    {
+      "rank": 2,
       "id": "cmtcjzlxy03f8rodbxqdotbhg",
       "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
       "source": {
@@ -15,19 +45,20 @@
         "original": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
         "story": "https://aihot.virxact.com/story/d1714ea4-c09f-4f86-8113-b53270bc43f6"
       },
-      "sourceCount": 5,
-      "signalCount": 12,
+      "sourceCount": 6,
+      "signalCount": 14,
       "sourceNames": [
         "公众号：腾讯混元",
         "IT之家（RSS）",
         "X：腾讯混元 (@TencentHunyuan)",
         "X：Testing Catalog (@testingcatalog)",
-        "X：Kim (@kimmonismus)"
+        "X：Kim (@kimmonismus)",
+        "X：opencode (@opencode)"
       ],
-      "latestAt": "2026-08-28T07:48:18.361Z"
+      "latestAt": "2026-08-29T02:28:28.610Z"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "cmtbq1hfq156croamzzo9gno2",
       "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
       "source": {
@@ -39,7 +70,7 @@
         "story": "https://aihot.virxact.com/story/53ba41b3-5fac-4211-a4f4-d7db1350805c"
       },
       "sourceCount": 8,
-      "signalCount": 6,
+      "signalCount": 7,
       "sourceNames": [
         "Google DeepMind：Blog（RSS）",
         "X：Google AI (@GoogleAI)",
@@ -53,29 +84,87 @@
       "latestAt": "2026-08-28T14:28:28.948Z"
     },
     {
-      "rank": 3,
-      "id": "cmtacq8vz0aedroj24bcix9go",
-      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+      "rank": 4,
+      "id": "cmtdbbfo6018arobxq8t77h9x",
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "Ars Technica：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go",
-        "original": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-        "story": "https://aihot.virxact.com/story/d49c0d4e-02fa-458f-8954-71cf7b7378d3"
+        "aihot": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
+        "original": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+        "story": "https://aihot.virxact.com/story/c65e5e0b-927e-4683-b171-c7ab2bf0f4e3"
       },
-      "sourceCount": 12,
-      "signalCount": 6,
+      "sourceCount": 7,
+      "signalCount": 2,
       "sourceNames": [
-        "Google DeepMind：Blog（RSS）",
-        "X：Sundar Pichai (@sundarpichai)",
-        "X：Logan Kilpatrick (@OfficialLoganK)",
-        "X：Google AI (@GoogleAI)",
-        "The Verge：AI（RSS）",
-        "Ars Technica：AI（RSS）",
-        "X：Artificial Analysis (@ArtificialAnlys)",
         "X：Rohan Paul (@rohanpaul_ai)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "The Verge：AI（RSS）",
         "IT之家（RSS）",
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-08-28T18:56:05.452Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmtd32q060c3vroq546ccqp7r",
+      "title": "GLM-5.3 开源权重，智能体编码与网防最强",
+      "source": {
+        "name": "X：智谱 Z.ai (@Zai_org)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r",
+        "original": "https://x.com/Zai_org/status/2093354097122455713",
+        "story": "https://aihot.virxact.com/story/9ee8965a-f634-4d44-8067-511be78c38f2"
+      },
+      "sourceCount": 3,
+      "signalCount": 1,
+      "sourceNames": [
+        "X：智谱 Z.ai (@Zai_org)",
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "latestAt": "2026-08-28T16:10:21.086Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmtd83hb4018fro667i1tbc34",
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+        "original": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+        "story": "https://aihot.virxact.com/story/656a2d46-8cb9-4041-8890-d473e869d40b"
+      },
+      "sourceCount": 3,
+      "signalCount": 0,
+      "sourceNames": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "X：Anthropic (@AnthropicAI)",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-08-28T19:55:55.165Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmtd00dbh09tkroq5v7kcw183",
+      "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+      "source": {
+        "name": "Google AI：DEV 作者专属（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183",
+        "original": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+        "story": "https://aihot.virxact.com/story/1e4a65a5-caad-467e-b816-305ada92469d"
+      },
+      "sourceCount": 3,
+      "signalCount": 0,
+      "sourceNames": [
         "The Decoder：AI News（RSS）",
         "MarkTechPost（RSS）",
         "Google AI：DEV 作者专属（RSS）"
@@ -83,163 +172,44 @@
       "latestAt": "2026-08-28T13:39:33.349Z"
     },
     {
-      "rank": 4,
-      "id": "cmtb6o47l0mmaroamhnqtifvv",
-      "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
+      "rank": 8,
+      "id": "cmtbqq6pi15j3roamyuhn0uvk",
+      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击“幽灵”评分器事件调查公布",
       "source": {
-        "name": "智谱：研究（网页内嵌数据）"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv",
-        "original": "https://www.zhipuai.cn/zh/research/163",
-        "story": "https://aihot.virxact.com/story/f8c2f6a7-79c2-4a69-847b-48bc9b5dc7fe"
+        "aihot": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
+        "original": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+        "story": "https://aihot.virxact.com/story/c9b22188-c6ee-4de8-9cd2-0109a128037f"
       },
-      "sourceCount": 7,
-      "signalCount": 13,
+      "sourceCount": 3,
+      "signalCount": 2,
       "sourceNames": [
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "MarkTechPost（RSS）",
-        "公众号：数字生命卡兹克",
-        "智谱：研究（网页内嵌数据）",
-        "The Decoder：AI News（RSS）",
-        "X：X.PIN (@thexpin)",
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "latestAt": "2026-08-27T13:35:19.215Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmtaighmj02k5rovu2z28rxc2",
-      "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2",
-        "original": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-        "story": "https://aihot.virxact.com/story/104e012f-d50f-43c2-859a-deddb2ed0bb0"
-      },
-      "sourceCount": 10,
-      "signalCount": 6,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：OpenAI (@OpenAI)",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "X：Kim (@kimmonismus)",
-        "The Verge：AI（RSS）",
-        "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
         "X：小北 (@frxiaobei)",
-        "The Decoder：AI News（RSS）"
+        "The Decoder：AI News（RSS）",
+        "X：AI Safety Memes (@AISafetyMemes)"
       ],
-      "latestAt": "2026-08-27T16:31:54.711Z"
+      "latestAt": "2026-08-28T23:54:09.172Z"
     },
     {
-      "rank": 6,
-      "id": "cmtaq20ih062wroamdrhb54b6",
-      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "rank": 9,
+      "id": "cmtdxtxi809gyro2m2zykqzli",
+      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
       "source": {
         "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
-        "original": "https://www.ithome.com/0/994/791.htm",
-        "story": "https://aihot.virxact.com/story/1d723bbb-f726-4eff-97e9-31dd9c02c84c"
-      },
-      "sourceCount": 5,
-      "signalCount": 3,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Kim (@kimmonismus)",
-        "IT之家（RSS）",
-        "X：阑夕 (@foxshuo)"
-      ],
-      "latestAt": "2026-08-28T10:44:26.878Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmta9ciqt07c1roj219h5liie",
-      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
-      "source": {
-        "name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie",
-        "original": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-        "story": "https://aihot.virxact.com/story/56b0f962-1658-4b7e-aef8-27753d4b3580"
-      },
-      "sourceCount": 5,
-      "signalCount": 3,
-      "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "X：SemiAnalysis (@SemiAnalysis_)",
-        "Simon Willison 博客"
-      ],
-      "latestAt": "2026-08-27T01:03:18.088Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmtaxja5w0ckaroamws5is8wp",
-      "title": "NVIDIA 季度营收指引达 1080 亿美元，首次突破单季千亿大关",
-      "source": {
-        "name": "Tomer Tunguz 博客（VC 分析）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtaxja5w0ckaroamws5is8wp",
-        "original": "https://www.tomtunguz.com/nvidia-q2-fy27-earnings",
-        "story": "https://aihot.virxact.com/story/023af2f9-23ec-4b61-9125-e1939e1f20d2"
-      },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Tomer Tunguz 博客（VC 分析）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-27T06:25:24.707Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmtb43lik0i9sroamwtuxb1bu",
-      "title": "唐杰宣布GLM-5.3 Flash AA登顶OpenRouter",
-      "source": {
-        "name": "X：唐杰（@jietang）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtb43lik0i9sroamwtuxb1bu",
-        "original": "https://x.com/jietang/status/2092850258573471936",
-        "story": "https://aihot.virxact.com/story/18de9f71-f6fe-4839-882d-9405fac96df1"
+        "aihot": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
+        "original": "https://www.ithome.com/0/995/896.htm",
+        "story": "https://aihot.virxact.com/story/313f9afa-24b1-413a-9804-db1f47628d2e"
       },
       "sourceCount": 1,
-      "signalCount": 1,
-      "sourceNames": [
-        "X：唐杰（@jietang）"
-      ],
-      "latestAt": "2026-08-27T05:58:28.764Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmtar8e770746roam1wznm4mi",
-      "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtar8e770746roam1wznm4mi",
-        "original": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
-        "story": "https://aihot.virxact.com/story/099dd15a-0a70-403c-a533-911c01a9e618"
-      },
-      "sourceCount": 2,
       "signalCount": 2,
       "sourceNames": [
-        "TechCrunch：AI（RSS）",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-08-27T02:25:22.411Z"
+      "latestAt": "2026-08-29T05:26:18.490Z"
     }
   ]
 }

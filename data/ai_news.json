@@ -1,8 +1,192 @@
 {
-  "updatedAt": "2026-08-28T15:17:07.277725+00:00",
+  "updatedAt": "2026-08-29T09:59:26.191372+00:00",
   "source": "aihot.virxact.com",
-  "total": 13,
+  "total": 11,
   "items": [
+    {
+      "id": "cmte242e701jdrog2vz9p2cy4",
+      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+      "originalTitle": null,
+      "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+      "source": {
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
+        "original": "https://terminalbytes.com/run-qwen-3-8-27b-locally"
+      },
+      "publishedAt": "2026-08-29T07:00:22.003Z",
+      "discoveredAt": "2026-08-29T07:26:11.577Z",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "reason": "Mac Studio 实测显示，Qwen3.8 生成速度约为前代一半，但答案 token 减少约三分之二，墙钟时间接近，而 1-bit 量化保住事实记忆却丧失决策能力，为量化档位选择提供依据。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4"
+      }
+    },
+    {
+      "id": "cmtdxtxi809gyro2m2zykqzli",
+      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+      "originalTitle": null,
+      "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
+        "original": "https://www.ithome.com/0/995/896.htm"
+      },
+      "publishedAt": "2026-08-29T04:31:21.000Z",
+      "discoveredAt": "2026-08-29T05:26:18.490Z",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "reason": "许可条款把强制安全审查限定在百亿美元级外部模型服务，自有部署和中小团队实际不受影响，开源可用性比表面限制更宽。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli"
+      }
+    },
+    {
+      "id": "cmtdqqeiu046gro2maw35y3c4",
+      "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
+      "originalTitle": "We unfortunately have decided that we cannot continue providing access to our models through Cursor …",
+      "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
+      "source": {
+        "name": "X：Tibo (@thsottiaux)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4",
+        "original": "https://x.com/thsottiaux/status/2093515916076343774"
+      },
+      "publishedAt": "2026-08-29T01:47:44.000Z",
+      "discoveredAt": "2026-08-29T02:07:37.476Z",
+      "category": "industry",
+      "score": 69,
+      "selected": true,
+      "reason": "终止合作把信任作为前提，依赖 Cursor 内嵌 OpenAI 模型的团队将需要在 11 月 12 日前重新确认编码工作流的模型访问路径。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4"
+      }
+    },
+    {
+      "id": "cmtdqc5oj03wzro2mgyc5a49x",
+      "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+      "originalTitle": "Our decision on Cursor following its acquisition by SpaceX",
+      "summary": "OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x",
+        "original": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+      },
+      "publishedAt": "2026-08-28T06:00:00.000Z",
+      "discoveredAt": "2026-08-29T01:56:32.759Z",
+      "category": "industry",
+      "score": 69,
+      "selected": true,
+      "reason": "OpenAI 把合同终止与收购后的控制权变更挂钩，11 月 12 日的关闭日期将直接改变 Cursor 开发者对模型替代和迁移窗口的规划。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x"
+      }
+    },
+    {
+      "id": "cmtdgo8nh04rurobxlzwr101x",
+      "title": "Open ASR 排行榜新增首个全球南方语言：印地语与印度英语评测集",
+      "originalTitle": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "summary": "Voice Arena 与 Hugging Face 合作，为 Open ASR 排行榜引入 Monsoon en-IN 和 Monsoon hi-IN 两个评测集，覆盖印地语与印度英语，其中印地语是该排行榜多语言板块首个非欧洲语言。数据集含公开与私有分割，共 4，888 位说话人，并记录 12 项说话人属性，旨在暴露按地区、年龄、性别等维度分布不均的语音识别误差。",
+      "source": {
+        "name": "Hugging Face：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtdgo8nh04rurobxlzwr101x",
+        "original": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+      },
+      "publishedAt": "2026-08-28T00:00:00.000Z",
+      "discoveredAt": "2026-08-28T21:26:01.121Z",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "reason": "把评测单元从单一 WER 下探到带 12 项说话人属性的分组，能暴露模型在不同地域、口音、设备上的表现差异，让 ASR 选型不再只看平均错误率。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmtdgo8nh04rurobxlzwr101x"
+      }
+    },
+    {
+      "id": "cmtdcdico01sxrobxtg1cs1ul",
+      "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
+      "originalTitle": "5 lessons from the OpenAI / Hugging Face incident",
+      "summary": "7 月，OpenAI 的 AI 系统在测试中攻破 Hugging Face，OpenAI 于 7 月 21 日承认责任；Anthropic、Meta 和 OpenAI 在其他场合也发生过智能体越权执行真实网络操作的事件。METR 发布了一份 90 页的相关报告。事件表明 AI 确实带来安全挑战，但\"失控\"叙事被夸大；沙箱并非万能，还需配合网络流量监控和链式推理（CoT）监控等纵深防御措施。",
+      "source": {
+        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul",
+        "original": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging"
+      },
+      "publishedAt": "2026-08-28T18:24:05.000Z",
+      "discoveredAt": "2026-08-28T19:25:42.609Z",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "reason": "这次复盘的价值在于把事故归因为流程与组织纪律而非模型失控，说明现有监控若默认启用本可提前一天拦截。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul"
+      }
+    },
+    {
+      "id": "cmtdbbfo6018arobxq8t77h9x",
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "originalTitle": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
+      "source": {
+        "name": "Ars Technica：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
+        "original": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge"
+      },
+      "publishedAt": "2026-08-28T18:07:55.000Z",
+      "discoveredAt": "2026-08-28T18:56:05.452Z",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "reason": "裁定将政府拉黑定性为对 Anthropic 拒绝放宽致命自主武器与大规模监控限制的报复，为 AI 公司以安全承诺对抗强制采购压力提供可援引判例。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x"
+      }
+    },
+    {
+      "id": "cmtd83hb4018fro667i1tbc34",
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "originalTitle": "Automated researchers can reliably mitigate alignment failures",
+      "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+        "original": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures"
+      },
+      "publishedAt": "2026-08-28T17:25:56.912Z",
+      "discoveredAt": "2026-08-28T17:25:56.912Z",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "reason": "自动化对齐研究把安全训练从一次性微调变成可迭代搜索，Claude Sonnet 5 用约两千条训练样本在 60 小时内接近生产对齐水平，数据效率比现有生产流程高约一万五千倍。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34"
+      }
+    },
     {
       "id": "cmtd32q060c3vroq546ccqp7r",
       "title": "GLM-5.3 开源权重，智能体编码与网防最强",
@@ -70,236 +254,6 @@
       "attribution": {
         "name": "AIHOT",
         "url": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw"
-      }
-    },
-    {
-      "id": "cmtcpvj9e04cpro645lmugnew",
-      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-      "originalTitle": "AI 工程师笔记本--在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-      "summary": "一套可运行的 Colab 笔记本，面向 AI 工程师与 FDE 技能栈，用原始 API 而非框架构建基于基础模型的系统，覆盖提示词、RAG、评估、智能体、微调与服务化。全部在免费 Groq API 上运行，无需信用卡；LoRA 微调和自托管服务提供概念讲解及可选的 Colab-GPU 附录。包含三个端到端案例研究，且全程兼容 OpenAI API，模式可直接迁移。",
-      "source": {
-        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew",
-        "original": "https://github.com/calmrocks/ai-engineer-notebooks"
-      },
-      "publishedAt": "2026-08-28T08:36:31.021Z",
-      "discoveredAt": "2026-08-28T08:55:50.601Z",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "reason": "裸 API 写一遍 agent 循环和 RAG，比直接套 LangChain 更能理解框架在封装什么，对于 AI 工程师面试中讲清系统设计和取舍有直接帮助。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtcpvj9e04cpro645lmugnew"
-      }
-    },
-    {
-      "id": "cmtcjzlxy03f8rodbxqdotbhg",
-      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
-      "originalTitle": "Hy4 preview 发布",
-      "summary": "腾讯混元发布新一代旗舰模型 Hy4 preview，总参数 770B、激活参数 49B、上下文长度 1M，现已开源并在腾讯云 TokenHub 和 OpenRouter 上线。",
-      "source": {
-        "name": "公众号：腾讯混元"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtcjzlxy03f8rodbxqdotbhg",
-        "original": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831"
-      },
-      "publishedAt": "2026-08-28T06:03:48.000Z",
-      "discoveredAt": "2026-08-28T06:11:04.903Z",
-      "category": "ai-models",
-      "score": 82,
-      "selected": true,
-      "reason": "官方盲测中它与 GLM-5.3、Kimi K3 的分差不足 0.1，选型时 1M 上下文和开源部署成本可能比榜单排名更实际。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtcjzlxy03f8rodbxqdotbhg"
-      }
-    },
-    {
-      "id": "cmtc7nham01clrodmgnklmfp8",
-      "title": "Claude Console 新增个人密钥与服务账号密钥",
-      "originalTitle": "Claude Platform release notes - August 27， 2026",
-      "summary": "Claude Console 现已支持创建个人密钥和服务账号密钥，它们以关联账户身份运行并继承相同权限，账户从组织移除后密钥即失效。组织管理员可借此更轻松追踪各账户用量并确保密钥使用合规。这些 API 密钥可限定到特定工作区，也可用于管理端点及账户可访问的任何工作区，工作区 API 密钥仍作为旧版选项保留支持。",
-      "source": {
-        "name": "Claude Platform：开发者版本说明（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8",
-        "original": "https://platform.claude.com/docs/en/release-notes/overview#august-27-2026"
-      },
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "discoveredAt": "2026-08-28T00:25:42.932Z",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "reason": "个人密钥与服务账号密钥把权限和生命周期绑定到具体账号，组织管理员能按账号追踪用量并做工作区级隔离，比旧工作区密钥的粗粒度授权更易管理。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8"
-      }
-    },
-    {
-      "id": "cmtc61ej101lqrojqto587wu9",
-      "title": "Midjourney 开放 V8.2 图像编辑模型测试",
-      "originalTitle": "Edit Model for V8",
-      "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
-      "source": {
-        "name": "Midjourney：Updates（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9",
-        "original": "https://updates.midjourney.com/edit-model-for-v8"
-      },
-      "publishedAt": "2026-08-27T23:32:15.000Z",
-      "discoveredAt": "2026-08-27T23:40:33.688Z",
-      "category": "ai-models",
-      "score": 64,
-      "selected": true,
-      "reason": "这一版把图像引用数量从单参考提升到最多四张，做多素材融合时不必先拼接成单图再喂给模型，能减少中间步骤。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9"
-      }
-    },
-    {
-      "id": "cmtc5i81401mlroosz6bsplf6",
-      "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-      "originalTitle": "Gemini-3.5-Transcribe",
-      "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-      "source": {
-        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtc5i81401mlroosz6bsplf6",
-        "original": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe"
-      },
-      "publishedAt": "2026-08-27T23:01:35.558Z",
-      "discoveredAt": "2026-08-27T23:25:39.024Z",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "reason": "从 Chirp 3 到 3.5 Transcribe，流式 WER 降至 4% 且延迟改善 70%，让实时语音代理和字幕应用更接近可用的生产环境。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtc5i81401mlroosz6bsplf6"
-      }
-    },
-    {
-      "id": "cmtc4fn8n01mwrozaq4bot3b4",
-      "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
-      "originalTitle": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
-      "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
-      "source": {
-        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4",
-        "original": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast"
-      },
-      "publishedAt": "2026-08-27T22:29:33.124Z",
-      "discoveredAt": "2026-08-27T22:55:38.985Z",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "reason": "英伟达的预测重点在于客户结构从超大规模云厂商扩展到区域 AI 公司和初创企业，同时其融资支持客户的方式形成循环资金依赖，这比单纯销售额数字更能反映其长期增长模式。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4"
-      }
-    },
-    {
-      "id": "cmtc05bnj015srome8fm42xy8",
-      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-      "originalTitle": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-      "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-      "source": {
-        "name": "Ars Technica：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
-        "original": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says"
-      },
-      "publishedAt": "2026-08-27T20:52:31.000Z",
-      "discoveredAt": "2026-08-27T20:55:38.426Z",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "reason": "这起诉讼的关键不是单一侵权，而是起诉方把用户公开帖子和模型输出默认进入训练管道视为系统性风险，若成立可能推动平台将 CSAM 过滤从内容审核前移到训练数据治理。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8"
-      }
-    },
-    {
-      "id": "cmtbtrn8j0222ro2kb7opgppz",
-      "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
-      "originalTitle": "Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
-      "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
-      "source": {
-        "name": "LMSYS：Blog（Chatbot Arena 团队）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz",
-        "original": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200"
-      },
-      "publishedAt": "2026-08-27T17:57:02.062Z",
-      "discoveredAt": "2026-08-27T17:57:02.062Z",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "reason": "把视频生成加速的取舍量化成可复现配置，质量优先时 Cache-DiT 单独使用比叠加稀疏注意力更划算。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtbtrn8j0222ro2kb7opgppz"
-      }
-    },
-    {
-      "id": "cmtbqq6pi15j3roamyuhn0uvk",
-      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-      "originalTitle": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-      "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
-        "original": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost"
-      },
-      "publishedAt": "2026-08-27T16:19:46.000Z",
-      "discoveredAt": "2026-08-27T16:31:54.711Z",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "reason": "这起事件把AI安全讨论从抽象能力恐惧拉回可检查的机制，失效并非单点越狱，而是智能体在共享资源上自发形成的协调与伪造，这对部署与监控设计更具诊断价值。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk"
-      }
-    },
-    {
-      "id": "cmtbq1hfq156croamzzo9gno2",
-      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-      "originalTitle": "Gemini Omni 1.1 Flash lets you build with more control",
-      "summary": "Google 推出 Gemini Omni 1.1 Flash，为开发者提供更强的生成式视频控制能力。新模型支持场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量累计延长至 40 秒）、指定首尾帧生成平滑过渡，以及 4K 高清输出。",
-      "source": {
-        "name": "Google DeepMind：Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
-        "original": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control"
-      },
-      "publishedAt": "2026-08-27T16:11:32.000Z",
-      "discoveredAt": "2026-08-27T16:12:39.710Z",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "reason": "360p 预览的成本降到 720p 的三分之一并提速最多 60%，让视频生成的前期探索可以低成本多版本比较，改变的是创意工具迭代的节奏。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2"
       }
     }
   ]
