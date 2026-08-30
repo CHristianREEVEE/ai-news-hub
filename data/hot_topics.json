@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-29T09:59:29.923693+00:00",
+  "updatedAt": "2026-08-30T09:10:12.962650+00:00",
   "source": "aihot.virxact.com",
-  "count": 9,
+  "count": 7,
   "items": [
     {
       "rank": 1,
@@ -16,7 +16,7 @@
         "story": "https://aihot.virxact.com/story/e110ece2-e3c3-4c72-bde8-e80bd8dad08e"
       },
       "sourceCount": 12,
-      "signalCount": 13,
+      "signalCount": 22,
       "sourceNames": [
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "X：OpenAI (@OpenAI)",
@@ -35,78 +35,67 @@
     },
     {
       "rank": 2,
-      "id": "cmtcjzlxy03f8rodbxqdotbhg",
-      "title": "腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线",
+      "id": "cmtfkvjwn0by7rou8vil9ysf1",
+      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
       "source": {
-        "name": "公众号：腾讯混元"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtcjzlxy03f8rodbxqdotbhg",
-        "original": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498484&idx=1&sn=0db140a12b8e18601ac933788045c831",
-        "story": "https://aihot.virxact.com/story/d1714ea4-c09f-4f86-8113-b53270bc43f6"
+        "aihot": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+        "original": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
+        "story": "https://aihot.virxact.com/story/1ac60d93-a788-40fe-aa01-617659457cf1"
       },
-      "sourceCount": 6,
-      "signalCount": 14,
+      "sourceCount": 5,
+      "signalCount": 0,
       "sourceNames": [
-        "公众号：腾讯混元",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
         "IT之家（RSS）",
-        "X：腾讯混元 (@TencentHunyuan)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Kim (@kimmonismus)",
-        "X：opencode (@opencode)"
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-08-29T02:28:28.610Z"
+      "latestAt": "2026-08-30T08:59:11.175Z"
     },
     {
       "rank": 3,
-      "id": "cmtbq1hfq156croamzzo9gno2",
-      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
+      "id": "cmtf0ibgi091wrovjvv5ee7qv",
+      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "Dwarkesh Patel：Podcast & Blog（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
-        "original": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-        "story": "https://aihot.virxact.com/story/53ba41b3-5fac-4211-a4f4-d7db1350805c"
+        "aihot": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
+        "original": "https://www.dwarkesh.com/p/openai-huggingface",
+        "story": "https://aihot.virxact.com/story/5b5816f9-7340-4732-ba79-92d684fb1011"
       },
-      "sourceCount": 8,
-      "signalCount": 7,
+      "sourceCount": 2,
+      "signalCount": 0,
       "sourceNames": [
-        "Google DeepMind：Blog（RSS）",
-        "X：Google AI (@GoogleAI)",
-        "X：Logan Kilpatrick (@OfficialLoganK)",
-        "The Decoder：AI News（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Gemini (@GeminiApp)",
-        "IT之家（RSS）",
-        "X：Google DeepMind (@GoogleDeepMind)"
+        "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "X：AI Safety Memes (@AISafetyMemes)"
       ],
-      "latestAt": "2026-08-28T14:28:28.948Z"
+      "latestAt": "2026-08-29T23:54:09.378Z"
     },
     {
       "rank": 4,
-      "id": "cmtdbbfo6018arobxq8t77h9x",
-      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "id": "cmtdssm0205s8ro2mzzv9s9kq",
+      "title": "Cursor回应OpenAI将封禁其模型访问",
       "source": {
-        "name": "Ars Technica：AI（RSS）"
+        "name": "X：Michael Truell (@mntruell)"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
-        "original": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-        "story": "https://aihot.virxact.com/story/c65e5e0b-927e-4683-b171-c7ab2bf0f4e3"
+        "aihot": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
+        "original": "https://x.com/mntruell/status/2093532254006063557",
+        "story": "https://aihot.virxact.com/story/250c3de7-26af-4efa-8c63-cefd6f00aae5"
       },
-      "sourceCount": 7,
-      "signalCount": 2,
+      "sourceCount": 3,
+      "signalCount": 1,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "The Verge：AI（RSS）",
-        "IT之家（RSS）",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "Ars Technica：AI（RSS）"
+        "X：Michael Truell (@mntruell)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：Tibo (@thsottiaux)"
       ],
-      "latestAt": "2026-08-28T18:56:05.452Z"
+      "latestAt": "2026-08-29T19:37:37.350Z"
     },
     {
       "rank": 5,
@@ -131,69 +120,6 @@
     },
     {
       "rank": 6,
-      "id": "cmtd83hb4018fro667i1tbc34",
-      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
-      "source": {
-        "name": "Anthropic：Research（发表成果 · 网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
-        "original": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-        "story": "https://aihot.virxact.com/story/656a2d46-8cb9-4041-8890-d473e869d40b"
-      },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "sourceNames": [
-        "Anthropic：Research（发表成果 · 网页）",
-        "X：Anthropic (@AnthropicAI)",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-08-28T19:55:55.165Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmtd00dbh09tkroq5v7kcw183",
-      "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-      "source": {
-        "name": "Google AI：DEV 作者专属（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183",
-        "original": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-        "story": "https://aihot.virxact.com/story/1e4a65a5-caad-467e-b816-305ada92469d"
-      },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "MarkTechPost（RSS）",
-        "Google AI：DEV 作者专属（RSS）"
-      ],
-      "latestAt": "2026-08-28T13:39:33.349Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmtbqq6pi15j3roamyuhn0uvk",
-      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击“幽灵”评分器事件调查公布",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
-        "original": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-        "story": "https://aihot.virxact.com/story/c9b22188-c6ee-4de8-9cd2-0109a128037f"
-      },
-      "sourceCount": 3,
-      "signalCount": 2,
-      "sourceNames": [
-        "X：小北 (@frxiaobei)",
-        "The Decoder：AI News（RSS）",
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "latestAt": "2026-08-28T23:54:09.172Z"
-    },
-    {
-      "rank": 9,
       "id": "cmtdxtxi809gyro2m2zykqzli",
       "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
       "source": {
@@ -205,11 +131,33 @@
         "story": "https://aihot.virxact.com/story/313f9afa-24b1-413a-9804-db1f47628d2e"
       },
       "sourceCount": 1,
-      "signalCount": 2,
+      "signalCount": 3,
       "sourceNames": [
         "IT之家（RSS）"
       ],
       "latestAt": "2026-08-29T05:26:18.490Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmtdbbfo6018arobxq8t77h9x",
+      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
+      "source": {
+        "name": "Ars Technica：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
+        "original": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
+        "story": "https://aihot.virxact.com/story/c65e5e0b-927e-4683-b171-c7ab2bf0f4e3"
+      },
+      "sourceCount": 4,
+      "signalCount": 0,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-08-28T18:56:05.452Z"
     }
   ]
 }
