@@ -1,33 +1,111 @@
 {
-  "updatedAt": "2026-08-31T09:38:54.779061+00:00",
+  "updatedAt": "2026-09-01T08:34:58.455878+00:00",
   "source": "aihot.virxact.com",
-  "count": 3,
+  "count": 8,
   "items": [
     {
       "rank": 1,
-      "id": "cmtfkvjwn0by7rou8vil9ysf1",
-      "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
+      "id": "cmthb75t6092frodmg7ic1fc0",
+      "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
-        "original": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
-        "story": "https://aihot.virxact.com/story/1ac60d93-a788-40fe-aa01-617659457cf1"
+        "aihot": "https://aihot.virxact.com/items/cmthb75t6092frodmg7ic1fc0",
+        "original": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "story": "https://aihot.virxact.com/story/4c5e6b85-0640-45c0-88a3-038ca20780e9"
       },
-      "sourceCount": 5,
+      "sourceCount": 4,
       "signalCount": 7,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
         "IT之家（RSS）",
-        "The Decoder：AI News（RSS）"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-08-30T08:59:11.175Z"
+      "latestAt": "2026-08-31T16:18:18.304Z"
     },
     {
       "rank": 2,
+      "id": "cmthucrfr029srofq5929jhje",
+      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje",
+        "original": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "story": "https://aihot.virxact.com/story/09142bdb-4123-4580-8c03-d59d20aa79ab"
+      },
+      "sourceCount": 3,
+      "signalCount": 2,
+      "sourceNames": [
+        "X：Anthropic (@AnthropicAI)",
+        "Anthropic：Newsroom（网页）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-01T00:29:24.646Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmthhmoi10e71rodmx6wngoz1",
+      "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+      "source": {
+        "name": "Runway：News（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1",
+        "original": "https://runwayml.com/news/research/introducing-solaris",
+        "story": "https://aihot.virxact.com/story/f2514c87-bca2-4b0d-8fc7-7f8e96f31b33"
+      },
+      "sourceCount": 1,
+      "signalCount": 2,
+      "sourceNames": [
+        "Runway：News（网页）"
+      ],
+      "latestAt": "2026-08-31T17:03:47.031Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmthxigqm04c1rofqqmk7pkqi",
+      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+      "source": {
+        "name": "X：Anthropic (@AnthropicAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi",
+        "original": "https://x.com/AnthropicAI/status/2094577944056430865",
+        "story": "https://aihot.virxact.com/story/d8d4fb98-abba-4c18-a0b5-c72d86f43b75"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "X：Anthropic (@AnthropicAI)",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-09-01T01:48:18.141Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmthe8mr70bc5rodmmoqydd63",
+      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
+      "source": {
+        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63",
+        "original": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
+        "story": "https://aihot.virxact.com/story/c662f517-e8e9-4a33-9bc5-7b26dd7e83b1"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "sourceNames": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "latestAt": "2026-08-31T15:28:57.767Z"
+    },
+    {
+      "rank": 6,
       "id": "cmtgi3e9q01ekrokdi67kdx19",
       "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
       "source": {
@@ -39,7 +117,7 @@
         "story": "https://aihot.virxact.com/story/66a4a430-c2f1-4ef6-9892-e01b090d355f"
       },
       "sourceCount": 2,
-      "signalCount": 0,
+      "signalCount": 1,
       "sourceNames": [
         "Ethan Mollick：One Useful Thing（RSS）",
         "X：Ethan Mollick (@emollick)"
@@ -47,24 +125,43 @@
       "latestAt": "2026-08-31T05:18:18.616Z"
     },
     {
-      "rank": 3,
-      "id": "cmtf0ibgi091wrovjvv5ee7qv",
-      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+      "rank": 7,
+      "id": "cmth7tmq2067orodmh6g0sxie",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
       "source": {
-        "name": "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-        "original": "https://www.dwarkesh.com/p/openai-huggingface",
-        "story": "https://aihot.virxact.com/story/5b5816f9-7340-4732-ba79-92d684fb1011"
+        "aihot": "https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie",
+        "original": "https://www.ithome.com/0/996/637.htm",
+        "story": "https://aihot.virxact.com/story/b2d79ee3-7fab-4f3d-ad40-27530e99d437"
+      },
+      "sourceCount": 1,
+      "signalCount": 5,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-08-31T12:29:19.834Z"
+    },
+    {
+      "rank": 8,
+      "id": "cmthlzpxs04ptro1ppa4r8ckh",
+      "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天",
+      "source": {
+        "name": "Ars Technica：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmthlzpxs04ptro1ppa4r8ckh",
+        "original": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
+        "story": "https://aihot.virxact.com/story/1ac60d93-a788-40fe-aa01-617659457cf1"
       },
       "sourceCount": 2,
-      "signalCount": 0,
+      "signalCount": 5,
       "sourceNames": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "X：AI Safety Memes (@AISafetyMemes)"
+        "The Decoder：AI News（RSS）",
+        "Ars Technica：AI（RSS）"
       ],
-      "latestAt": "2026-08-29T23:54:09.378Z"
+      "latestAt": "2026-08-31T19:05:58.857Z"
     }
   ]
 }
