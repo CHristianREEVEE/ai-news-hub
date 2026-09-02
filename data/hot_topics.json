@@ -1,10 +1,85 @@
 {
-  "updatedAt": "2026-09-01T08:34:58.455878+00:00",
+  "updatedAt": "2026-09-02T07:51:53.455335+00:00",
   "source": "aihot.virxact.com",
-  "count": 8,
+  "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "cmtjjkmd800r4roe4wpq221bc",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc",
+        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "story": "https://aihot.virxact.com/story/21e79448-e0a4-4a8f-a999-9236d42e5852"
+      },
+      "sourceCount": 14,
+      "signalCount": 19,
+      "sourceNames": [
+        "X：Testing Catalog (@testingcatalog)",
+        "Claude Platform：开发者版本说明（RSS）",
+        "X：Claude (@claudeai)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Claude Devs (@ClaudeDevs)",
+        "X：Boris Cherny (@bcherny)",
+        "TechCrunch：AI（RSS）",
+        "MarkTechPost（RSS）",
+        "The Decoder：AI News（RSS）",
+        "IT之家（RSS）",
+        "The Verge：AI（RSS）",
+        "X：Thariq (@trq212)",
+        "X：小北 (@frxiaobei)",
+        "Anthropic：Newsroom（网页）"
+      ],
+      "latestAt": "2026-09-02T03:33:48.237Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmtjimzgx083zrobvekm2zmje",
+      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
+      "source": {
+        "name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje",
+        "original": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
+        "story": "https://aihot.virxact.com/story/bc5ccb43-f7bc-4bbf-9549-3d627087b555"
+      },
+      "sourceCount": 4,
+      "signalCount": 3,
+      "sourceNames": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "IT之家（RSS）",
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "latestAt": "2026-09-02T05:44:26.063Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmtj42kz5057qroh9yw6fjh9h",
+      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h",
+        "original": "https://openai.com/index/path-to-astra",
+        "story": "https://aihot.virxact.com/story/4377bab6-9a0c-49dd-bc06-a92bf71fbb26"
+      },
+      "sourceCount": 3,
+      "signalCount": 3,
+      "sourceNames": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "latestAt": "2026-09-02T03:30:22.458Z"
+    },
+    {
+      "rank": 4,
       "id": "cmthb75t6092frodmg7ic1fc0",
       "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
       "source": {
@@ -15,20 +90,62 @@
         "original": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
         "story": "https://aihot.virxact.com/story/4c5e6b85-0640-45c0-88a3-038ca20780e9"
       },
-      "sourceCount": 4,
-      "signalCount": 7,
+      "sourceCount": 5,
+      "signalCount": 8,
       "sourceNames": [
         "IT之家（RSS）",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Artificial Intelligence News（网页）"
       ],
-      "latestAt": "2026-08-31T16:18:18.304Z"
+      "latestAt": "2026-09-02T03:33:50.024Z"
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "id": "cmtivvilg06f0ro9yk5dt7mrc",
+      "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
+      "source": {
+        "name": "Google Blog：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc",
+        "original": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+        "story": "https://aihot.virxact.com/story/cc334ed7-20df-40ce-9b36-d3337dee49ec"
+      },
+      "sourceCount": 3,
+      "signalCount": 1,
+      "sourceNames": [
+        "The Verge：AI（RSS）",
+        "Google Blog：AI（RSS）",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-09-01T18:00:14.803Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmtiy0v6k01dproel63pg10os",
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os",
+        "original": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+        "story": "https://aihot.virxact.com/story/6202770a-3495-4da8-9874-46581dc8a48b"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "Google DeepMind：Blog（RSS）",
+        "X：Google DeepMind (@GoogleDeepMind)"
+      ],
+      "latestAt": "2026-09-01T17:58:28.714Z"
+    },
+    {
+      "rank": 7,
       "id": "cmthucrfr029srofq5929jhje",
-      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+      "title": "Anthropic 复盘 Claude 模型越权访问真实系统事件并改进对齐与安全措施",
       "source": {
         "name": "Anthropic：Newsroom（网页）"
       },
@@ -38,7 +155,7 @@
         "story": "https://aihot.virxact.com/story/09142bdb-4123-4580-8c03-d59d20aa79ab"
       },
       "sourceCount": 3,
-      "signalCount": 2,
+      "signalCount": 3,
       "sourceNames": [
         "X：Anthropic (@AnthropicAI)",
         "Anthropic：Newsroom（网页）",
@@ -47,16 +164,36 @@
       "latestAt": "2026-09-01T00:29:24.646Z"
     },
     {
-      "rank": 3,
+      "rank": 8,
+      "id": "cmtjhy5ze07gorobv62fpf0wi",
+      "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi",
+        "original": "https://x.com/rohanpaul_ai/status/2094975190468010368",
+        "story": "https://aihot.virxact.com/story/493ff54d-1a7e-409e-9f9f-f336d2d0c62a"
+      },
+      "sourceCount": 2,
+      "signalCount": 3,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-09-02T02:48:18.699Z"
+    },
+    {
+      "rank": 9,
       "id": "cmthhmoi10e71rodmx6wngoz1",
-      "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+      "title": "Runway 发布 Interface World Models 首个模型 Solaris，实时逐帧生成可交互界面",
       "source": {
         "name": "Runway：News（网页）"
       },
       "links": {
         "aihot": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1",
         "original": "https://runwayml.com/news/research/introducing-solaris",
-        "story": "https://aihot.virxact.com/story/f2514c87-bca2-4b0d-8fc7-7f8e96f31b33"
+        "story": "https://aihot.virxact.com/story/15cd9ad8-8127-478c-8115-ab1d5efa565a"
       },
       "sourceCount": 1,
       "signalCount": 2,
@@ -66,7 +203,7 @@
       "latestAt": "2026-08-31T17:03:47.031Z"
     },
     {
-      "rank": 4,
+      "rank": 10,
       "id": "cmthxigqm04c1rofqqmk7pkqi",
       "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
       "source": {
@@ -84,84 +221,6 @@
         "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "latestAt": "2026-09-01T01:48:18.141Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmthe8mr70bc5rodmmoqydd63",
-      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-      "source": {
-        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63",
-        "original": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-        "story": "https://aihot.virxact.com/story/c662f517-e8e9-4a33-9bc5-7b26dd7e83b1"
-      },
-      "sourceCount": 1,
-      "signalCount": 1,
-      "sourceNames": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "latestAt": "2026-08-31T15:28:57.767Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmtgi3e9q01ekrokdi67kdx19",
-      "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
-      "source": {
-        "name": "Ethan Mollick：One Useful Thing（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
-        "original": "https://www.oneusefulthing.org/p/agency-and-agents",
-        "story": "https://aihot.virxact.com/story/66a4a430-c2f1-4ef6-9892-e01b090d355f"
-      },
-      "sourceCount": 2,
-      "signalCount": 1,
-      "sourceNames": [
-        "Ethan Mollick：One Useful Thing（RSS）",
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "latestAt": "2026-08-31T05:18:18.616Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmth7tmq2067orodmh6g0sxie",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie",
-        "original": "https://www.ithome.com/0/996/637.htm",
-        "story": "https://aihot.virxact.com/story/b2d79ee3-7fab-4f3d-ad40-27530e99d437"
-      },
-      "sourceCount": 1,
-      "signalCount": 5,
-      "sourceNames": [
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-08-31T12:29:19.834Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmthlzpxs04ptro1ppa4r8ckh",
-      "title": "Sony 等音乐出版商起诉 Anthropic，引用员工赞美盗版图书馆的内部聊天",
-      "source": {
-        "name": "Ars Technica：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmthlzpxs04ptro1ppa4r8ckh",
-        "original": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit",
-        "story": "https://aihot.virxact.com/story/1ac60d93-a788-40fe-aa01-617659457cf1"
-      },
-      "sourceCount": 2,
-      "signalCount": 5,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "Ars Technica：AI（RSS）"
-      ],
-      "latestAt": "2026-08-31T19:05:58.857Z"
     }
   ]
 }
