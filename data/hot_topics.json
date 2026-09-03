@@ -1,21 +1,59 @@
 {
-  "updatedAt": "2026-09-02T07:51:53.455335+00:00",
+  "updatedAt": "2026-09-03T07:59:24.013328+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmtjjkmd800r4roe4wpq221bc",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+      "id": "cmtkbdbti01n8roz5k5kt1g98",
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "Google DeepMind：Blog（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc",
-        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "story": "https://aihot.virxact.com/story/21e79448-e0a4-4a8f-a999-9236d42e5852"
+        "aihot": "https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98",
+        "original": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+        "story": "https://aihot.virxact.com/story/e2551b9a-9796-4be2-b9b7-df7869e0e375"
       },
-      "sourceCount": 14,
+      "sourceCount": 20,
+      "signalCount": 16,
+      "sourceNames": [
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+        "X：Google DeepMind (@GoogleDeepMind)",
+        "X：Gemini (@GeminiApp)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
+        "X：Google AI (@GoogleAI)",
+        "X：Ammaar Reshi (@ammaar)",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Sundar Pichai (@sundarpichai)",
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Google DeepMind：Blog（RSS）",
+        "X：fofr (@fofrAI)",
+        "X：Demis Hassabis (@demishassabis)",
+        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-02T18:36:47.582Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmtj04igz04xproel00pt2oju",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+      "source": {
+        "name": "Claude Platform：开发者版本说明（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju",
+        "original": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026",
+        "story": "https://aihot.virxact.com/story/7b91b9e1-88b6-4346-af8d-6bbe82d3d454"
+      },
+      "sourceCount": 13,
       "signalCount": 19,
       "sourceNames": [
         "X：Testing Catalog (@testingcatalog)",
@@ -30,13 +68,146 @@
         "IT之家（RSS）",
         "The Verge：AI（RSS）",
         "X：Thariq (@trq212)",
-        "X：小北 (@frxiaobei)",
+        "X：小北 (@frxiaobei)"
+      ],
+      "latestAt": "2026-09-02T01:18:18.758Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmtkme19o02plro5q94jsf94x",
+      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+      "source": {
+        "name": "X：Kim (@kimmonismus)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
+        "original": "https://x.com/kimmonismus/status/2095265444999410146",
+        "story": "https://aihot.virxact.com/story/9133c201-a7f1-4d65-82ed-949d0d43b008"
+      },
+      "sourceCount": 6,
+      "signalCount": 6,
+      "sourceNames": [
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Kim (@kimmonismus)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-02T23:29:45.006Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmtkh71ky017vrolly7trswyx",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+      "source": {
+        "name": "X：Claude (@claudeai)"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
+        "original": "https://x.com/claudeai/status/2095226833293685100",
+        "story": "https://aihot.virxact.com/story/1a869339-cfba-415e-a511-c20b3a64151a"
+      },
+      "sourceCount": 3,
+      "signalCount": 2,
+      "sourceNames": [
+        "X：Claude (@claudeai)",
+        "IT之家（RSS）",
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "latestAt": "2026-09-03T05:37:37.837Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmtkcffah018zrog0zokk6s30",
+      "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30",
+        "original": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+        "story": "https://aihot.virxact.com/story/b5ccaf44-416e-47e9-b5a9-fb6c53ad55b0"
+      },
+      "sourceCount": 2,
+      "signalCount": 2,
+      "sourceNames": [
+        "Claude：Blog（网页）",
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "latestAt": "2026-09-02T19:37:37.276Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmtjjkmd800r4roe4wpq221bc",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc",
+        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "story": "https://aihot.virxact.com/story/5c45bcb6-ed43-439c-9b61-e87fded3d73c"
+      },
+      "sourceCount": 6,
+      "signalCount": 3,
+      "sourceNames": [
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Claude Devs (@ClaudeDevs)",
+        "MarkTechPost（RSS）",
+        "IT之家（RSS）",
+        "The Verge：AI（RSS）",
         "Anthropic：Newsroom（网页）"
       ],
       "latestAt": "2026-09-02T03:33:48.237Z"
     },
     {
-      "rank": 2,
+      "rank": 7,
+      "id": "cmtkfnpup03n1robqoh5tnh4t",
+      "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtkfnpup03n1robqoh5tnh4t",
+        "original": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
+        "story": "https://aihot.virxact.com/story/a1d2721c-ffb0-4ae3-b63e-dde3aeba36ed"
+      },
+      "sourceCount": 5,
+      "signalCount": 1,
+      "sourceNames": [
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-03T00:29:45.977Z"
+    },
+    {
+      "rank": 8,
+      "id": "cmtj42kz5057qroh9yw6fjh9h",
+      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h",
+        "original": "https://openai.com/index/path-to-astra",
+        "story": "https://aihot.virxact.com/story/b3171d1e-340d-4c41-94b4-92641cd7ed4e"
+      },
+      "sourceCount": 4,
+      "signalCount": 5,
+      "sourceNames": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "X：Kim (@kimmonismus)",
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-09-02T14:31:52.446Z"
+    },
+    {
+      "rank": 9,
       "id": "cmtjimzgx083zrobvekm2zmje",
       "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
       "source": {
@@ -47,180 +218,36 @@
         "original": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
         "story": "https://aihot.virxact.com/story/bc5ccb43-f7bc-4bbf-9549-3d627087b555"
       },
-      "sourceCount": 4,
-      "signalCount": 3,
+      "sourceCount": 5,
+      "signalCount": 4,
       "sourceNames": [
         "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
         "IT之家（RSS）",
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "X：Kim (@kimmonismus)"
       ],
-      "latestAt": "2026-09-02T05:44:26.063Z"
-    },
-    {
-      "rank": 3,
-      "id": "cmtj42kz5057qroh9yw6fjh9h",
-      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h",
-        "original": "https://openai.com/index/path-to-astra",
-        "story": "https://aihot.virxact.com/story/4377bab6-9a0c-49dd-bc06-a92bf71fbb26"
-      },
-      "sourceCount": 3,
-      "signalCount": 3,
-      "sourceNames": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "latestAt": "2026-09-02T03:30:22.458Z"
-    },
-    {
-      "rank": 4,
-      "id": "cmthb75t6092frodmg7ic1fc0",
-      "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmthb75t6092frodmg7ic1fc0",
-        "original": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-        "story": "https://aihot.virxact.com/story/4c5e6b85-0640-45c0-88a3-038ca20780e9"
-      },
-      "sourceCount": 5,
-      "signalCount": 8,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Artificial Intelligence News（网页）"
-      ],
-      "latestAt": "2026-09-02T03:33:50.024Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmtivvilg06f0ro9yk5dt7mrc",
-      "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
-      "source": {
-        "name": "Google Blog：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc",
-        "original": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-        "story": "https://aihot.virxact.com/story/cc334ed7-20df-40ce-9b36-d3337dee49ec"
-      },
-      "sourceCount": 3,
-      "signalCount": 1,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "Google Blog：AI（RSS）",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-09-01T18:00:14.803Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmtiy0v6k01dproel63pg10os",
-      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-      "source": {
-        "name": "Google DeepMind：Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os",
-        "original": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-        "story": "https://aihot.virxact.com/story/6202770a-3495-4da8-9874-46581dc8a48b"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "Google DeepMind：Blog（RSS）",
-        "X：Google DeepMind (@GoogleDeepMind)"
-      ],
-      "latestAt": "2026-09-01T17:58:28.714Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmthucrfr029srofq5929jhje",
-      "title": "Anthropic 复盘 Claude 模型越权访问真实系统事件并改进对齐与安全措施",
-      "source": {
-        "name": "Anthropic：Newsroom（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje",
-        "original": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "story": "https://aihot.virxact.com/story/09142bdb-4123-4580-8c03-d59d20aa79ab"
-      },
-      "sourceCount": 3,
-      "signalCount": 3,
-      "sourceNames": [
-        "X：Anthropic (@AnthropicAI)",
-        "Anthropic：Newsroom（网页）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-01T00:29:24.646Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmtjhy5ze07gorobv62fpf0wi",
-      "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi",
-        "original": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-        "story": "https://aihot.virxact.com/story/493ff54d-1a7e-409e-9f9f-f336d2d0c62a"
-      },
-      "sourceCount": 2,
-      "signalCount": 3,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-09-02T02:48:18.699Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmthhmoi10e71rodmx6wngoz1",
-      "title": "Runway 发布 Interface World Models 首个模型 Solaris，实时逐帧生成可交互界面",
-      "source": {
-        "name": "Runway：News（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1",
-        "original": "https://runwayml.com/news/research/introducing-solaris",
-        "story": "https://aihot.virxact.com/story/15cd9ad8-8127-478c-8115-ab1d5efa565a"
-      },
-      "sourceCount": 1,
-      "signalCount": 2,
-      "sourceNames": [
-        "Runway：News（网页）"
-      ],
-      "latestAt": "2026-08-31T17:03:47.031Z"
+      "latestAt": "2026-09-02T08:08:23.512Z"
     },
     {
       "rank": 10,
-      "id": "cmthxigqm04c1rofqqmk7pkqi",
-      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
+      "id": "cmtl3fqhf0ffxroalq7r10pec",
+      "title": "Claude 在 Cowork 与 Claude Code 中支持后台操作电脑",
       "source": {
-        "name": "X：Anthropic (@AnthropicAI)"
+        "name": "X：Boris Cherny (@bcherny)"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi",
-        "original": "https://x.com/AnthropicAI/status/2094577944056430865",
-        "story": "https://aihot.virxact.com/story/d8d4fb98-abba-4c18-a0b5-c72d86f43b75"
+        "aihot": "https://aihot.virxact.com/items/cmtl3fqhf0ffxroalq7r10pec",
+        "original": "https://x.com/bcherny/status/2095378890370019683",
+        "story": "https://aihot.virxact.com/story/5b746ea3-b60b-4b58-8d0a-15f05929ae5d"
       },
       "sourceCount": 2,
       "signalCount": 0,
       "sourceNames": [
-        "X：Anthropic (@AnthropicAI)",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Claude Devs (@ClaudeDevs)",
+        "X：Boris Cherny (@bcherny)"
       ],
-      "latestAt": "2026-09-01T01:48:18.141Z"
+      "latestAt": "2026-09-03T05:37:37.837Z"
     }
   ]
 }
