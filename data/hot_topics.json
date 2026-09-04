@@ -1,10 +1,88 @@
 {
-  "updatedAt": "2026-09-03T07:59:24.013328+00:00",
+  "updatedAt": "2026-09-04T07:55:40.327671+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "cmtm02uu60t2arow5vd3nq4gi",
+      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi",
+        "original": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "story": "https://aihot.virxact.com/story/7cf4cd3a-8d6c-4bb5-bfb2-aa568f79bc58"
+      },
+      "sourceCount": 22,
+      "signalCount": 12,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Kim (@kimmonismus)",
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）",
+        "X：ZHO (@ZHO_ZHO_ZHO)",
+        "X：OpenAI Developers (@OpenAIDevs)",
+        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
+        "X：Tibo (@thsottiaux)",
+        "X：Greg Brockman (@gdb)",
+        "X：Sam Altman (@sama)",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "X：Gabriel (@gabriel1)",
+        "Simon Willison 博客",
+        "X：Sherwin Wu（@sherwinwu）",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "MarkTechPost（RSS）",
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：小北 (@frxiaobei)",
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "latestAt": "2026-09-04T02:39:39.327Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmtli5yd109u4row52i1xg9j4",
+      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+      "source": {
+        "name": "NVIDIA Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtli5yd109u4row52i1xg9j4",
+        "original": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+        "story": "https://aihot.virxact.com/story/697a905a-e2b6-4709-9c6e-faeea5c9cc32"
+      },
+      "sourceCount": 20,
+      "signalCount": 12,
+      "sourceNames": [
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "X：Jensen Huang (@JensenHuang)",
+        "NVIDIA Blog（RSS）",
+        "IT之家（RSS）",
+        "X：Kim (@kimmonismus)",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+        "Ars Technica：AI（RSS）",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Artificial Intelligence News（网页）",
+        "X：Emad Mostaque (@EMostaque)",
+        "X：Sundar Pichai (@sundarpichai)",
+        "X：Satya Nadella (@satyanadella)",
+        "X：Peter Steinberger (@steipete)"
+      ],
+      "latestAt": "2026-09-04T01:30:02.247Z"
+    },
+    {
+      "rank": 3,
       "id": "cmtkbdbti01n8roz5k5kt1g98",
       "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
       "source": {
@@ -16,7 +94,7 @@
         "story": "https://aihot.virxact.com/story/e2551b9a-9796-4be2-b9b7-df7869e0e375"
       },
       "sourceCount": 20,
-      "signalCount": 16,
+      "signalCount": 19,
       "sourceNames": [
         "X：Testing Catalog (@testingcatalog)",
         "X：Artificial Analysis (@ArtificialAnlys)",
@@ -42,38 +120,31 @@
       "latestAt": "2026-09-02T18:36:47.582Z"
     },
     {
-      "rank": 2,
-      "id": "cmtj04igz04xproel00pt2oju",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+      "rank": 4,
+      "id": "cmtlnmh4o0fmsrow5i7pdq8b0",
+      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
       "source": {
-        "name": "Claude Platform：开发者版本说明（RSS）"
+        "name": "Google DeepMind：Blog（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju",
-        "original": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026",
-        "story": "https://aihot.virxact.com/story/7b91b9e1-88b6-4346-af8d-6bbe82d3d454"
+        "aihot": "https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0",
+        "original": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+        "story": "https://aihot.virxact.com/story/3d7a3bd0-b541-442c-97a5-e89df4158976"
       },
-      "sourceCount": 13,
-      "signalCount": 19,
+      "sourceCount": 6,
+      "signalCount": 3,
       "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "Claude Platform：开发者版本说明（RSS）",
-        "X：Claude (@claudeai)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Claude Devs (@ClaudeDevs)",
-        "X：Boris Cherny (@bcherny)",
-        "TechCrunch：AI（RSS）",
-        "MarkTechPost（RSS）",
-        "The Decoder：AI News（RSS）",
+        "Google DeepMind：Blog（RSS）",
         "IT之家（RSS）",
+        "TechCrunch：AI（RSS）",
         "The Verge：AI（RSS）",
-        "X：Thariq (@trq212)",
-        "X：小北 (@frxiaobei)"
+        "X：Google AI (@GoogleAI)",
+        "MarkTechPost（RSS）"
       ],
-      "latestAt": "2026-09-02T01:18:18.758Z"
+      "latestAt": "2026-09-04T01:32:03.189Z"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "id": "cmtkme19o02plro5q94jsf94x",
       "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
       "source": {
@@ -84,20 +155,42 @@
         "original": "https://x.com/kimmonismus/status/2095265444999410146",
         "story": "https://aihot.virxact.com/story/9133c201-a7f1-4d65-82ed-949d0d43b008"
       },
-      "sourceCount": 6,
-      "signalCount": 6,
+      "sourceCount": 8,
+      "signalCount": 7,
       "sourceNames": [
         "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
         "X：Testing Catalog (@testingcatalog)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Artificial Analysis (@ArtificialAnlys)",
         "X：Kim (@kimmonismus)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）"
       ],
-      "latestAt": "2026-09-02T23:29:45.006Z"
+      "latestAt": "2026-09-03T19:01:57.318Z"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "id": "cmtm02uu60t29row5y74k0eai",
+      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtm02uu60t29row5y74k0eai",
+        "original": "https://openai.com/index/daybreak-for-frontline-defenders",
+        "story": "https://aihot.virxact.com/story/73d31b55-c745-4256-992c-f1de7ec483b2"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-03T23:30:01.110Z"
+    },
+    {
+      "rank": 7,
       "id": "cmtkh71ky017vrolly7trswyx",
       "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
       "source": {
@@ -109,7 +202,7 @@
         "story": "https://aihot.virxact.com/story/1a869339-cfba-415e-a511-c20b3a64151a"
       },
       "sourceCount": 3,
-      "signalCount": 2,
+      "signalCount": 3,
       "sourceNames": [
         "X：Claude (@claudeai)",
         "IT之家（RSS）",
@@ -118,51 +211,47 @@
       "latestAt": "2026-09-03T05:37:37.837Z"
     },
     {
-      "rank": 5,
-      "id": "cmtkcffah018zrog0zokk6s30",
-      "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+      "rank": 8,
+      "id": "cmtm2suk00171rooej14mutgj",
+      "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和",
       "source": {
-        "name": "Claude：Blog（网页）"
+        "name": "X：Greg Brockman (@gdb)"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30",
-        "original": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-        "story": "https://aihot.virxact.com/story/b5ccaf44-416e-47e9-b5a9-fb6c53ad55b0"
+        "aihot": "https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj",
+        "original": "https://x.com/gdb/status/2095629409017614390",
+        "story": "https://aihot.virxact.com/story/6aa08f30-fb7e-43b5-b942-acf2ee224be1"
       },
       "sourceCount": 2,
-      "signalCount": 2,
-      "sourceNames": [
-        "Claude：Blog（网页）",
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "latestAt": "2026-09-02T19:37:37.276Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmtjjkmd800r4roe4wpq221bc",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-      "source": {
-        "name": "Anthropic：Newsroom（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc",
-        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "story": "https://aihot.virxact.com/story/5c45bcb6-ed43-439c-9b61-e87fded3d73c"
-      },
-      "sourceCount": 6,
-      "signalCount": 3,
+      "signalCount": 0,
       "sourceNames": [
         "X：Testing Catalog (@testingcatalog)",
-        "X：Claude Devs (@ClaudeDevs)",
-        "MarkTechPost（RSS）",
-        "IT之家（RSS）",
-        "The Verge：AI（RSS）",
-        "Anthropic：Newsroom（网页）"
+        "X：Greg Brockman (@gdb)"
       ],
-      "latestAt": "2026-09-02T03:33:48.237Z"
+      "latestAt": "2026-09-03T22:07:37.028Z"
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "id": "cmtlzumiu0soirow5cfujh2xf",
+      "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
+      "source": {
+        "name": "X：Sherwin Wu（@sherwinwu）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf",
+        "original": "https://x.com/sherwinwu/status/2095608725730119733",
+        "story": "https://aihot.virxact.com/story/a0530859-2bda-440b-a44d-77f9f03a9e3c"
+      },
+      "sourceCount": 2,
+      "signalCount": 0,
+      "sourceNames": [
+        "X：Sherwin Wu（@sherwinwu）",
+        "X：Kim (@kimmonismus)"
+      ],
+      "latestAt": "2026-09-03T22:40:23.450Z"
+    },
+    {
+      "rank": 10,
       "id": "cmtkfnpup03n1robqoh5tnh4t",
       "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用",
       "source": {
@@ -183,71 +272,6 @@
         "IT之家（RSS）"
       ],
       "latestAt": "2026-09-03T00:29:45.977Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmtj42kz5057qroh9yw6fjh9h",
-      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h",
-        "original": "https://openai.com/index/path-to-astra",
-        "story": "https://aihot.virxact.com/story/b3171d1e-340d-4c41-94b4-92641cd7ed4e"
-      },
-      "sourceCount": 4,
-      "signalCount": 5,
-      "sourceNames": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "X：Kim (@kimmonismus)",
-        "IT之家（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-09-02T14:31:52.446Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmtjimzgx083zrobvekm2zmje",
-      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
-      "source": {
-        "name": "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje",
-        "original": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
-        "story": "https://aihot.virxact.com/story/bc5ccb43-f7bc-4bbf-9549-3d627087b555"
-      },
-      "sourceCount": 5,
-      "signalCount": 4,
-      "sourceNames": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "IT之家（RSS）",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "X：Kim (@kimmonismus)"
-      ],
-      "latestAt": "2026-09-02T08:08:23.512Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmtl3fqhf0ffxroalq7r10pec",
-      "title": "Claude 在 Cowork 与 Claude Code 中支持后台操作电脑",
-      "source": {
-        "name": "X：Boris Cherny (@bcherny)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtl3fqhf0ffxroalq7r10pec",
-        "original": "https://x.com/bcherny/status/2095378890370019683",
-        "story": "https://aihot.virxact.com/story/5b746ea3-b60b-4b58-8d0a-15f05929ae5d"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Claude Devs (@ClaudeDevs)",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "latestAt": "2026-09-03T05:37:37.837Z"
     }
   ]
 }
