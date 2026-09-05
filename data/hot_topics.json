@@ -1,22 +1,22 @@
 {
-  "updatedAt": "2026-09-04T07:55:40.327671+00:00",
+  "updatedAt": "2026-09-05T07:37:01.192521+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmtm02uu60t2arow5vd3nq4gi",
-      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
+      "id": "cmtnt5cb50b8mroqs7x4pukfm",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录， cybersecurity 能力达 Critical 阈值",
       "source": {
         "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi",
-        "original": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "aihot": "https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm",
+        "original": "https://openai.com/index/gpt-6-astra",
         "story": "https://aihot.virxact.com/story/7cf4cd3a-8d6c-4bb5-bfb2-aa568f79bc58"
       },
       "sourceCount": 22,
-      "signalCount": 12,
+      "signalCount": 17,
       "sourceNames": [
         "TechCrunch：AI（RSS）",
         "X：Testing Catalog (@testingcatalog)",
@@ -41,7 +41,7 @@
         "X：小北 (@frxiaobei)",
         "X：阿易 AI Notes (@AYi_AInotes)"
       ],
-      "latestAt": "2026-09-04T02:39:39.327Z"
+      "latestAt": "2026-09-05T03:12:56.001Z"
     },
     {
       "rank": 2,
@@ -55,8 +55,8 @@
         "original": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
         "story": "https://aihot.virxact.com/story/697a905a-e2b6-4709-9c6e-faeea5c9cc32"
       },
-      "sourceCount": 20,
-      "signalCount": 12,
+      "sourceCount": 19,
+      "signalCount": 22,
       "sourceNames": [
         "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
         "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
@@ -73,7 +73,6 @@
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Artificial Intelligence News（网页）",
         "X：Emad Mostaque (@EMostaque)",
         "X：Sundar Pichai (@sundarpichai)",
         "X：Satya Nadella (@satyanadella)",
@@ -83,44 +82,84 @@
     },
     {
       "rank": 3,
-      "id": "cmtkbdbti01n8roz5k5kt1g98",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
+      "id": "cmtne97cd058urog1zpa39wm7",
+      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "X：OpenAI (@OpenAI)"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98",
-        "original": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-        "story": "https://aihot.virxact.com/story/e2551b9a-9796-4be2-b9b7-df7869e0e375"
+        "aihot": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
+        "original": "https://x.com/OpenAI/status/2095968413646737608",
+        "story": "https://aihot.virxact.com/story/f03210cb-f733-44c8-a39d-8c9676776949"
       },
-      "sourceCount": 20,
-      "signalCount": 19,
+      "sourceCount": 8,
+      "signalCount": 6,
       "sourceNames": [
         "X：Testing Catalog (@testingcatalog)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-        "X：Google DeepMind (@GoogleDeepMind)",
-        "X：Gemini (@GeminiApp)",
-        "X：Logan Kilpatrick (@OfficialLoganK)",
-        "X：Google AI (@GoogleAI)",
-        "X：Ammaar Reshi (@ammaar)",
+        "X：OpenAI Developers (@OpenAIDevs)",
+        "X：OpenAI (@OpenAI)",
+        "X：Sam Altman (@sama)",
         "X：OpenRouter (@OpenRouter)",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Sundar Pichai (@sundarpichai)",
+        "X：Greg Brockman (@gdb)",
         "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Google DeepMind：Blog（RSS）",
-        "X：fofr (@fofrAI)",
-        "X：Demis Hassabis (@demishassabis)",
-        "The Decoder：AI News（RSS）",
-        "MarkTechPost（RSS）",
-        "Ars Technica：AI（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-09-02T18:36:47.582Z"
+      "latestAt": "2026-09-05T01:02:23.989Z"
     },
     {
       "rank": 4,
+      "id": "cmtnapudv01zbrog16o6dxgoi",
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+        "original": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "story": "https://aihot.virxact.com/story/961ed844-9619-4970-bf11-5c55efc9e14b"
+      },
+      "sourceCount": 7,
+      "signalCount": 2,
+      "sourceNames": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "X：Anthropic (@AnthropicAI)",
+        "X：Ethan Mollick (@emollick)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Kim (@kimmonismus)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-04T23:30:17.725Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmtn69fj00o6eromyt59gwsh2",
+      "title": "研究者发现 OpenAI 智能体在未经实验室知情的情况下涌入德国公开 Wiki 协作",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtn69fj00o6eromyt59gwsh2",
+        "original": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
+        "story": "https://aihot.virxact.com/story/2482fe19-39fe-4bd3-9979-fee851516603"
+      },
+      "sourceCount": 9,
+      "signalCount": 1,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）",
+        "The Verge：AI（RSS）",
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "X：Kim (@kimmonismus)",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Simon Willison 博客",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-04T23:32:22.999Z"
+    },
+    {
+      "rank": 6,
       "id": "cmtlnmh4o0fmsrow5i7pdq8b0",
       "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
       "source": {
@@ -144,33 +183,47 @@
       "latestAt": "2026-09-04T01:32:03.189Z"
     },
     {
-      "rank": 5,
-      "id": "cmtkme19o02plro5q94jsf94x",
-      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+      "rank": 7,
+      "id": "cmtmgqedc01ljroluv1tley67",
+      "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
       "source": {
-        "name": "X：Kim (@kimmonismus)"
+        "name": "X：Greg Brockman (@gdb)"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
-        "original": "https://x.com/kimmonismus/status/2095265444999410146",
-        "story": "https://aihot.virxact.com/story/9133c201-a7f1-4d65-82ed-949d0d43b008"
+        "aihot": "https://aihot.virxact.com/items/cmtmgqedc01ljroluv1tley67",
+        "original": "https://x.com/gdb/status/2095730639094079594",
+        "story": "https://aihot.virxact.com/story/97be219c-91c6-4809-8619-0b1014c3d3a2"
       },
-      "sourceCount": 8,
-      "signalCount": 7,
+      "sourceCount": 3,
+      "signalCount": 0,
       "sourceNames": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Kim (@kimmonismus)",
-        "IT之家（RSS）",
-        "The Decoder：AI News（RSS）",
-        "MarkTechPost（RSS）"
+        "X：Satya Nadella (@satyanadella)",
+        "X：Greg Brockman (@gdb)",
+        "X：Sam Altman (@sama)"
       ],
-      "latestAt": "2026-09-03T19:01:57.318Z"
+      "latestAt": "2026-09-04T04:37:37.096Z"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "id": "cmtnl720g03olroqsrkmbl292",
+      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
+        "original": "https://www.ithome.com/0/998/630.htm",
+        "story": "https://aihot.virxact.com/story/f757006b-16ba-49a3-80a7-cb64f1186d4f"
+      },
+      "sourceCount": 1,
+      "signalCount": 2,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-04T23:30:17.725Z"
+    },
+    {
+      "rank": 9,
       "id": "cmtm02uu60t29row5y74k0eai",
       "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
       "source": {
@@ -190,88 +243,23 @@
       "latestAt": "2026-09-03T23:30:01.110Z"
     },
     {
-      "rank": 7,
-      "id": "cmtkh71ky017vrolly7trswyx",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "source": {
-        "name": "X：Claude (@claudeai)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-        "original": "https://x.com/claudeai/status/2095226833293685100",
-        "story": "https://aihot.virxact.com/story/1a869339-cfba-415e-a511-c20b3a64151a"
-      },
-      "sourceCount": 3,
-      "signalCount": 3,
-      "sourceNames": [
-        "X：Claude (@claudeai)",
-        "IT之家（RSS）",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "latestAt": "2026-09-03T05:37:37.837Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmtm2suk00171rooej14mutgj",
-      "title": "Greg Brockman 转发：GPT-6 Astra 在 ARC-AGI-3 达到 SOTA，基准趋于饱和",
-      "source": {
-        "name": "X：Greg Brockman (@gdb)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtm2suk00171rooej14mutgj",
-        "original": "https://x.com/gdb/status/2095629409017614390",
-        "story": "https://aihot.virxact.com/story/6aa08f30-fb7e-43b5-b942-acf2ee224be1"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Greg Brockman (@gdb)"
-      ],
-      "latestAt": "2026-09-03T22:07:37.028Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmtlzumiu0soirow5cfujh2xf",
-      "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
-      "source": {
-        "name": "X：Sherwin Wu（@sherwinwu）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf",
-        "original": "https://x.com/sherwinwu/status/2095608725730119733",
-        "story": "https://aihot.virxact.com/story/a0530859-2bda-440b-a44d-77f9f03a9e3c"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Sherwin Wu（@sherwinwu）",
-        "X：Kim (@kimmonismus)"
-      ],
-      "latestAt": "2026-09-03T22:40:23.450Z"
-    },
-    {
       "rank": 10,
-      "id": "cmtkfnpup03n1robqoh5tnh4t",
-      "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用",
+      "id": "cmtnphe3t07vfroqsvrbd9enn",
+      "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtkfnpup03n1robqoh5tnh4t",
-        "original": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
-        "story": "https://aihot.virxact.com/story/a1d2721c-ffb0-4ae3-b63e-dde3aeba36ed"
+        "aihot": "https://aihot.virxact.com/items/cmtnphe3t07vfroqsvrbd9enn",
+        "original": "https://www.ithome.com/0/998/661.htm",
+        "story": "https://aihot.virxact.com/story/79866660-dda7-45fc-b47c-1647b88e3446"
       },
-      "sourceCount": 5,
+      "sourceCount": 1,
       "signalCount": 1,
       "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-03T00:29:45.977Z"
+      "latestAt": "2026-09-05T01:30:18.743Z"
     }
   ]
 }
