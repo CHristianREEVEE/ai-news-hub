@@ -1,87 +1,10 @@
 {
-  "updatedAt": "2026-09-05T07:37:01.192521+00:00",
+  "updatedAt": "2026-09-06T07:51:31.075351+00:00",
   "source": "aihot.virxact.com",
-  "count": 10,
+  "count": 5,
   "items": [
     {
       "rank": 1,
-      "id": "cmtnt5cb50b8mroqs7x4pukfm",
-      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录， cybersecurity 能力达 Critical 阈值",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm",
-        "original": "https://openai.com/index/gpt-6-astra",
-        "story": "https://aihot.virxact.com/story/7cf4cd3a-8d6c-4bb5-bfb2-aa568f79bc58"
-      },
-      "sourceCount": 22,
-      "signalCount": 17,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Kim (@kimmonismus)",
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "X：ZHO (@ZHO_ZHO_ZHO)",
-        "X：OpenAI Developers (@OpenAIDevs)",
-        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-        "X：Tibo (@thsottiaux)",
-        "X：Greg Brockman (@gdb)",
-        "X：Sam Altman (@sama)",
-        "X：马东锡 NLP (@dongxi_nlp)",
-        "X：Gabriel (@gabriel1)",
-        "Simon Willison 博客",
-        "X：Sherwin Wu（@sherwinwu）",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "MarkTechPost（RSS）",
-        "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：小北 (@frxiaobei)",
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "latestAt": "2026-09-05T03:12:56.001Z"
-    },
-    {
-      "rank": 2,
-      "id": "cmtli5yd109u4row52i1xg9j4",
-      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-      "source": {
-        "name": "NVIDIA Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtli5yd109u4row52i1xg9j4",
-        "original": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-        "story": "https://aihot.virxact.com/story/697a905a-e2b6-4709-9c6e-faeea5c9cc32"
-      },
-      "sourceCount": 19,
-      "signalCount": 22,
-      "sourceNames": [
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "X：Jensen Huang (@JensenHuang)",
-        "NVIDIA Blog（RSS）",
-        "IT之家（RSS）",
-        "X：Kim (@kimmonismus)",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "X：Aidan Gomez（Cohere CEO，@aidangomez）",
-        "Ars Technica：AI（RSS）",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Emad Mostaque (@EMostaque)",
-        "X：Sundar Pichai (@sundarpichai)",
-        "X：Satya Nadella (@satyanadella)",
-        "X：Peter Steinberger (@steipete)"
-      ],
-      "latestAt": "2026-09-04T01:30:02.247Z"
-    },
-    {
-      "rank": 3,
       "id": "cmtne97cd058urog1zpa39wm7",
       "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
       "source": {
@@ -93,13 +16,13 @@
         "story": "https://aihot.virxact.com/story/f03210cb-f733-44c8-a39d-8c9676776949"
       },
       "sourceCount": 8,
-      "signalCount": 6,
+      "signalCount": 5,
       "sourceNames": [
         "X：Testing Catalog (@testingcatalog)",
         "X：OpenAI Developers (@OpenAIDevs)",
         "X：OpenAI (@OpenAI)",
-        "X：Sam Altman (@sama)",
         "X：OpenRouter (@OpenRouter)",
+        "X：Sam Altman (@sama)",
         "X：Greg Brockman (@gdb)",
         "IT之家（RSS）",
         "Hacker News 热门（buzzing.cc 中文翻译）"
@@ -107,32 +30,27 @@
       "latestAt": "2026-09-05T01:02:23.989Z"
     },
     {
-      "rank": 4,
-      "id": "cmtnapudv01zbrog16o6dxgoi",
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "rank": 2,
+      "id": "cmtnt5cb50b8mroqs7x4pukfm",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录， cybersecurity 能力达 Critical 阈值",
       "source": {
-        "name": "Anthropic：Research（发表成果 · 网页）"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
-        "original": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "story": "https://aihot.virxact.com/story/961ed844-9619-4970-bf11-5c55efc9e14b"
+        "aihot": "https://aihot.virxact.com/items/cmtnt5cb50b8mroqs7x4pukfm",
+        "original": "https://openai.com/index/gpt-6-astra",
+        "story": "https://aihot.virxact.com/story/7cf4cd3a-8d6c-4bb5-bfb2-aa568f79bc58"
       },
-      "sourceCount": 7,
-      "signalCount": 2,
+      "sourceCount": 2,
+      "signalCount": 12,
       "sourceNames": [
-        "Anthropic：Research（发表成果 · 网页）",
-        "X：Anthropic (@AnthropicAI)",
-        "X：Ethan Mollick (@emollick)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Kim (@kimmonismus)",
-        "IT之家（RSS）"
+        "X：Testing Catalog (@testingcatalog)",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
-      "latestAt": "2026-09-04T23:30:17.725Z"
+      "latestAt": "2026-09-05T03:12:56.001Z"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "id": "cmtn69fj00o6eromyt59gwsh2",
       "title": "研究者发现 OpenAI 智能体在未经实验室知情的情况下涌入德国公开 Wiki 协作",
       "source": {
@@ -159,91 +77,26 @@
       "latestAt": "2026-09-04T23:32:22.999Z"
     },
     {
-      "rank": 6,
-      "id": "cmtlnmh4o0fmsrow5i7pdq8b0",
-      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+      "rank": 4,
+      "id": "cmtn66b6s0o0eromy3rzdsvat",
+      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "GitHub Blog"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0",
-        "original": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-        "story": "https://aihot.virxact.com/story/3d7a3bd0-b541-442c-97a5-e89df4158976"
-      },
-      "sourceCount": 6,
-      "signalCount": 3,
-      "sourceNames": [
-        "Google DeepMind：Blog（RSS）",
-        "IT之家（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "X：Google AI (@GoogleAI)",
-        "MarkTechPost（RSS）"
-      ],
-      "latestAt": "2026-09-04T01:32:03.189Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmtmgqedc01ljroluv1tley67",
-      "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
-      "source": {
-        "name": "X：Greg Brockman (@gdb)"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtmgqedc01ljroluv1tley67",
-        "original": "https://x.com/gdb/status/2095730639094079594",
-        "story": "https://aihot.virxact.com/story/97be219c-91c6-4809-8619-0b1014c3d3a2"
-      },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Satya Nadella (@satyanadella)",
-        "X：Greg Brockman (@gdb)",
-        "X：Sam Altman (@sama)"
-      ],
-      "latestAt": "2026-09-04T04:37:37.096Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmtnl720g03olroqsrkmbl292",
-      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtnl720g03olroqsrkmbl292",
-        "original": "https://www.ithome.com/0/998/630.htm",
-        "story": "https://aihot.virxact.com/story/f757006b-16ba-49a3-80a7-cb64f1186d4f"
+        "aihot": "https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat",
+        "original": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+        "story": "https://aihot.virxact.com/story/7a1677be-7a97-46a3-aa4b-62131ca5b87d"
       },
       "sourceCount": 1,
-      "signalCount": 2,
+      "signalCount": 1,
       "sourceNames": [
-        "IT之家（RSS）"
+        "GitHub Blog"
       ],
-      "latestAt": "2026-09-04T23:30:17.725Z"
+      "latestAt": "2026-09-04T16:29:49.120Z"
     },
     {
-      "rank": 9,
-      "id": "cmtm02uu60t29row5y74k0eai",
-      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtm02uu60t29row5y74k0eai",
-        "original": "https://openai.com/index/daybreak-for-frontline-defenders",
-        "story": "https://aihot.virxact.com/story/73d31b55-c745-4256-992c-f1de7ec483b2"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-03T23:30:01.110Z"
-    },
-    {
-      "rank": 10,
+      "rank": 5,
       "id": "cmtnphe3t07vfroqsvrbd9enn",
       "title": "奥尔特曼致歉 GPT-6 Astra 发布混乱，现已面向所有 Plus / Pro 等用户推出",
       "source": {
@@ -255,7 +108,7 @@
         "story": "https://aihot.virxact.com/story/79866660-dda7-45fc-b47c-1647b88e3446"
       },
       "sourceCount": 1,
-      "signalCount": 1,
+      "signalCount": 2,
       "sourceNames": [
         "IT之家（RSS）"
       ],
