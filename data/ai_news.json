@@ -1,98 +1,98 @@
 {
-  "updatedAt": "2026-09-07T08:13:11.253862+00:00",
+  "updatedAt": "2026-09-08T08:01:11.181252+00:00",
   "source": "aihot.virxact.com",
   "total": 4,
   "items": [
     {
-      "id": "cmtqhifvf04pwrohqvdfqmfxp",
-      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-      "originalTitle": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
-      "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
+      "id": "cmtscjydz01garow6gi54pft9",
+      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+      "originalTitle": "纳维-斯托克斯方程--特里斯坦·巴克马斯特 【pdf】",
+      "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
+      "source": {
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmtscjydz01garow6gi54pft9",
+        "original": "https://cims.nyu.edu/~tristanb/statement.pdf"
+      },
+      "publishedAt": "2026-09-08T07:20:02.739Z",
+      "discoveredAt": "2026-09-08T07:27:15.232Z",
+      "category": "tip",
+      "score": 82,
+      "selected": true,
+      "reason": "作者亲历描述用 LLM 完成偏微分方程 blowup 证明的过程，并公开与 OpenAI 沟通的时间线，为评估 AI 参与前沿数学研究提供了第一手材料。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmtscjydz01garow6gi54pft9"
+      }
+    },
+    {
+      "id": "cmts9dr2m029hrobq86wrny37",
+      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+      "originalTitle": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+      "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
+      "source": {
+        "name": "Mistral AI：News（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.virxact.com/items/cmts9dr2m029hrobq86wrny37",
+        "original": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
+      },
+      "publishedAt": "2026-09-08T05:58:27.839Z",
+      "discoveredAt": "2026-09-08T05:58:27.839Z",
+      "category": "industry",
+      "score": 72,
+      "selected": true,
+      "reason": "融资公告由公司官方发布，给出了金额、估值、领投方和资金用途，读者可以据此了解欧洲主权 AI 阵营的资本动向。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.virxact.com/items/cmts9dr2m029hrobq86wrny37"
+      }
+    },
+    {
+      "id": "cmtrxbv5n02etroftlb6u96xt",
+      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+      "originalTitle": "用GPT-6 Astra操控Blender，保姆级教程来了。",
+      "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
       "source": {
         "name": "公众号：数字生命卡兹克"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp",
-        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621"
+        "aihot": "https://aihot.virxact.com/items/cmtrxbv5n02etroftlb6u96xt",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940"
       },
-      "publishedAt": "2026-09-07T00:08:00.000Z",
-      "discoveredAt": "2026-09-07T00:10:30.732Z",
+      "publishedAt": "2026-09-08T00:17:23.000Z",
+      "discoveredAt": "2026-09-08T00:21:04.297Z",
       "category": "tip",
-      "score": 71,
+      "score": 76,
       "selected": true,
-      "reason": "作者从大量GPT-6 Astra操控专业软件的案例出发，讨论执行能力贬值与判断力从何而来的矛盾，视角具体。",
+      "reason": "作者实测了Computer Use、官方MCP和CLI三种方式并给出各自的速度、成本与适用边界，方法可直接照做。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp"
+        "url": "https://aihot.virxact.com/items/cmtrxbv5n02etroftlb6u96xt"
       }
     },
     {
-      "id": "cmtq5pxc10275roiufscxyie4",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "originalTitle": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-      "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
+      "id": "cmtrkorpo07jdrotnozlrlyx2",
+      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
+      "originalTitle": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+      "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4",
-        "original": "https://x.com/rohanpaul_ai/status/2096665545190043737"
+        "aihot": "https://aihot.virxact.com/items/cmtrkorpo07jdrotnozlrlyx2",
+        "original": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk"
       },
-      "publishedAt": "2026-09-06T18:23:14.000Z",
-      "discoveredAt": "2026-09-06T18:40:23.942Z",
-      "category": "tip",
-      "score": 81,
+      "publishedAt": "2026-09-07T18:12:41.000Z",
+      "discoveredAt": "2026-09-07T18:27:10.491Z",
+      "category": "industry",
+      "score": 76,
       "selected": true,
-      "reason": "原文给出 OpenAI 自称达到自动化研究实习生里程碑和 3.1:1 的 agent 与人力的运行时长比，可据此了解智能体在其内部研究中的渗透程度。",
+      "reason": "两家公司在算力扩张上的表态与实际动作形成对照，读者可以借此审视巨额算力承诺与收入规模之间的差距。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4"
-      }
-    },
-    {
-      "id": "cmtq23v6k01aorotwh8xip8r1",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-      "originalTitle": "An Alien Mind",
-      "summary": "OpenAI 发布长文《An Alien Mind》，回溯 2023 年 RLSlow 项目中确认推理模型可扩展训练的起点，并系统阐述目标对齐与价值对齐的区分。文章指出链式思维监控的效果正随着模型能力提升而逐步减弱，GPT-6 Astra 在对齐上显著优于 GPT-5.6 Sol；作者预期进展可能持续走向机器递归自我改进（RSI），呼吁自愿放缓扩展、建立第三方安全门槛并加强国际协调。",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtq23v6k01aorotwh8xip8r1",
-        "original": "https://openai.com/index/an-alien-mind"
-      },
-      "publishedAt": "2026-09-06T09:00:00.000Z",
-      "discoveredAt": "2026-09-06T16:59:15.618Z",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "reason": "作者以内部视角回溯推理模型的起源，并给出对齐监测、CoT 监控弱化和 RSI 风险的一手判断。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtq23v6k01aorotwh8xip8r1"
-      }
-    },
-    {
-      "id": "cmtpzyon6019iroemu68v4s2v",
-      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-      "originalTitle": "Research acceleration： The view inside OpenAI",
-      "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v",
-        "original": "https://openai.com/index/research-acceleration-view-inside-openai"
-      },
-      "publishedAt": "2026-09-06T08:00:00.000Z",
-      "discoveredAt": "2026-09-06T15:59:14.286Z",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "reason": "OpenAI 以内部数据披露 coding agent 对研究工作的实际影响和 RSI 进展，读者可以据此了解前沿实验室的自动化研究现状。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v"
+        "url": "https://aihot.virxact.com/items/cmtrkorpo07jdrotnozlrlyx2"
       }
     }
   ]
