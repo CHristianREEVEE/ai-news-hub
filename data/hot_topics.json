@@ -1,10 +1,53 @@
 {
-  "updatedAt": "2026-09-09T08:04:58.941481+00:00",
+  "updatedAt": "2026-09-10T08:04:18.221252+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "cmtugou9e1cddrofptz3jwh4j",
+      "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1,999",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
+        "original": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+        "story": "https://aihot.virxact.com/story/5ecd7305-9b58-4df4-958f-33dcfea5e6e9"
+      },
+      "sourceCount": 4,
+      "signalCount": 74,
+      "participantCount": 88,
+      "sourceNames": [
+        "X：Kim (@kimmonismus)",
+        "Apple：Newsroom（RSS）",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-09-09T20:44:43.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmtuejpai193yrofptlbx9jyr",
+      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
+        "original": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
+        "story": "https://aihot.virxact.com/story/71d47935-62e2-4dc1-81c0-249bfbdc7c86"
+      },
+      "sourceCount": 1,
+      "signalCount": 37,
+      "participantCount": 42,
+      "sourceNames": [
+        "Apple：Newsroom（RSS）"
+      ],
+      "latestAt": "2026-09-09T17:30:06.059Z"
+    },
+    {
+      "rank": 3,
       "id": "cmtt0pw2p018pro9owlhpi092",
       "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
       "source": {
@@ -13,28 +56,54 @@
       "links": {
         "aihot": "https://aihot.news/items/cmtt0pw2p018pro9owlhpi092",
         "original": "https://openai.com/index/introducing-chatgpt-images-2-5",
-        "story": "https://aihot.virxact.com/story/21fd4a52-f9ee-43c9-a997-22442acaf51e"
+        "story": "https://aihot.virxact.com/story/9a02120a-837d-4a20-987a-4688ac3df838"
       },
-      "sourceCount": 12,
-      "signalCount": 20,
+      "sourceCount": 15,
+      "signalCount": 22,
+      "participantCount": 36,
       "sourceNames": [
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "X：OpenAI (@OpenAI)",
+        "X：OpenAI Developers (@OpenAIDevs)",
+        "X：Testing Catalog (@testingcatalog)",
         "X：Greg Brockman (@gdb)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Testing Catalog (@testingcatalog)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Sam Altman (@sama)",
         "The Verge：AI（RSS）",
         "Simon Willison 博客",
         "IT之家（RSS）",
-        "X：Tibo (@thsottiaux)",
-        "公众号：卡尔的AI沃茨"
+        "公众号：卡尔的AI沃茨",
+        "X：ZHO (@ZHO_ZHO_ZHO)",
+        "The Decoder：AI News（RSS）",
+        "X：Luma AI (@LumaLabsAI)"
       ],
-      "latestAt": "2026-09-09T04:00:13.177Z"
+      "latestAt": "2026-09-10T07:20:58.000Z"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "id": "cmtv7kmzk02vdrok9y0y8njiv",
+      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+      "source": {
+        "name": "MarkTechPost（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv",
+        "original": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+        "story": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
+      },
+      "sourceCount": 3,
+      "signalCount": 15,
+      "participantCount": 25,
+      "sourceNames": [
+        "X：DeepSeek (@deepseek_ai)",
+        "X：Testing Catalog (@testingcatalog)",
+        "MarkTechPost（RSS）"
+      ],
+      "latestAt": "2026-09-10T07:31:01.000Z"
+    },
+    {
+      "rank": 5,
       "id": "cmtszna9e04isro5woti0ixg6",
       "title": "OpenAI 宣布以内部 AI 系统给出 Navier–Stokes 千禧年问题解答",
       "source": {
@@ -43,126 +112,120 @@
       "links": {
         "aihot": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
         "original": "https://openai.com/index/navier-stokes-solution",
-        "story": "https://aihot.virxact.com/story/c18e9c41-5a5e-4dd7-9977-469857092dd2"
+        "story": "https://aihot.virxact.com/story/5dc91853-c5fe-4876-a2f1-0ff9d448ffbf"
       },
-      "sourceCount": 20,
-      "signalCount": 2,
+      "sourceCount": 15,
+      "signalCount": 19,
+      "participantCount": 38,
       "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Ethan Mollick (@emollick)",
-        "X：Noam Brown (@polynoamial)",
-        "X：Greg Brockman (@gdb)",
-        "X：Kim (@kimmonismus)",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "X：OpenAI (@OpenAI)",
-        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-        "X：Eric Mitchell (@ericmitchellai)",
-        "X：Jason Liu (@jxnlco)",
-        "X：Sam Altman (@sama)",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "X：OpenAI (@OpenAI)",
+        "The Decoder：AI News（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Kim (@kimmonismus)",
+        "X：Greg Brockman (@gdb)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "X：SemiAnalysis (@SemiAnalysis_)",
         "X：马东锡 NLP (@dongxi_nlp)",
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "X：Emad Mostaque (@EMostaque)",
         "The Verge：AI（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
         "IT之家（RSS）",
+        "Simon Willison 博客",
         "X：阿易 AI Notes (@AYi_AInotes)"
       ],
-      "latestAt": "2026-09-09T02:09:39.611Z"
-    },
-    {
-      "rank": 3,
-      "id": "cmts9dr2m029hrobq86wrny37",
-      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-      "source": {
-        "name": "Mistral AI：News（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmts9dr2m029hrobq86wrny37",
-        "original": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-        "story": "https://aihot.virxact.com/story/0aae4e4a-8436-422f-8277-d105655302a5"
-      },
-      "sourceCount": 11,
-      "signalCount": 4,
-      "sourceNames": [
-        "X：Mistral AI (@MistralAI)",
-        "X：Testing Catalog (@testingcatalog)",
-        "Mistral AI：News（网页）",
-        "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "The Decoder：AI News（RSS）",
-        "X：Arthur Mensch（Mistral CEO） (@arthurmensch)",
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "TechCrunch：AI（RSS）",
-        "X：小北 (@frxiaobei)",
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
-      ],
-      "latestAt": "2026-09-08T16:09:39.300Z"
-    },
-    {
-      "rank": 4,
-      "id": "cmtt7nvmn02h6romq0xpo0p2w",
-      "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
-      "source": {
-        "name": "Runway：News（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w",
-        "original": "https://runwayml.com/news/company-news/runway-for-adobe",
-        "story": "https://aihot.virxact.com/story/c6a7865e-3e46-45b1-84d7-731c82a3d06d"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Runway (@runwayml)",
-        "Runway：News（网页）"
-      ],
-      "latestAt": "2026-09-08T21:58:07.884Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmtsz50zn02mtro5w6ywm1xml",
-      "title": "Anthropic 发布 Claude Platform 降本指南：提示词缓存、清理反模式与校准 effort",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtsz50zn02mtro5w6ywm1xml",
-        "original": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
-        "story": "https://aihot.virxact.com/story/d93dbdad-d879-497b-85c4-a6641907cede"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Claude Devs (@ClaudeDevs)",
-        "Claude：Blog（网页）"
-      ],
-      "latestAt": "2026-09-08T17:59:30.653Z"
+      "latestAt": "2026-09-09T21:16:34.000Z"
     },
     {
       "rank": 6,
-      "id": "cmttklkuj0chfrofpzacvz20x",
-      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+      "id": "cmtuejpah193urofpj0jmte9i",
+      "title": "Apple 发布 Health Sensing System 与重构版 Health app，Apple Watch Series 12 和 Ultra 4 主打 readiness 与 Health Age",
       "source": {
-        "name": "公众号：卡尔的AI沃茨"
+        "name": "Apple：Newsroom（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x",
-        "original": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-        "story": "https://aihot.virxact.com/story/954989b3-abe1-4bcc-ac18-e8cdd8e96472"
+        "aihot": "https://aihot.news/items/cmtuejpah193urofpj0jmte9i",
+        "original": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
+        "story": "https://aihot.virxact.com/story/dc44c06e-1fa3-4f52-a3b9-ec93be455845"
       },
-      "sourceCount": 3,
-      "signalCount": 0,
+      "sourceCount": 2,
+      "signalCount": 21,
+      "participantCount": 25,
       "sourceNames": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Greg Brockman (@gdb)",
-        "公众号：卡尔的AI沃茨"
+        "Apple：Newsroom（RSS）",
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-09-09T04:00:13.177Z"
+      "latestAt": "2026-09-09T18:16:29.000Z"
     },
     {
       "rank": 7,
+      "id": "cmttwq6oy0pybrofphae4ykhb",
+      "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
+      "source": {
+        "name": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb",
+        "original": "https://x.com/Thom_Wolf/status/2097615465698713666",
+        "story": "https://aihot.virxact.com/story/c569fed6-5ad5-4c71-b7f2-6de4d75eb33f"
+      },
+      "sourceCount": 3,
+      "signalCount": 16,
+      "participantCount": 23,
+      "sourceNames": [
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "X：Kim (@kimmonismus)"
+      ],
+      "latestAt": "2026-09-09T18:02:10.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "cmttwa2j30pktrofpw67b9pby",
+      "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
+      "source": {
+        "name": "X：X.PIN (@thexpin)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby",
+        "original": "https://x.com/thexpin/status/2097615997616406833",
+        "story": "https://aihot.virxact.com/story/212a965c-6fd8-4067-9263-5d5125d5b4fc"
+      },
+      "sourceCount": 3,
+      "signalCount": 12,
+      "participantCount": 18,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：X.PIN (@thexpin)",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-09T20:06:28.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "cmtuhr1gr1dmxrofp90rc4c6u",
+      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
+        "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+        "story": "https://aihot.virxact.com/story/b9ebd413-667a-4099-ac65-17145aad06ad"
+      },
+      "sourceCount": 4,
+      "signalCount": 10,
+      "participantCount": 13,
+      "sourceNames": [
+        "X：Anthropic (@AnthropicAI)",
+        "X：Kim (@kimmonismus)",
+        "Anthropic：Research（发表成果 · 网页）",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-09-09T19:58:55.000Z"
+    },
+    {
+      "rank": 10,
       "id": "cmttqzqw30jwkrofpxrj00ngg",
       "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
       "source": {
@@ -171,75 +234,16 @@
       "links": {
         "aihot": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
         "original": "https://www.ithome.com/1/000/188.htm",
-        "story": "https://aihot.virxact.com/story/c3b8591d-51dd-4593-83ac-26b066c8f9a7"
+        "story": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
       },
       "sourceCount": 2,
-      "signalCount": 2,
+      "signalCount": 4,
+      "participantCount": 6,
       "sourceNames": [
-        "X：X.PIN (@thexpin)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "X：X.PIN (@thexpin)"
       ],
-      "latestAt": "2026-09-09T06:59:12.167Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmttchnc104jvrofp05adlcv6",
-      "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-      "source": {
-        "name": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6",
-        "original": "https://x.com/alexandr_wang/status/2097472059077202339",
-        "story": "https://aihot.virxact.com/story/fced10bf-8f24-49a8-a22b-981b54e2c801"
-      },
-      "sourceCount": 2,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：Charlie Holtz（@charlieholtz）",
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "latestAt": "2026-09-09T00:13:13.197Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmttcqkx404pprofp0jwc34zu",
-      "title": "GPT-6 Astra推理等级怎么选才最省Token",
-      "source": {
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu",
-        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
-        "story": "https://aihot.virxact.com/story/f6a6e13d-d24b-4901-bb20-3987a1012177"
-      },
-      "sourceCount": 1,
-      "signalCount": 1,
-      "sourceNames": [
-        "公众号：数字生命卡兹克"
-      ],
-      "latestAt": "2026-09-09T00:20:10.825Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmtsz2a0q02ciro5w7oz3a0ix",
-      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix",
-        "original": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-        "story": "https://aihot.virxact.com/story/2bfa2880-986d-483d-b254-6f774796e12f"
-      },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "sourceNames": [
-        "X：AI Safety Memes (@AISafetyMemes)",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-09-08T17:57:22.807Z"
+      "latestAt": "2026-09-09T06:42:44.000Z"
     }
   ]
 }
