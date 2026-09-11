@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T08:04:18.221252+00:00",
+  "updatedAt": "2026-09-11T07:59:29.804207+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -15,73 +15,22 @@
         "original": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
         "story": "https://aihot.virxact.com/story/5ecd7305-9b58-4df4-958f-33dcfea5e6e9"
       },
-      "sourceCount": 4,
-      "signalCount": 74,
-      "participantCount": 88,
+      "sourceCount": 7,
+      "signalCount": 53,
+      "participantCount": 66,
       "sourceNames": [
         "X：Kim (@kimmonismus)",
         "Apple：Newsroom（RSS）",
         "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）"
+        "The Verge：AI（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：ZHO (@ZHO_ZHO_ZHO)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-09-09T20:44:43.000Z"
+      "latestAt": "2026-09-10T14:17:31.967Z"
     },
     {
       "rank": 2,
-      "id": "cmtuejpai193yrofptlbx9jyr",
-      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-      "source": {
-        "name": "Apple：Newsroom（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
-        "original": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-        "story": "https://aihot.virxact.com/story/71d47935-62e2-4dc1-81c0-249bfbdc7c86"
-      },
-      "sourceCount": 1,
-      "signalCount": 37,
-      "participantCount": 42,
-      "sourceNames": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "latestAt": "2026-09-09T17:30:06.059Z"
-    },
-    {
-      "rank": 3,
-      "id": "cmtt0pw2p018pro9owlhpi092",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtt0pw2p018pro9owlhpi092",
-        "original": "https://openai.com/index/introducing-chatgpt-images-2-5",
-        "story": "https://aihot.virxact.com/story/9a02120a-837d-4a20-987a-4688ac3df838"
-      },
-      "sourceCount": 15,
-      "signalCount": 22,
-      "participantCount": 36,
-      "sourceNames": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "X：OpenAI (@OpenAI)",
-        "X：OpenAI Developers (@OpenAIDevs)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Greg Brockman (@gdb)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Sam Altman (@sama)",
-        "The Verge：AI（RSS）",
-        "Simon Willison 博客",
-        "IT之家（RSS）",
-        "公众号：卡尔的AI沃茨",
-        "X：ZHO (@ZHO_ZHO_ZHO)",
-        "The Decoder：AI News（RSS）",
-        "X：Luma AI (@LumaLabsAI)"
-      ],
-      "latestAt": "2026-09-10T07:20:58.000Z"
-    },
-    {
-      "rank": 4,
       "id": "cmtv7kmzk02vdrok9y0y8njiv",
       "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
       "source": {
@@ -92,52 +41,141 @@
         "original": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
         "story": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
-      "sourceCount": 3,
-      "signalCount": 15,
-      "participantCount": 25,
+      "sourceCount": 8,
+      "signalCount": 20,
+      "participantCount": 32,
       "sourceNames": [
         "X：DeepSeek (@deepseek_ai)",
         "X：Testing Catalog (@testingcatalog)",
-        "MarkTechPost（RSS）"
+        "MarkTechPost（RSS）",
+        "X：Kim (@kimmonismus)",
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "X：SemiAnalysis (@SemiAnalysis_)",
+        "The Decoder：AI News（RSS）",
+        "X：洪明 (@hongming731)"
       ],
-      "latestAt": "2026-09-10T07:31:01.000Z"
+      "latestAt": "2026-09-10T23:44:30.000Z"
     },
     {
-      "rank": 5,
-      "id": "cmtszna9e04isro5woti0ixg6",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier–Stokes 千禧年问题解答",
+      "rank": 3,
+      "id": "cmttxf8n90qovrofp2tiv0g2g",
+      "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g",
+        "original": "https://www.ithome.com/1/000/353.htm",
+        "story": "https://aihot.virxact.com/story/c569fed6-5ad5-4c71-b7f2-6de4d75eb33f"
+      },
+      "sourceCount": 5,
+      "signalCount": 18,
+      "participantCount": 25,
+      "sourceNames": [
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "IT之家（RSS）",
+        "X：Kim (@kimmonismus)",
+        "The Verge：AI（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "latestAt": "2026-09-11T06:17:03.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmtt0pw2p018pro9owlhpi092",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
       "source": {
         "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
-        "original": "https://openai.com/index/navier-stokes-solution",
-        "story": "https://aihot.virxact.com/story/5dc91853-c5fe-4876-a2f1-0ff9d448ffbf"
+        "aihot": "https://aihot.news/items/cmtt0pw2p018pro9owlhpi092",
+        "original": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "story": "https://aihot.virxact.com/story/9a02120a-837d-4a20-987a-4688ac3df838"
       },
-      "sourceCount": 15,
-      "signalCount": 19,
-      "participantCount": 38,
+      "sourceCount": 3,
+      "signalCount": 16,
+      "participantCount": 22,
       "sourceNames": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "X：OpenAI (@OpenAI)",
+        "X：ZHO (@ZHO_ZHO_ZHO)",
         "The Decoder：AI News（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Kim (@kimmonismus)",
-        "X：Greg Brockman (@gdb)",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：马东锡 NLP (@dongxi_nlp)",
-        "The Verge：AI（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "IT之家（RSS）",
-        "Simon Willison 博客",
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "X：Luma AI (@LumaLabsAI)"
       ],
-      "latestAt": "2026-09-09T21:16:34.000Z"
+      "latestAt": "2026-09-10T07:20:58.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmttzipvw0sqlrofp63a8px22",
+      "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmttzipvw0sqlrofp63a8px22",
+        "original": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+        "story": "https://aihot.virxact.com/story/036f18d8-db67-479f-855d-7bd2a6c4e6c3"
+      },
+      "sourceCount": 4,
+      "signalCount": 8,
+      "participantCount": 15,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）",
+        "The Verge：AI（RSS）",
+        "X：洪明 (@hongming731)"
+      ],
+      "latestAt": "2026-09-11T06:17:03.000Z"
     },
     {
       "rank": 6,
+      "id": "cmtva1qh206burok9zip2wdid",
+      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder–Decoder 架构，带原生视觉理解",
+      "source": {
+        "name": "X：Kim (@kimmonismus)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmtva1qh206burok9zip2wdid",
+        "original": "https://x.com/kimmonismus/status/2097962333767102665",
+        "story": "https://aihot.virxact.com/story/bbf32fc9-61b8-4492-9946-994ef673ab36"
+      },
+      "sourceCount": 3,
+      "signalCount": 11,
+      "participantCount": 14,
+      "sourceNames": [
+        "X：Kim (@kimmonismus)",
+        "X：X.PIN (@thexpin)",
+        "X：Tianyi Cui（@tianyi）"
+      ],
+      "latestAt": "2026-09-10T10:21:28.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmtvsgyqs05vkrofbgg06yzsa",
+      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa",
+        "original": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+        "story": "https://aihot.virxact.com/story/95429625-e3c1-448f-baad-bd55f93d2be7"
+      },
+      "sourceCount": 8,
+      "signalCount": 0,
+      "participantCount": 7,
+      "sourceNames": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "X：OpenAI Developers (@OpenAIDevs)",
+        "X：Tibo (@thsottiaux)",
+        "The Decoder：AI News（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Greg Brockman (@gdb)",
+        "IT之家（RSS）",
+        "X：Sherwin Wu（@sherwinwu）"
+      ],
+      "latestAt": "2026-09-11T02:44:29.000Z"
+    },
+    {
+      "rank": 8,
       "id": "cmtuejpah193urofpj0jmte9i",
       "title": "Apple 发布 Health Sensing System 与重构版 Health app，Apple Watch Series 12 和 Ultra 4 主打 readiness 与 Health Age",
       "source": {
@@ -148,39 +186,18 @@
         "original": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
         "story": "https://aihot.virxact.com/story/dc44c06e-1fa3-4f52-a3b9-ec93be455845"
       },
-      "sourceCount": 2,
-      "signalCount": 21,
-      "participantCount": 25,
+      "sourceCount": 3,
+      "signalCount": 7,
+      "participantCount": 12,
       "sourceNames": [
         "Apple：Newsroom（RSS）",
-        "TechCrunch：AI（RSS）"
+        "TechCrunch：AI（RSS）",
+        "X：Testing Catalog (@testingcatalog)"
       ],
-      "latestAt": "2026-09-09T18:16:29.000Z"
+      "latestAt": "2026-09-10T07:45:13.000Z"
     },
     {
-      "rank": 7,
-      "id": "cmttwq6oy0pybrofphae4ykhb",
-      "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
-      "source": {
-        "name": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb",
-        "original": "https://x.com/Thom_Wolf/status/2097615465698713666",
-        "story": "https://aihot.virxact.com/story/c569fed6-5ad5-4c71-b7f2-6de4d75eb33f"
-      },
-      "sourceCount": 3,
-      "signalCount": 16,
-      "participantCount": 23,
-      "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "X：Kim (@kimmonismus)"
-      ],
-      "latestAt": "2026-09-09T18:02:10.000Z"
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "id": "cmttwa2j30pktrofpw67b9pby",
       "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
       "source": {
@@ -192,8 +209,8 @@
         "story": "https://aihot.virxact.com/story/212a965c-6fd8-4067-9263-5d5125d5b4fc"
       },
       "sourceCount": 3,
-      "signalCount": 12,
-      "participantCount": 18,
+      "signalCount": 9,
+      "participantCount": 14,
       "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：X.PIN (@thexpin)",
@@ -202,48 +219,28 @@
       "latestAt": "2026-09-09T20:06:28.000Z"
     },
     {
-      "rank": 9,
-      "id": "cmtuhr1gr1dmxrofp90rc4c6u",
-      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-      "source": {
-        "name": "Anthropic：Research（发表成果 · 网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
-        "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-        "story": "https://aihot.virxact.com/story/b9ebd413-667a-4099-ac65-17145aad06ad"
-      },
-      "sourceCount": 4,
-      "signalCount": 10,
-      "participantCount": 13,
-      "sourceNames": [
-        "X：Anthropic (@AnthropicAI)",
-        "X：Kim (@kimmonismus)",
-        "Anthropic：Research（发表成果 · 网页）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-09-09T19:58:55.000Z"
-    },
-    {
       "rank": 10,
-      "id": "cmttqzqw30jwkrofpxrj00ngg",
-      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+      "id": "cmtvywm6902omrojit3fo7bjv",
+      "title": "OpenAI 发布 Agents API 公测版",
       "source": {
-        "name": "IT之家（RSS）"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
-        "original": "https://www.ithome.com/1/000/188.htm",
-        "story": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
+        "aihot": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv",
+        "original": "https://openai.com/index/introducing-the-agents-api",
+        "story": "https://aihot.virxact.com/story/6f069982-b7a3-47c6-a698-01e1802b56af"
       },
-      "sourceCount": 2,
-      "signalCount": 4,
-      "participantCount": 6,
+      "sourceCount": 5,
+      "signalCount": 0,
+      "participantCount": 5,
       "sourceNames": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Hacker News：AI 热帖",
+        "MarkTechPost（RSS）",
         "IT之家（RSS）",
-        "X：X.PIN (@thexpin)"
+        "X：Tibo (@thsottiaux)"
       ],
-      "latestAt": "2026-09-09T06:42:44.000Z"
+      "latestAt": "2026-09-11T02:32:10.000Z"
     }
   ]
 }
