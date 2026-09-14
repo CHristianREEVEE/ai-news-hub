@@ -1,25 +1,24 @@
 {
-  "updatedAt": "2026-09-13T08:14:59.138370+00:00",
+  "updatedAt": "2026-09-14T08:49:45.253040+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmtymlrth035dronv9zqv9ccb",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "id": "cmu06l0dg09hiroryn5e19xp1",
+      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
       "source": {
-        "name": "X：Sam Altman (@sama)"
+        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-        "original": "https://x.com/sama/status/2098811563415150910",
+        "aihot": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
+        "original": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
         "story": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
       },
-      "sourceCount": 16,
-      "signalCount": 33,
-      "participantCount": 56,
+      "sourceCount": 18,
+      "signalCount": 57,
+      "participantCount": 87,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
         "X：Dario Amodei (@DarioAmodei)",
         "X：Kim (@kimmonismus)",
         "IT之家（RSS）",
@@ -34,125 +33,62 @@
         "X：Rohan Paul (@rohanpaul_ai)",
         "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "X：洪明 (@hongming731)",
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）",
+        "X：AI Safety Memes (@AISafetyMemes)"
       ],
-      "latestAt": "2026-09-13T06:21:01.000Z"
+      "latestAt": "2026-09-14T07:50:00.000Z"
     },
     {
       "rank": 2,
-      "id": "cmty8t82j03zxrojhdlid1wt5",
-      "title": "研究分析称 OpenAI 智能体曾向 RubyGems 上传 2000 多个恶意包",
+      "id": "cmtyhdyje0egorojhjwrlt3i5",
+      "title": "Nvidia 拟向 Anthropic IPO 投资至多 100 亿美元",
       "source": {
         "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmty8t82j03zxrojhdlid1wt5",
-        "original": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google",
-        "story": "https://aihot.virxact.com/story/9430c38f-c9b0-41ec-95a2-1aa5b0b804ec"
-      },
-      "sourceCount": 7,
-      "signalCount": 8,
-      "participantCount": 15,
-      "sourceNames": [
-        "Hacker News：AI 热帖",
-        "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Simon Willison 博客",
-        "The Decoder：AI News（RSS）",
-        "X：Kim (@kimmonismus)",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-09-12T21:41:36.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "cmtym6tgn0008roo5xupf65fm",
-      "title": "OpenAI 评测模型越狱入侵 Hugging Face 事件复盘与开源模型防御之争",
-      "source": {
-        "name": "PromptArmor：Threat Intelligence"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtym6tgn0008roo5xupf65fm",
-        "original": "https://www.promptarmor.com/resources/how-openai-hacked-hugging-face",
-        "story": "https://aihot.virxact.com/story/b9ebd413-667a-4099-ac65-17145aad06ad"
-      },
-      "sourceCount": 2,
-      "signalCount": 12,
-      "participantCount": 16,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：洪明 (@hongming731)"
-      ],
-      "latestAt": "2026-09-13T00:49:53.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "cmtvywm6902omrojit3fo7bjv",
-      "title": "OpenAI 发布 Agents API 公测版",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv",
-        "original": "https://openai.com/index/introducing-the-agents-api",
-        "story": "https://aihot.virxact.com/story/598b9f73-8f9e-4a03-948f-c96bda5d3b4e"
-      },
-      "sourceCount": 3,
-      "signalCount": 11,
-      "participantCount": 15,
-      "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "X：洪明 (@hongming731)"
-      ],
-      "latestAt": "2026-09-13T00:49:53.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmtxmd06905q5roi3ds616hwo",
-      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo",
-        "original": "https://www.ithome.com/1/001/488.htm",
+        "aihot": "https://aihot.news/items/cmtyhdyje0egorojhjwrlt3i5",
+        "original": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo",
         "story": "https://aihot.virxact.com/story/711b39b3-5fe7-4a3c-95f9-f956996a4d7a"
       },
       "sourceCount": 3,
-      "signalCount": 9,
-      "participantCount": 12,
+      "signalCount": 18,
+      "participantCount": 21,
       "sourceNames": [
+        "The Decoder：AI News（RSS）",
         "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-09-12T14:05:18.000Z"
+      "latestAt": "2026-09-14T00:03:00.000Z"
     },
     {
-      "rank": 6,
-      "id": "cmtu2qhzo0xb2rofp6eaokqdd",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 双图像模型，主打更快生成与局部编辑",
+      "rank": 3,
+      "id": "cmu0kxqno0swyrory88jvk2pn",
+      "title": "Anthropic 提出 3 步 Pace the Frontier 放缓计划，获 OpenAI、xAI 和 Microsoft 声援",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "MarkTechPost（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtu2qhzo0xb2rofp6eaokqdd",
-        "original": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone",
-        "story": "https://aihot.virxact.com/story/9a02120a-837d-4a20-987a-4688ac3df838"
+        "aihot": "https://aihot.news/items/cmu0kxqno0swyrory88jvk2pn",
+        "original": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down",
+        "story": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
       },
-      "sourceCount": 3,
-      "signalCount": 8,
-      "participantCount": 11,
+      "sourceCount": 6,
+      "signalCount": 7,
+      "participantCount": 14,
       "sourceNames": [
-        "X：ZHO (@ZHO_ZHO_ZHO)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Arena (@arena)"
+        "X：Satya Nadella (@satyanadella)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Testing Catalog (@testingcatalog)",
+        "IT之家（RSS）",
+        "X：AI Safety Memes (@AISafetyMemes)",
+        "MarkTechPost（RSS）"
       ],
-      "latestAt": "2026-09-12T15:57:37.000Z"
+      "latestAt": "2026-09-14T01:44:01.000Z"
     },
     {
-      "rank": 7,
+      "rank": 4,
       "id": "cmtv7kmzk02vdrok9y0y8njiv",
       "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
       "source": {
@@ -164,56 +100,79 @@
         "story": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
       "sourceCount": 2,
-      "signalCount": 6,
+      "signalCount": 8,
       "participantCount": 10,
       "sourceNames": [
-        "X：SemiAnalysis (@SemiAnalysis_)",
-        "X：马东锡 NLP (@dongxi_nlp)"
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "X：洪明 (@hongming731)"
       ],
-      "latestAt": "2026-09-13T01:22:59.000Z"
+      "latestAt": "2026-09-14T07:18:03.000Z"
     },
     {
-      "rank": 8,
-      "id": "cmtyay71605x2rojh4f44hf66",
-      "title": "The Verge 深度报道：OpenAI 以 88 小时解决 Navier-Stokes 引发数学界信任危机",
+      "rank": 5,
+      "id": "cmtszna9e04isro5woti0ixg6",
+      "title": "OpenAI 宣布以内部 AI 系统给出 Navier–Stokes 千禧年问题解答",
       "source": {
-        "name": "The Verge：AI（RSS）"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtyay71605x2rojh4f44hf66",
-        "original": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+        "aihot": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
+        "original": "https://openai.com/index/navier-stokes-solution",
         "story": "https://aihot.virxact.com/story/c569fed6-5ad5-4c71-b7f2-6de4d75eb33f"
+      },
+      "sourceCount": 2,
+      "signalCount": 7,
+      "participantCount": 11,
+      "sourceNames": [
+        "The Verge：AI（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "latestAt": "2026-09-13T11:58:28.662Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmtuhr1gr1dmxrofp90rc4c6u",
+      "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
+        "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+        "story": "https://aihot.virxact.com/story/b9ebd413-667a-4099-ac65-17145aad06ad"
       },
       "sourceCount": 1,
       "signalCount": 7,
-      "participantCount": 10,
+      "participantCount": 11,
       "sourceNames": [
-        "The Verge：AI（RSS）"
+        "X：洪明 (@hongming731)"
       ],
-      "latestAt": "2026-09-12T11:00:00.000Z"
+      "latestAt": "2026-09-13T00:49:53.000Z"
     },
     {
-      "rank": 9,
-      "id": "cmtx0v3dg030mroedwvkdfyvw",
-      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+      "rank": 7,
+      "id": "cmtu2qhzo0xb2rofp6eaokqdd",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 双图像模型，主打更快生成与局部编辑",
       "source": {
         "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw",
-        "original": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-        "story": "https://aihot.virxact.com/story/59a6eabf-1694-481a-abb8-10d4944a5cb5"
+        "aihot": "https://aihot.news/items/cmtu2qhzo0xb2rofp6eaokqdd",
+        "original": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone",
+        "story": "https://aihot.virxact.com/story/9a02120a-837d-4a20-987a-4688ac3df838"
       },
-      "sourceCount": 1,
-      "signalCount": 8,
-      "participantCount": 12,
+      "sourceCount": 3,
+      "signalCount": 5,
+      "participantCount": 8,
       "sourceNames": [
-        "The Decoder：AI News（RSS）"
+        "X：ZHO (@ZHO_ZHO_ZHO)",
+        "X：Arena (@arena)",
+        "X：Sherwin Wu（@sherwinwu）"
       ],
-      "latestAt": "2026-09-11T13:50:28.000Z"
+      "latestAt": "2026-09-14T04:32:52.000Z"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "id": "cmtym24xb0002rob419mlyhlb",
       "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
       "source": {
@@ -224,15 +183,53 @@
         "original": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
         "story": "https://aihot.virxact.com/story/bbf32fc9-61b8-4492-9946-994ef673ab36"
       },
-      "sourceCount": 3,
-      "signalCount": 8,
-      "participantCount": 11,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "Baseten 工程博客（网页）"
-      ],
+      "sourceCount": 0,
+      "signalCount": 5,
+      "participantCount": 5,
+      "sourceNames": [],
       "latestAt": "2026-09-11T22:01:37.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "cmty8t82j03zxrojhdlid1wt5",
+      "title": "研究分析称 OpenAI 智能体曾向 RubyGems 上传 2000 多个恶意包",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmty8t82j03zxrojhdlid1wt5",
+        "original": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google",
+        "story": "https://aihot.virxact.com/story/9430c38f-c9b0-41ec-95a2-1aa5b0b804ec"
+      },
+      "sourceCount": 3,
+      "signalCount": 7,
+      "participantCount": 10,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "X：Kim (@kimmonismus)",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-09-12T21:41:36.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "cmtvywm6902omrojit3fo7bjv",
+      "title": "OpenAI 发布 Agents API 公测版",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv",
+        "original": "https://openai.com/index/introducing-the-agents-api",
+        "story": "https://aihot.virxact.com/story/598b9f73-8f9e-4a03-948f-c96bda5d3b4e"
+      },
+      "sourceCount": 1,
+      "signalCount": 5,
+      "participantCount": 6,
+      "sourceNames": [
+        "X：洪明 (@hongming731)"
+      ],
+      "latestAt": "2026-09-13T15:46:27.000Z"
     }
   ]
 }
