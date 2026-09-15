@@ -1,69 +1,119 @@
 {
-  "updatedAt": "2026-09-14T08:49:45.253040+00:00",
+  "updatedAt": "2026-09-15T08:36:47.317881+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmu06l0dg09hiroryn5e19xp1",
-      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+      "id": "cmu1n7bh7041hroxj150kzuwy",
+      "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
       "source": {
-        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "name": "Ars Technica：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
-        "original": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-        "story": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
+        "aihot": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
+        "original": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
+        "story": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
       },
-      "sourceCount": 18,
-      "signalCount": 57,
-      "participantCount": 87,
+      "sourceCount": 10,
+      "signalCount": 42,
+      "participantCount": 55,
       "sourceNames": [
-        "X：Dario Amodei (@DarioAmodei)",
-        "X：Kim (@kimmonismus)",
         "IT之家（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
+        "X：阿易 AI Notes (@AYi_AInotes)",
         "X：Haider (@haider1)",
-        "X：马东锡 NLP (@dongxi_nlp)",
+        "X：Rohan Paul (@rohanpaul_ai)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
         "X：Sam Altman (@sama)",
-        "X：小北 (@frxiaobei)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "X：洪明 (@hongming731)",
-        "X：阿易 AI Notes (@AYi_AInotes)",
         "The Decoder：AI News（RSS）",
-        "MarkTechPost（RSS）",
-        "X：AI Safety Memes (@AISafetyMemes)"
+        "Ars Technica：AI（RSS）",
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-09-14T07:50:00.000Z"
+      "latestAt": "2026-09-15T07:35:16.000Z"
     },
     {
       "rank": 2,
-      "id": "cmtyhdyje0egorojhjwrlt3i5",
-      "title": "Nvidia 拟向 Anthropic IPO 投资至多 100 亿美元",
+      "id": "cmu1hrr070dycrocndfax0y0c",
+      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
+      "source": {
+        "name": "Tomer Tunguz 博客（VC 分析）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
+        "original": "https://tomtunguz.com/what-does-the-pause-mean",
+        "story": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
+      },
+      "sourceCount": 14,
+      "signalCount": 44,
+      "participantCount": 59,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "IT之家（RSS）",
+        "TechCrunch：AI（RSS）",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "The Verge：AI（RSS）",
+        "Tomer Tunguz 博客（VC 分析）",
+        "MarkTechPost（RSS）",
+        "X：AI Safety Memes (@AISafetyMemes)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Haider (@haider1)",
+        "X：X.PIN (@thexpin)",
+        "X：Kim (@kimmonismus)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-14T22:59:41.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmu1ju3b00pmgrocnrgwe6e9e",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+        "original": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+        "story": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
+      },
+      "sourceCount": 5,
+      "signalCount": 28,
+      "participantCount": 33,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "Apple：Newsroom（RSS）",
+        "TechCrunch：AI（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-14T19:28:42.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmu1g31xf07frrocnmjfagq29",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
       "source": {
         "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtyhdyje0egorojhjwrlt3i5",
-        "original": "https://the-decoder.com/nvidia-wants-to-pour-up-to-10-billion-into-anthropics-record-breaking-ipo",
-        "story": "https://aihot.virxact.com/story/711b39b3-5fe7-4a3c-95f9-f956996a4d7a"
+        "aihot": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+        "original": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "story": "https://aihot.virxact.com/story/89fef8dc-553e-45c9-9d2c-add0cb5a37f3"
       },
-      "sourceCount": 3,
-      "signalCount": 18,
-      "participantCount": 21,
+      "sourceCount": 4,
+      "signalCount": 24,
+      "participantCount": 28,
       "sourceNames": [
         "The Decoder：AI News（RSS）",
-        "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "X：Kim (@kimmonismus)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-09-14T00:03:00.000Z"
+      "latestAt": "2026-09-14T16:48:24.049Z"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "id": "cmu0kxqno0swyrory88jvk2pn",
       "title": "Anthropic 提出 3 步 Pace the Frontier 放缓计划，获 OpenAI、xAI 和 Microsoft 声援",
       "source": {
@@ -74,162 +124,129 @@
         "original": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down",
         "story": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
       },
-      "sourceCount": 6,
-      "signalCount": 7,
-      "participantCount": 14,
+      "sourceCount": 9,
+      "signalCount": 14,
+      "participantCount": 24,
       "sourceNames": [
         "X：Satya Nadella (@satyanadella)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Testing Catalog (@testingcatalog)",
         "IT之家（RSS）",
         "X：AI Safety Memes (@AISafetyMemes)",
-        "MarkTechPost（RSS）"
-      ],
-      "latestAt": "2026-09-14T01:44:01.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "cmtv7kmzk02vdrok9y0y8njiv",
-      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-      "source": {
-        "name": "MarkTechPost（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv",
-        "original": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-        "story": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
-      },
-      "sourceCount": 2,
-      "signalCount": 8,
-      "participantCount": 10,
-      "sourceNames": [
-        "X：马东锡 NLP (@dongxi_nlp)",
-        "X：洪明 (@hongming731)"
-      ],
-      "latestAt": "2026-09-14T07:18:03.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmtszna9e04isro5woti0ixg6",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier–Stokes 千禧年问题解答",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
-        "original": "https://openai.com/index/navier-stokes-solution",
-        "story": "https://aihot.virxact.com/story/c569fed6-5ad5-4c71-b7f2-6de4d75eb33f"
-      },
-      "sourceCount": 2,
-      "signalCount": 7,
-      "participantCount": 11,
-      "sourceNames": [
+        "MarkTechPost（RSS）",
+        "Microsoft AI：官方博客（网页）",
         "The Verge：AI（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Ars Technica：AI（RSS）"
       ],
-      "latestAt": "2026-09-13T11:58:28.662Z"
+      "latestAt": "2026-09-14T19:06:13.000Z"
     },
     {
       "rank": 6,
-      "id": "cmtuhr1gr1dmxrofp90rc4c6u",
-      "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
+      "id": "cmu1xyw1004hvromg5m4jf131",
+      "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
       "source": {
-        "name": "Anthropic：Research（发表成果 · 网页）"
+        "name": "Fireworks AI（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
-        "original": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-        "story": "https://aihot.virxact.com/story/b9ebd413-667a-4099-ac65-17145aad06ad"
+        "aihot": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
+        "original": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+        "story": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
-      "sourceCount": 1,
-      "signalCount": 7,
-      "participantCount": 11,
+      "sourceCount": 5,
+      "signalCount": 10,
+      "participantCount": 15,
       "sourceNames": [
-        "X：洪明 (@hongming731)"
+        "X：洪明 (@hongming731)",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "Fireworks AI（网页）",
+        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
-      "latestAt": "2026-09-13T00:49:53.000Z"
+      "latestAt": "2026-09-15T07:57:48.000Z"
     },
     {
       "rank": 7,
-      "id": "cmtu2qhzo0xb2rofp6eaokqdd",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 双图像模型，主打更快生成与局部编辑",
+      "id": "cmu1ju3b00pmfrocnhd0s8k0a",
+      "title": "Apple 发布 iOS 27、iPadOS 27、macOS 27 等系统更新，推出 Siri AI 与新一代 Apple Intelligence",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "Apple：Newsroom（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtu2qhzo0xb2rofp6eaokqdd",
-        "original": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone",
-        "story": "https://aihot.virxact.com/story/9a02120a-837d-4a20-987a-4688ac3df838"
+        "aihot": "https://aihot.news/items/cmu1ju3b00pmfrocnhd0s8k0a",
+        "original": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
+        "story": "https://aihot.virxact.com/story/37de8617-5db1-47ff-b221-e2176095fe51"
       },
-      "sourceCount": 3,
-      "signalCount": 5,
-      "participantCount": 8,
+      "sourceCount": 4,
+      "signalCount": 8,
+      "participantCount": 12,
       "sourceNames": [
-        "X：ZHO (@ZHO_ZHO_ZHO)",
-        "X：Arena (@arena)",
-        "X：Sherwin Wu（@sherwinwu）"
+        "IT之家（RSS）",
+        "Apple：Newsroom（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Ars Technica：AI（RSS）"
       ],
-      "latestAt": "2026-09-14T04:32:52.000Z"
+      "latestAt": "2026-09-14T19:28:42.000Z"
     },
     {
       "rank": 8,
-      "id": "cmtym24xb0002rob419mlyhlb",
-      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
+      "id": "cmttqzqw30jwkrofpxrj00ngg",
+      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
       "source": {
-        "name": "Baseten 工程博客（网页）"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb",
-        "original": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-        "story": "https://aihot.virxact.com/story/bbf32fc9-61b8-4492-9946-994ef673ab36"
+        "aihot": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
+        "original": "https://www.ithome.com/1/000/188.htm",
+        "story": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
       },
-      "sourceCount": 0,
-      "signalCount": 5,
-      "participantCount": 5,
-      "sourceNames": [],
-      "latestAt": "2026-09-11T22:01:37.000Z"
+      "sourceCount": 2,
+      "signalCount": 9,
+      "participantCount": 11,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：X.PIN (@thexpin)"
+      ],
+      "latestAt": "2026-09-15T06:51:02.000Z"
     },
     {
       "rank": 9,
-      "id": "cmty8t82j03zxrojhdlid1wt5",
-      "title": "研究分析称 OpenAI 智能体曾向 RubyGems 上传 2000 多个恶意包",
+      "id": "cmu1w7993037vrorbhyp0mwmn",
+      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "The Verge：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmty8t82j03zxrojhdlid1wt5",
-        "original": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google",
-        "story": "https://aihot.virxact.com/story/9430c38f-c9b0-41ec-95a2-1aa5b0b804ec"
+        "aihot": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
+        "original": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "story": "https://aihot.virxact.com/story/57c9927e-f041-4203-8708-27bf10343288"
       },
       "sourceCount": 3,
-      "signalCount": 7,
-      "participantCount": 10,
+      "signalCount": 5,
+      "participantCount": 9,
       "sourceNames": [
         "The Decoder：AI News（RSS）",
-        "X：Kim (@kimmonismus)",
+        "Ars Technica：AI（RSS）",
         "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-09-12T21:41:36.000Z"
+      "latestAt": "2026-09-14T22:59:41.000Z"
     },
     {
       "rank": 10,
-      "id": "cmtvywm6902omrojit3fo7bjv",
-      "title": "OpenAI 发布 Agents API 公测版",
+      "id": "cmtugou9e1cddrofptz3jwh4j",
+      "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1,999",
       "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "name": "Apple：Newsroom（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv",
-        "original": "https://openai.com/index/introducing-the-agents-api",
-        "story": "https://aihot.virxact.com/story/598b9f73-8f9e-4a03-948f-c96bda5d3b4e"
+        "aihot": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
+        "original": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+        "story": "https://aihot.virxact.com/story/4f40f9dd-bc01-452b-8c1b-d24154208fcf"
       },
-      "sourceCount": 1,
-      "signalCount": 5,
-      "participantCount": 6,
-      "sourceNames": [
-        "X：洪明 (@hongming731)"
-      ],
-      "latestAt": "2026-09-13T15:46:27.000Z"
+      "sourceCount": 0,
+      "signalCount": 10,
+      "participantCount": 10,
+      "sourceNames": [],
+      "latestAt": "2026-09-09T18:15:40.996Z"
     }
   ]
 }

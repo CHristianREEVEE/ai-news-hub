@@ -1,52 +1,259 @@
 {
-  "updatedAt": "2026-09-14T08:49:42.899284+00:00",
+  "updatedAt": "2026-09-15T08:36:44.014443+00:00",
   "source": "aihot.virxact.com",
-  "total": 2,
+  "total": 11,
   "items": [
     {
-      "id": "cmu06l0dg09hiroryn5e19xp1",
-      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-      "originalTitle": "Two cheers （out of three） for Dario Amodei",
-      "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+      "id": "cmu2d4jj405xcro25xm50v262",
+      "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+      "originalTitle": "阶跃发布语音大模型StepAudio 3，拿下多个全球第一！",
+      "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
       "source": {
-        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "name": "公众号：阶跃星辰（Step）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
-        "original": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario"
+        "aihot": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522"
       },
-      "publishedAt": "2026-09-13T18:34:31.000Z",
-      "discoveredAt": "2026-09-13T19:02:16.596Z",
-      "category": "tip",
-      "score": 62,
+      "publishedAt": "2026-09-15T07:29:56.000Z",
+      "discoveredAt": "2026-09-15T07:40:58.299Z",
+      "category": "ai-models",
+      "score": 65,
       "selected": true,
-      "reason": "作者肯定 Dario 提议中放慢节奏与透明度的部分，同时汇总多方对监管俘获、评估方独立性和对华姿态的质疑，并补充追责与召回两条政策思路。",
+      "reason": "官方完整介绍了五款模型的能力与榜单成绩，可帮助读者了解语音模型在实时交互、理解和创作上的进展。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1"
+        "url": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262"
       }
     },
     {
-      "id": "cmu01iavi08reroymepsxnar2",
-      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-      "originalTitle": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
-      "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+      "id": "cmu23uewb08bfrow2t7lv6cxc",
+      "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
+      "originalTitle": "OpenAI's GPT-Live-1 debuts at #1 on the Artificial Analysis Speech to Speech Index at a score of 81….",
+      "summary": "Artificial Analysis 发布 Speech to Speech Index，OpenAI 的 GPT-Live-1 以 81.5 分（Astra 后端，medium 推理强度）排名第一，超过 Grok Voice Think Fast 2.0 High 的 81.3；Sol 后端配置得 80.1 排第三。",
+      "source": {
+        "name": "X：Artificial Analysis (@ArtificialAnlys)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu23uewb08bfrow2t7lv6cxc",
+        "original": "https://x.com/ArtificialAnlys/status/2099698254414029207"
+      },
+      "publishedAt": "2026-09-15T03:14:09.000Z",
+      "discoveredAt": "2026-09-15T03:21:06.808Z",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "reason": "原文给出语音到语音模型的完整分数、速度和成本对比，读者可据此在不同后端配置间做选型判断。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu23uewb08bfrow2t7lv6cxc"
+      }
+    },
+    {
+      "id": "cmu1xyw1004hvromg5m4jf131",
+      "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+      "originalTitle": "DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
+      "summary": "Fireworks 发布 DeepSeek-V4.1-Flash 并公布完整基准结果：在 DeepSWE 上以 max 档取得 74.34% pass@1，与 GPT-6 Astra 同一水平，但每任务成本 $0.43，约为 Astra 的 1/15。",
+      "source": {
+        "name": "Fireworks AI（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
+        "original": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra"
+      },
+      "publishedAt": "2026-09-15T00:36:35.301Z",
+      "discoveredAt": "2026-09-15T00:36:35.301Z",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "reason": "官方实测给出 DeepSWE、Terminal-Bench 和 HLE 三组数据，可帮助读者判断该模型在编码智能体成本上的真实位置。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131"
+      }
+    },
+    {
+      "id": "cmu1w7993037vrorbhyp0mwmn",
+      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+      "originalTitle": "Is Big Tech's AI slowdown a safety pact or a cartel？",
+      "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
+      "source": {
+        "name": "The Verge：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
+        "original": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+      },
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "discoveredAt": "2026-09-14T23:47:11.878Z",
+      "category": "tip",
+      "score": 83,
+      "selected": true,
+      "reason": "文章汇集安全研究者、监管团体与前官员的多方观点，既讨论放慢协议的价值，也剖析安全洗白与监管真空的可能走向。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn"
+      }
+    },
+    {
+      "id": "cmu1rrthc04ffrovwf4kpknmm",
+      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+      "originalTitle": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+      "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
       "source": {
         "name": "Hacker News：AI 热帖"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
-        "original": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo"
+        "aihot": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm",
+        "original": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review"
       },
-      "publishedAt": "2026-09-13T14:15:40.000Z",
-      "discoveredAt": "2026-09-13T16:40:12.008Z",
-      "category": "industry",
-      "score": 85,
+      "publishedAt": "2026-09-14T19:56:20.000Z",
+      "discoveredAt": "2026-09-14T21:43:10.995Z",
+      "category": "tip",
+      "score": 77,
       "selected": true,
-      "reason": "原文梳理了 Anthropic 威胁报告中也门组织用 Claude Code 并行推进导弹研发的完整链条，可帮助读者理解 AI 滥用如何绕过安全防护。",
+      "reason": "原文用公开基准和可复现脚本对比两档模型在代码评审上的召回、精度与成本，并给出按仓库和 bug 类别分层的可迁移测法。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/cmu01iavi08reroymepsxnar2"
+        "url": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm"
+      }
+    },
+    {
+      "id": "cmu1miqz1154mrocnhtw6icqw",
+      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+      "originalTitle": "Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic",
+      "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
+        "original": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic"
+      },
+      "publishedAt": "2026-09-14T19:15:56.861Z",
+      "discoveredAt": "2026-09-14T19:15:56.861Z",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "reason": "作者以一手复盘展示了 agent 加速编码后 CI 承压的真实路径，给出的可扩展架构经验可直接迁移到类似团队。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw"
+      }
+    },
+    {
+      "id": "cmu1ju3b00pmgrocnrgwe6e9e",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "originalTitle": "Siri AI， a profoundly more capable and personal assistant， is here",
+      "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+        "original": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here"
+      },
+      "publishedAt": "2026-09-14T17:09:41.324Z",
+      "discoveredAt": "2026-09-14T18:00:58.336Z",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "reason": "官方公告完整列出 Siri AI 的能力清单、设备与语言范围，以及欧盟和中国市场暂不可用等限制，读者可据此评估适用性。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e"
+      }
+    },
+    {
+      "id": "cmu1jhejj0njbrocn5llfnktp",
+      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+      "originalTitle": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
+      "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
+      "source": {
+        "name": "X：Arena (@arena)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
+        "original": "https://x.com/arena/status/2099549108013006958"
+      },
+      "publishedAt": "2026-09-14T17:21:29.000Z",
+      "discoveredAt": "2026-09-14T17:51:06.246Z",
+      "category": "paper",
+      "score": 66,
+      "selected": true,
+      "reason": "原文给出开源模型成本与成绩的完整对比，读者可以据此评估 DeepSeek-V4.1-Flash 在性价比上的位置。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp"
+      }
+    },
+    {
+      "id": "cmu1gt8gn097trocnxxvdhxli",
+      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+      "originalTitle": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
+      "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
+      "source": {
+        "name": "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli",
+        "original": "https://x.com/SiliconFlowAI/status/2099536759168352634"
+      },
+      "publishedAt": "2026-09-14T16:32:25.000Z",
+      "discoveredAt": "2026-09-14T16:36:19.273Z",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "reason": "原文给出了参数规模、上下文长度、开源协议和定价，读者可据此评估它能否接入现有编码与 Agent 工具链。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli"
+      }
+    },
+    {
+      "id": "cmu1g31xf07frrocnmjfagq29",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "originalTitle": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+        "original": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo"
+      },
+      "publishedAt": "2026-09-14T15:46:45.000Z",
+      "discoveredAt": "2026-09-14T16:15:57.841Z",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "reason": "报道梳理了 Anthropic 盈利口径与 Nasdaq 上市计划的细节，并指出调整后指标与分成成本的口径差异，有助于读者评估 IPO 叙事。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29"
+      }
+    },
+    {
+      "id": "cmu12ocst0b6nro2nypi25zyq",
+      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+      "originalTitle": "小红书 AllSpark 发布 Iris：同量级最强开源 Search Agent",
+      "summary": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。",
+      "source": {
+        "name": "公众号：小红书技术（dots.llm）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+        "original": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448"
+      },
+      "publishedAt": "2026-09-14T09:59:00.000Z",
+      "discoveredAt": "2026-09-14T10:00:40.191Z",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "reason": "原文给出了数据构造、SFT-RL 训练和统一评测的完整思路，读者可以据此理解 Search Agent 的训练难点与可迁移方法。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq"
       }
     }
   ]
