@@ -1,72 +1,10 @@
 {
-  "updatedAt": "2026-09-15T08:36:47.317881+00:00",
+  "updatedAt": "2026-09-16T08:31:18.424426+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmu1n7bh7041hroxj150kzuwy",
-      "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
-      "source": {
-        "name": "Ars Technica：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
-        "original": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
-        "story": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
-      },
-      "sourceCount": 10,
-      "signalCount": 42,
-      "participantCount": 55,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "X：Haider (@haider1)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "TechCrunch：AI（RSS）",
-        "X：Sam Altman (@sama)",
-        "The Decoder：AI News（RSS）",
-        "Ars Technica：AI（RSS）",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-09-15T07:35:16.000Z"
-    },
-    {
-      "rank": 2,
-      "id": "cmu1hrr070dycrocndfax0y0c",
-      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
-      "source": {
-        "name": "Tomer Tunguz 博客（VC 分析）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
-        "original": "https://tomtunguz.com/what-does-the-pause-mean",
-        "story": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
-      },
-      "sourceCount": 14,
-      "signalCount": 44,
-      "participantCount": 59,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "IT之家（RSS）",
-        "TechCrunch：AI（RSS）",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "The Verge：AI（RSS）",
-        "Tomer Tunguz 博客（VC 分析）",
-        "MarkTechPost（RSS）",
-        "X：AI Safety Memes (@AISafetyMemes)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Haider (@haider1)",
-        "X：X.PIN (@thexpin)",
-        "X：Kim (@kimmonismus)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Ars Technica：AI（RSS）"
-      ],
-      "latestAt": "2026-09-14T22:59:41.000Z"
-    },
-    {
-      "rank": 3,
       "id": "cmu1ju3b00pmgrocnrgwe6e9e",
       "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
       "source": {
@@ -78,42 +16,19 @@
         "story": "https://aihot.virxact.com/story/ac2caa51-d0d3-4e27-a35f-471eb4acb691"
       },
       "sourceCount": 5,
-      "signalCount": 28,
+      "signalCount": 27,
       "participantCount": 33,
       "sourceNames": [
-        "IT之家（RSS）",
         "Apple：Newsroom（RSS）",
         "TechCrunch：AI（RSS）",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Ars Technica：AI（RSS）"
+        "Ars Technica：AI（RSS）",
+        "X：洪明 (@hongming731)"
       ],
-      "latestAt": "2026-09-14T19:28:42.000Z"
+      "latestAt": "2026-09-16T00:06:32.000Z"
     },
     {
-      "rank": 4,
-      "id": "cmu1g31xf07frrocnmjfagq29",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
-        "original": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-        "story": "https://aihot.virxact.com/story/89fef8dc-553e-45c9-9d2c-add0cb5a37f3"
-      },
-      "sourceCount": 4,
-      "signalCount": 24,
-      "participantCount": 28,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "X：Kim (@kimmonismus)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "latestAt": "2026-09-14T16:48:24.049Z"
-    },
-    {
-      "rank": 5,
+      "rank": 2,
       "id": "cmu0kxqno0swyrory88jvk2pn",
       "title": "Anthropic 提出 3 步 Pace the Frontier 放缓计划，获 OpenAI、xAI 和 Microsoft 声援",
       "source": {
@@ -122,50 +37,106 @@
       "links": {
         "aihot": "https://aihot.news/items/cmu0kxqno0swyrory88jvk2pn",
         "original": "https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down",
-        "story": "https://aihot.virxact.com/story/62dfe29a-0642-42b0-9167-499fe8e2ec51"
+        "story": "https://aihot.virxact.com/story/d11fb65f-023b-4b2b-8569-1974cebba02c"
       },
       "sourceCount": 9,
-      "signalCount": 14,
-      "participantCount": 24,
+      "signalCount": 17,
+      "participantCount": 27,
       "sourceNames": [
-        "X：Satya Nadella (@satyanadella)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Testing Catalog (@testingcatalog)",
         "IT之家（RSS）",
-        "X：AI Safety Memes (@AISafetyMemes)",
-        "MarkTechPost（RSS）",
-        "Microsoft AI：官方博客（网页）",
+        "X：X.PIN (@thexpin)",
+        "X：Kim (@kimmonismus)",
+        "The Decoder：AI News（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Ars Technica：AI（RSS）",
         "The Verge：AI（RSS）",
-        "Ars Technica：AI（RSS）"
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
-      "latestAt": "2026-09-14T19:06:13.000Z"
+      "latestAt": "2026-09-16T02:18:41.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmu1n7bh7041hroxj150kzuwy",
+      "title": "Amodei 发文呼吁放缓前沿 AI 开发，Altman、Hassabis、Nadella 等相继响应",
+      "source": {
+        "name": "Ars Technica：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu1n7bh7041hroxj150kzuwy",
+        "original": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed",
+        "story": "https://aihot.virxact.com/story/50f43968-6229-4d02-aee7-f811dd269c70"
+      },
+      "sourceCount": 5,
+      "signalCount": 19,
+      "participantCount": 25,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Ars Technica：AI（RSS）",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-09-16T00:25:24.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmu2xqfxz02zhroc1hxuzi6jm",
+      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+        "original": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+        "story": "https://aihot.virxact.com/story/db118c4b-c51d-4827-ac12-6ecebbb6c970"
+      },
+      "sourceCount": 14,
+      "signalCount": 0,
+      "participantCount": 12,
+      "sourceNames": [
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Google DeepMind (@GoogleDeepMind)",
+        "Google DeepMind：Blog（RSS）",
+        "X：Google AI (@GoogleAI)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
+        "IT之家（RSS）",
+        "Hacker News：AI 热帖",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "MarkTechPost（RSS）",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "Simon Willison 博客",
+        "X：洪明 (@hongming731)"
+      ],
+      "latestAt": "2026-09-16T00:25:24.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmu2gnngu032brovqo7pvrfx9",
+      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
+        "original": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+        "story": "https://aihot.virxact.com/story/f6d460c2-3297-4f03-b10d-16951b0ddd13"
+      },
+      "sourceCount": 4,
+      "signalCount": 12,
+      "participantCount": 16,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Kim (@kimmonismus)",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-09-16T00:25:24.000Z"
     },
     {
       "rank": 6,
-      "id": "cmu1xyw1004hvromg5m4jf131",
-      "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
-      "source": {
-        "name": "Fireworks AI（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
-        "original": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
-        "story": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
-      },
-      "sourceCount": 5,
-      "signalCount": 10,
-      "participantCount": 15,
-      "sourceNames": [
-        "X：洪明 (@hongming731)",
-        "X：马东锡 NLP (@dongxi_nlp)",
-        "Fireworks AI（网页）",
-        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "latestAt": "2026-09-15T07:57:48.000Z"
-    },
-    {
-      "rank": 7,
       "id": "cmu1ju3b00pmfrocnhd0s8k0a",
       "title": "Apple 发布 iOS 27、iPadOS 27、macOS 27 等系统更新，推出 Siri AI 与新一代 Apple Intelligence",
       "source": {
@@ -176,11 +147,10 @@
         "original": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available",
         "story": "https://aihot.virxact.com/story/37de8617-5db1-47ff-b221-e2176095fe51"
       },
-      "sourceCount": 4,
+      "sourceCount": 3,
       "signalCount": 8,
-      "participantCount": 12,
+      "participantCount": 11,
       "sourceNames": [
-        "IT之家（RSS）",
         "Apple：Newsroom（RSS）",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Ars Technica：AI（RSS）"
@@ -188,28 +158,7 @@
       "latestAt": "2026-09-14T19:28:42.000Z"
     },
     {
-      "rank": 8,
-      "id": "cmttqzqw30jwkrofpxrj00ngg",
-      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
-        "original": "https://www.ithome.com/1/000/188.htm",
-        "story": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
-      },
-      "sourceCount": 2,
-      "signalCount": 9,
-      "participantCount": 11,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "X：X.PIN (@thexpin)"
-      ],
-      "latestAt": "2026-09-15T06:51:02.000Z"
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "id": "cmu1w7993037vrorbhyp0mwmn",
       "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
       "source": {
@@ -231,22 +180,67 @@
       "latestAt": "2026-09-14T22:59:41.000Z"
     },
     {
-      "rank": 10,
-      "id": "cmtugou9e1cddrofptz3jwh4j",
-      "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1,999",
+      "rank": 8,
+      "id": "cmu1xyw1004hvromg5m4jf131",
+      "title": "Fireworks 上线 DeepSeek-V4.1-Flash，DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
       "source": {
-        "name": "Apple：Newsroom（RSS）"
+        "name": "Fireworks AI（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
-        "original": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
-        "story": "https://aihot.virxact.com/story/4f40f9dd-bc01-452b-8c1b-d24154208fcf"
+        "aihot": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
+        "original": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+        "story": "https://aihot.virxact.com/story/7c066f3b-0bf8-4eed-9019-b46f9d9dee44"
       },
-      "sourceCount": 0,
-      "signalCount": 10,
-      "participantCount": 10,
-      "sourceNames": [],
-      "latestAt": "2026-09-09T18:15:40.996Z"
+      "sourceCount": 2,
+      "signalCount": 5,
+      "participantCount": 7,
+      "sourceNames": [
+        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "latestAt": "2026-09-15T07:57:48.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "cmttqzqw30jwkrofpxrj00ngg",
+      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
+        "original": "https://www.ithome.com/1/000/188.htm",
+        "story": "https://aihot.virxact.com/story/adc6a951-9694-467e-a82f-8598cd642379"
+      },
+      "sourceCount": 2,
+      "signalCount": 5,
+      "participantCount": 7,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：X.PIN (@thexpin)"
+      ],
+      "latestAt": "2026-09-15T06:51:02.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "cmu352k2908t9rosaotpsx42c",
+      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
+      "source": {
+        "name": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
+        "original": "https://x.com/AravSrinivas/status/2099957318935028173",
+        "story": "https://aihot.virxact.com/story/1ad61539-0aae-46a5-a72b-7d59c46d3cb4"
+      },
+      "sourceCount": 2,
+      "signalCount": 1,
+      "participantCount": 3,
+      "sourceNames": [
+        "X：Perplexity (@perplexity_ai)",
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "latestAt": "2026-09-15T20:23:34.000Z"
     }
   ]
 }
