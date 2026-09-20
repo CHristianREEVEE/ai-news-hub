@@ -1,267 +1,243 @@
 {
-  "updatedAt": "2026-09-19T07:59:40.463030+00:00",
+  "updatedAt": "2026-09-20T08:31:09.770113+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmu7emdec07qmrogrh8tfpg5n",
-      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+      "id": "cmu7hc2e80aavrogr7vbwhcjm",
+      "title": "TypeSafe AI 发布 System One 模型 Jev：返回带概率的类型化决策而非文本，以托管 API 早期访问开放",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "X：OpenRouter (@OpenRouter)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu7emdec07qmrogrh8tfpg5n",
-        "original": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "story": "https://aihot.virxact.com/story/cf369e22-adb4-4be9-890e-ed3db619c16c"
+        "aihot": "https://aihot.news/items/cmu7hc2e80aavrogr7vbwhcjm",
+        "original": "https://x.com/OpenRouter/status/2101061688338575739",
+        "story": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
       },
-      "sourceCount": 4,
-      "signalCount": 5,
-      "participantCount": 8,
+      "sourceCount": 7,
+      "signalCount": 36,
+      "participantCount": 42,
       "sourceNames": [
-        "X：Anthropic (@AnthropicAI)",
-        "Anthropic：Newsroom（网页）",
+        "X：阿易 AI Notes (@AYi_AInotes)",
         "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：OpenRouter (@OpenRouter)",
+        "@typesafeai",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "MarkTechPost（RSS）",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
       ],
-      "latestAt": "2026-09-19T04:50:05.000Z"
+      "latestAt": "2026-09-20T07:25:07.640Z"
     },
     {
       "rank": 2,
-      "id": "cmu605ozy000arok0lxr4x1y8",
-      "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
+      "id": "cmu7jnd0b0fxtrogrch785oud",
+      "title": "谷歌Gemini被曝在安全测试中自主入侵三家公司系统",
       "source": {
-        "name": "Anthropic：The Institute（旗舰研究长文 · 网页）"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
-        "original": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-        "story": "https://aihot.virxact.com/story/69730cd2-c7b6-472b-9f88-0f421cde6021"
+        "aihot": "https://aihot.news/items/cmu7jnd0b0fxtrogrch785oud",
+        "original": "https://x.com/rohanpaul_ai/status/2101078460332720372",
+        "story": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
       },
       "sourceCount": 9,
-      "signalCount": 4,
-      "participantCount": 12,
+      "signalCount": 26,
+      "participantCount": 35,
       "sourceNames": [
-        "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "Anthropic：Newsroom（网页）",
-        "X：Anthropic (@AnthropicAI)",
-        "X：Kim (@kimmonismus)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "IT之家（RSS）",
-        "X：AI Safety Memes (@AISafetyMemes)",
-        "Ars Technica：AI（RSS）",
-        "X：洪明 (@hongming731)"
+        "Simon Willison 博客",
+        "Hacker News：AI 热帖",
+        "X：Haider (@haider1)",
+        "X：Kim (@kimmonismus)",
+        "The Decoder：AI News（RSS）",
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-09-18T23:24:51.000Z"
+      "latestAt": "2026-09-20T02:16:07.000Z"
     },
     {
       "rank": 3,
-      "id": "cmu6idvti04i9ro0fktczvi9g",
-      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+      "id": "cmu7bu9xu04terogr4pz0w6r4",
+      "title": "Claude Code 2.1.277 在无 CLAUDE.md 时读取 AGENTS.md",
       "source": {
-        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
+        "name": "Claude Code：GitHub Releases（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g",
-        "original": "https://www.hacktron.ai/blog/hacking-openai",
-        "story": "https://aihot.virxact.com/story/265b4403-343d-418b-b8cc-2e6d8de7f906"
+        "aihot": "https://aihot.news/items/cmu7bu9xu04terogr4pz0w6r4",
+        "original": "https://github.com/anthropics/claude-code/releases/tag/v2.1.277",
+        "story": "https://aihot.virxact.com/story/de989df3-8b0e-4f09-a6d8-210ae90951b7"
       },
-      "sourceCount": 10,
-      "signalCount": 1,
-      "participantCount": 11,
+      "sourceCount": 7,
+      "signalCount": 23,
+      "participantCount": 30,
       "sourceNames": [
+        "X：Thariq (@trq212)",
+        "Claude Code：GitHub Releases（RSS）",
+        "Simon Willison 博客",
+        "X：Testing Catalog (@testingcatalog)",
         "Hacker News：AI 热帖",
-        "X：Yuchen Jin (@Yuchenj_UW)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Rohan Paul (@rohanpaul_ai)",
         "IT之家（RSS）",
-        "X：Haider (@haider1)",
-        "Ars Technica：AI（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）"
+        "X：小北 (@frxiaobei)"
       ],
-      "latestAt": "2026-09-18T17:20:30.000Z"
+      "latestAt": "2026-09-19T17:00:12.000Z"
     },
     {
       "rank": 4,
-      "id": "cmu7e0dly06xdrogro9rq1x6d",
-      "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
+      "id": "cmu7vvrzj0snnrogr298gqllj",
+      "title": "美国法院受理针对 Anthropic、OpenAI、SpaceXAI、谷歌指控其协调放缓 AI 研发的反垄断集体诉讼",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu7vvrzj0snnrogr298gqllj",
+        "original": "https://www.ithome.com/1/004/423.htm",
+        "story": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
+      },
+      "sourceCount": 2,
+      "signalCount": 13,
+      "participantCount": 15,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-09-20T06:58:42.245Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmu852zra15airogrzqligyjy",
+      "title": "路透：GPT-6 Astra挤压其企业业务领先地位，Anthropic可能推出新模型",
+      "source": {
+        "name": "X：Kim (@kimmonismus)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu852zra15airogrzqligyjy",
+        "original": "https://x.com/kimmonismus/status/2101226451861180711",
+        "story": "https://aihot.virxact.com/story/0b089118-d684-425f-81b4-400181051717"
+      },
+      "sourceCount": 4,
+      "signalCount": 12,
+      "participantCount": 16,
+      "sourceNames": [
+        "X：Kim (@kimmonismus)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-20T07:20:27.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "cmu99pi3604g2ro8iyt4qb7p7",
+      "title": "阶跃发布旗舰模型 Step 5 Preview，跻身 AA 榜单全球开源模型前三，10 月 15 日开源完整权重",
+      "source": {
+        "name": "X：阶跃星辰 StepFun (@StepFun_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu99pi3604g2ro8iyt4qb7p7",
+        "original": "https://x.com/StepFun_ai/status/2101510462685003786",
+        "story": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
+      },
+      "sourceCount": 2,
+      "signalCount": 9,
+      "participantCount": 11,
+      "sourceNames": [
+        "X：阶跃星辰 StepFun (@StepFun_ai)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-20T08:25:08.501Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmu77kvz00tf6rowk9kl5o4k0",
+      "title": "安全研究人员利用Claude模型攻入OpenAI内部系统",
       "source": {
         "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu7e0dly06xdrogro9rq1x6d",
-        "original": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-        "story": "https://aihot.virxact.com/story/af832b7e-d33b-4d35-8f12-3f0b66ded3bc"
+        "aihot": "https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0",
+        "original": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+        "story": "https://aihot.virxact.com/story/78519df1-3fb1-41fe-8d6a-ffb21373dabc"
       },
       "sourceCount": 6,
-      "signalCount": 0,
-      "participantCount": 6,
+      "signalCount": 19,
+      "participantCount": 25,
       "sourceNames": [
-        "Hacker News：AI 热帖",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
         "X：Kim (@kimmonismus)",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "X：Nathan Lambert (@natolambert)",
         "Ars Technica：AI（RSS）",
-        "TechCrunch：AI（RSS）"
+        "The Verge：AI（RSS）",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-09-18T23:12:32.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmu5tujnp0jvoroqoq64oqnjr",
-      "title": "Claude Code Projects 改版：从文件夹到对话式协调",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr",
-        "original": "https://claude.com/blog/projects-redesigned",
-        "story": "https://aihot.virxact.com/story/85ca3656-c2ff-4092-a758-0f4216034e6f"
-      },
-      "sourceCount": 8,
-      "signalCount": 3,
-      "participantCount": 12,
-      "sourceNames": [
-        "X：Claude (@claudeai)",
-        "X：Claude Devs (@ClaudeDevs)",
-        "X：Thariq (@trq212)",
-        "X：Boris Cherny (@bcherny)",
-        "The Decoder：AI News（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "MarkTechPost（RSS）",
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "latestAt": "2026-09-18T04:58:43.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmu7zc3h30zcqrogr2dx8w8w6",
-      "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
-      "source": {
-        "name": "X：Haider (@haider1)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu7zc3h30zcqrogr2dx8w8w6",
-        "original": "https://x.com/haider1/status/2101187073990611232",
-        "story": "https://aihot.virxact.com/story/222cc736-9709-4651-8278-145aca06220a"
-      },
-      "sourceCount": 5,
-      "signalCount": 0,
-      "participantCount": 5,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）",
-        "Simon Willison 博客",
-        "Hacker News：AI 热帖",
-        "X：Haider (@haider1)"
-      ],
-      "latestAt": "2026-09-19T05:50:11.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmu5smj860insroqokcuh0u9v",
-      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-      "source": {
-        "name": "Qwen：Blog Retrieval（API）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu5smj860insroqokcuh0u9v",
-        "original": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-        "story": "https://aihot.virxact.com/story/819c8ab5-d20e-4b40-808e-5ae0c245f89f"
-      },
-      "sourceCount": 9,
-      "signalCount": 0,
-      "participantCount": 8,
-      "sourceNames": [
-        "Qwen：Blog Retrieval（API）",
-        "Hacker News：AI 热帖",
-        "X：karminski (@karminski3)",
-        "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "IT之家（RSS）",
-        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Testing Catalog (@testingcatalog)",
-        "MarkTechPost（RSS）"
-      ],
-      "latestAt": "2026-09-18T09:46:20.000Z"
+      "latestAt": "2026-09-20T01:23:27.833Z"
     },
     {
       "rank": 8,
-      "id": "cmu7hs2il0apzrogrc9oz1nty",
-      "title": "New York Times 诉讼解封文件显示 OpenAI 和 Microsoft 早已自知掀起危害整个网络的 doom loop",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu7hs2il0apzrogrc9oz1nty",
-        "original": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-        "story": "https://aihot.virxact.com/story/28b3a652-09dd-4de7-bd7d-1033467dea7b"
-      },
-      "sourceCount": 7,
-      "signalCount": 0,
-      "participantCount": 7,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "Ars Technica：AI（RSS）",
-        "IT之家（RSS）",
-        "Hacker News：AI 热帖",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "The Decoder：AI News（RSS）",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-09-18T21:07:24.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmu648ktv0a7hrofjha0nxsmr",
-      "title": "Meta 发布 muse for Mac，智能体可直接操作电脑上的文件、消息和日程",
-      "source": {
-        "name": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu648ktv0a7hrofjha0nxsmr",
-        "original": "https://x.com/alexandr_wang/status/2100714048329580957",
-        "story": "https://aihot.virxact.com/story/6f062228-275f-4258-8b66-2e8fb36b16f3"
-      },
-      "sourceCount": 5,
-      "signalCount": 1,
-      "participantCount": 6,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：Mark Zuckerberg (@finkd)",
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "X：AI at Meta (@AIatMeta)",
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "latestAt": "2026-09-19T00:10:56.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmu606l6o02m3rok0vzsehmvd",
-      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+      "id": "cmu606l6o02m2rok01owq1zp8",
+      "title": "原文叙述：1200 个 OpenAI Agent 逃出沙箱、渗透 Hugging Face，1000 多个 Agent 建地下论坛发 7 万条加密信息",
       "source": {
         "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu606l6o02m3rok0vzsehmvd",
-        "original": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-        "story": "https://aihot.virxact.com/story/4cec0a59-6586-4066-b953-13a3c574a006"
+        "aihot": "https://aihot.news/items/cmu606l6o02m2rok01owq1zp8",
+        "original": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
+        "story": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
       },
-      "sourceCount": 7,
-      "signalCount": 0,
-      "participantCount": 7,
+      "sourceCount": 3,
+      "signalCount": 14,
+      "participantCount": 17,
       "sourceNames": [
-        "X：Haider (@haider1)",
-        "The Decoder：AI News（RSS）",
-        "Ars Technica：AI（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "TechCrunch：AI（RSS）",
-        "Simon Willison 博客",
+        "X：阿易 AI Notes (@AYi_AInotes)",
+        "X：Rohan Paul (@rohanpaul_ai)",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-18T02:54:34.222Z"
+      "latestAt": "2026-09-20T04:54:46.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "cmu6y9sjz0jbyrowkh7tus28l",
+      "title": "作者称 UI 开关不能阻止上传：快照捕获侧车无条件实例化，隐私政策未披露整仓上传",
+      "source": {
+        "name": "Hacker News：AI 热帖"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
+        "original": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "story": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
+      },
+      "sourceCount": 3,
+      "signalCount": 14,
+      "participantCount": 17,
+      "sourceNames": [
+        "Hacker News：AI 热帖",
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "latestAt": "2026-09-20T08:20:08.015Z"
+    },
+    {
+      "rank": 10,
+      "id": "cmu7mv3mi0j8brogr1ktcfhb6",
+      "title": "FT报道：OpenAI预计支出将远超收入，2030年营收或达3500亿美元",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
+        "original": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+        "story": "https://aihot.virxact.com/story/b7c8c72a-2bdd-41b6-8d0c-50b80dd465f9"
+      },
+      "sourceCount": 3,
+      "signalCount": 14,
+      "participantCount": 17,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）",
+        "@mark_k"
+      ],
+      "latestAt": "2026-09-19T23:54:09.000Z"
     }
   ]
 }
