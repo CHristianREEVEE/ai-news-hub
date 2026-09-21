@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T08:31:09.770113+00:00",
+  "updatedAt": "2026-09-21T08:51:09.092127+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -15,22 +15,44 @@
         "original": "https://x.com/OpenRouter/status/2101061688338575739",
         "story": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
       },
-      "sourceCount": 7,
-      "signalCount": 36,
-      "participantCount": 42,
+      "sourceCount": 4,
+      "signalCount": 30,
+      "participantCount": 33,
       "sourceNames": [
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "TechCrunch：AI（RSS）",
-        "X：OpenRouter (@OpenRouter)",
-        "@typesafeai",
-        "X：马东锡 NLP (@dongxi_nlp)",
         "MarkTechPost（RSS）",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
+        "X：OpenRouter (@OpenRouter)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
-      "latestAt": "2026-09-20T07:25:07.640Z"
+      "latestAt": "2026-09-21T01:44:53.000Z"
     },
     {
       "rank": 2,
+      "id": "cmu99pi3604g2ro8iyt4qb7p7",
+      "title": "阶跃发布旗舰模型 Step 5 Preview，跻身 AA 榜单全球开源模型前三，10 月 15 日开源完整权重",
+      "source": {
+        "name": "X：阶跃星辰 StepFun (@StepFun_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu99pi3604g2ro8iyt4qb7p7",
+        "original": "https://x.com/StepFun_ai/status/2101510462685003786",
+        "story": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
+      },
+      "sourceCount": 6,
+      "signalCount": 11,
+      "participantCount": 17,
+      "sourceNames": [
+        "X：阶跃星辰 StepFun (@StepFun_ai)",
+        "IT之家（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：洪明 (@hongming731)",
+        "MarkTechPost（RSS）"
+      ],
+      "latestAt": "2026-09-21T06:37:18.000Z"
+    },
+    {
+      "rank": 3,
       "id": "cmu7jnd0b0fxtrogrch785oud",
       "title": "谷歌Gemini被曝在安全测试中自主入侵三家公司系统",
       "source": {
@@ -41,50 +63,44 @@
         "original": "https://x.com/rohanpaul_ai/status/2101078460332720372",
         "story": "https://aihot.virxact.com/story/3349e012-fd78-44db-a833-cae46d175505"
       },
-      "sourceCount": 9,
-      "signalCount": 26,
-      "participantCount": 35,
+      "sourceCount": 4,
+      "signalCount": 15,
+      "participantCount": 19,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）",
-        "Simon Willison 博客",
-        "Hacker News：AI 热帖",
-        "X：Haider (@haider1)",
-        "X：Kim (@kimmonismus)",
         "The Decoder：AI News（RSS）",
         "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）"
+        "TechCrunch：AI（RSS）",
+        "MarkTechPost（RSS）"
       ],
-      "latestAt": "2026-09-20T02:16:07.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "cmu7bu9xu04terogr4pz0w6r4",
-      "title": "Claude Code 2.1.277 在无 CLAUDE.md 时读取 AGENTS.md",
-      "source": {
-        "name": "Claude Code：GitHub Releases（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu7bu9xu04terogr4pz0w6r4",
-        "original": "https://github.com/anthropics/claude-code/releases/tag/v2.1.277",
-        "story": "https://aihot.virxact.com/story/de989df3-8b0e-4f09-a6d8-210ae90951b7"
-      },
-      "sourceCount": 7,
-      "signalCount": 23,
-      "participantCount": 30,
-      "sourceNames": [
-        "X：Thariq (@trq212)",
-        "Claude Code：GitHub Releases（RSS）",
-        "Simon Willison 博客",
-        "X：Testing Catalog (@testingcatalog)",
-        "Hacker News：AI 热帖",
-        "IT之家（RSS）",
-        "X：小北 (@frxiaobei)"
-      ],
-      "latestAt": "2026-09-19T17:00:12.000Z"
+      "latestAt": "2026-09-20T20:20:56.000Z"
     },
     {
       "rank": 4,
+      "id": "cmu9tfhu904turokx2vfjy34f",
+      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
+      "source": {
+        "name": "Qwen：Blog Retrieval（API）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
+        "original": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "story": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
+      },
+      "sourceCount": 6,
+      "signalCount": 5,
+      "participantCount": 11,
+      "sourceNames": [
+        "Qwen：Blog Retrieval（API）",
+        "IT之家（RSS）",
+        "Hacker News：AI 热帖",
+        "X：AK (@_akhaliq)",
+        "X：Kim (@kimmonismus)",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-09-20T23:07:42.000Z"
+    },
+    {
+      "rank": 5,
       "id": "cmu7vvrzj0snnrogr298gqllj",
       "title": "美国法院受理针对 Anthropic、OpenAI、SpaceXAI、谷歌指控其协调放缓 AI 研发的反垄断集体诉讼",
       "source": {
@@ -96,16 +112,84 @@
         "story": "https://aihot.virxact.com/story/a6148dd8-72fa-4d6f-b8da-1b2850432024"
       },
       "sourceCount": 2,
-      "signalCount": 13,
-      "participantCount": 15,
+      "signalCount": 12,
+      "participantCount": 14,
       "sourceNames": [
-        "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "@mark_k"
       ],
-      "latestAt": "2026-09-20T06:58:42.245Z"
+      "latestAt": "2026-09-20T17:17:56.918Z"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "id": "cmu605ozy000arok0lxr4x1y8",
+      "title": "Anthropic CEO Amodei此前提出含第三方评估与国际协议的三步放缓AI发展计划",
+      "source": {
+        "name": "Anthropic：The Institute（旗舰研究长文 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu605ozy000arok0lxr4x1y8",
+        "original": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+        "story": "https://aihot.virxact.com/story/f3836ac4-bf36-43bd-b65a-e6372943a1ff"
+      },
+      "sourceCount": 4,
+      "signalCount": 6,
+      "participantCount": 10,
+      "sourceNames": [
+        "The Verge：AI（RSS）",
+        "IT之家（RSS）",
+        "TechCrunch：AI（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "latestAt": "2026-09-20T23:03:53.272Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmu8q4lm908xvro3kqufzth5h",
+      "title": "特朗普发起为AI更名的投票，并称对AI的打压是民主党骗局之一",
+      "source": {
+        "name": "@mark_k"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu8q4lm908xvro3kqufzth5h",
+        "original": "https://x.com/mark_k/status/2101375842693566856",
+        "story": "https://aihot.virxact.com/story/f3d9aec3-34a0-4a09-9198-9e89b995ee50"
+      },
+      "sourceCount": 5,
+      "signalCount": 5,
+      "participantCount": 10,
+      "sourceNames": [
+        "@mark_k",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "IT之家（RSS）",
+        "X：Kim (@kimmonismus)"
+      ],
+      "latestAt": "2026-09-20T18:56:04.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "cmu6y9sjz0jbyrowkh7tus28l",
+      "title": "ZCode：作者称 UI 开关不能阻止上传：快照捕获侧车无条件实例化，隐私政策未披露整仓上传",
+      "source": {
+        "name": "Hacker News：AI 热帖"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
+        "original": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "story": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
+      },
+      "sourceCount": 2,
+      "signalCount": 6,
+      "participantCount": 8,
+      "sourceNames": [
+        "X：洪明 (@hongming731)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-21T01:02:59.000Z"
+    },
+    {
+      "rank": 9,
       "id": "cmu852zra15airogrzqligyjy",
       "title": "路透：GPT-6 Astra挤压其企业业务领先地位，Anthropic可能推出新模型",
       "source": {
@@ -116,128 +200,35 @@
         "original": "https://x.com/kimmonismus/status/2101226451861180711",
         "story": "https://aihot.virxact.com/story/0b089118-d684-425f-81b4-400181051717"
       },
-      "sourceCount": 4,
-      "signalCount": 12,
-      "participantCount": 16,
+      "sourceCount": 3,
+      "signalCount": 7,
+      "participantCount": 10,
       "sourceNames": [
-        "X：Kim (@kimmonismus)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：阿易 AI Notes (@AYi_AInotes)",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-20T07:20:27.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmu99pi3604g2ro8iyt4qb7p7",
-      "title": "阶跃发布旗舰模型 Step 5 Preview，跻身 AA 榜单全球开源模型前三，10 月 15 日开源完整权重",
-      "source": {
-        "name": "X：阶跃星辰 StepFun (@StepFun_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu99pi3604g2ro8iyt4qb7p7",
-        "original": "https://x.com/StepFun_ai/status/2101510462685003786",
-        "story": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
-      },
-      "sourceCount": 2,
-      "signalCount": 9,
-      "participantCount": 11,
-      "sourceNames": [
-        "X：阶跃星辰 StepFun (@StepFun_ai)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-20T08:25:08.501Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmu77kvz00tf6rowk9kl5o4k0",
-      "title": "安全研究人员利用Claude模型攻入OpenAI内部系统",
-      "source": {
-        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0",
-        "original": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
-        "story": "https://aihot.virxact.com/story/78519df1-3fb1-41fe-8d6a-ffb21373dabc"
-      },
-      "sourceCount": 6,
-      "signalCount": 19,
-      "participantCount": 25,
-      "sourceNames": [
-        "X：Kim (@kimmonismus)",
-        "X：Nathan Lambert (@natolambert)",
-        "Ars Technica：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-09-20T01:23:27.833Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmu606l6o02m2rok01owq1zp8",
-      "title": "原文叙述：1200 个 OpenAI Agent 逃出沙箱、渗透 Hugging Face，1000 多个 Agent 建地下论坛发 7 万条加密信息",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu606l6o02m2rok01owq1zp8",
-        "original": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
-        "story": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
-      },
-      "sourceCount": 3,
-      "signalCount": 14,
-      "participantCount": 17,
-      "sourceNames": [
-        "X：阿易 AI Notes (@AYi_AInotes)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-20T04:54:46.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmu6y9sjz0jbyrowkh7tus28l",
-      "title": "作者称 UI 开关不能阻止上传：快照捕获侧车无条件实例化，隐私政策未披露整仓上传",
-      "source": {
-        "name": "Hacker News：AI 热帖"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
-        "original": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-        "story": "https://aihot.virxact.com/story/f00a478e-3c30-40db-906f-d70bcf857477"
-      },
-      "sourceCount": 3,
-      "signalCount": 14,
-      "participantCount": 17,
-      "sourceNames": [
-        "Hacker News：AI 热帖",
-        "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "latestAt": "2026-09-20T08:20:08.015Z"
+      "latestAt": "2026-09-20T09:17:07.786Z"
     },
     {
       "rank": 10,
-      "id": "cmu7mv3mi0j8brogr1ktcfhb6",
-      "title": "FT报道：OpenAI预计支出将远超收入，2030年营收或达3500亿美元",
+      "id": "cmuacp46v0b19ro5tzymtz1qh",
+      "title": "作者称Jev现已向所有人开放，无需候补名单",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "@typesafeai"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
-        "original": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-        "story": "https://aihot.virxact.com/story/b7c8c72a-2bdd-41b6-8d0c-50b80dd465f9"
+        "aihot": "https://aihot.news/items/cmuacp46v0b19ro5tzymtz1qh",
+        "original": "https://x.com/typesafeai/status/2101786156572823624",
+        "story": "https://aihot.virxact.com/story/0bfc4192-bcb9-4e76-ab63-c7772c0d1a0e"
       },
-      "sourceCount": 3,
-      "signalCount": 14,
-      "participantCount": 17,
+      "sourceCount": 1,
+      "signalCount": 4,
+      "participantCount": 5,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）",
-        "@mark_k"
+        "@typesafeai"
       ],
-      "latestAt": "2026-09-19T23:54:09.000Z"
+      "latestAt": "2026-09-21T04:42:49.000Z"
     }
   ]
 }
