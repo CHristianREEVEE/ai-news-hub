@@ -1,12 +1,86 @@
 {
-  "updatedAt": "2026-09-22T08:28:28.621427+00:00",
+  "updatedAt": "2026-09-23T08:30:31.153051+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "cmucwpqty0rj8roedzxz1496u",
+      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
+      "source": {
+        "name": "X：Claude (@claudeai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u",
+        "original": "https://x.com/claudeai/status/2102435511222890900",
+        "story": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
+      },
+      "sourceCount": 23,
+      "signalCount": 16,
+      "participantCount": 39,
+      "sourceNames": [
+        "Hacker News：AI 热帖",
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Claude (@claudeai)",
+        "The Decoder：AI News（RSS）",
+        "X：Thariq (@trq212)",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Boris Cherny (@bcherny)",
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "X：Yuchen Jin (@Yuchenj_UW)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News：AI 热帖",
+        "X：Ethan Mollick (@emollick)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Arena (@arena)",
+        "X：Charlie Holtz（@charlieholtz）",
+        "IT之家（RSS）",
+        "MarkTechPost（RSS）",
+        "X：karminski (@karminski3)",
+        "X：opencode (@opencode)",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-22T22:21:40.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmuczxsyt03k4ro7nep4vsmez",
+      "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
+      "source": {
+        "name": "X：OpenAI (@OpenAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmuczxsyt03k4ro7nep4vsmez",
+        "original": "https://x.com/OpenAI/status/2102460975790137662",
+        "story": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
+      },
+      "sourceCount": 13,
+      "signalCount": 2,
+      "participantCount": 15,
+      "sourceNames": [
+        "Hacker News：AI 热帖",
+        "X：OpenAI (@OpenAI)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Tibo (@thsottiaux)",
+        "X：Sam Altman (@sama)",
+        "X：Noam Brown (@polynoamial)",
+        "X：Greg Brockman (@gdb)",
+        "X：ZHO (@ZHO_ZHO_ZHO)",
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "IT之家（RSS）",
+        "X：Arena (@arena)",
+        "Artificial Analysis 完整文章（网页）",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-22T22:38:23.000Z"
+    },
+    {
+      "rank": 3,
       "id": "cmubfarpy0xtirolnplntl9p1",
-      "title": "Grok 4.7 今日正式推出，已开始滚动发布",
+      "title": "Grok 4.7 发布，宣称更智能且能力更强，保持相同速度与成本",
       "source": {
         "name": "xAI：News（网页）"
       },
@@ -15,14 +89,13 @@
         "original": "https://x.ai/news/grok-4-7",
         "story": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
       },
-      "sourceCount": 16,
-      "signalCount": 10,
+      "sourceCount": 14,
+      "signalCount": 12,
       "participantCount": 25,
       "sourceNames": [
         "xAI：News（网页）",
         "Hacker News：AI 热帖",
         "X：Eric Zakariasson (@ericzakariasson)",
-        "@mark_k",
         "X：OpenRouter (@OpenRouter)",
         "X：Michael Truell (@mntruell)",
         "X：Arena (@arena)",
@@ -32,14 +105,43 @@
         "X：opencode (@opencode)",
         "X：Testing Catalog (@testingcatalog)",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "Artificial Analysis 完整文章（网页）",
         "IT之家（RSS）",
         "MarkTechPost（RSS）"
       ],
-      "latestAt": "2026-09-22T04:10:04.000Z"
+      "latestAt": "2026-09-22T20:35:40.000Z"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "id": "cmuczxsyt03k4ro7nep4vsmez",
+      "title": "OpenAI发布GPT-6 Luna，API成本较5.6系列减半，并将向桌面应用和Free/Go用户开放",
+      "source": {
+        "name": "X：OpenAI (@OpenAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmuczxsyt03k4ro7nep4vsmez",
+        "original": "https://x.com/OpenAI/status/2102460975790137662",
+        "story": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
+      },
+      "sourceCount": 11,
+      "signalCount": 0,
+      "participantCount": 11,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "Hacker News：AI 热帖",
+        "X：OpenAI (@OpenAI)",
+        "X：Sherwin Wu（@sherwinwu）",
+        "X：Tibo (@thsottiaux)",
+        "X：Sam Altman (@sama)",
+        "X：Noam Brown (@polynoamial)",
+        "X：Greg Brockman (@gdb)",
+        "X：ZHO (@ZHO_ZHO_ZHO)",
+        "IT之家（RSS）",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-22T21:25:18.000Z"
+    },
+    {
+      "rank": 5,
       "id": "cmubox8pl0510ro4vw01ibnin",
       "title": "小米发布MiMo-V2.6-Pro开源权重模型，以46分登顶Artificial Analysis智能指数开源权重榜首",
       "source": {
@@ -50,9 +152,9 @@
         "original": "https://x.com/ArtificialAnlys/status/2102128560962187701",
         "story": "https://aihot.virxact.com/story/fb460b24-bf56-45b0-87a5-fe8eec08a784"
       },
-      "sourceCount": 7,
-      "signalCount": 4,
-      "participantCount": 10,
+      "sourceCount": 11,
+      "signalCount": 5,
+      "participantCount": 15,
       "sourceNames": [
         "X：Nathan Lambert (@natolambert)",
         "X：Artificial Analysis (@ArtificialAnlys)",
@@ -60,12 +162,66 @@
         "X：Arena (@arena)",
         "X：Testing Catalog (@testingcatalog)",
         "X：罗福莉 (@_LuoFuli)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "Hacker News：AI 热帖",
+        "The Decoder：AI News（RSS）",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：karminski (@karminski3)"
       ],
-      "latestAt": "2026-09-22T03:57:17.000Z"
+      "latestAt": "2026-09-22T16:00:37.000Z"
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "id": "cmucwn00k0rglroed55jw9pqk",
+      "title": "Anthropic称Claude Sonnet 5.5预计未来数周发布，将带来类似性能、效率与安全提升",
+      "source": {
+        "name": "Hacker News：AI 热帖"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmucwn00k0rglroed55jw9pqk",
+        "original": "https://www.anthropic.com/claude-opus-5-5",
+        "story": "https://aihot.virxact.com/story/7339a97b-3f94-4475-a3b7-18817f09f6fd"
+      },
+      "sourceCount": 6,
+      "signalCount": 0,
+      "participantCount": 6,
+      "sourceNames": [
+        "Hacker News：AI 热帖",
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-22T18:55:08.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "cmucwn00k0rglroed55jw9pqk",
+      "title": "Anthropic称Claude Haiku 5.5预计未来数周发布，将带来类似性能、效率与安全提升",
+      "source": {
+        "name": "Hacker News：AI 热帖"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmucwn00k0rglroed55jw9pqk",
+        "original": "https://www.anthropic.com/claude-opus-5-5",
+        "story": "https://aihot.virxact.com/story/b9d5ce95-abe0-4f9f-9f68-7cec9d72d805"
+      },
+      "sourceCount": 6,
+      "signalCount": 0,
+      "participantCount": 6,
+      "sourceNames": [
+        "Hacker News：AI 热帖",
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-22T18:55:08.000Z"
+    },
+    {
+      "rank": 8,
       "id": "cmubkgdje000yro3d0t731ihz",
       "title": "OpenAI宣布正与独立数学家顾问组合作，协助其负责任地分享AI与数学进展",
       "source": {
@@ -88,30 +244,7 @@
       "latestAt": "2026-09-21T23:27:23.000Z"
     },
     {
-      "rank": 4,
-      "id": "cmu7hc2e80aavrogr7vbwhcjm",
-      "title": "TypeSafe AI 发布 System One 模型 Jev：返回带概率的类型化决策而非文本，以托管 API 早期访问开放",
-      "source": {
-        "name": "X：OpenRouter (@OpenRouter)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu7hc2e80aavrogr7vbwhcjm",
-        "original": "https://x.com/OpenRouter/status/2101061688338575739",
-        "story": "https://aihot.virxact.com/story/379c3594-c5bf-4cc3-8675-9b1aae61a411"
-      },
-      "sourceCount": 4,
-      "signalCount": 8,
-      "participantCount": 12,
-      "sourceNames": [
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "Tomer Tunguz 博客（VC 分析）",
-        "Simon Willison 博客",
-        "@typesafeai"
-      ],
-      "latestAt": "2026-09-22T01:21:27.000Z"
-    },
-    {
-      "rank": 5,
+      "rank": 9,
       "id": "cmu606l6o02m2rok01owq1zp8",
       "title": "OpenAI团队部署代理群入侵Hugging Face，作者称媒体存在夸大并指OpenAI沙箱与监控漏洞是关键因素",
       "source": {
@@ -132,128 +265,30 @@
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
       ],
-      "latestAt": "2026-09-22T06:29:15.000Z"
+      "latestAt": "2026-09-22T11:09:09.000Z"
     },
     {
-      "rank": 6,
-      "id": "cmu99pi3604g2ro8iyt4qb7p7",
-      "title": "阶跃发布旗舰模型 Step 5 Preview，跻身 AA 榜单全球开源模型前三，10 月 15 日开源完整权重",
+      "rank": 10,
+      "id": "cmud0ng5n001gro1fb8xe3oji",
+      "title": "GPT-6 Sol 被预告将于今日发布",
       "source": {
-        "name": "X：阶跃星辰 StepFun (@StepFun_ai)"
+        "name": "X：ChatGPT (@ChatGPT)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu99pi3604g2ro8iyt4qb7p7",
-        "original": "https://x.com/StepFun_ai/status/2101510462685003786",
-        "story": "https://aihot.virxact.com/story/c4d627e5-9afd-4ea6-ab2f-370d649ed4a0"
-      },
-      "sourceCount": 7,
-      "signalCount": 4,
-      "participantCount": 11,
-      "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：洪明 (@hongming731)",
-        "MarkTechPost（RSS）",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：阶跃星辰 StepFun (@StepFun_ai)"
-      ],
-      "latestAt": "2026-09-22T02:59:59.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmub4ki9z0iharoln67lr05qj",
-      "title": "亚马逊屏蔽Meta的Muse AI代理，禁止其代用户在亚马逊购物，称未授权AI代理访问违反使用条件",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmub4ki9z0iharoln67lr05qj",
-        "original": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-        "story": "https://aihot.virxact.com/story/5fe5740e-34ac-4660-a8d5-4196324f58b3"
-      },
-      "sourceCount": 6,
-      "signalCount": 0,
-      "participantCount": 6,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "IT之家（RSS）",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "Ars Technica：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-09-21T23:23:33.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmu9tfhu904turokx2vfjy34f",
-      "title": "作者称Qwen团队开源发布Qwen-Image-2.1统一图像生成编辑模型",
-      "source": {
-        "name": "Qwen：Blog Retrieval（API）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-        "original": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "story": "https://aihot.virxact.com/story/09e121f4-e667-454f-bdd5-b3ebd16f4deb"
-      },
-      "sourceCount": 6,
-      "signalCount": 5,
-      "participantCount": 11,
-      "sourceNames": [
-        "Qwen：Blog Retrieval（API）",
-        "IT之家（RSS）",
-        "Hacker News：AI 热帖",
-        "X：AK (@_akhaliq)",
-        "The Decoder：AI News（RSS）",
-        "MarkTechPost（RSS）"
-      ],
-      "latestAt": "2026-09-21T16:40:44.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmubqsb9l03vbrociqf22sr07",
-      "title": "作者发布MiMo-V2.6-Flash：310B总参数、15B激活",
-      "source": {
-        "name": "X：小米 MiMo (@XiaomiMiMo)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmubqsb9l03vbrociqf22sr07",
-        "original": "https://x.com/XiaomiMiMo/status/2102138559952290106",
-        "story": "https://aihot.virxact.com/story/b9c1b6b6-ff38-45bb-a977-db8ca321f7bf"
+        "aihot": "https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji",
+        "original": "https://x.com/ChatGPT/status/2102462020339613966",
+        "story": "https://aihot.virxact.com/story/830487aa-e26f-4dbd-9180-d69042dba802"
       },
       "sourceCount": 4,
       "signalCount": 0,
       "participantCount": 4,
       "sourceNames": [
-        "X：Nathan Lambert (@natolambert)",
-        "X：小米 MiMo (@XiaomiMiMo)",
-        "X：opencode (@opencode)",
-        "IT之家（RSS）"
+        "X：Testing Catalog (@testingcatalog)",
+        "TechCrunch：AI（RSS）",
+        "X：ChatGPT (@ChatGPT)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-09-22T03:57:17.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmuc42x6g08hmrots8v7pvhwy",
-      "title": "阿里平头哥将在云栖大会发布真武 V900 AI 芯片，宣称算力提升至真武 M890 的 3 倍",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmuc42x6g08hmrots8v7pvhwy",
-        "original": "https://www.ithome.com/1/005/588.htm",
-        "story": "https://aihot.virxact.com/story/06deb041-77e7-49c2-a1a3-307b66d60998"
-      },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "participantCount": 3,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "X：X.PIN (@thexpin)",
-        "@mark_k"
-      ],
-      "latestAt": "2026-09-22T06:50:11.000Z"
+      "latestAt": "2026-09-22T18:25:24.334Z"
     }
   ]
 }
