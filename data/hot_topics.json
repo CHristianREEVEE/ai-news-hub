@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-23T08:30:31.153051+00:00",
+  "updatedAt": "2026-09-24T08:23:04.252578+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmucwpqty0rj8roedzxz1496u",
+      "id": "cmucyny580521roni2aiyh9xj",
       "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
       "source": {
-        "name": "X：Claude (@claudeai)"
+        "name": "Artificial Analysis 完整文章（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u",
-        "original": "https://x.com/claudeai/status/2102435511222890900",
+        "aihot": "https://aihot.news/items/cmucyny580521roni2aiyh9xj",
+        "original": "https://artificialanalysis.ai/articles/claude-opus-5-5",
         "story": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
       },
-      "sourceCount": 23,
-      "signalCount": 16,
-      "participantCount": 39,
+      "sourceCount": 27,
+      "signalCount": 20,
+      "participantCount": 46,
       "sourceNames": [
         "Hacker News：AI 热帖",
         "The Verge：AI（RSS）",
@@ -41,25 +41,106 @@
         "MarkTechPost（RSS）",
         "X：karminski (@karminski3)",
         "X：opencode (@opencode)",
-        "Ars Technica：AI（RSS）"
+        "Ars Technica：AI（RSS）",
+        "Simon Willison 博客",
+        "Tomer Tunguz 博客（VC 分析）",
+        "X：洪明 (@hongming731)",
+        "X：swyx (@swyx)"
       ],
-      "latestAt": "2026-09-22T22:21:40.000Z"
+      "latestAt": "2026-09-24T02:46:25.000Z"
     },
     {
       "rank": 2,
-      "id": "cmuczxsyt03k4ro7nep4vsmez",
-      "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
+      "id": "cmuexzypj03j9roow55c4teir",
+      "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
+      "source": {
+        "name": "X：Anthropic (@AnthropicAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmuexzypj03j9roow55c4teir",
+        "original": "https://x.com/AnthropicAI/status/2102824959827742916",
+        "story": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
+      },
+      "sourceCount": 7,
+      "signalCount": 9,
+      "participantCount": 16,
+      "sourceNames": [
+        "The Verge：AI（RSS）",
+        "Hacker News：AI 热帖",
+        "X：Anthropic (@AnthropicAI)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Dario Amodei (@DarioAmodei)",
+        "TechCrunch：AI（RSS）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-24T06:18:07.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "cmuea8xrm0t1nroghhxj2y3eg",
+      "title": "Google发布Gemini 3.8 Flash TTS语音合成模型",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
+        "original": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+        "story": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
+      },
+      "sourceCount": 10,
+      "signalCount": 2,
+      "participantCount": 12,
+      "sourceNames": [
+        "Google DeepMind：Blog（RSS）",
+        "Hacker News：AI 热帖",
+        "X：Testing Catalog (@testingcatalog)",
+        "IT之家（RSS）",
+        "X：Ammaar Reshi (@ammaar)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
+        "Simon Willison 博客",
+        "The Decoder：AI News（RSS）",
+        "X：洪明 (@hongming731)"
+      ],
+      "latestAt": "2026-09-24T06:55:33.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmueup7f003m7royq61z93ftn",
+      "title": "ChatGPT Voice升级为运行GPT-6 Astra、Sol、Luna模型并首次可访问邮件、日历和Slack插件",
       "source": {
         "name": "X：OpenAI (@OpenAI)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmuczxsyt03k4ro7nep4vsmez",
-        "original": "https://x.com/OpenAI/status/2102460975790137662",
+        "aihot": "https://aihot.news/items/cmueup7f003m7royq61z93ftn",
+        "original": "https://x.com/OpenAI/status/2102808325742322002",
+        "story": "https://aihot.virxact.com/story/3a89b70e-44a4-4f8d-889d-6c1130cb2604"
+      },
+      "sourceCount": 3,
+      "signalCount": 6,
+      "participantCount": 9,
+      "sourceNames": [
+        "X：OpenAI (@OpenAI)",
+        "The Decoder：AI News（RSS）",
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "latestAt": "2026-09-24T06:55:33.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmud2ya2c03wnrov6lnmiq2dv",
+      "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
+      "source": {
+        "name": "Artificial Analysis 完整文章（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
+        "original": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
         "story": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
       },
-      "sourceCount": 13,
+      "sourceCount": 14,
       "signalCount": 2,
-      "participantCount": 15,
+      "participantCount": 16,
       "sourceNames": [
         "Hacker News：AI 热帖",
         "X：OpenAI (@OpenAI)",
@@ -72,46 +153,14 @@
         "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
         "IT之家（RSS）",
         "X：Arena (@arena)",
-        "Artificial Analysis 完整文章（网页）",
-        "Ars Technica：AI（RSS）"
-      ],
-      "latestAt": "2026-09-22T22:38:23.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "cmubfarpy0xtirolnplntl9p1",
-      "title": "Grok 4.7 发布，宣称更智能且能力更强，保持相同速度与成本",
-      "source": {
-        "name": "xAI：News（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1",
-        "original": "https://x.ai/news/grok-4-7",
-        "story": "https://aihot.virxact.com/story/b2f7b4d5-9d43-4b1e-85e3-d66e8402969a"
-      },
-      "sourceCount": 14,
-      "signalCount": 12,
-      "participantCount": 25,
-      "sourceNames": [
-        "xAI：News（网页）",
-        "Hacker News：AI 热帖",
-        "X：Eric Zakariasson (@ericzakariasson)",
-        "X：OpenRouter (@OpenRouter)",
-        "X：Michael Truell (@mntruell)",
-        "X：Arena (@arena)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "The Decoder：AI News（RSS）",
-        "X：Elon Musk (@elonmusk, xAI)",
-        "X：opencode (@opencode)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）",
+        "Ars Technica：AI（RSS）",
+        "Simon Willison 博客",
         "MarkTechPost（RSS）"
       ],
-      "latestAt": "2026-09-22T20:35:40.000Z"
+      "latestAt": "2026-09-23T18:54:11.000Z"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "id": "cmuczxsyt03k4ro7nep4vsmez",
       "title": "OpenAI发布GPT-6 Luna，API成本较5.6系列减半，并将向桌面应用和Free/Go用户开放",
       "source": {
@@ -122,9 +171,9 @@
         "original": "https://x.com/OpenAI/status/2102460975790137662",
         "story": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
       },
-      "sourceCount": 11,
+      "sourceCount": 15,
       "signalCount": 0,
-      "participantCount": 11,
+      "participantCount": 15,
       "sourceNames": [
         "TechCrunch：AI（RSS）",
         "Hacker News：AI 热帖",
@@ -136,159 +185,104 @@
         "X：Greg Brockman (@gdb)",
         "X：ZHO (@ZHO_ZHO_ZHO)",
         "IT之家（RSS）",
-        "Ars Technica：AI（RSS）"
+        "Ars Technica：AI（RSS）",
+        "Simon Willison 博客",
+        "Tomer Tunguz 博客（VC 分析）",
+        "MarkTechPost（RSS）",
+        "X：Arena (@arena)"
       ],
-      "latestAt": "2026-09-22T21:25:18.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmubox8pl0510ro4vw01ibnin",
-      "title": "小米发布MiMo-V2.6-Pro开源权重模型，以46分登顶Artificial Analysis智能指数开源权重榜首",
-      "source": {
-        "name": "X：Artificial Analysis (@ArtificialAnlys)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmubox8pl0510ro4vw01ibnin",
-        "original": "https://x.com/ArtificialAnlys/status/2102128560962187701",
-        "story": "https://aihot.virxact.com/story/fb460b24-bf56-45b0-87a5-fe8eec08a784"
-      },
-      "sourceCount": 11,
-      "signalCount": 5,
-      "participantCount": 15,
-      "sourceNames": [
-        "X：Nathan Lambert (@natolambert)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：小米 MiMo (@XiaomiMiMo)",
-        "X：Arena (@arena)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：罗福莉 (@_LuoFuli)",
-        "IT之家（RSS）",
-        "Hacker News：AI 热帖",
-        "The Decoder：AI News（RSS）",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "X：karminski (@karminski3)"
-      ],
-      "latestAt": "2026-09-22T16:00:37.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmucwn00k0rglroed55jw9pqk",
-      "title": "Anthropic称Claude Sonnet 5.5预计未来数周发布，将带来类似性能、效率与安全提升",
-      "source": {
-        "name": "Hacker News：AI 热帖"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmucwn00k0rglroed55jw9pqk",
-        "original": "https://www.anthropic.com/claude-opus-5-5",
-        "story": "https://aihot.virxact.com/story/7339a97b-3f94-4475-a3b7-18817f09f6fd"
-      },
-      "sourceCount": 6,
-      "signalCount": 0,
-      "participantCount": 6,
-      "sourceNames": [
-        "Hacker News：AI 热帖",
-        "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-22T18:55:08.000Z"
+      "latestAt": "2026-09-23T17:05:25.000Z"
     },
     {
       "rank": 7,
-      "id": "cmucwn00k0rglroed55jw9pqk",
-      "title": "Anthropic称Claude Haiku 5.5预计未来数周发布，将带来类似性能、效率与安全提升",
+      "id": "cmueurvwl03tvroyqdzcth166",
+      "title": "Claude Code Cloud sessions 正式结束研究预览并可用",
       "source": {
-        "name": "Hacker News：AI 热帖"
+        "name": "X：Claude Devs (@ClaudeDevs)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmucwn00k0rglroed55jw9pqk",
-        "original": "https://www.anthropic.com/claude-opus-5-5",
-        "story": "https://aihot.virxact.com/story/b9d5ce95-abe0-4f9f-9f68-7cec9d72d805"
+        "aihot": "https://aihot.news/items/cmueurvwl03tvroyqdzcth166",
+        "original": "https://x.com/ClaudeDevs/status/2102871550974427462",
+        "story": "https://aihot.virxact.com/story/901dceca-2116-43f9-a96d-d18705a1c5cd"
       },
-      "sourceCount": 6,
-      "signalCount": 0,
-      "participantCount": 6,
+      "sourceCount": 3,
+      "signalCount": 2,
+      "participantCount": 5,
       "sourceNames": [
-        "Hacker News：AI 热帖",
-        "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "IT之家（RSS）"
+        "X：Claude Devs (@ClaudeDevs)",
+        "IT之家（RSS）",
+        "X：Testing Catalog (@testingcatalog)"
       ],
-      "latestAt": "2026-09-22T18:55:08.000Z"
+      "latestAt": "2026-09-24T07:13:35.000Z"
     },
     {
       "rank": 8,
-      "id": "cmubkgdje000yro3d0t731ihz",
-      "title": "OpenAI宣布正与独立数学家顾问组合作，协助其负责任地分享AI与数学进展",
+      "id": "cmuf3ztrm09q7roodokekt1hr",
+      "title": "Meta Muse agent 正在准备集成 Telegram 和 Messenger，并可能集成 Signal",
       "source": {
-        "name": "X：OpenAI (@OpenAI)"
+        "name": "X：AI at Meta (@AIatMeta)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmubkgdje000yro3d0t731ihz",
-        "original": "https://x.com/OpenAI/status/2102093145051943229",
-        "story": "https://aihot.virxact.com/story/ecaee26d-48a7-44e6-ab81-0ac88b7af057"
+        "aihot": "https://aihot.news/items/cmuf3ztrm09q7roodokekt1hr",
+        "original": "https://x.com/AIatMeta/status/2102997291732766943",
+        "story": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
       },
-      "sourceCount": 4,
-      "signalCount": 6,
-      "participantCount": 10,
+      "sourceCount": 5,
+      "signalCount": 0,
+      "participantCount": 5,
       "sourceNames": [
-        "X：OpenAI (@OpenAI)",
-        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Testing Catalog (@testingcatalog)",
+        "The Verge：AI（RSS）",
+        "IT之家（RSS）",
         "TechCrunch：AI（RSS）",
-        "IT之家（RSS）"
+        "X：AI at Meta (@AIatMeta)"
       ],
-      "latestAt": "2026-09-21T23:27:23.000Z"
+      "latestAt": "2026-09-24T06:55:33.000Z"
     },
     {
       "rank": 9,
-      "id": "cmu606l6o02m2rok01owq1zp8",
-      "title": "OpenAI团队部署代理群入侵Hugging Face，作者称媒体存在夸大并指OpenAI沙箱与监控漏洞是关键因素",
+      "id": "cmueuqr3j03ovroyqbsx4c4nx",
+      "title": "Meta在Connect大会发布AI可穿戴设备Muse Charm，尚未发货，计划12月假期前发货",
       "source": {
-        "name": "TechCrunch：AI（RSS）"
+        "name": "X：Testing Catalog (@testingcatalog)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu606l6o02m2rok01owq1zp8",
-        "original": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai",
-        "story": "https://aihot.virxact.com/story/eedde638-650e-4842-8700-11f0922a705f"
+        "aihot": "https://aihot.news/items/cmueuqr3j03ovroyqbsx4c4nx",
+        "original": "https://x.com/testingcatalog/status/2102913764248998337",
+        "story": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
       },
       "sourceCount": 5,
-      "signalCount": 3,
-      "participantCount": 8,
+      "signalCount": 0,
+      "participantCount": 5,
       "sourceNames": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Testing Catalog (@testingcatalog)",
         "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）",
         "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-09-22T11:09:09.000Z"
+      "latestAt": "2026-09-24T06:55:33.000Z"
     },
     {
       "rank": 10,
-      "id": "cmud0ng5n001gro1fb8xe3oji",
-      "title": "GPT-6 Sol 被预告将于今日发布",
+      "id": "cmueurvwl03twroyqsw3ygr4q",
+      "title": "Anthropic 在两周冲刺中将 claude.ai 与 Claude 桌面应用核心体验提速约3倍",
       "source": {
-        "name": "X：ChatGPT (@ChatGPT)"
+        "name": "X：Claude Devs (@ClaudeDevs)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji",
-        "original": "https://x.com/ChatGPT/status/2102462020339613966",
-        "story": "https://aihot.virxact.com/story/830487aa-e26f-4dbd-9180-d69042dba802"
+        "aihot": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
+        "original": "https://x.com/ClaudeDevs/status/2102839691154427983",
+        "story": "https://aihot.virxact.com/story/329b2bf9-57f4-4bae-ae7a-9dd1008f5256"
       },
-      "sourceCount": 4,
-      "signalCount": 0,
-      "participantCount": 4,
+      "sourceCount": 2,
+      "signalCount": 3,
+      "participantCount": 5,
       "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "TechCrunch：AI（RSS）",
-        "X：ChatGPT (@ChatGPT)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "X：Claude Devs (@ClaudeDevs)",
+        "Hacker News：AI 热帖"
       ],
-      "latestAt": "2026-09-22T18:25:24.334Z"
+      "latestAt": "2026-09-24T06:14:39.000Z"
     }
   ]
 }
