@@ -1,69 +1,50 @@
 {
-  "updatedAt": "2026-09-24T08:23:04.252578+00:00",
+  "updatedAt": "2026-09-25T08:45:16.609532+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmucyny580521roni2aiyh9xj",
-      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
+      "id": "cmug4fiwq0ewjrogvaec7w7h7",
+      "title": "Google 计划于10月1日发射搭载 TPUs 的 AI 卫星，测试其在太空环境中的表现",
       "source": {
-        "name": "Artificial Analysis 完整文章（网页）"
+        "name": "X：Viggle AI (@ViggleAI)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmucyny580521roni2aiyh9xj",
-        "original": "https://artificialanalysis.ai/articles/claude-opus-5-5",
-        "story": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
+        "aihot": "https://aihot.news/items/cmug4fiwq0ewjrogvaec7w7h7",
+        "original": "https://x.com/ViggleAI/status/2103247376399978746",
+        "story": "https://aihot.virxact.com/story/c0aa666b-4c8a-4237-be11-a28dce74a056"
       },
-      "sourceCount": 27,
-      "signalCount": 20,
-      "participantCount": 46,
+      "sourceCount": 8,
+      "signalCount": 3,
+      "participantCount": 11,
       "sourceNames": [
-        "Hacker News：AI 热帖",
-        "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）",
-        "X：Claude (@claudeai)",
-        "The Decoder：AI News（RSS）",
-        "X：Thariq (@trq212)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：OpenRouter (@OpenRouter)",
-        "X：Boris Cherny (@bcherny)",
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "X：Yuchen Jin (@Yuchenj_UW)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Hacker News：AI 热帖",
-        "X：Ethan Mollick (@emollick)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Arena (@arena)",
-        "X：Charlie Holtz（@charlieholtz）",
         "IT之家（RSS）",
-        "MarkTechPost（RSS）",
-        "X：karminski (@karminski3)",
-        "X：opencode (@opencode)",
+        "The Verge：AI（RSS）",
         "Ars Technica：AI（RSS）",
-        "Simon Willison 博客",
-        "Tomer Tunguz 博客（VC 分析）",
-        "X：洪明 (@hongming731)",
-        "X：swyx (@swyx)"
+        "The Decoder：AI News（RSS）",
+        "X：Sundar Pichai (@sundarpichai)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Viggle AI (@ViggleAI)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-09-24T02:46:25.000Z"
+      "latestAt": "2026-09-25T07:15:01.000Z"
     },
     {
       "rank": 2,
-      "id": "cmuexzypj03j9roow55c4teir",
+      "id": "cmuefqp730041rovxbpewc3gn",
       "title": "Anthropic分享早期研究结果：Claude自主发现与CRISPR样重复阵列相关的新型酶系统ART",
       "source": {
-        "name": "X：Anthropic (@AnthropicAI)"
+        "name": "Anthropic：Newsroom（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmuexzypj03j9roow55c4teir",
-        "original": "https://x.com/AnthropicAI/status/2102824959827742916",
+        "aihot": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
+        "original": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
         "story": "https://aihot.virxact.com/story/6855fb20-dfb5-4fe3-a445-5e7543efbe7d"
       },
-      "sourceCount": 7,
+      "sourceCount": 8,
       "signalCount": 9,
-      "participantCount": 16,
+      "participantCount": 17,
       "sourceNames": [
         "The Verge：AI（RSS）",
         "Hacker News：AI 热帖",
@@ -71,9 +52,10 @@
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Dario Amodei (@DarioAmodei)",
         "TechCrunch：AI（RSS）",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-09-24T06:18:07.000Z"
+      "latestAt": "2026-09-24T16:04:26.000Z"
     },
     {
       "rank": 3,
@@ -87,9 +69,9 @@
         "original": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
         "story": "https://aihot.virxact.com/story/f988c06b-7a45-4585-aada-09da3acf77f5"
       },
-      "sourceCount": 10,
+      "sourceCount": 11,
       "signalCount": 2,
-      "participantCount": 12,
+      "participantCount": 13,
       "sourceNames": [
         "Google DeepMind：Blog（RSS）",
         "Hacker News：AI 热帖",
@@ -100,12 +82,63 @@
         "X：Logan Kilpatrick (@OfficialLoganK)",
         "Simon Willison 博客",
         "The Decoder：AI News（RSS）",
-        "X：洪明 (@hongming731)"
+        "X：洪明 (@hongming731)",
+        "Artificial Intelligence News（网页）"
       ],
-      "latestAt": "2026-09-24T06:55:33.000Z"
+      "latestAt": "2026-09-24T16:28:57.255Z"
     },
     {
       "rank": 4,
+      "id": "cmufjyocz04u6ro6ohojge69s",
+      "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
+      "source": {
+        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
+        "original": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+        "story": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+      },
+      "sourceCount": 8,
+      "signalCount": 0,
+      "participantCount": 8,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News：AI 热帖",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "The Decoder：AI News（RSS）",
+        "Ars Technica：AI（RSS）"
+      ],
+      "latestAt": "2026-09-25T07:56:55.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmufvfq7y02yiro1964jtdq3v",
+      "title": "Agora-2 现可让最多20个人类与智能体实时共享一个模拟世界",
+      "source": {
+        "name": "X：Odyssey (@odysseyml)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmufvfq7y02yiro1964jtdq3v",
+        "original": "https://x.com/odysseyml/status/2103146841378586820",
+        "story": "https://aihot.virxact.com/story/2cfbeec9-9070-40a2-9bfe-d11790f131da"
+      },
+      "sourceCount": 4,
+      "signalCount": 2,
+      "participantCount": 6,
+      "sourceNames": [
+        "X：Odyssey (@odysseyml)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "latestAt": "2026-09-25T03:06:09.000Z"
+    },
+    {
+      "rank": 6,
       "id": "cmueup7f003m7royq61z93ftn",
       "title": "ChatGPT Voice升级为运行GPT-6 Astra、Sol、Luna模型并首次可访问邮件、日历和Slack插件",
       "source": {
@@ -127,74 +160,32 @@
       "latestAt": "2026-09-24T06:55:33.000Z"
     },
     {
-      "rank": 5,
-      "id": "cmud2ya2c03wnrov6lnmiq2dv",
-      "title": "OpenAI发布GPT-6 Sol，价格较GPT-5.6 Sol减半至$2/$10每百万tokens；AA测试显示智力指数持平、编码代理指数57分升2分，幻觉率由92%降至60%",
-      "source": {
-        "name": "Artificial Analysis 完整文章（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
-        "original": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
-        "story": "https://aihot.virxact.com/story/4c258d85-64d8-448a-938d-363b0cdbd38b"
-      },
-      "sourceCount": 14,
-      "signalCount": 2,
-      "participantCount": 16,
-      "sourceNames": [
-        "Hacker News：AI 热帖",
-        "X：OpenAI (@OpenAI)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Tibo (@thsottiaux)",
-        "X：Sam Altman (@sama)",
-        "X：Noam Brown (@polynoamial)",
-        "X：Greg Brockman (@gdb)",
-        "X：ZHO (@ZHO_ZHO_ZHO)",
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "IT之家（RSS）",
-        "X：Arena (@arena)",
-        "Ars Technica：AI（RSS）",
-        "Simon Willison 博客",
-        "MarkTechPost（RSS）"
-      ],
-      "latestAt": "2026-09-23T18:54:11.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmuczxsyt03k4ro7nep4vsmez",
-      "title": "OpenAI发布GPT-6 Luna，API成本较5.6系列减半，并将向桌面应用和Free/Go用户开放",
-      "source": {
-        "name": "X：OpenAI (@OpenAI)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmuczxsyt03k4ro7nep4vsmez",
-        "original": "https://x.com/OpenAI/status/2102460975790137662",
-        "story": "https://aihot.virxact.com/story/9c749600-0d9b-4155-8969-c3b78ba3ad3b"
-      },
-      "sourceCount": 15,
-      "signalCount": 0,
-      "participantCount": 15,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "Hacker News：AI 热帖",
-        "X：OpenAI (@OpenAI)",
-        "X：Sherwin Wu（@sherwinwu）",
-        "X：Tibo (@thsottiaux)",
-        "X：Sam Altman (@sama)",
-        "X：Noam Brown (@polynoamial)",
-        "X：Greg Brockman (@gdb)",
-        "X：ZHO (@ZHO_ZHO_ZHO)",
-        "IT之家（RSS）",
-        "Ars Technica：AI（RSS）",
-        "Simon Willison 博客",
-        "Tomer Tunguz 博客（VC 分析）",
-        "MarkTechPost（RSS）",
-        "X：Arena (@arena)"
-      ],
-      "latestAt": "2026-09-23T17:05:25.000Z"
-    },
-    {
       "rank": 7,
+      "id": "cmueuqr3j03ovroyqbsx4c4nx",
+      "title": "Meta在Connect大会发布AI可穿戴设备Muse Charm，尚未发货，计划12月假期前发货",
+      "source": {
+        "name": "X：Testing Catalog (@testingcatalog)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmueuqr3j03ovroyqbsx4c4nx",
+        "original": "https://x.com/testingcatalog/status/2102913764248998337",
+        "story": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
+      },
+      "sourceCount": 6,
+      "signalCount": 0,
+      "participantCount": 6,
+      "sourceNames": [
+        "X：Testing Catalog (@testingcatalog)",
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "IT之家（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-09-24T17:39:24.000Z"
+    },
+    {
+      "rank": 8,
       "id": "cmueurvwl03tvroyqdzcth166",
       "title": "Claude Code Cloud sessions 正式结束研究预览并可用",
       "source": {
@@ -206,17 +197,17 @@
         "story": "https://aihot.virxact.com/story/901dceca-2116-43f9-a96d-d18705a1c5cd"
       },
       "sourceCount": 3,
-      "signalCount": 2,
-      "participantCount": 5,
+      "signalCount": 3,
+      "participantCount": 6,
       "sourceNames": [
         "X：Claude Devs (@ClaudeDevs)",
         "IT之家（RSS）",
         "X：Testing Catalog (@testingcatalog)"
       ],
-      "latestAt": "2026-09-24T07:13:35.000Z"
+      "latestAt": "2026-09-24T08:35:24.000Z"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "cmuf3ztrm09q7roodokekt1hr",
       "title": "Meta Muse agent 正在准备集成 Telegram 和 Messenger，并可能集成 Signal",
       "source": {
@@ -227,62 +218,42 @@
         "original": "https://x.com/AIatMeta/status/2102997291732766943",
         "story": "https://aihot.virxact.com/story/2533395b-5694-4a49-b0f1-06fd37e66637"
       },
-      "sourceCount": 5,
+      "sourceCount": 6,
       "signalCount": 0,
-      "participantCount": 5,
+      "participantCount": 6,
       "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
         "The Verge：AI（RSS）",
         "IT之家（RSS）",
         "TechCrunch：AI（RSS）",
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "latestAt": "2026-09-24T06:55:33.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmueuqr3j03ovroyqbsx4c4nx",
-      "title": "Meta在Connect大会发布AI可穿戴设备Muse Charm，尚未发货，计划12月假期前发货",
-      "source": {
-        "name": "X：Testing Catalog (@testingcatalog)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmueuqr3j03ovroyqbsx4c4nx",
-        "original": "https://x.com/testingcatalog/status/2102913764248998337",
-        "story": "https://aihot.virxact.com/story/a72a72ae-3d5e-4f22-a44c-8b2dc78db09a"
-      },
-      "sourceCount": 5,
-      "signalCount": 0,
-      "participantCount": 5,
-      "sourceNames": [
+        "X：AI at Meta (@AIatMeta)",
         "X：Testing Catalog (@testingcatalog)",
-        "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）",
-        "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-09-24T06:55:33.000Z"
+      "latestAt": "2026-09-24T13:10:54.000Z"
     },
     {
       "rank": 10,
-      "id": "cmueurvwl03twroyqsw3ygr4q",
-      "title": "Anthropic 在两周冲刺中将 claude.ai 与 Claude 桌面应用核心体验提速约3倍",
+      "id": "cmuezhuvu04gurood4k1lbwkp",
+      "title": "Google DeepMind 首席 Koray Kavukcuoglu 称 Gemini 4 已进入后训练并接近发布，希望早于年底推出早期后训练版本",
       "source": {
-        "name": "X：Claude Devs (@ClaudeDevs)"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
-        "original": "https://x.com/ClaudeDevs/status/2102839691154427983",
-        "story": "https://aihot.virxact.com/story/329b2bf9-57f4-4bae-ae7a-9dd1008f5256"
+        "aihot": "https://aihot.news/items/cmuezhuvu04gurood4k1lbwkp",
+        "original": "https://x.com/rohanpaul_ai/status/2102965226937434614",
+        "story": "https://aihot.virxact.com/story/d1ae40f5-d5f1-46b7-a3c9-2d23ed9a9fbc"
       },
-      "sourceCount": 2,
-      "signalCount": 3,
+      "sourceCount": 5,
+      "signalCount": 0,
       "participantCount": 5,
       "sourceNames": [
-        "X：Claude Devs (@ClaudeDevs)",
-        "Hacker News：AI 热帖"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Testing Catalog (@testingcatalog)",
+        "IT之家（RSS）",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-09-24T06:14:39.000Z"
+      "latestAt": "2026-09-24T13:35:44.000Z"
     }
   ]
 }
