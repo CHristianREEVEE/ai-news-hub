@@ -1,33 +1,195 @@
 {
-  "updatedAt": "2026-09-27T09:10:59.564171+00:00",
+  "updatedAt": "2026-09-28T09:40:06.646536+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "cmuh2q4570711rolzphy03l0t",
-      "title": "LongCat-2.5-Preview现已上线，含1.6T参数、约48B活跃参数、1M token上下文窗口，原生多模态",
+      "id": "f57txrlasl8qo7x50vreh8o5n",
+      "title": "吉利千里浩瀚辅助驾驶搭载量破100万辆",
       "source": {
-        "name": "X：美团 LongCat (@Meituan_LongCat)"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmuh2q4570711rolzphy03l0t",
-        "original": "https://x.com/Meituan_LongCat/status/2103488918788411728",
-        "story": "https://aihot.virxact.com/story/d7237818-cfb3-4919-adbd-310a3e787937"
+        "aihot": "https://aihot.news/items/f57txrlasl8qo7x50vreh8o5n",
+        "original": "https://www.ithome.com/1/007/869.htm",
+        "story": "https://aihot.virxact.com/story/d3f8ab90-c15d-414a-8d41-7e4942cfa8c1"
       },
-      "sourceCount": 4,
-      "signalCount": 3,
-      "participantCount": 7,
+      "sourceCount": 1,
+      "signalCount": 2,
+      "participantCount": 3,
       "sourceNames": [
-        "X：美团 LongCat (@Meituan_LongCat)",
-        "X：karminski (@karminski3)",
-        "IT之家（RSS）",
-        "X：opencode (@opencode)"
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-26T13:49:38.000Z"
+      "latestAt": "2026-09-28T09:11:28.762Z"
     },
     {
       "rank": 2,
+      "id": "vgorc4a4ssnpq0oilb8mhcw2y",
+      "title": "黄仁勋与辛顿就AI风险公开交锋",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vgorc4a4ssnpq0oilb8mhcw2y",
+        "original": "https://www.ithome.com/1/007/832.htm",
+        "story": "https://aihot.virxact.com/story/33efed2b-ba50-467b-8d26-ff85834439b8"
+      },
+      "sourceCount": 1,
+      "signalCount": 2,
+      "participantCount": 3,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-28T08:36:38.272Z"
+    },
+    {
+      "rank": 3,
+      "id": "lvbq68tq7wlrios1y0a040y3y",
+      "title": "米哈游AI大模型投入与目标表态",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/lvbq68tq7wlrios1y0a040y3y",
+        "original": "https://www.ithome.com/1/007/807.htm",
+        "story": "https://aihot.virxact.com/story/0d0b4cab-3039-48cb-8e83-3cc4c52088f3"
+      },
+      "sourceCount": 1,
+      "signalCount": 2,
+      "participantCount": 3,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-28T07:06:27.589Z"
+    },
+    {
+      "rank": 4,
+      "id": "cmufjyocz04u6ro6ohojge69s",
+      "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
+      "source": {
+        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
+        "original": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+        "story": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+      },
+      "sourceCount": 4,
+      "signalCount": 0,
+      "participantCount": 4,
+      "sourceNames": [
+        "Hacker News：AI 热帖",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "The Decoder：AI News（RSS）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-27T17:51:03.203Z"
+    },
+    {
+      "rank": 5,
+      "id": "cmuemnn9m07yproynbzmmumd3",
+      "title": "Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以 Research Preview 在 Serverless 上线",
+      "source": {
+        "name": "Fireworks AI（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3",
+        "original": "https://fireworks.ai/blog/ember-1",
+        "story": "https://aihot.virxact.com/story/1cc97de4-98f0-4bfc-9e27-d4c57024b65a"
+      },
+      "sourceCount": 3,
+      "signalCount": 0,
+      "participantCount": 3,
+      "sourceNames": [
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "Hacker News：AI 热帖",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "latestAt": "2026-09-27T19:09:18.330Z"
+    },
+    {
+      "rank": 6,
+      "id": "ptvk1f98tf4zlj3ooautqgivn",
+      "title": "千问App与夸克网盘深度打通",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ptvk1f98tf4zlj3ooautqgivn",
+        "original": "https://www.ithome.com/1/007/871.htm",
+        "story": "https://aihot.virxact.com/story/6fc2fe83-1bd4-48d8-9f5d-4cee11fc6819"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "participantCount": 2,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-28T09:11:28.702Z"
+    },
+    {
+      "rank": 7,
+      "id": "mqv6bxxwjetbtt5uiz1ttcdic",
+      "title": "微软澄清Win11缩略图缓存隐私谣言",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/mqv6bxxwjetbtt5uiz1ttcdic",
+        "original": "https://www.ithome.com/1/007/868.htm",
+        "story": "https://aihot.virxact.com/story/2222426d-68cd-4b02-bffb-8bd07a911b0f"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "participantCount": 2,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-28T09:11:28.825Z"
+    },
+    {
+      "rank": 8,
+      "id": "wzkjyvw5gwvtnxvlk7l13xtdv",
+      "title": "荣耀Magic9系列发布",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/wzkjyvw5gwvtnxvlk7l13xtdv",
+        "original": "https://www.ithome.com/1/007/858.htm",
+        "story": "https://aihot.virxact.com/story/884d2b05-5fcb-41a1-bf69-0a0f7261af76"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "participantCount": 2,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-09-28T09:11:28.801Z"
+    },
+    {
+      "rank": 9,
+      "id": "zkdby2t1m0py60rlf2cyevbl5",
+      "title": "Fireworks AI 发布 Ember-1 后训练模型",
+      "source": {
+        "name": "MarkTechPost（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/zkdby2t1m0py60rlf2cyevbl5",
+        "original": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/",
+        "story": "https://aihot.virxact.com/story/2a044afe-f97b-4ff4-8324-eeed5cc69c3d"
+      },
+      "sourceCount": 1,
+      "signalCount": 1,
+      "participantCount": 2,
+      "sourceNames": [
+        "MarkTechPost（RSS）"
+      ],
+      "latestAt": "2026-09-28T08:10:18.000Z"
+    },
+    {
+      "rank": 10,
       "id": "cmuit4c8j05hbrohycylxzqzd",
       "title": "OpenAI DevDay 倒计时72小时，发布者称一直在构建并将展示成果",
       "source": {
@@ -44,191 +206,7 @@
       "sourceNames": [
         "X：OpenAI Developers (@OpenAIDevs)"
       ],
-      "latestAt": "2026-09-27T00:44:31.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "cmufjyocz04u6ro6ohojge69s",
-      "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
-      "source": {
-        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
-        "original": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-        "story": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
-      },
-      "sourceCount": 5,
-      "signalCount": 0,
-      "participantCount": 5,
-      "sourceNames": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-27T05:35:36.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "cmuhftp03045orojn23z3etdc",
-      "title": "披露AI代理在研究中不应发送时将训练和评估数据发送给第三方服务，发现53起用户图像被发布至图片托管网站",
-      "source": {
-        "name": "X：OpenAI (@OpenAI)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmuhftp03045orojn23z3etdc",
-        "original": "https://x.com/OpenAI/status/2103587050347995581",
-        "story": "https://aihot.virxact.com/story/bd0a6603-0394-485c-b31a-3b216fe22843"
-      },
-      "sourceCount": 5,
-      "signalCount": 0,
-      "participantCount": 5,
-      "sourceNames": [
-        "X：OpenAI (@OpenAI)",
-        "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Hacker News：AI 热帖",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-09-26T22:52:43.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmucwy58v0rskroedmv35n8ji",
-      "title": "Opus 5.5发布：沟通更好、每token价格低于Opus 5.0、具Fable 5.1的智能，现已在Claude Code可用",
-      "source": {
-        "name": "Anthropic：Newsroom（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
-        "original": "https://www.anthropic.com/claude-opus-5-5",
-        "story": "https://aihot.virxact.com/story/80211185-0b01-4268-b5f4-a37b003d4faa"
-      },
-      "sourceCount": 6,
-      "signalCount": 0,
-      "participantCount": 6,
-      "sourceNames": [
-        "X：Arena (@arena)",
-        "X：Claude Devs (@ClaudeDevs)",
-        "TechCrunch：AI（RSS）",
-        "X：Replit (@Replit)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-26T17:02:36.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "cmugxssng1h79rogvb7o30o9u",
-      "title": "宣布 Copilot 迄今最大更新，将 Autopilot、Code、Home 和 Office 整合在一起，并可在 Teams 中调用 Copilot",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmugxssng1h79rogvb7o30o9u",
-        "original": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-        "story": "https://aihot.virxact.com/story/daf72428-b3c4-48c0-b747-daf3aa963abc"
-      },
-      "sourceCount": 7,
-      "signalCount": 0,
-      "participantCount": 7,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Satya Nadella (@satyanadella)",
-        "IT之家（RSS）",
-        "Hacker News：AI 热帖",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Testing Catalog (@testingcatalog)",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-09-27T01:18:44.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "cmuhc2ao208ejro3bf11momwn",
-      "title": "Claude Code 将在达到5小时限制时尝试优雅停止，并动用每周限额的固定额度收尾",
-      "source": {
-        "name": "X：Claude Devs (@ClaudeDevs)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmuhc2ao208ejro3bf11momwn",
-        "original": "https://x.com/ClaudeDevs/status/2103561342057943314",
-        "story": "https://aihot.virxact.com/story/ed8e97b1-a572-4e3a-8e9c-86871d7045f4"
-      },
-      "sourceCount": 2,
-      "signalCount": 4,
-      "participantCount": 6,
-      "sourceNames": [
-        "X：Claude Devs (@ClaudeDevs)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-26T07:11:18.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "cmuhmrxkf0etrrojnw4r0b4rh",
-      "title": "服务方称 Codex 和 ChatGPT 已恢复并将重置所有付费用户的用量限制",
-      "source": {
-        "name": "X：Tibo (@thsottiaux)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmuhmrxkf0etrrojnw4r0b4rh",
-        "original": "https://x.com/thsottiaux/status/2103637477760311522",
-        "story": "https://aihot.virxact.com/story/99404518-f044-4a92-a46f-a98f09de7f3a"
-      },
-      "sourceCount": 1,
-      "signalCount": 4,
-      "participantCount": 5,
-      "sourceNames": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "latestAt": "2026-09-26T06:53:30.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmudld3gg0f7crogg3c5fh9rs",
-      "title": "DeepSeek 发布 DeepSeek-V4.1-Flash：以 CSA2 与 FP4 KV 缓存压缩推进长上下文智能体部署效率",
-      "source": {
-        "name": "X：Tencent WorkBuddy (@WorkBuddy_AI)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmudld3gg0f7crogg3c5fh9rs",
-        "original": "https://x.com/WorkBuddy_AI/status/2102611673962213506",
-        "story": "https://aihot.virxact.com/story/e716e125-4c63-46cb-9287-9441fa6a5499"
-      },
-      "sourceCount": 3,
-      "signalCount": 2,
-      "participantCount": 5,
-      "sourceNames": [
-        "X：opencode (@opencode)",
-        "X：SemiAnalysis (@SemiAnalysis_)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-26T11:07:36.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "cmugxuqhh1hbdrogvo9swp2g8",
-      "title": "蓝十字蓝盾协会报告指控医院用AI辅助编码两年增加近10亿美元成本",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmugxuqhh1hbdrogvo9swp2g8",
-        "original": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers",
-        "story": "https://aihot.virxact.com/story/e7dc5db5-a2e8-4d61-8c61-8d29e63314a3"
-      },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "participantCount": 3,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-27T07:35:50.000Z"
+      "latestAt": "2026-09-26T19:28:30.000Z"
     }
   ]
 }
