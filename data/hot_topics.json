@@ -1,212 +1,250 @@
 {
-  "updatedAt": "2026-09-28T09:40:06.646536+00:00",
+  "updatedAt": "2026-09-29T09:44:41.923717+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "f57txrlasl8qo7x50vreh8o5n",
-      "title": "吉利千里浩瀚辅助驾驶搭载量破100万辆",
+      "id": "gikl2tjm7h3e1kf1j47v7rh41",
+      "title": "AMD 82亿美元收购World Labs并任命李飞飞",
       "source": {
-        "name": "IT之家（RSS）"
+        "name": "X：World Labs (@theworldlabs)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/f57txrlasl8qo7x50vreh8o5n",
-        "original": "https://www.ithome.com/1/007/869.htm",
-        "story": "https://aihot.virxact.com/story/d3f8ab90-c15d-414a-8d41-7e4942cfa8c1"
+        "aihot": "https://aihot.news/items/gikl2tjm7h3e1kf1j47v7rh41",
+        "original": "https://x.com/theworldlabs/status/2104665621120311465",
+        "story": "https://aihot.virxact.com/story/1c691309-370b-4623-bb83-012b0804c3d1"
       },
-      "sourceCount": 1,
-      "signalCount": 2,
-      "participantCount": 3,
+      "sourceCount": 9,
+      "signalCount": 65,
+      "participantCount": 74,
       "sourceNames": [
-        "IT之家（RSS）"
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "IT之家（RSS）",
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Hacker News：AI 热帖",
+        "X：World Labs (@theworldlabs)",
+        "X：Fei-Fei Li (@drfeifei, World Labs)"
       ],
-      "latestAt": "2026-09-28T09:11:28.762Z"
+      "latestAt": "2026-09-29T08:00:55.000Z"
     },
     {
       "rank": 2,
-      "id": "vgorc4a4ssnpq0oilb8mhcw2y",
-      "title": "黄仁勋与辛顿就AI风险公开交锋",
+      "id": "nastdr2zteysm2n0dg58d6tb1",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，AA 智能指数升至第 2",
       "source": {
-        "name": "IT之家（RSS）"
+        "name": "X：Artificial Analysis (@ArtificialAnlys)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/vgorc4a4ssnpq0oilb8mhcw2y",
-        "original": "https://www.ithome.com/1/007/832.htm",
-        "story": "https://aihot.virxact.com/story/33efed2b-ba50-467b-8d26-ff85834439b8"
+        "aihot": "https://aihot.news/items/nastdr2zteysm2n0dg58d6tb1",
+        "original": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+        "story": "https://aihot.virxact.com/story/94903954-cf87-48d8-89a6-eff5deefeaa0"
       },
-      "sourceCount": 1,
-      "signalCount": 2,
-      "participantCount": 3,
+      "sourceCount": 19,
+      "signalCount": 57,
+      "participantCount": 76,
       "sourceNames": [
-        "IT之家（RSS）"
+        "MarkTechPost（RSS）",
+        "IT之家（RSS）",
+        "Simon Willison 博客",
+        "X：Claude Devs (@ClaudeDevs)",
+        "X：Charlie Holtz（@charlieholtz）",
+        "X：Thariq (@trq212)",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-09-28T08:36:38.272Z"
+      "latestAt": "2026-09-29T08:52:54.000Z"
     },
     {
       "rank": 3,
-      "id": "lvbq68tq7wlrios1y0a040y3y",
-      "title": "米哈游AI大模型投入与目标表态",
+      "id": "s5on5dsnixevj7j9lfjemhz3o",
+      "title": "NVIDIA 发布开放智能体安全平台 OpenShell 与 Sentry",
       "source": {
-        "name": "IT之家（RSS）"
+        "name": "NVIDIA Technical Blog：Agentic AI / Generative AI"
       },
       "links": {
-        "aihot": "https://aihot.news/items/lvbq68tq7wlrios1y0a040y3y",
-        "original": "https://www.ithome.com/1/007/807.htm",
-        "story": "https://aihot.virxact.com/story/0d0b4cab-3039-48cb-8e83-3cc4c52088f3"
+        "aihot": "https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o",
+        "original": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+        "story": "https://aihot.virxact.com/story/5e2816ac-db96-4268-b76c-57b6f4b18bbd"
       },
-      "sourceCount": 1,
-      "signalCount": 2,
-      "participantCount": 3,
+      "sourceCount": 14,
+      "signalCount": 39,
+      "participantCount": 53,
       "sourceNames": [
-        "IT之家（RSS）"
+        "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+        "MarkTechPost（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Yuchen Jin (@Yuchenj_UW)",
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "The Decoder：AI News（RSS）",
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-09-28T07:06:27.589Z"
+      "latestAt": "2026-09-29T08:32:47.000Z"
     },
     {
       "rank": 4,
-      "id": "cmufjyocz04u6ro6ohojge69s",
-      "title": "OpenAI 一款 AI 智能体 6 月未经授权侵入澳大利亚政府网站，访问公共和非公共文件",
+      "id": "rsiy24jfa33tp7ktqs3y01yc2",
+      "title": "OpenAI因安全问题推迟发布Astra 6.1模型",
       "source": {
-        "name": "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
-        "original": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-        "story": "https://aihot.virxact.com/story/9f73773d-3f40-4dbd-9b87-b38f81028034"
+        "aihot": "https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2",
+        "original": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/",
+        "story": "https://aihot.virxact.com/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876"
       },
       "sourceCount": 4,
-      "signalCount": 0,
-      "participantCount": 4,
+      "signalCount": 30,
+      "participantCount": 34,
       "sourceNames": [
-        "Hacker News：AI 热帖",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
         "The Decoder：AI News（RSS）",
-        "IT之家（RSS）"
+        "X：Testing Catalog (@testingcatalog)",
+        "IT之家（RSS）",
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-09-27T17:51:03.203Z"
+      "latestAt": "2026-09-29T09:13:09.000Z"
     },
     {
       "rank": 5,
-      "id": "cmuemnn9m07yproynbzmmumd3",
-      "title": "Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以 Research Preview 在 Serverless 上线",
+      "id": "khyjby0mw5t22dn9zw2l6fflu",
+      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
       "source": {
-        "name": "Fireworks AI（网页）"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3",
-        "original": "https://fireworks.ai/blog/ember-1",
-        "story": "https://aihot.virxact.com/story/1cc97de4-98f0-4bfc-9e27-d4c57024b65a"
+        "aihot": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
+        "original": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+        "story": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
       },
-      "sourceCount": 3,
-      "signalCount": 0,
-      "participantCount": 3,
+      "sourceCount": 4,
+      "signalCount": 27,
+      "participantCount": 31,
       "sourceNames": [
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "Hacker News：AI 热帖",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）",
+        "Hacker News：AI 热帖"
       ],
-      "latestAt": "2026-09-27T19:09:18.330Z"
+      "latestAt": "2026-09-29T08:58:02.000Z"
     },
     {
       "rank": 6,
-      "id": "ptvk1f98tf4zlj3ooautqgivn",
-      "title": "千问App与夸克网盘深度打通",
+      "id": "lyitt5l0szschyizodzvkhg9g",
+      "title": "Manus 发布 2.0 系列产品与更新",
       "source": {
-        "name": "IT之家（RSS）"
+        "name": "X：Manus (@ManusAI)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/ptvk1f98tf4zlj3ooautqgivn",
-        "original": "https://www.ithome.com/1/007/871.htm",
-        "story": "https://aihot.virxact.com/story/6fc2fe83-1bd4-48d8-9f5d-4cee11fc6819"
+        "aihot": "https://aihot.news/items/lyitt5l0szschyizodzvkhg9g",
+        "original": "https://x.com/ManusAI/status/2104628185501712789",
+        "story": "https://aihot.virxact.com/story/c389aba2-5149-45a8-a66b-56a88fc3ff3e"
       },
-      "sourceCount": 1,
-      "signalCount": 1,
-      "participantCount": 2,
+      "sourceCount": 6,
+      "signalCount": 24,
+      "participantCount": 30,
       "sourceNames": [
+        "X：Manus (@ManusAI)",
+        "elsewhere：文章（RSS）",
+        "X：Frank Wang 玉伯 (@lifesinger)",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "X：Testing Catalog (@testingcatalog)",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-28T09:11:28.702Z"
+      "latestAt": "2026-09-29T08:51:36.918Z"
     },
     {
       "rank": 7,
-      "id": "mqv6bxxwjetbtt5uiz1ttcdic",
-      "title": "微软澄清Win11缩略图缓存隐私谣言",
+      "id": "f72z183ea5239a5da5hcoqvvu",
+      "title": "OpenAI 常驻助手 \"o\" 曝光，DevDay 将揭晓",
       "source": {
-        "name": "IT之家（RSS）"
+        "name": "X：OpenAI (@OpenAI)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/mqv6bxxwjetbtt5uiz1ttcdic",
-        "original": "https://www.ithome.com/1/007/868.htm",
-        "story": "https://aihot.virxact.com/story/2222426d-68cd-4b02-bffb-8bd07a911b0f"
+        "aihot": "https://aihot.news/items/f72z183ea5239a5da5hcoqvvu",
+        "original": "https://x.com/OpenAI/status/2104651136699609518",
+        "story": "https://aihot.virxact.com/story/6777f755-4a86-4835-8310-bb09b1c204ed"
       },
-      "sourceCount": 1,
-      "signalCount": 1,
-      "participantCount": 2,
+      "sourceCount": 5,
+      "signalCount": 21,
+      "participantCount": 26,
       "sourceNames": [
-        "IT之家（RSS）"
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Sam Altman (@sama)",
+        "X：OpenAI (@OpenAI)",
+        "The Verge：AI（RSS）",
+        "X：Frank Wang 玉伯 (@lifesinger)"
       ],
-      "latestAt": "2026-09-28T09:11:28.825Z"
+      "latestAt": "2026-09-29T08:50:38.707Z"
     },
     {
       "rank": 8,
-      "id": "wzkjyvw5gwvtnxvlk7l13xtdv",
-      "title": "荣耀Magic9系列发布",
+      "id": "idoo8ef3w30cztqjrbsntpj0i",
+      "title": "OpenAI重开Pro订阅并调整用量计算",
       "source": {
         "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/wzkjyvw5gwvtnxvlk7l13xtdv",
-        "original": "https://www.ithome.com/1/007/858.htm",
-        "story": "https://aihot.virxact.com/story/884d2b05-5fcb-41a1-bf69-0a0f7261af76"
+        "aihot": "https://aihot.news/items/idoo8ef3w30cztqjrbsntpj0i",
+        "original": "https://www.ithome.com/1/008/295.htm",
+        "story": "https://aihot.virxact.com/story/c2ce7c22-c2b6-45b0-b931-5200b107c077"
       },
-      "sourceCount": 1,
-      "signalCount": 1,
-      "participantCount": 2,
+      "sourceCount": 2,
+      "signalCount": 17,
+      "participantCount": 19,
       "sourceNames": [
+        "X：Tibo (@thsottiaux)",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-28T09:11:28.801Z"
+      "latestAt": "2026-09-29T09:23:33.827Z"
     },
     {
       "rank": 9,
-      "id": "zkdby2t1m0py60rlf2cyevbl5",
-      "title": "Fireworks AI 发布 Ember-1 后训练模型",
+      "id": "btgz790is46hx5sebu25wf41n",
+      "title": "Meta 启动企业平台，聘 MongoDB CEO 掌舵",
       "source": {
-        "name": "MarkTechPost（RSS）"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/zkdby2t1m0py60rlf2cyevbl5",
-        "original": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/",
-        "story": "https://aihot.virxact.com/story/2a044afe-f97b-4ff4-8324-eeed5cc69c3d"
+        "aihot": "https://aihot.news/items/btgz790is46hx5sebu25wf41n",
+        "original": "https://x.com/rohanpaul_ai/status/2104607399109939299",
+        "story": "https://aihot.virxact.com/story/4db031a4-9d64-48bb-b738-2632a974b6b1"
       },
-      "sourceCount": 1,
-      "signalCount": 1,
-      "participantCount": 2,
+      "sourceCount": 7,
+      "signalCount": 19,
+      "participantCount": 26,
       "sourceNames": [
-        "MarkTechPost（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Testing Catalog (@testingcatalog)",
+        "The Decoder：AI News（RSS）",
+        "IT之家（RSS）",
+        "X：Mark Zuckerberg (@finkd)"
       ],
-      "latestAt": "2026-09-28T08:10:18.000Z"
+      "latestAt": "2026-09-29T08:32:03.000Z"
     },
     {
       "rank": 10,
-      "id": "cmuit4c8j05hbrohycylxzqzd",
-      "title": "OpenAI DevDay 倒计时72小时，发布者称一直在构建并将展示成果",
+      "id": "hkvp7jpr9r1lbld6mkvg41fix",
+      "title": "英伟达追加1500亿美元股票回购授权",
       "source": {
-        "name": "X：OpenAI Developers (@OpenAIDevs)"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmuit4c8j05hbrohycylxzqzd",
-        "original": "https://x.com/OpenAIDevs/status/2103929727761137940",
-        "story": "https://aihot.virxact.com/story/e2af6e0a-a3c9-4729-bb83-994e423529a1"
+        "aihot": "https://aihot.news/items/hkvp7jpr9r1lbld6mkvg41fix",
+        "original": "https://www.ithome.com/1/008/022.htm",
+        "story": "https://aihot.virxact.com/story/a563a4a6-531a-4363-a380-f7a084033119"
       },
       "sourceCount": 1,
-      "signalCount": 3,
-      "participantCount": 4,
+      "signalCount": 22,
+      "participantCount": 23,
       "sourceNames": [
-        "X：OpenAI Developers (@OpenAIDevs)"
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-26T19:28:30.000Z"
+      "latestAt": "2026-09-29T07:46:10.000Z"
     }
   ]
 }
