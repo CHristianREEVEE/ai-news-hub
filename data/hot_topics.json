@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-09-30T09:36:44.234467+00:00",
+  "updatedAt": "2026-10-01T10:02:48.638919+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "r9nae38v4x5x29jrec46olsl4",
-      "title": "OpenAI 发布常驻智能体 Dots",
+      "id": "uob3jvsb97uh5achwaggjrhqh",
+      "title": "谷歌发布 Gemini 4 Argon 前沿模型",
       "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "name": "Google DeepMind：Blog（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-        "original": "https://openai.com/index/introducing-dots/",
-        "story": "https://aihot.virxact.com/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
+        "aihot": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
+        "original": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "story": "https://aihot.virxact.com/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
       },
-      "sourceCount": 11,
-      "signalCount": 65,
-      "participantCount": 76,
+      "sourceCount": 18,
+      "signalCount": 82,
+      "participantCount": 100,
       "sourceNames": [
         "IT之家（RSS）",
-        "X：小北 (@frxiaobei)",
-        "MarkTechPost（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Sam Altman (@sama)",
+        "X：Arena (@arena)",
         "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）"
+        "The Decoder：AI News（RSS）",
+        "X：Demis Hassabis (@demishassabis)",
+        "X：Karina Nguyen（@karinanguyen）",
+        "MarkTechPost（RSS）",
+        "X：马东锡 NLP (@dongxi_nlp)"
       ],
-      "latestAt": "2026-09-30T08:43:39.220Z"
+      "latestAt": "2026-10-01T09:26:30.000Z"
     },
     {
       "rank": 2,
@@ -42,152 +42,72 @@
         "original": "https://openai.com/index/introducing-gpt-6-1-sol/",
         "story": "https://aihot.virxact.com/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
       },
-      "sourceCount": 12,
-      "signalCount": 58,
-      "participantCount": 70,
+      "sourceCount": 15,
+      "signalCount": 68,
+      "participantCount": 83,
       "sourceNames": [
-        "X：OpenAI Developers (@OpenAIDevs)",
-        "X：SemiAnalysis (@SemiAnalysis_)",
         "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Tibo (@thsottiaux)",
+        "MarkTechPost（RSS）",
+        "X：ARC Prize (@arcprize)",
+        "X：Arena (@arena)",
+        "X：SemiAnalysis (@SemiAnalysis_)",
         "X：opencode (@opencode)",
-        "IT之家（RSS）",
-        "X：Noam Brown (@polynoamial)",
-        "X：OpenRouter (@OpenRouter)",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "Simon Willison 博客"
       ],
-      "latestAt": "2026-09-30T09:25:10.921Z"
+      "latestAt": "2026-10-01T07:27:12.000Z"
     },
     {
       "rank": 3,
-      "id": "ukbm1pni8gdc5ciwwuywzkhwb",
-      "title": "AMD 82亿美元收购World Labs，李飞飞任首席科学家",
+      "id": "r9nae38v4x5x29jrec46olsl4",
+      "title": "OpenAI 发布常驻智能体 Dots",
       "source": {
-        "name": "World Labs：官网"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
-        "original": "https://www.worldlabs.ai/blog/amd-announcement",
-        "story": "https://aihot.virxact.com/story/1c691309-370b-4623-bb83-012b0804c3d1"
+        "aihot": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
+        "original": "https://openai.com/index/introducing-dots/",
+        "story": "https://aihot.virxact.com/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
       },
       "sourceCount": 10,
-      "signalCount": 74,
-      "participantCount": 84,
+      "signalCount": 72,
+      "participantCount": 82,
       "sourceNames": [
-        "Ars Technica：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
         "IT之家（RSS）",
-        "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）",
+        "X：小北 (@frxiaobei)",
+        "MarkTechPost（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "World Labs：官网"
+        "X：Sam Altman (@sama)",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-09-30T07:41:08.000Z"
+      "latestAt": "2026-10-01T07:33:55.000Z"
     },
     {
       "rank": 4,
-      "id": "x8r8kta42au39pp06f02shk9f",
-      "title": "Anthropic 发布 Claude Sonnet 5.5",
+      "id": "nhob7mih29e0owj7ay28t7fvw",
+      "title": "FTC加大对AI实验室调查力度",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-        "original": "https://www.anthropic.com/claude-sonnet-5-5",
-        "story": "https://aihot.virxact.com/story/94903954-cf87-48d8-89a6-eff5deefeaa0"
+        "aihot": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
+        "original": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
+        "story": "https://aihot.virxact.com/story/2c6e1906-800f-40f0-a8fe-cefa7eaf8d9d"
       },
-      "sourceCount": 15,
-      "signalCount": 67,
-      "participantCount": 82,
+      "sourceCount": 3,
+      "signalCount": 17,
+      "participantCount": 20,
       "sourceNames": [
-        "X：Arena (@arena)",
-        "X：Testing Catalog (@testingcatalog)",
-        "公众号：卡尔的AI沃茨",
-        "MarkTechPost（RSS）",
-        "IT之家（RSS）",
-        "Simon Willison 博客",
-        "X：Claude Devs (@ClaudeDevs)",
-        "X：Cursor (@cursor_ai)"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）",
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-30T08:40:44.000Z"
+      "latestAt": "2026-10-01T09:30:42.000Z"
     },
     {
       "rank": 5,
-      "id": "khyjby0mw5t22dn9zw2l6fflu",
-      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
-        "original": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-        "story": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
-      },
-      "sourceCount": 7,
-      "signalCount": 46,
-      "participantCount": 53,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Ars Technica：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "Hacker News：AI 热帖"
-      ],
-      "latestAt": "2026-09-30T05:26:15.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "gs96clovs726l3b5nd80ofnva",
-      "title": "OpenAI重开Pro 200并新增Pro 500档",
-      "source": {
-        "name": "X：Tibo (@thsottiaux)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/gs96clovs726l3b5nd80ofnva",
-        "original": "https://x.com/thsottiaux/status/2104823812042940713",
-        "story": "https://aihot.virxact.com/story/c2ce7c22-c2b6-45b0-b931-5200b107c077"
-      },
-      "sourceCount": 5,
-      "signalCount": 39,
-      "participantCount": 44,
-      "sourceNames": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Testing Catalog (@testingcatalog)",
-        "The Decoder：AI News（RSS）",
-        "X：Tibo (@thsottiaux)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-09-30T08:31:40.001Z"
-    },
-    {
-      "rank": 7,
-      "id": "iinkrp1rv6xk3xmidsbkxax95",
-      "title": "OpenAI因安全对齐问题取消GPT-6.1 Astra发布",
-      "source": {
-        "name": "Ars Technica：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95",
-        "original": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-        "story": "https://aihot.virxact.com/story/bcce8a38-0067-4cfa-a9dc-0f44abe05876"
-      },
-      "sourceCount": 6,
-      "signalCount": 41,
-      "participantCount": 47,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Ars Technica：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "IT之家（RSS）",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-09-30T08:40:35.000Z"
-    },
-    {
-      "rank": 8,
       "id": "qw3a6btvwdalftejp20ccxjb3",
       "title": "DeepSeek开源华为昇腾平台基础设施组件",
       "source": {
@@ -198,67 +118,129 @@
         "original": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
         "story": "https://aihot.virxact.com/story/0708dda9-d77b-4211-8456-eb7b422e0cc9"
       },
-      "sourceCount": 3,
-      "signalCount": 17,
-      "participantCount": 20,
+      "sourceCount": 4,
+      "signalCount": 21,
+      "participantCount": 25,
       "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
         "X：X.PIN (@thexpin)",
         "IT之家（RSS）",
         "公众号：DeepSeek（深度求索）"
       ],
-      "latestAt": "2026-09-30T08:43:39.202Z"
+      "latestAt": "2026-10-01T05:20:25.000Z"
     },
     {
-      "rank": 9,
-      "id": "s5on5dsnixevj7j9lfjemhz3o",
-      "title": "NVIDIA 发布开放智能体安全平台 OpenShell 与 Sentry",
+      "rank": 6,
+      "id": "khyjby0mw5t22dn9zw2l6fflu",
+      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
       "source": {
-        "name": "NVIDIA Technical Blog：Agentic AI / Generative AI"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o",
-        "original": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
-        "story": "https://aihot.virxact.com/story/5e2816ac-db96-4268-b76c-57b6f4b18bbd"
+        "aihot": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
+        "original": "https://x.com/rohanpaul_ai/status/2104758396474057192",
+        "story": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
       },
-      "sourceCount": 9,
-      "signalCount": 37,
-      "participantCount": 46,
+      "sourceCount": 5,
+      "signalCount": 25,
+      "participantCount": 30,
       "sourceNames": [
-        "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-        "MarkTechPost（RSS）",
-        "TechCrunch：AI（RSS）",
-        "X：Yuchen Jin (@Yuchenj_UW)",
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "The Decoder：AI News（RSS）",
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "The Verge：AI（RSS）"
+        "IT之家（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Ars Technica：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-09-30T00:06:55.000Z"
+      "latestAt": "2026-10-01T06:01:49.827Z"
     },
     {
-      "rank": 10,
-      "id": "z16dwwrxb4uczgv6tnh5c4id1",
-      "title": "Manus 发布 2.0 系列产品与更新",
+      "rank": 7,
+      "id": "cmu9jwllp040mrogngntwk2d7",
+      "title": "特朗普推动AI改名并筹建AI Force",
       "source": {
         "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/z16dwwrxb4uczgv6tnh5c4id1",
-        "original": "https://www.ithome.com/1/008/064.htm",
-        "story": "https://aihot.virxact.com/story/c389aba2-5149-45a8-a66b-56a88fc3ff3e"
+        "aihot": "https://aihot.news/items/cmu9jwllp040mrogngntwk2d7",
+        "original": "https://www.ithome.com/1/004/829.htm",
+        "story": "https://aihot.virxact.com/story/129c4994-da48-4698-8261-46e30d139e7f"
       },
-      "sourceCount": 6,
-      "signalCount": 29,
-      "participantCount": 35,
+      "sourceCount": 2,
+      "signalCount": 20,
+      "participantCount": 22,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Manus (@ManusAI)",
-        "elsewhere：文章（RSS）",
-        "X：马东锡 NLP (@dongxi_nlp)",
-        "X：Testing Catalog (@testingcatalog)",
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-10-01T09:09:01.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "cmuamhooy0oolro5t7g5o4vtd",
+      "title": "华为 Mate 90 系列发布：官宣麒麟 9030/9035 芯片",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmuamhooy0oolro5t7g5o4vtd",
+        "original": "https://www.ithome.com/1/005/085.htm",
+        "story": "https://aihot.virxact.com/story/d107c8d5-9422-4a53-ad7c-aa794bcfbdd3"
+      },
+      "sourceCount": 1,
+      "signalCount": 9,
+      "participantCount": 10,
+      "sourceNames": [
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-09-30T07:58:37.000Z"
+      "latestAt": "2026-10-01T09:04:22.287Z"
+    },
+    {
+      "rank": 9,
+      "id": "gs96clovs726l3b5nd80ofnva",
+      "title": "OpenAI重开Pro 200并新增Pro 500档",
+      "source": {
+        "name": "X：Tibo (@thsottiaux)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/gs96clovs726l3b5nd80ofnva",
+        "original": "https://x.com/thsottiaux/status/2104823812042940713",
+        "story": "https://aihot.virxact.com/story/c2ce7c22-c2b6-45b0-b931-5200b107c077"
+      },
+      "sourceCount": 3,
+      "signalCount": 24,
+      "participantCount": 27,
+      "sourceNames": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Testing Catalog (@testingcatalog)",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-09-30T13:30:05.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "fr7dgcpa02ssu37g9fsmj5q9n",
+      "title": "白宫《超级智能协议》签署与四层保障",
+      "source": {
+        "name": "X：Jensen Huang (@JensenHuang)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
+        "original": "https://x.com/JensenHuang/status/2105348324484342238",
+        "story": "https://aihot.virxact.com/story/80e77dd3-3d31-4f59-a08a-db3ec9de3a57"
+      },
+      "sourceCount": 7,
+      "signalCount": 12,
+      "participantCount": 19,
+      "sourceNames": [
+        "X：Jensen Huang (@JensenHuang)",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "X：Demis Hassabis (@demishassabis)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Mark Zuckerberg (@finkd)",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "latestAt": "2026-10-01T02:40:51.000Z"
     }
   ]
 }
