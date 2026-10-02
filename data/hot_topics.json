@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T10:02:48.638919+00:00",
+  "updatedAt": "2026-10-02T09:40:43.007645+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -15,9 +15,9 @@
         "original": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
         "story": "https://aihot.virxact.com/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
       },
-      "sourceCount": 18,
-      "signalCount": 82,
-      "participantCount": 100,
+      "sourceCount": 17,
+      "signalCount": 94,
+      "participantCount": 111,
       "sourceNames": [
         "IT之家（RSS）",
         "X：Arena (@arena)",
@@ -28,109 +28,34 @@
         "MarkTechPost（RSS）",
         "X：马东锡 NLP (@dongxi_nlp)"
       ],
-      "latestAt": "2026-10-01T09:26:30.000Z"
+      "latestAt": "2026-10-02T09:07:49.939Z"
     },
     {
       "rank": 2,
-      "id": "ewa77zkka92qb5lqukt70bfu8",
-      "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
+      "id": "wx18gjj92zgt5rt0rtj1wy5cc",
+      "title": "Cloudflare 开源决策模型 Clef 与 Clef-flash",
       "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
-        "original": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "story": "https://aihot.virxact.com/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
+        "aihot": "https://aihot.news/items/wx18gjj92zgt5rt0rtj1wy5cc",
+        "original": "https://blog.cloudflare.com/clef-decision-models/",
+        "story": "https://aihot.virxact.com/story/97076b2f-7819-4ece-a2f4-29dc76fdc10b"
       },
-      "sourceCount": 15,
-      "signalCount": 68,
-      "participantCount": 83,
-      "sourceNames": [
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Tibo (@thsottiaux)",
-        "MarkTechPost（RSS）",
-        "X：ARC Prize (@arcprize)",
-        "X：Arena (@arena)",
-        "X：SemiAnalysis (@SemiAnalysis_)",
-        "X：opencode (@opencode)",
-        "Simon Willison 博客"
-      ],
-      "latestAt": "2026-10-01T07:27:12.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "r9nae38v4x5x29jrec46olsl4",
-      "title": "OpenAI 发布常驻智能体 Dots",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-        "original": "https://openai.com/index/introducing-dots/",
-        "story": "https://aihot.virxact.com/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
-      },
-      "sourceCount": 10,
-      "signalCount": 72,
-      "participantCount": 82,
+      "sourceCount": 5,
+      "signalCount": 9,
+      "participantCount": 14,
       "sourceNames": [
         "IT之家（RSS）",
         "X：小北 (@frxiaobei)",
         "MarkTechPost（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Sam Altman (@sama)",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）"
+        "X：Peter Steinberger (@steipete)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-10-01T07:33:55.000Z"
+      "latestAt": "2026-10-02T08:11:09.000Z"
     },
     {
-      "rank": 4,
-      "id": "nhob7mih29e0owj7ay28t7fvw",
-      "title": "FTC加大对AI实验室调查力度",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw",
-        "original": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-        "story": "https://aihot.virxact.com/story/2c6e1906-800f-40f0-a8fe-cefa7eaf8d9d"
-      },
-      "sourceCount": 3,
-      "signalCount": 17,
-      "participantCount": 20,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-10-01T09:30:42.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "qw3a6btvwdalftejp20ccxjb3",
-      "title": "DeepSeek开源华为昇腾平台基础设施组件",
-      "source": {
-        "name": "公众号：DeepSeek（深度求索）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
-        "original": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
-        "story": "https://aihot.virxact.com/story/0708dda9-d77b-4211-8456-eb7b422e0cc9"
-      },
-      "sourceCount": 4,
-      "signalCount": 21,
-      "participantCount": 25,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：X.PIN (@thexpin)",
-        "IT之家（RSS）",
-        "公众号：DeepSeek（深度求索）"
-      ],
-      "latestAt": "2026-10-01T05:20:25.000Z"
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "id": "khyjby0mw5t22dn9zw2l6fflu",
       "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
       "source": {
@@ -141,106 +66,170 @@
         "original": "https://x.com/rohanpaul_ai/status/2104758396474057192",
         "story": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
       },
-      "sourceCount": 5,
-      "signalCount": 25,
-      "participantCount": 30,
+      "sourceCount": 2,
+      "signalCount": 14,
+      "participantCount": 16,
       "sourceNames": [
-        "IT之家（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "Ars Technica：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）"
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-10-01T06:01:49.827Z"
+      "latestAt": "2026-10-02T07:23:13.000Z"
     },
     {
-      "rank": 7,
-      "id": "cmu9jwllp040mrogngntwk2d7",
-      "title": "特朗普推动AI改名并筹建AI Force",
+      "rank": 4,
+      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
+      "title": "Claude Code mods 发布与示例更新",
       "source": {
-        "name": "IT之家（RSS）"
+        "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu9jwllp040mrogngntwk2d7",
-        "original": "https://www.ithome.com/1/004/829.htm",
-        "story": "https://aihot.virxact.com/story/129c4994-da48-4698-8261-46e30d139e7f"
+        "aihot": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
+        "original": "https://claude.com/blog/claude-code-mods",
+        "story": "https://aihot.virxact.com/story/5971919b-97f0-444a-95e6-3bd40d1e0368"
       },
       "sourceCount": 2,
-      "signalCount": 20,
-      "participantCount": 22,
+      "signalCount": 10,
+      "participantCount": 12,
       "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Tianyi Cui（@tianyi）",
+        "X：Boris Cherny (@bcherny)"
       ],
-      "latestAt": "2026-10-01T09:09:01.000Z"
+      "latestAt": "2026-10-02T08:34:15.000Z"
     },
     {
-      "rank": 8,
-      "id": "cmuamhooy0oolro5t7g5o4vtd",
-      "title": "华为 Mate 90 系列发布：官宣麒麟 9030/9035 芯片",
+      "rank": 5,
+      "id": "cmu6ikvfu04ruro0fnxn9exy4",
+      "title": "赛力斯与华为回应问界专属专营模式调整",
       "source": {
         "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmuamhooy0oolro5t7g5o4vtd",
-        "original": "https://www.ithome.com/1/005/085.htm",
-        "story": "https://aihot.virxact.com/story/d107c8d5-9422-4a53-ad7c-aa794bcfbdd3"
+        "aihot": "https://aihot.news/items/cmu6ikvfu04ruro0fnxn9exy4",
+        "original": "https://www.ithome.com/1/004/058.htm",
+        "story": "https://aihot.virxact.com/story/8ade9c6c-461d-4ad7-8ba0-c7927655b7e6"
       },
       "sourceCount": 1,
-      "signalCount": 9,
-      "participantCount": 10,
+      "signalCount": 15,
+      "participantCount": 16,
       "sourceNames": [
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-10-01T09:04:22.287Z"
+      "latestAt": "2026-10-02T04:04:23.235Z"
+    },
+    {
+      "rank": 6,
+      "id": "htdvt7tia6mwbp3pz2bdlvjb4",
+      "title": "Microsoft发布MAI-Transcribe-2-Streaming流式转写模型",
+      "source": {
+        "name": "Microsoft AI：官方博客（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
+        "original": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+        "story": "https://aihot.virxact.com/story/4d391f67-cbae-4a14-89e4-a1f8153d062a"
+      },
+      "sourceCount": 5,
+      "signalCount": 8,
+      "participantCount": 13,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "Microsoft AI：官方博客（网页）"
+      ],
+      "latestAt": "2026-10-02T05:35:28.328Z"
+    },
+    {
+      "rank": 7,
+      "id": "ewa77zkka92qb5lqukt70bfu8",
+      "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
+        "original": "https://openai.com/index/introducing-gpt-6-1-sol/",
+        "story": "https://aihot.virxact.com/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
+      },
+      "sourceCount": 5,
+      "signalCount": 19,
+      "participantCount": 24,
+      "sourceNames": [
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Tibo (@thsottiaux)",
+        "MarkTechPost（RSS）",
+        "X：ARC Prize (@arcprize)",
+        "X：Arena (@arena)"
+      ],
+      "latestAt": "2026-10-02T06:42:29.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "r9nae38v4x5x29jrec46olsl4",
+      "title": "OpenAI 发布常驻智能体 Dots",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
+        "original": "https://openai.com/index/introducing-dots/",
+        "story": "https://aihot.virxact.com/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
+      },
+      "sourceCount": 1,
+      "signalCount": 16,
+      "participantCount": 17,
+      "sourceNames": [
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-10-02T08:16:09.000Z"
     },
     {
       "rank": 9,
-      "id": "gs96clovs726l3b5nd80ofnva",
-      "title": "OpenAI重开Pro 200并新增Pro 500档",
+      "id": "e7763j3shkmk8j0rorefsy4gn",
+      "title": "Tavus发布Griffin视频交互模型",
       "source": {
-        "name": "X：Tibo (@thsottiaux)"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/gs96clovs726l3b5nd80ofnva",
-        "original": "https://x.com/thsottiaux/status/2104823812042940713",
-        "story": "https://aihot.virxact.com/story/c2ce7c22-c2b6-45b0-b931-5200b107c077"
+        "aihot": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
+        "original": "https://x.com/rohanpaul_ai/status/2105715526748225562",
+        "story": "https://aihot.virxact.com/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f"
       },
-      "sourceCount": 3,
-      "signalCount": 24,
-      "participantCount": 27,
+      "sourceCount": 6,
+      "signalCount": 7,
+      "participantCount": 13,
       "sourceNames": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "X：fal (@fal)",
         "X：Testing Catalog (@testingcatalog)",
-        "The Decoder：AI News（RSS）"
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-09-30T13:30:05.000Z"
+      "latestAt": "2026-10-02T04:27:10.000Z"
     },
     {
       "rank": 10,
-      "id": "fr7dgcpa02ssu37g9fsmj5q9n",
-      "title": "白宫《超级智能协议》签署与四层保障",
+      "id": "nfwj6zykk26pi551k3u75cwmr",
+      "title": "OpenAI解雇3名安全研究员",
       "source": {
-        "name": "X：Jensen Huang (@JensenHuang)"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/fr7dgcpa02ssu37g9fsmj5q9n",
-        "original": "https://x.com/JensenHuang/status/2105348324484342238",
-        "story": "https://aihot.virxact.com/story/80e77dd3-3d31-4f59-a08a-db3ec9de3a57"
+        "aihot": "https://aihot.news/items/nfwj6zykk26pi551k3u75cwmr",
+        "original": "https://x.com/rohanpaul_ai/status/2105699698023755976",
+        "story": "https://aihot.virxact.com/story/a2df69da-f530-4cf9-812f-48c246e2402e"
       },
-      "sourceCount": 7,
-      "signalCount": 12,
-      "participantCount": 19,
+      "sourceCount": 3,
+      "signalCount": 9,
+      "participantCount": 12,
       "sourceNames": [
-        "X：Jensen Huang (@JensenHuang)",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：Demis Hassabis (@demishassabis)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Mark Zuckerberg (@finkd)",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "IT之家（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-01T02:40:51.000Z"
+      "latestAt": "2026-10-02T06:30:35.508Z"
     }
   ]
 }
