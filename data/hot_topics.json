@@ -1,37 +1,79 @@
 {
-  "updatedAt": "2026-10-02T09:40:43.007645+00:00",
+  "updatedAt": "2026-10-03T09:04:44.404835+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "uob3jvsb97uh5achwaggjrhqh",
-      "title": "谷歌发布 Gemini 4 Argon 前沿模型",
+      "id": "ln6ere28kepk46azfanwaucm2",
+      "title": "Meta发布Muse Gadgets开源硬件计划及Home Link设备",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "The Verge：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
-        "original": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-        "story": "https://aihot.virxact.com/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
+        "aihot": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
+        "original": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "story": "https://aihot.virxact.com/story/e3d54065-1571-44a0-91b5-79600744e735"
       },
-      "sourceCount": 17,
-      "signalCount": 94,
-      "participantCount": 111,
+      "sourceCount": 4,
+      "signalCount": 14,
+      "participantCount": 18,
       "sourceNames": [
-        "IT之家（RSS）",
-        "X：Arena (@arena)",
         "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：Demis Hassabis (@demishassabis)",
-        "X：Karina Nguyen（@karinanguyen）",
-        "MarkTechPost（RSS）",
-        "X：马东锡 NLP (@dongxi_nlp)"
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Hacker News：AI 热帖"
       ],
-      "latestAt": "2026-10-02T09:07:49.939Z"
+      "latestAt": "2026-10-03T04:27:02.000Z"
     },
     {
       "rank": 2,
+      "id": "gwtipws3qkxm941aqz5iluhdi",
+      "title": "Meta否认Muse读取私信，Apple收紧macOS权限",
+      "source": {
+        "name": "The Verge：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/gwtipws3qkxm941aqz5iluhdi",
+        "original": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "story": "https://aihot.virxact.com/story/739a7589-bbae-4e8d-8bec-d6908b779010"
+      },
+      "sourceCount": 5,
+      "signalCount": 11,
+      "participantCount": 16,
+      "sourceNames": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "IT之家（RSS）",
+        "Ars Technica：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-03T04:47:11.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
+      "title": "Claude Code mods 发布与示例更新",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
+        "original": "https://claude.com/blog/claude-code-mods",
+        "story": "https://aihot.virxact.com/story/5971919b-97f0-444a-95e6-3bd40d1e0368"
+      },
+      "sourceCount": 3,
+      "signalCount": 15,
+      "participantCount": 18,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "X：Thariq (@trq212)",
+        "X：Tianyi Cui（@tianyi）"
+      ],
+      "latestAt": "2026-10-03T08:10:31.000Z"
+    },
+    {
+      "rank": 4,
       "id": "wx18gjj92zgt5rt0rtj1wy5cc",
       "title": "Cloudflare 开源决策模型 Clef 与 Clef-flash",
       "source": {
@@ -42,20 +84,21 @@
         "original": "https://blog.cloudflare.com/clef-decision-models/",
         "story": "https://aihot.virxact.com/story/97076b2f-7819-4ece-a2f4-29dc76fdc10b"
       },
-      "sourceCount": 5,
-      "signalCount": 9,
-      "participantCount": 14,
+      "sourceCount": 6,
+      "signalCount": 13,
+      "participantCount": 19,
       "sourceNames": [
+        "The Decoder：AI News（RSS）",
         "IT之家（RSS）",
         "X：小北 (@frxiaobei)",
         "MarkTechPost（RSS）",
         "X：Peter Steinberger (@steipete)",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-10-02T08:11:09.000Z"
+      "latestAt": "2026-10-02T20:21:32.000Z"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "id": "khyjby0mw5t22dn9zw2l6fflu",
       "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
       "source": {
@@ -67,59 +110,40 @@
         "story": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
       },
       "sourceCount": 2,
-      "signalCount": 14,
-      "participantCount": 16,
+      "signalCount": 17,
+      "participantCount": 19,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-02T07:23:13.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
-      "title": "Claude Code mods 发布与示例更新",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
-        "original": "https://claude.com/blog/claude-code-mods",
-        "story": "https://aihot.virxact.com/story/5971919b-97f0-444a-95e6-3bd40d1e0368"
-      },
-      "sourceCount": 2,
-      "signalCount": 10,
-      "participantCount": 12,
-      "sourceNames": [
-        "X：Tianyi Cui（@tianyi）",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "latestAt": "2026-10-02T08:34:15.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "cmu6ikvfu04ruro0fnxn9exy4",
-      "title": "赛力斯与华为回应问界专属专营模式调整",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu6ikvfu04ruro0fnxn9exy4",
-        "original": "https://www.ithome.com/1/004/058.htm",
-        "story": "https://aihot.virxact.com/story/8ade9c6c-461d-4ad7-8ba0-c7927655b7e6"
-      },
-      "sourceCount": 1,
-      "signalCount": 15,
-      "participantCount": 16,
-      "sourceNames": [
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-10-02T04:04:23.235Z"
+      "latestAt": "2026-10-03T01:16:54.000Z"
     },
     {
       "rank": 6,
+      "id": "epb245so8hb7m1r74gumw2dze",
+      "title": "英伟达发布64GB内存版DGX Spark",
+      "source": {
+        "name": "NVIDIA Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
+        "original": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+        "story": "https://aihot.virxact.com/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8"
+      },
+      "sourceCount": 3,
+      "signalCount": 11,
+      "participantCount": 14,
+      "sourceNames": [
+        "MarkTechPost（RSS）",
+        "NVIDIA Blog（RSS）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-02T23:00:38.000Z"
+    },
+    {
+      "rank": 7,
       "id": "htdvt7tia6mwbp3pz2bdlvjb4",
-      "title": "Microsoft发布MAI-Transcribe-2-Streaming流式转写模型",
+      "title": "微软发布MAI-Transcribe-2-Streaming流式转写模型",
       "source": {
         "name": "Microsoft AI：官方博客（网页）"
       },
@@ -128,64 +152,22 @@
         "original": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
         "story": "https://aihot.virxact.com/story/4d391f67-cbae-4a14-89e4-a1f8153d062a"
       },
-      "sourceCount": 5,
-      "signalCount": 8,
-      "participantCount": 13,
+      "sourceCount": 7,
+      "signalCount": 11,
+      "participantCount": 18,
       "sourceNames": [
+        "MarkTechPost（RSS）",
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "The Decoder：AI News（RSS）",
         "IT之家（RSS）",
         "X：Testing Catalog (@testingcatalog)",
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
         "X：Artificial Analysis (@ArtificialAnlys)",
         "Microsoft AI：官方博客（网页）"
       ],
-      "latestAt": "2026-10-02T05:35:28.328Z"
-    },
-    {
-      "rank": 7,
-      "id": "ewa77zkka92qb5lqukt70bfu8",
-      "title": "OpenAI发布GPT-6.1 Sol与Ultrafast高速档",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ewa77zkka92qb5lqukt70bfu8",
-        "original": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "story": "https://aihot.virxact.com/story/8aeed342-ea41-4b31-bc89-974d2b403fdf"
-      },
-      "sourceCount": 5,
-      "signalCount": 19,
-      "participantCount": 24,
-      "sourceNames": [
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Tibo (@thsottiaux)",
-        "MarkTechPost（RSS）",
-        "X：ARC Prize (@arcprize)",
-        "X：Arena (@arena)"
-      ],
-      "latestAt": "2026-10-02T06:42:29.000Z"
+      "latestAt": "2026-10-03T05:09:53.000Z"
     },
     {
       "rank": 8,
-      "id": "r9nae38v4x5x29jrec46olsl4",
-      "title": "OpenAI 发布常驻智能体 Dots",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/r9nae38v4x5x29jrec46olsl4",
-        "original": "https://openai.com/index/introducing-dots/",
-        "story": "https://aihot.virxact.com/story/a303df3a-51f9-454b-8dda-5ac2f2f71842"
-      },
-      "sourceCount": 1,
-      "signalCount": 16,
-      "participantCount": 17,
-      "sourceNames": [
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-10-02T08:16:09.000Z"
-    },
-    {
-      "rank": 9,
       "id": "e7763j3shkmk8j0rorefsy4gn",
       "title": "Tavus发布Griffin视频交互模型",
       "source": {
@@ -197,8 +179,8 @@
         "story": "https://aihot.virxact.com/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f"
       },
       "sourceCount": 6,
-      "signalCount": 7,
-      "participantCount": 13,
+      "signalCount": 12,
+      "participantCount": 18,
       "sourceNames": [
         "X：马东锡 NLP (@dongxi_nlp)",
         "X：fal (@fal)",
@@ -207,29 +189,52 @@
         "The Decoder：AI News（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-02T04:27:10.000Z"
+      "latestAt": "2026-10-02T18:45:03.000Z"
     },
     {
-      "rank": 10,
-      "id": "nfwj6zykk26pi551k3u75cwmr",
+      "rank": 9,
+      "id": "a1s641znzieiiyaoqnm2pf4x8",
       "title": "OpenAI解雇3名安全研究员",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/nfwj6zykk26pi551k3u75cwmr",
-        "original": "https://x.com/rohanpaul_ai/status/2105699698023755976",
+        "aihot": "https://aihot.news/items/a1s641znzieiiyaoqnm2pf4x8",
+        "original": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
         "story": "https://aihot.virxact.com/story/a2df69da-f530-4cf9-812f-48c246e2402e"
       },
-      "sourceCount": 3,
-      "signalCount": 9,
-      "participantCount": 12,
+      "sourceCount": 4,
+      "signalCount": 12,
+      "participantCount": 16,
       "sourceNames": [
+        "The Decoder：AI News（RSS）",
         "IT之家（RSS）",
         "TechCrunch：AI（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-02T06:30:35.508Z"
+      "latestAt": "2026-10-03T04:41:24.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "cmufmmqzd05m0ro8wkyps02zf",
+      "title": "谷歌发射 TPU 卫星测试太空 AI 算力",
+      "source": {
+        "name": "The Verge：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmufmmqzd05m0ro8wkyps02zf",
+        "original": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+        "story": "https://aihot.virxact.com/story/520acd88-e766-43f1-af56-5754af0ee294"
+      },
+      "sourceCount": 3,
+      "signalCount": 8,
+      "participantCount": 11,
+      "sourceNames": [
+        "X：Google AI (@GoogleAI)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-03T05:43:01.571Z"
     }
   ]
 }
