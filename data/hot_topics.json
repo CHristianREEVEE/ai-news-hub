@@ -1,10 +1,35 @@
 {
-  "updatedAt": "2026-10-03T09:04:44.404835+00:00",
+  "updatedAt": "2026-10-04T09:41:51.960724+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "xmlfce496prtvqpqmcupmsssc",
+      "title": "OpenAI安全负责人罗宾逊离职并撰文批评",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xmlfce496prtvqpqmcupmsssc",
+        "original": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "story": "https://aihot.virxact.com/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379"
+      },
+      "sourceCount": 6,
+      "signalCount": 14,
+      "participantCount": 20,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-10-04T01:13:09.000Z"
+    },
+    {
+      "rank": 2,
       "id": "ln6ere28kepk46azfanwaucm2",
       "title": "Meta发布Muse Gadgets开源硬件计划及Home Link设备",
       "source": {
@@ -15,19 +40,20 @@
         "original": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
         "story": "https://aihot.virxact.com/story/e3d54065-1571-44a0-91b5-79600744e735"
       },
-      "sourceCount": 4,
-      "signalCount": 14,
-      "participantCount": 18,
+      "sourceCount": 5,
+      "signalCount": 18,
+      "participantCount": 23,
       "sourceNames": [
+        "The Decoder：AI News（RSS）",
         "TechCrunch：AI（RSS）",
         "The Verge：AI（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
         "Hacker News：AI 热帖"
       ],
-      "latestAt": "2026-10-03T04:27:02.000Z"
+      "latestAt": "2026-10-03T14:28:51.000Z"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "gwtipws3qkxm941aqz5iluhdi",
       "title": "Meta否认Muse读取私信，Apple收紧macOS权限",
       "source": {
@@ -39,8 +65,8 @@
         "story": "https://aihot.virxact.com/story/739a7589-bbae-4e8d-8bec-d6908b779010"
       },
       "sourceCount": 5,
-      "signalCount": 11,
-      "participantCount": 16,
+      "signalCount": 15,
+      "participantCount": 20,
       "sourceNames": [
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "IT之家（RSS）",
@@ -48,78 +74,103 @@
         "The Verge：AI（RSS）",
         "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-10-03T04:47:11.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
-      "title": "Claude Code mods 发布与示例更新",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
-        "original": "https://claude.com/blog/claude-code-mods",
-        "story": "https://aihot.virxact.com/story/5971919b-97f0-444a-95e6-3bd40d1e0368"
-      },
-      "sourceCount": 3,
-      "signalCount": 15,
-      "participantCount": 18,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Thariq (@trq212)",
-        "X：Tianyi Cui（@tianyi）"
-      ],
-      "latestAt": "2026-10-03T08:10:31.000Z"
+      "latestAt": "2026-10-03T00:39:54.866Z"
     },
     {
       "rank": 4,
-      "id": "wx18gjj92zgt5rt0rtj1wy5cc",
-      "title": "Cloudflare 开源决策模型 Clef 与 Clef-flash",
+      "id": "m761fdlqtad285r14fky711jr",
+      "title": "Gemini免费用户模型调整为Flash-Lite",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/m761fdlqtad285r14fky711jr",
+        "original": "https://www.ithome.com/1/009/431.htm",
+        "story": "https://aihot.virxact.com/story/94326823-aa00-4316-a253-28c8c4098a05"
+      },
+      "sourceCount": 2,
+      "signalCount": 9,
+      "participantCount": 11,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-04T07:28:54.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "w5kdfoydiaj7nyyuy45fg70b0",
+      "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
+        "original": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+        "story": "https://aihot.virxact.com/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81"
+      },
+      "sourceCount": 6,
+      "signalCount": 6,
+      "participantCount": 12,
+      "sourceNames": [
+        "X：小北 (@frxiaobei)",
+        "Hacker News：AI 热帖",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）",
+        "X：Dan Hendrycks (@hendrycks)",
+        "X：Aidan Gomez（Cohere CEO，@aidangomez）"
+      ],
+      "latestAt": "2026-10-04T07:38:49.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "y475ev20b3138yoqrlo3z4wrr",
+      "title": "Aleph Alpha 开源德英双语模型 Kolibri",
       "source": {
         "name": "Hacker News 热门（buzzing.cc 中文翻译）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/wx18gjj92zgt5rt0rtj1wy5cc",
-        "original": "https://blog.cloudflare.com/clef-decision-models/",
-        "story": "https://aihot.virxact.com/story/97076b2f-7819-4ece-a2f4-29dc76fdc10b"
+        "aihot": "https://aihot.news/items/y475ev20b3138yoqrlo3z4wrr",
+        "original": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "story": "https://aihot.virxact.com/story/b1397672-bf6e-47dc-af9a-895fd7021161"
       },
-      "sourceCount": 6,
-      "signalCount": 13,
-      "participantCount": 19,
+      "sourceCount": 7,
+      "signalCount": 2,
+      "participantCount": 9,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "IT之家（RSS）",
-        "X：小北 (@frxiaobei)",
         "MarkTechPost（RSS）",
-        "X：Peter Steinberger (@steipete)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Cohere（@cohere）",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Aidan Gomez（Cohere CEO，@aidangomez）",
+        "Hacker News：AI 热帖"
       ],
-      "latestAt": "2026-10-02T20:21:32.000Z"
+      "latestAt": "2026-10-04T07:01:04.000Z"
     },
     {
-      "rank": 5,
-      "id": "khyjby0mw5t22dn9zw2l6fflu",
-      "title": "Anthropic 推迟 IPO 至 11 月，招股书曝光",
+      "rank": 7,
+      "id": "jak6gxsz68wsqdq6n9504d36o",
+      "title": "Sam Altman 谈 AI 模型安全",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "X：Yuchen Jin (@Yuchenj_UW)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
-        "original": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-        "story": "https://aihot.virxact.com/story/935ed291-4d58-4132-a878-ce7fc3176c83"
+        "aihot": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
+        "original": "https://x.com/Yuchenj_UW/status/2106395374923796759",
+        "story": "https://aihot.virxact.com/story/341ef8c2-d918-4e24-9391-99616e1c1a9a"
       },
-      "sourceCount": 2,
-      "signalCount": 17,
-      "participantCount": 19,
+      "sourceCount": 3,
+      "signalCount": 6,
+      "participantCount": 9,
       "sourceNames": [
-        "IT之家（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "The Decoder：AI News（RSS）",
+        "X：Yuchen Jin (@Yuchenj_UW)",
+        "X：Sam Altman (@sama)"
       ],
-      "latestAt": "2026-10-03T01:16:54.000Z"
+      "latestAt": "2026-10-03T18:56:30.000Z"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "id": "epb245so8hb7m1r74gumw2dze",
       "title": "英伟达发布64GB内存版DGX Spark",
       "source": {
@@ -131,110 +182,58 @@
         "story": "https://aihot.virxact.com/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8"
       },
       "sourceCount": 3,
-      "signalCount": 11,
-      "participantCount": 14,
+      "signalCount": 13,
+      "participantCount": 16,
       "sourceNames": [
         "MarkTechPost（RSS）",
         "NVIDIA Blog（RSS）",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-10-02T23:00:38.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "htdvt7tia6mwbp3pz2bdlvjb4",
-      "title": "微软发布MAI-Transcribe-2-Streaming流式转写模型",
-      "source": {
-        "name": "Microsoft AI：官方博客（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/htdvt7tia6mwbp3pz2bdlvjb4",
-        "original": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
-        "story": "https://aihot.virxact.com/story/4d391f67-cbae-4a14-89e4-a1f8153d062a"
-      },
-      "sourceCount": 7,
-      "signalCount": 11,
-      "participantCount": 18,
-      "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "The Decoder：AI News（RSS）",
-        "IT之家（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "Microsoft AI：官方博客（网页）"
-      ],
-      "latestAt": "2026-10-03T05:09:53.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "e7763j3shkmk8j0rorefsy4gn",
-      "title": "Tavus发布Griffin视频交互模型",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/e7763j3shkmk8j0rorefsy4gn",
-        "original": "https://x.com/rohanpaul_ai/status/2105715526748225562",
-        "story": "https://aihot.virxact.com/story/f89a7e27-e5e9-4e16-8a9e-8fca7920df7f"
-      },
-      "sourceCount": 6,
-      "signalCount": 12,
-      "participantCount": 18,
-      "sourceNames": [
-        "X：马东锡 NLP (@dongxi_nlp)",
-        "X：fal (@fal)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-10-02T18:45:03.000Z"
+      "latestAt": "2026-10-02T18:04:56.000Z"
     },
     {
       "rank": 9,
-      "id": "a1s641znzieiiyaoqnm2pf4x8",
-      "title": "OpenAI解雇3名安全研究员",
+      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
+      "title": "Claude Code mods 发布与示例更新",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/a1s641znzieiiyaoqnm2pf4x8",
-        "original": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
-        "story": "https://aihot.virxact.com/story/a2df69da-f530-4cf9-812f-48c246e2402e"
+        "aihot": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
+        "original": "https://claude.com/blog/claude-code-mods",
+        "story": "https://aihot.virxact.com/story/5971919b-97f0-444a-95e6-3bd40d1e0368"
       },
-      "sourceCount": 4,
-      "signalCount": 12,
-      "participantCount": 16,
+      "sourceCount": 2,
+      "signalCount": 9,
+      "participantCount": 11,
       "sourceNames": [
         "The Decoder：AI News（RSS）",
-        "IT之家（RSS）",
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Thariq (@trq212)"
       ],
-      "latestAt": "2026-10-03T04:41:24.000Z"
+      "latestAt": "2026-10-03T07:12:09.000Z"
     },
     {
       "rank": 10,
-      "id": "cmufmmqzd05m0ro8wkyps02zf",
-      "title": "谷歌发射 TPU 卫星测试太空 AI 算力",
+      "id": "z3n13tfsh0w2cr63ar0tgjnpk",
+      "title": "亚马逊发博客呼吁支持AI数据中心建设",
       "source": {
-        "name": "The Verge：AI（RSS）"
+        "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmufmmqzd05m0ro8wkyps02zf",
-        "original": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-        "story": "https://aihot.virxact.com/story/520acd88-e766-43f1-af56-5754af0ee294"
+        "aihot": "https://aihot.news/items/z3n13tfsh0w2cr63ar0tgjnpk",
+        "original": "https://www.ithome.com/1/009/621.htm",
+        "story": "https://aihot.virxact.com/story/5baa44e1-a976-46e0-beec-708ac25e404b"
       },
-      "sourceCount": 3,
-      "signalCount": 8,
-      "participantCount": 11,
+      "sourceCount": 4,
+      "signalCount": 6,
+      "participantCount": 10,
       "sourceNames": [
-        "X：Google AI (@GoogleAI)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）"
+        "IT之家（RSS）",
+        "TechCrunch：AI（RSS）",
+        "Ars Technica：AI（RSS）",
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-10-03T05:43:01.571Z"
+      "latestAt": "2026-10-04T02:20:01.000Z"
     }
   ]
 }
