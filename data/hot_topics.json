@@ -1,10 +1,73 @@
 {
-  "updatedAt": "2026-10-04T09:41:51.960724+00:00",
+  "updatedAt": "2026-10-05T10:19:35.842837+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "cmf54gyjdos166m78jip77ptm",
+      "title": "OpenAI Codex 与 ChatGPT Work 承诺 28 天每日更新",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmf54gyjdos166m78jip77ptm",
+        "original": "https://www.ithome.com/1/009/761.htm",
+        "story": "https://aihot.virxact.com/story/8d77783c-db18-4e6a-b8e7-70b012886402"
+      },
+      "sourceCount": 2,
+      "signalCount": 15,
+      "participantCount": 17,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "latestAt": "2026-10-05T01:47:27.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "cmu9lxijt04a1ro9b80vlc4th",
+      "title": "特朗普成立超级智能工作组，克莱顿牵头",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu9lxijt04a1ro9b80vlc4th",
+        "original": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
+        "story": "https://aihot.virxact.com/story/d5b32762-56e9-4fb8-8976-fef8dadd068a"
+      },
+      "sourceCount": 3,
+      "signalCount": 13,
+      "participantCount": 16,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-05T04:39:32.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "j45voriw6fcykynqwt5gwbtmm",
+      "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
+        "original": "https://www.ithome.com/1/009/688.htm",
+        "story": "https://aihot.virxact.com/story/397fcf8b-ea91-4150-a638-8fd4679eed40"
+      },
+      "sourceCount": 1,
+      "signalCount": 15,
+      "participantCount": 16,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-04T10:04:39.000Z"
+    },
+    {
+      "rank": 4,
       "id": "xmlfce496prtvqpqmcupmsssc",
       "title": "OpenAI安全负责人罗宾逊离职并撰文批评",
       "source": {
@@ -16,8 +79,8 @@
         "story": "https://aihot.virxact.com/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379"
       },
       "sourceCount": 6,
-      "signalCount": 14,
-      "participantCount": 20,
+      "signalCount": 13,
+      "participantCount": 19,
       "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)",
         "IT之家（RSS）",
@@ -29,55 +92,7 @@
       "latestAt": "2026-10-04T01:13:09.000Z"
     },
     {
-      "rank": 2,
-      "id": "ln6ere28kepk46azfanwaucm2",
-      "title": "Meta发布Muse Gadgets开源硬件计划及Home Link设备",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ln6ere28kepk46azfanwaucm2",
-        "original": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-        "story": "https://aihot.virxact.com/story/e3d54065-1571-44a0-91b5-79600744e735"
-      },
-      "sourceCount": 5,
-      "signalCount": 18,
-      "participantCount": 23,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Hacker News：AI 热帖"
-      ],
-      "latestAt": "2026-10-03T14:28:51.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "gwtipws3qkxm941aqz5iluhdi",
-      "title": "Meta否认Muse读取私信，Apple收紧macOS权限",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/gwtipws3qkxm941aqz5iluhdi",
-        "original": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-        "story": "https://aihot.virxact.com/story/739a7589-bbae-4e8d-8bec-d6908b779010"
-      },
-      "sourceCount": 5,
-      "signalCount": 15,
-      "participantCount": 20,
-      "sourceNames": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "IT之家（RSS）",
-        "Ars Technica：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-10-03T00:39:54.866Z"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "id": "m761fdlqtad285r14fky711jr",
       "title": "Gemini免费用户模型调整为Flash-Lite",
       "source": {
@@ -88,17 +103,57 @@
         "original": "https://www.ithome.com/1/009/431.htm",
         "story": "https://aihot.virxact.com/story/94326823-aa00-4316-a253-28c8c4098a05"
       },
-      "sourceCount": 2,
-      "signalCount": 9,
+      "sourceCount": 1,
+      "signalCount": 10,
       "participantCount": 11,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "IT之家（RSS）"
+        "The Decoder：AI News（RSS）"
       ],
       "latestAt": "2026-10-04T07:28:54.000Z"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "id": "hhjrs8ajspjft5ctuep43u68g",
+      "title": "华为与高通达成5G等专利交叉许可协议",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/hhjrs8ajspjft5ctuep43u68g",
+        "original": "https://www.ithome.com/1/009/806.htm",
+        "story": "https://aihot.virxact.com/story/2db86cc5-e2f8-4e6f-b7c7-e987069aa6b0"
+      },
+      "sourceCount": 1,
+      "signalCount": 5,
+      "participantCount": 6,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-05T06:18:41.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "wleocdhi3eyxshgrbzt9we1zl",
+      "title": "Meta开源Muse Gadgets硬件计划并推Home Link",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/wleocdhi3eyxshgrbzt9we1zl",
+        "original": "https://www.ithome.com/1/009/743.htm",
+        "story": "https://aihot.virxact.com/story/e3d54065-1571-44a0-91b5-79600744e735"
+      },
+      "sourceCount": 2,
+      "signalCount": 7,
+      "participantCount": 9,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-10-05T00:00:33.000Z"
+    },
+    {
+      "rank": 8,
       "id": "w5kdfoydiaj7nyyuy45fg70b0",
       "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
       "source": {
@@ -109,131 +164,55 @@
         "original": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
         "story": "https://aihot.virxact.com/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81"
       },
-      "sourceCount": 6,
-      "signalCount": 6,
-      "participantCount": 12,
+      "sourceCount": 2,
+      "signalCount": 8,
+      "participantCount": 10,
       "sourceNames": [
         "X：小北 (@frxiaobei)",
-        "Hacker News：AI 热帖",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "X：Dan Hendrycks (@hendrycks)",
-        "X：Aidan Gomez（Cohere CEO，@aidangomez）"
+        "Hacker News：AI 热帖"
       ],
       "latestAt": "2026-10-04T07:38:49.000Z"
     },
     {
-      "rank": 6,
-      "id": "y475ev20b3138yoqrlo3z4wrr",
-      "title": "Aleph Alpha 开源德英双语模型 Kolibri",
-      "source": {
-        "name": "Hacker News 热门（buzzing.cc 中文翻译）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/y475ev20b3138yoqrlo3z4wrr",
-        "original": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-        "story": "https://aihot.virxact.com/story/b1397672-bf6e-47dc-af9a-895fd7021161"
-      },
-      "sourceCount": 7,
-      "signalCount": 2,
-      "participantCount": 9,
-      "sourceNames": [
-        "MarkTechPost（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "X：Cohere（@cohere）",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Aidan Gomez（Cohere CEO，@aidangomez）",
-        "Hacker News：AI 热帖"
-      ],
-      "latestAt": "2026-10-04T07:01:04.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "jak6gxsz68wsqdq6n9504d36o",
-      "title": "Sam Altman 谈 AI 模型安全",
-      "source": {
-        "name": "X：Yuchen Jin (@Yuchenj_UW)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/jak6gxsz68wsqdq6n9504d36o",
-        "original": "https://x.com/Yuchenj_UW/status/2106395374923796759",
-        "story": "https://aihot.virxact.com/story/341ef8c2-d918-4e24-9391-99616e1c1a9a"
-      },
-      "sourceCount": 3,
-      "signalCount": 6,
-      "participantCount": 9,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Yuchen Jin (@Yuchenj_UW)",
-        "X：Sam Altman (@sama)"
-      ],
-      "latestAt": "2026-10-03T18:56:30.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "epb245so8hb7m1r74gumw2dze",
-      "title": "英伟达发布64GB内存版DGX Spark",
-      "source": {
-        "name": "NVIDIA Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/epb245so8hb7m1r74gumw2dze",
-        "original": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-        "story": "https://aihot.virxact.com/story/4872cca6-eac6-4a7e-b5b8-8f1788445bf8"
-      },
-      "sourceCount": 3,
-      "signalCount": 13,
-      "participantCount": 16,
-      "sourceNames": [
-        "MarkTechPost（RSS）",
-        "NVIDIA Blog（RSS）",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-10-02T18:04:56.000Z"
-    },
-    {
       "rank": 9,
-      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
-      "title": "Claude Code mods 发布与示例更新",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
-        "original": "https://claude.com/blog/claude-code-mods",
-        "story": "https://aihot.virxact.com/story/5971919b-97f0-444a-95e6-3bd40d1e0368"
-      },
-      "sourceCount": 2,
-      "signalCount": 9,
-      "participantCount": 11,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Thariq (@trq212)"
-      ],
-      "latestAt": "2026-10-03T07:12:09.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "z3n13tfsh0w2cr63ar0tgjnpk",
-      "title": "亚马逊发博客呼吁支持AI数据中心建设",
+      "id": "j49zwqdd5hz24pbxcxxc9t2as",
+      "title": "谷歌暂停OSS VRP产品漏洞提报",
       "source": {
         "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/z3n13tfsh0w2cr63ar0tgjnpk",
-        "original": "https://www.ithome.com/1/009/621.htm",
-        "story": "https://aihot.virxact.com/story/5baa44e1-a976-46e0-beec-708ac25e404b"
+        "aihot": "https://aihot.news/items/j49zwqdd5hz24pbxcxxc9t2as",
+        "original": "https://www.ithome.com/1/009/673.htm",
+        "story": "https://aihot.virxact.com/story/46c7f8e8-51cb-4cf2-8486-5e3402815813"
       },
-      "sourceCount": 4,
-      "signalCount": 6,
-      "participantCount": 10,
+      "sourceCount": 2,
+      "signalCount": 4,
+      "participantCount": 6,
       "sourceNames": [
-        "IT之家（RSS）",
         "TechCrunch：AI（RSS）",
-        "Ars Technica：AI（RSS）",
-        "The Verge：AI（RSS）"
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-10-04T02:20:01.000Z"
+      "latestAt": "2026-10-04T20:31:07.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "d4b6q65qoah5zvlc5h0br4eb8",
+      "title": "施耐德电气226亿美元全现金收购PTC",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/d4b6q65qoah5zvlc5h0br4eb8",
+        "original": "https://www.ithome.com/1/009/805.htm",
+        "story": "https://aihot.virxact.com/story/f4f04774-a627-409f-aeee-0bb78eff24cf"
+      },
+      "sourceCount": 1,
+      "signalCount": 4,
+      "participantCount": 5,
+      "sourceNames": [
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-05T06:07:35.000Z"
     }
   ]
 }
