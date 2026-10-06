@@ -1,12 +1,65 @@
 {
-  "updatedAt": "2026-10-05T10:19:35.842837+00:00",
+  "updatedAt": "2026-10-06T10:10:54.365301+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "qy7y0cfu1wbum1ej9urwylfxr",
+      "title": "Reflection 发布 501B 开源模型 Beam，本月放权重",
+      "source": {
+        "name": "Hacker News：AI 热帖"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
+        "original": "https://reflection.ai/blog/introducing-beam",
+        "story": "https://aihot.virxact.com/story/553aab31-30b1-4787-bd62-3b006d83295e"
+      },
+      "sourceCount": 9,
+      "signalCount": 27,
+      "participantCount": 36,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "MarkTechPost（RSS）",
+        "X：Nathan Lambert (@natolambert)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-06T00:42:20.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "xx5mgdemrqmqw5zw410sbawcz",
+      "title": "OpenAI公布欧盟文本溯源水印方案",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz",
+        "original": "https://openai.com/index/eu-text-provenance",
+        "story": "https://aihot.virxact.com/story/b92e615b-0baf-4821-a3ac-e621dde3db2c"
+      },
+      "sourceCount": 7,
+      "signalCount": 19,
+      "participantCount": 26,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Verge：AI（RSS）",
+        "X：OpenAI (@OpenAI)",
+        "The Decoder：AI News（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-05T20:36:48.000Z"
+    },
+    {
+      "rank": 3,
       "id": "cmf54gyjdos166m78jip77ptm",
-      "title": "OpenAI Codex 与 ChatGPT Work 承诺 28 天每日更新",
+      "title": "OpenAI 启动 Codex 与 ChatGPT Work 28 天每日更新",
       "source": {
         "name": "IT之家（RSS）"
       },
@@ -15,187 +68,85 @@
         "original": "https://www.ithome.com/1/009/761.htm",
         "story": "https://aihot.virxact.com/story/8d77783c-db18-4e6a-b8e7-70b012886402"
       },
-      "sourceCount": 2,
-      "signalCount": 15,
-      "participantCount": 17,
+      "sourceCount": 3,
+      "signalCount": 19,
+      "participantCount": 22,
       "sourceNames": [
-        "IT之家（RSS）",
-        "X：Tibo (@thsottiaux)"
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Tibo (@thsottiaux)",
+        "IT之家（RSS）"
       ],
-      "latestAt": "2026-10-05T01:47:27.000Z"
+      "latestAt": "2026-10-05T17:49:34.000Z"
     },
     {
-      "rank": 2,
-      "id": "cmu9lxijt04a1ro9b80vlc4th",
-      "title": "特朗普成立超级智能工作组，克莱顿牵头",
+      "rank": 4,
+      "id": "e63lz9ky7ebdxjea930dh3o5y",
+      "title": "OpenAI在ChatGPT图像生成中测试视觉广告",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/cmu9lxijt04a1ro9b80vlc4th",
-        "original": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
-        "story": "https://aihot.virxact.com/story/d5b32762-56e9-4fb8-8976-fef8dadd068a"
+        "aihot": "https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y",
+        "original": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "story": "https://aihot.virxact.com/story/93ed3076-cae1-4349-9f3d-c629827d554c"
+      },
+      "sourceCount": 5,
+      "signalCount": 12,
+      "participantCount": 17,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "IT之家（RSS）",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "latestAt": "2026-10-05T15:14:24.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "eqsd72krt75x22ruxjsncr81j",
+      "title": "华为与高通达成5G等专利交叉许可协议",
+      "source": {
+        "name": "IT之家（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/eqsd72krt75x22ruxjsncr81j",
+        "original": "https://www.ithome.com/1/009/852.htm",
+        "story": "https://aihot.virxact.com/story/2db86cc5-e2f8-4e6f-b7c7-e987069aa6b0"
       },
       "sourceCount": 3,
       "signalCount": 13,
       "participantCount": 16,
       "sourceNames": [
         "IT之家（RSS）",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）"
+        "X：X.PIN (@thexpin)",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
-      "latestAt": "2026-10-05T04:39:32.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "j45voriw6fcykynqwt5gwbtmm",
-      "title": "马斯克确认SpaceXAI将更名为SpaceXSI",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/j45voriw6fcykynqwt5gwbtmm",
-        "original": "https://www.ithome.com/1/009/688.htm",
-        "story": "https://aihot.virxact.com/story/397fcf8b-ea91-4150-a638-8fd4679eed40"
-      },
-      "sourceCount": 1,
-      "signalCount": 15,
-      "participantCount": 16,
-      "sourceNames": [
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-10-04T10:04:39.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "xmlfce496prtvqpqmcupmsssc",
-      "title": "OpenAI安全负责人罗宾逊离职并撰文批评",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/xmlfce496prtvqpqmcupmsssc",
-        "original": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "story": "https://aihot.virxact.com/story/fd9e2bf7-831d-46b7-8eae-5cdeb44ca379"
-      },
-      "sourceCount": 6,
-      "signalCount": 13,
-      "participantCount": 19,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-10-04T01:13:09.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "m761fdlqtad285r14fky711jr",
-      "title": "Gemini免费用户模型调整为Flash-Lite",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/m761fdlqtad285r14fky711jr",
-        "original": "https://www.ithome.com/1/009/431.htm",
-        "story": "https://aihot.virxact.com/story/94326823-aa00-4316-a253-28c8c4098a05"
-      },
-      "sourceCount": 1,
-      "signalCount": 10,
-      "participantCount": 11,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-10-04T07:28:54.000Z"
+      "latestAt": "2026-10-06T09:18:15.000Z"
     },
     {
       "rank": 6,
-      "id": "hhjrs8ajspjft5ctuep43u68g",
-      "title": "华为与高通达成5G等专利交叉许可协议",
+      "id": "g59v2qb4tcs4ibikxg8uucify",
+      "title": "DeepSeek接近完成至少800亿元融资",
       "source": {
         "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/hhjrs8ajspjft5ctuep43u68g",
-        "original": "https://www.ithome.com/1/009/806.htm",
-        "story": "https://aihot.virxact.com/story/2db86cc5-e2f8-4e6f-b7c7-e987069aa6b0"
-      },
-      "sourceCount": 1,
-      "signalCount": 5,
-      "participantCount": 6,
-      "sourceNames": [
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-10-05T06:18:41.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "wleocdhi3eyxshgrbzt9we1zl",
-      "title": "Meta开源Muse Gadgets硬件计划并推Home Link",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/wleocdhi3eyxshgrbzt9we1zl",
-        "original": "https://www.ithome.com/1/009/743.htm",
-        "story": "https://aihot.virxact.com/story/e3d54065-1571-44a0-91b5-79600744e735"
+        "aihot": "https://aihot.news/items/g59v2qb4tcs4ibikxg8uucify",
+        "original": "https://www.ithome.com/1/009/990.htm",
+        "story": "https://aihot.virxact.com/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4"
       },
       "sourceCount": 2,
       "signalCount": 7,
       "participantCount": 9,
       "sourceNames": [
-        "IT之家（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-10-05T00:00:33.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "w5kdfoydiaj7nyyuy45fg70b0",
-      "title": "Anthropic 邀宗教思想家为 AI 定道德准则",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/w5kdfoydiaj7nyyuy45fg70b0",
-        "original": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
-        "story": "https://aihot.virxact.com/story/b4cd84e9-f869-4131-8d66-a5f7c75f3c81"
-      },
-      "sourceCount": 2,
-      "signalCount": 8,
-      "participantCount": 10,
-      "sourceNames": [
-        "X：小北 (@frxiaobei)",
-        "Hacker News：AI 热帖"
-      ],
-      "latestAt": "2026-10-04T07:38:49.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "j49zwqdd5hz24pbxcxxc9t2as",
-      "title": "谷歌暂停OSS VRP产品漏洞提报",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/j49zwqdd5hz24pbxcxxc9t2as",
-        "original": "https://www.ithome.com/1/009/673.htm",
-        "story": "https://aihot.virxact.com/story/46c7f8e8-51cb-4cf2-8486-5e3402815813"
-      },
-      "sourceCount": 2,
-      "signalCount": 4,
-      "participantCount": 6,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-10-04T20:31:07.000Z"
+      "latestAt": "2026-10-06T06:44:57.000Z"
     },
     {
-      "rank": 10,
+      "rank": 7,
       "id": "d4b6q65qoah5zvlc5h0br4eb8",
       "title": "施耐德电气226亿美元全现金收购PTC",
       "source": {
@@ -207,12 +158,77 @@
         "story": "https://aihot.virxact.com/story/f4f04774-a627-409f-aeee-0bb78eff24cf"
       },
       "sourceCount": 1,
-      "signalCount": 4,
-      "participantCount": 5,
+      "signalCount": 11,
+      "participantCount": 12,
       "sourceNames": [
         "IT之家（RSS）"
       ],
       "latestAt": "2026-10-05T06:07:35.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "lcxzcuj920lvqlah60vj7utm1",
+      "title": "SemiAnalysis：Anthropic订阅API等价价值约为OpenAI五倍",
+      "source": {
+        "name": "SemiAnalysis 长文 RSS（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1",
+        "original": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "story": "https://aihot.virxact.com/story/aa02ac93-b059-4123-9fe0-8845706eb2e5"
+      },
+      "sourceCount": 2,
+      "signalCount": 6,
+      "participantCount": 8,
+      "sourceNames": [
+        "X：SemiAnalysis (@SemiAnalysis_)",
+        "SemiAnalysis 长文 RSS（RSS）"
+      ],
+      "latestAt": "2026-10-05T23:30:07.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "cmu9lxijt04a1ro9b80vlc4th",
+      "title": "特朗普成立超级智能工作组，克莱顿牵头",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cmu9lxijt04a1ro9b80vlc4th",
+        "original": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
+        "story": "https://aihot.virxact.com/story/d5b32762-56e9-4fb8-8976-fef8dadd068a"
+      },
+      "sourceCount": 3,
+      "signalCount": 14,
+      "participantCount": 17,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-05T04:39:32.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "m67js25rqsv5hjj902e3ly3yh",
+      "title": "奥尔特曼称AI效益值得承担部分风险",
+      "source": {
+        "name": "The Verge：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/m67js25rqsv5hjj902e3ly3yh",
+        "original": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+        "story": "https://aihot.virxact.com/story/59b0b4d1-c1e5-4149-91c5-69f920c1845e"
+      },
+      "sourceCount": 3,
+      "signalCount": 7,
+      "participantCount": 10,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Verge：AI（RSS）",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-06T06:38:27.000Z"
     }
   ]
 }
