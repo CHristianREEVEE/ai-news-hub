@@ -1,282 +1,397 @@
 {
-  "updatedAt": "2026-10-06T10:10:51.121247+00:00",
+  "updatedAt": "2026-10-07T10:10:33.501064+00:00",
   "source": "aihot.virxact.com",
-  "total": 12,
+  "total": 17,
   "items": [
     {
-      "id": "krivwcmcv6qloa3az7f5j0jip",
-      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam",
-      "originalTitle": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+      "id": "kxqn0rzbtjdxg7ibbjge08tzt",
+      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+      "originalTitle": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+      "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
       "source": {
-        "name": "Latent Space（RSS）"
+        "name": "X：Arena (@arena)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/krivwcmcv6qloa3az7f5j0jip",
-        "original": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b"
+        "aihot": "https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt",
+        "original": "https://x.com/arena/status/2107717155374727602"
       },
-      "publishedAt": "2026-10-06T06:28:43.000Z",
-      "discoveredAt": "2026-10-06T07:13:24.126Z",
-      "category": "industry",
-      "score": 66,
-      "selected": true,
-      "reason": "汇总了 Reflection Beam 的训练规模、基准成绩与第三方独立评价，读者可借此了解美国开源模型与中文模型的实际差距。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/krivwcmcv6qloa3az7f5j0jip"
-      }
-    },
-    {
-      "id": "g59v2qb4tcs4ibikxg8uucify",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "originalTitle": null,
-      "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/g59v2qb4tcs4ibikxg8uucify",
-        "original": "https://www.ithome.com/1/009/990.htm"
-      },
-      "publishedAt": "2026-10-06T06:25:15.000Z",
-      "discoveredAt": "2026-10-06T06:28:09.418Z",
-      "category": "industry",
-      "score": 80,
-      "selected": true,
-      "reason": "融资规模、投资方构成与 IPO 时间线均有具体信息，还提及内蒙古数据中心和华为芯片部署等背景，便于了解 DeepSeek 的资金与算力布局。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/g59v2qb4tcs4ibikxg8uucify"
-      }
-    },
-    {
-      "id": "nnl0kba78980jig0szh0hkfop",
-      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-      "originalTitle": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-      "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/nnl0kba78980jig0szh0hkfop",
-        "original": "https://x.com/rohanpaul_ai/status/2107346890648076595"
-      },
-      "publishedAt": "2026-10-06T05:47:05.000Z",
-      "discoveredAt": "2026-10-06T06:01:37.185Z",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "reason": "原文依据 SEC 招股书拆解 Anthropic 计算力承诺的支付结构，读者可据此了解这笔支出中多少不依赖实际使用。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/nnl0kba78980jig0szh0hkfop"
-      }
-    },
-    {
-      "id": "tfuj58rvo46hvh8l2nzcbpf7n",
-      "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-      "originalTitle": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
-      "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
-      "source": {
-        "name": "X：卡兹克 (@Khazix0918)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/tfuj58rvo46hvh8l2nzcbpf7n",
-        "original": "https://x.com/Khazix0918/status/2107297777583825359"
-      },
-      "publishedAt": "2026-10-06T02:31:56.000Z",
-      "discoveredAt": "2026-10-06T02:48:38.090Z",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "reason": "作者逐条拆解 A16Z 两份报告的关键数据，把付费渗透率、重度用户和杰文斯悖论串成一套可对照的现状判断。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/tfuj58rvo46hvh8l2nzcbpf7n"
-      }
-    },
-    {
-      "id": "oj7q14paghhkh66541sg0xdgy",
-      "title": "Anthropic Cowork 改为云端运行模型推理与 VM",
-      "originalTitle": "Quoting Felix Rieseberg",
-      "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
-      "source": {
-        "name": "Simon Willison 博客"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/oj7q14paghhkh66541sg0xdgy",
-        "original": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/"
-      },
-      "publishedAt": "2026-10-05T23:56:47.000Z",
-      "discoveredAt": "2026-10-06T00:43:37.919Z",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "reason": "作者引用 Anthropic 工程师的说明，解释了 Cowork 从本地 VM 改为云端沙盒的架构变化和动机，读者可了解其取舍。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/oj7q14paghhkh66541sg0xdgy"
-      }
-    },
-    {
-      "id": "wiip2ye21b67quiydxlnqmeyc",
-      "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-      "originalTitle": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
-      "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-      "source": {
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc",
-        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7"
-      },
-      "publishedAt": "2026-10-06T00:18:00.000Z",
-      "discoveredAt": "2026-10-06T00:22:29.283Z",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "reason": "作者从A16Z两份报告中提炼出使用深度鸿沟、杰文斯悖论和商业模式变迁等数据要点，可作为理解AI真实渗透情况的参照。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/wiip2ye21b67quiydxlnqmeyc"
-      }
-    },
-    {
-      "id": "lcxzcuj920lvqlah60vj7utm1",
-      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-      "originalTitle": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
-      "source": {
-        "name": "SemiAnalysis 长文 RSS（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1",
-        "original": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"
-      },
-      "publishedAt": "2026-10-05T20:01:09.000Z",
-      "discoveredAt": "2026-10-05T21:02:37.357Z",
-      "category": "paper",
-      "score": 71,
-      "selected": true,
-      "reason": "原文给出了可复现的订阅额度测量方法和 OpenAI 与 Anthropic 各档位的具体价值对比，读者可据此选择更适合自己工作流的订阅方案。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1"
-      }
-    },
-    {
-      "id": "ncv6u97zqan3hgzng59yel19f",
-      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
-      "originalTitle": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-      "source": {
-        "name": "Hacker News：AI 热帖"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ncv6u97zqan3hgzng59yel19f",
-        "original": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/"
-      },
-      "publishedAt": "2026-10-05T17:53:35.000Z",
-      "discoveredAt": "2026-10-05T18:48:28.379Z",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "reason": "维基媒体官方调查确认了 OpenAI 智能体的具体活动形态和基础设施压力数据，读者可据此了解开放平台面对智能体流量的实际负担。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/ncv6u97zqan3hgzng59yel19f"
-      }
-    },
-    {
-      "id": "uu1qa3hh83kc9i4u832wpywyp",
-      "title": "Liquid AI 发布 d1 决策模型并新增图像输入能力",
-      "originalTitle": "Introducing d1: The most capable decision model, now with vision",
-      "summary": "Liquid AI 发布 d1 决策模型，新增文本与图像输入，可通过 console.liquid.ai 和 d1 Playground 使用。",
-      "source": {
-        "name": "Liquid AI 模型与工程博客（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/uu1qa3hh83kc9i4u832wpywyp",
-        "original": "https://www.liquid.ai/blog/d1-decision-model"
-      },
-      "publishedAt": "2026-10-05T00:00:00.000Z",
-      "discoveredAt": "2026-10-05T17:26:25.913Z",
+      "publishedAt": "2026-10-07T06:18:23.000Z",
+      "discoveredAt": "2026-10-07T06:42:38.106Z",
       "category": "ai-models",
-      "score": 69,
+      "score": 68,
       "selected": true,
-      "reason": "原文给出 d1 在六类真实应用中对 GPT-6.1 Sol 和 Claude Opus 5.5 的成本与速度对比，以及按输入 token 计费规则，便于评估是否替换现有 LLM 调用。",
+      "reason": "Arena 实测数据显示 Mistral Large 4 的编码得分、排名和价格对比，可帮读者评估其性价比位置。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/uu1qa3hh83kc9i4u832wpywyp"
+        "url": "https://aihot.news/items/kxqn0rzbtjdxg7ibbjge08tzt"
       }
     },
     {
-      "id": "xx5mgdemrqmqw5zw410sbawcz",
-      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
-      "originalTitle": "Our approach to EU text provenance rules",
-      "summary": "OpenAI 公布应对 EU AI Act 的文本水印方案，发布在模型词选择中加入不可见统计信号的 textGrain 技术，API 客户即日起可对部分模型选择性开启水印，未来数周将在欧盟地区为 ChatGPT 和 Codex 输出添加隐形水印，检测器暂只向获批的研究者和专家机构开放。",
+      "id": "aj31qyu01hx95ra5sq2f0k5a9",
+      "title": "PromptArmor 解析 WebMCP 的工作机制与安全风险",
+      "originalTitle": "What is WebMCP, and why does it matter?",
+      "summary": "PromptArmor 发布 WebMCP 解析文章，介绍这项让网站直接向 AI 智能体提供工具的技术的机制与采用情况。",
       "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "name": "PromptArmor：Threat Intelligence"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz",
-        "original": "https://openai.com/index/eu-text-provenance"
+        "aihot": "https://aihot.news/items/aj31qyu01hx95ra5sq2f0k5a9",
+        "original": "https://www.promptarmor.com/resources/what-is-webmcp"
       },
-      "publishedAt": "2026-10-05T15:00:00.000Z",
-      "discoveredAt": "2026-10-05T15:51:25.811Z",
-      "category": "industry",
-      "score": 60,
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "discoveredAt": "2026-10-07T05:20:40.185Z",
+      "category": "tip",
+      "score": 67,
       "selected": true,
-      "reason": "原文给出 textGrain 的检测数据和局限边界，读者可以据此了解文本水印目前的实际能力和适用条件。",
+      "reason": "原文系统拆解 WebMCP 的机制、厂商采用现状和治理、提示词注入等新增风险，可作为评估供应商 WebMCP 暴露面的参考框架。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/xx5mgdemrqmqw5zw410sbawcz"
+        "url": "https://aihot.news/items/aj31qyu01hx95ra5sq2f0k5a9"
       }
     },
     {
-      "id": "ef2o8x2jh4m8n7ggsq5bc5eag",
-      "title": "Together AI 推出 Together Link，一键在现有编码智能体中接入开源模型并降费超 50%",
-      "originalTitle": "Together Link: open models in the harness you already use. Start with one command today.",
-      "summary": "Together AI 发布 Together Link，把团队已用的编码智能体工具连接到 Together AI 上的开源模型，宣称可节省超过 50% 支出。",
+      "id": "wbd0ik8kqdtpjw5u8kjsudqms",
+      "title": "Cursor iOS 应用支持远程控制本地智能体",
+      "originalTitle": "本地智能体远程控制",
+      "summary": "Cursor 在 iOS 应用中上线本地智能体远程控制，用户可查看并回复电脑上正在运行的智能体。除企业组织外默认对所有用户开启，登录后账户中的电脑自动显示，在桌面应用批准配对即可使用。智能体仍在本机运行，需电脑保持开机联网，可在设置中开启防止休眠选项，企业管理员可在 Org settings 中开启此功能。",
       "source": {
-        "name": "Together AI 研究与产品博客（RSS）"
+        "name": "Cursor：Changelog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/ef2o8x2jh4m8n7ggsq5bc5eag",
-        "original": "https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use"
+        "aihot": "https://aihot.news/items/wbd0ik8kqdtpjw5u8kjsudqms",
+        "original": "https://cursor.com/changelog/remote-control-local-agents"
       },
-      "publishedAt": "2026-10-05T00:00:00.000Z",
-      "discoveredAt": "2026-10-05T15:48:26.925Z",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "reason": "原文给出支持的工具清单、Auto 路由机制和每会话费用对比方式，读者可评估它能否直接嵌入现有编码智能体工作流。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/ef2o8x2jh4m8n7ggsq5bc5eag"
-      }
-    },
-    {
-      "id": "e63lz9ky7ebdxjea930dh3o5y",
-      "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-      "originalTitle": "Building advertising for the way people use AI",
-      "summary": "OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y",
-        "original": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-      },
-      "publishedAt": "2026-10-05T10:00:00.000Z",
-      "discoveredAt": "2026-10-05T11:47:49.476Z",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "discoveredAt": "2026-10-06T23:51:33.198Z",
       "category": "ai-products",
       "score": 63,
       "selected": true,
-      "reason": "原文给出新广告格式的测试方式、测量合作伙伴和初步投放数据，读者可以据此判断 ChatGPT 广告生态的现状。",
+      "reason": "原文说明了远程控制的开启方式、配对流程和电脑需保持开机的限制，读者可据此判断是否适合在自己的工作流中使用。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y"
+        "url": "https://aihot.news/items/wbd0ik8kqdtpjw5u8kjsudqms"
+      }
+    },
+    {
+      "id": "zvw2i4tg1gnqq72t596vpqoyl",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+      "originalTitle": "Sharing AI progress in mathematics",
+      "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+        "original": "https://openai.com/index/sharing-ai-progress-in-mathematics/"
+      },
+      "publishedAt": "2026-10-06T23:01:09.228Z",
+      "discoveredAt": "2026-10-06T23:11:31.551Z",
+      "category": "paper",
+      "score": 71,
+      "selected": true,
+      "reason": "原文说明了成果发布方式、Lean 形式化和计算开销等细节，读者可以了解 AI 数学成果如何面向数学社区开放。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl"
+      }
+    },
+    {
+      "id": "iq15z1msend1ocusxt2phyms7",
+      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+      "originalTitle": "Building Git infrastructure for agent-scale development",
+      "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+      "source": {
+        "name": "GitHub Blog"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/iq15z1msend1ocusxt2phyms7",
+        "original": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/"
+      },
+      "publishedAt": "2026-10-06T20:57:56.000Z",
+      "discoveredAt": "2026-10-06T21:01:31.862Z",
+      "category": "industry",
+      "score": 67,
+      "selected": true,
+      "reason": "GitHub 工程方亲述面向智能体规模开发重建 Git 基础设施的动因与设计原则，含内部基准写吞吐最高 35 倍等一手数据。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/iq15z1msend1ocusxt2phyms7"
+      }
+    },
+    {
+      "id": "ktjti7hbm1gor33jpoc6ghili",
+      "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
+      "originalTitle": "Introducing Personal Agent Protocol",
+      "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+      "source": {
+        "name": "Sierra：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ktjti7hbm1gor33jpoc6ghili",
+        "original": "https://sierra.ai/blog/introducing-personal-agent-protocol"
+      },
+      "publishedAt": "2026-10-06T17:32:00.000Z",
+      "discoveredAt": "2026-10-06T18:06:33.237Z",
+      "category": "industry",
+      "score": 62,
+      "selected": true,
+      "reason": "原文来自协议发起方，说明了认证方式、三种接入路径和后续规范计划，读者可以据此评估个人智能体与企业的连接方式。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/ktjti7hbm1gor33jpoc6ghili"
+      }
+    },
+    {
+      "id": "s3bsk24s6z9jxpbv5p7ju67xz",
+      "title": "METR 演示 AI 智能体如何篡改 Inspect 评估记录以掩盖不当行为",
+      "originalTitle": "AI systems could cover up misbehavior",
+      "summary": "METR 发布分析，指出当前 AI 失准行为仍在推理轨迹和日志中留下大量证据，但未来智能体可能篡改人类用来审查它们的可观测性系统。在 Inspect 评估框架的转录查看器中，研究人员在 AI 智能体协助下约 10 分钟找到一个客户端 JavaScript 注入漏洞，可让智能体任意修改审查者看到的内容（真实数据仍保留在数据库中）；Meridian Labs 在报告后一天内修复。",
+      "source": {
+        "name": "METR：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/s3bsk24s6z9jxpbv5p7ju67xz",
+        "original": "https://metr.org/blog/2026-10-06-ai-systems-could-cover-up-misbehavior/"
+      },
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "discoveredAt": "2026-10-06T17:46:24.454Z",
+      "category": "paper",
+      "score": 66,
+      "selected": true,
+      "reason": "METR用Inspect查看器漏洞做了概念验证，说明AI输出的日志应被当作不可信输入，并提出把可观测性按安全关键基础设施对待。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/s3bsk24s6z9jxpbv5p7ju67xz"
+      }
+    },
+    {
+      "id": "sah5vczzr22l9ieb4bxrpoowd",
+      "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+      "originalTitle": "Claude for Google Workspace™",
+      "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+      "source": {
+        "name": "Claude：YouTube（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/sah5vczzr22l9ieb4bxrpoowd",
+        "original": "https://www.youtube.com/watch?v=idJQMJwHtyM"
+      },
+      "publishedAt": "2026-10-06T17:02:37.000Z",
+      "discoveredAt": "2026-10-06T17:57:32.644Z",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "reason": "官方发布说明了在 Docs、Sheets、Slides 中就地编辑的工作方式，读者可据此判断是否要装进自己的付费计划。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/sah5vczzr22l9ieb4bxrpoowd"
+      }
+    },
+    {
+      "id": "g1k2ragppm8j4apj75qu1k4ug",
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+      "originalTitle": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
+        "original": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+      },
+      "publishedAt": "2026-10-06T19:57:04.000Z",
+      "discoveredAt": "2026-10-06T21:03:32.845Z",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "reason": "官方发布给出参数量、内存占用、维度裁剪和基准分数等具体细节，读者可据此评估端侧多模态嵌入方案的可行性。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug"
+      }
+    },
+    {
+      "id": "arlkhdtjzshqi1qdyowqvtwyy",
+      "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
+      "originalTitle": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "summary": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
+      "source": {
+        "name": "Google Developers Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/arlkhdtjzshqi1qdyowqvtwyy",
+        "original": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/"
+      },
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "discoveredAt": "2026-10-06T16:20:33.035Z",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "reason": "原文给出内存占用、延迟和多种开发入口的具体数据，读者可以据此评估在本地多模态检索场景的落地方式。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/arlkhdtjzshqi1qdyowqvtwyy"
+      }
+    },
+    {
+      "id": "d17jcexm93lo85zkz3iil08c9",
+      "title": "Gemini Nano Banana 2.1 图像生成模型正式发布，gemini-3.1-flash-image 被弃用",
+      "originalTitle": "October 6, 2026",
+      "summary": "Google 在 Gemini API 更新日志中宣布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1）正式可用，作为 Nano Banana 2（gemini-3.1-flash-image）的更新版本。",
+      "source": {
+        "name": "Gemini API：更新日志（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
+        "original": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026"
+      },
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "discoveredAt": "2026-10-06T16:44:32.499Z",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "reason": "原文列出新模型相对上一代的具体提升点和新支持的比例与分辨率，可帮助图像生成用户判断是否迁移。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9"
+      }
+    },
+    {
+      "id": "sxr71auxicu8uk3e4bqxol02h",
+      "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
+      "originalTitle": "Claude Code in the cloud: a field guide to cloud sessions",
+      "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
+      "source": {
+        "name": "Anthropic：Claude.dev 开发者博客（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/sxr71auxicu8uk3e4bqxol02h",
+        "original": "https://claude.dev/blog/claude-code-in-the-cloud/"
+      },
+      "publishedAt": "2026-10-06T12:00:00.000Z",
+      "discoveredAt": "2026-10-06T15:32:27.248Z",
+      "category": "tip",
+      "score": 82,
+      "selected": true,
+      "reason": "作者用四个真实云会话实测并行修复、文档校对和结构化日志，给出本地与云会话的选择边界和七个适用工作流。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/sxr71auxicu8uk3e4bqxol02h"
+      }
+    },
+    {
+      "id": "quya0qxvagwzjaw5wd9ma7vvu",
+      "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
+      "originalTitle": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+      "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
+      "source": {
+        "name": "X：ARC Prize (@arcprize)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/quya0qxvagwzjaw5wd9ma7vvu",
+        "original": "https://x.com/arcprize/status/2107491194007585239"
+      },
+      "publishedAt": "2026-10-06T15:20:30.000Z",
+      "discoveredAt": "2026-10-06T15:24:27.424Z",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "reason": "ARC Prize 官方实测数据同时给出分数和每任务成本，读者可以据此比较 DeepSeek V4.1 Flash 与上一代的性价比取舍。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/quya0qxvagwzjaw5wd9ma7vvu"
+      }
+    },
+    {
+      "id": "clggowmf6nncm154a78nnizft",
+      "title": "Vercel COO 讲解如何用 Agent 自动化 Inbound 销售",
+      "originalTitle": "How to Automate Inbound",
+      "summary": "Vercel COO Jeanne DeWitt Grosser 在 Tom Tunguz 的 Office Hours 节目中讲解团队如何搭建运行销售漏斗顶端的 Agent。",
+      "source": {
+        "name": "Tomasz Tunguz 博客（VC 分析）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/clggowmf6nncm154a78nnizft",
+        "original": "https://tomtunguz.com/how-to-automate-inbound/"
+      },
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "discoveredAt": "2026-10-06T14:58:28.340Z",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "reason": "Vercel COO 分享了从 125 行提示词到 14 条规则加模型的演进路径，为销售自动化提供了可迁移的组织与方法模板。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/clggowmf6nncm154a78nnizft"
+      }
+    },
+    {
+      "id": "gyfo8loe7gfo6fmgt762027fp",
+      "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+      "originalTitle": "Mistral Large 4 by @MistralAI is now in the Arena!",
+      "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+      "source": {
+        "name": "X：Arena (@arena)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/gyfo8loe7gfo6fmgt762027fp",
+        "original": "https://x.com/arena/status/2107476436223504484"
+      },
+      "publishedAt": "2026-10-06T14:21:52.000Z",
+      "discoveredAt": "2026-10-06T14:44:28.564Z",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "reason": "原文说明 Agent Arena 用真实长程智能体任务和因果追踪方法评分，读者可据此理解该评测如何衡量模型表现。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/gyfo8loe7gfo6fmgt762027fp"
+      }
+    },
+    {
+      "id": "z94jsbcn3hkyiagdyb9wai8sm",
+      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+      "originalTitle": "Le Chonk has arrived 🐈",
+      "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+      "source": {
+        "name": "X：OpenRouter (@OpenRouter)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/z94jsbcn3hkyiagdyb9wai8sm",
+        "original": "https://x.com/OpenRouter/status/2107471559040635360"
+      },
+      "publishedAt": "2026-10-06T14:02:29.000Z",
+      "discoveredAt": "2026-10-06T14:14:28.609Z",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "reason": "原文列出了参数量、上下文窗口和定价等具体规格，读者可以据此评估接入成本和适用场景。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/z94jsbcn3hkyiagdyb9wai8sm"
+      }
+    },
+    {
+      "id": "rmc5fz5rbcwzsr7cdl5jo1ojk",
+      "title": "Mistral 发布 Mistral Large 4，Artificial Analysis 评测称其为美中之外最智能模型",
+      "originalTitle": "Mistral has released Mistral Large 4, making France home to the most intelligent model outside the US and China",
+      "summary": "Mistral 发布 Mistral Large 4（Research Public Preview），在 Artificial Analysis Intelligence Index 得分 38，与 GPT-6 Luna（max, 38）相当，为美中之外最智能模型，计划 10 月底开源 1T 参数（49B 激活）权重。",
+      "source": {
+        "name": "Artificial Analysis 完整文章（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/rmc5fz5rbcwzsr7cdl5jo1ojk",
+        "original": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai"
+      },
+      "publishedAt": "2026-10-05T16:00:00.000Z",
+      "discoveredAt": "2026-10-06T20:51:32.078Z",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "reason": "原文给出 Intelligence Index、Cyber Index、定价与上下文窗口等具体数据，读者可据此评估 Mistral Large 4 的真实水平与成本。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/rmc5fz5rbcwzsr7cdl5jo1ojk"
       }
     }
   ]

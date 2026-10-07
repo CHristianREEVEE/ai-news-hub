@@ -1,10 +1,118 @@
 {
-  "updatedAt": "2026-10-06T10:10:54.365301+00:00",
+  "updatedAt": "2026-10-07T10:10:37.295193+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "rmc5fz5rbcwzsr7cdl5jo1ojk",
+      "title": "Mistral 发布 Large 4 预览版，月底开放权重",
+      "source": {
+        "name": "Artificial Analysis 完整文章（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/rmc5fz5rbcwzsr7cdl5jo1ojk",
+        "original": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai",
+        "story": "https://aihot.virxact.com/story/9185ce03-ea6c-4422-abbf-bef5d5f8b884"
+      },
+      "sourceCount": 19,
+      "signalCount": 34,
+      "participantCount": 53,
+      "sourceNames": [
+        "Simon Willison 博客",
+        "X：Mistral AI (@MistralAI)",
+        "MarkTechPost（RSS）",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "TechCrunch：AI（RSS）",
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "latestAt": "2026-10-06T20:18:19.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "zvw2i4tg1gnqq72t596vpqoyl",
+      "title": "OpenAI 公开内部模型数学成果与 Lean 证明",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/zvw2i4tg1gnqq72t596vpqoyl",
+        "original": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+        "story": "https://aihot.virxact.com/story/aaa0648b-dd23-4fa4-bcbb-fa4eed13d331"
+      },
+      "sourceCount": 8,
+      "signalCount": 21,
+      "participantCount": 29,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "X：Greg Brockman (@gdb)",
+        "X：Nathan Lambert (@natolambert)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）",
+        "The Verge：AI（RSS）",
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "latestAt": "2026-10-07T08:54:43.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "d17jcexm93lo85zkz3iil08c9",
+      "title": "Google 发布 Nano Banana 2.1，1K 图降至每张 0.034 美元",
+      "source": {
+        "name": "Gemini API：更新日志（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/d17jcexm93lo85zkz3iil08c9",
+        "original": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
+        "story": "https://aihot.virxact.com/story/b0de7ab6-57f6-4bb1-9267-e073ebc2cfa3"
+      },
+      "sourceCount": 12,
+      "signalCount": 18,
+      "participantCount": 30,
+      "sourceNames": [
+        "X：汗青 HQ (@hq4ai)",
+        "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+        "IT之家（RSS）",
+        "X：fal (@fal)",
+        "X：Arena (@arena)",
+        "The Decoder：AI News（RSS）",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Logan Kilpatrick (@OfficialLoganK)"
+      ],
+      "latestAt": "2026-10-07T05:07:47.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "g1k2ragppm8j4apj75qu1k4ug",
+      "title": "Google 开源多模态嵌入模型 EmbeddingGemma 2",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/g1k2ragppm8j4apj75qu1k4ug",
+        "original": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+        "story": "https://aihot.virxact.com/story/28375512-d27e-4a60-8a37-dee79df660d4"
+      },
+      "sourceCount": 11,
+      "signalCount": 18,
+      "participantCount": 29,
+      "sourceNames": [
+        "IT之家（RSS）",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Simon Willison 博客",
+        "Google DeepMind：Blog（RSS）",
+        "The Decoder：AI News（RSS）",
+        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+        "MarkTechPost（RSS）"
+      ],
+      "latestAt": "2026-10-07T07:32:06.000Z"
+    },
+    {
+      "rank": 5,
       "id": "qy7y0cfu1wbum1ej9urwylfxr",
       "title": "Reflection 发布 501B 开源模型 Beam，本月放权重",
       "source": {
@@ -15,25 +123,25 @@
         "original": "https://reflection.ai/blog/introducing-beam",
         "story": "https://aihot.virxact.com/story/553aab31-30b1-4787-bd62-3b006d83295e"
       },
-      "sourceCount": 9,
-      "signalCount": 27,
-      "participantCount": 36,
+      "sourceCount": 11,
+      "signalCount": 30,
+      "participantCount": 41,
       "sourceNames": [
+        "X：Yuchen Jin (@Yuchenj_UW)",
+        "The Decoder：AI News（RSS）",
         "IT之家（RSS）",
         "X：马东锡 NLP (@dongxi_nlp)",
         "X：Artificial Analysis (@ArtificialAnlys)",
         "MarkTechPost（RSS）",
         "X：Nathan Lambert (@natolambert)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "TechCrunch：AI（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-06T00:42:20.000Z"
+      "latestAt": "2026-10-06T17:17:23.000Z"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "id": "xx5mgdemrqmqw5zw410sbawcz",
-      "title": "OpenAI公布欧盟文本溯源水印方案",
+      "title": "OpenAI在欧盟为ChatGPT文本加隐形水印",
       "source": {
         "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
@@ -42,10 +150,11 @@
         "original": "https://openai.com/index/eu-text-provenance",
         "story": "https://aihot.virxact.com/story/b92e615b-0baf-4821-a3ac-e621dde3db2c"
       },
-      "sourceCount": 7,
-      "signalCount": 19,
-      "participantCount": 26,
+      "sourceCount": 8,
+      "signalCount": 23,
+      "participantCount": 31,
       "sourceNames": [
+        "Ars Technica：AI（RSS）",
         "TechCrunch：AI（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
         "The Verge：AI（RSS）",
@@ -54,181 +163,94 @@
         "X：Testing Catalog (@testingcatalog)",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-10-05T20:36:48.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "cmf54gyjdos166m78jip77ptm",
-      "title": "OpenAI 启动 Codex 与 ChatGPT Work 28 天每日更新",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmf54gyjdos166m78jip77ptm",
-        "original": "https://www.ithome.com/1/009/761.htm",
-        "story": "https://aihot.virxact.com/story/8d77783c-db18-4e6a-b8e7-70b012886402"
-      },
-      "sourceCount": 3,
-      "signalCount": 19,
-      "participantCount": 22,
-      "sourceNames": [
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Tibo (@thsottiaux)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-10-05T17:49:34.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "e63lz9ky7ebdxjea930dh3o5y",
-      "title": "OpenAI在ChatGPT图像生成中测试视觉广告",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/e63lz9ky7ebdxjea930dh3o5y",
-        "original": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "story": "https://aihot.virxact.com/story/93ed3076-cae1-4349-9f3d-c629827d554c"
-      },
-      "sourceCount": 5,
-      "signalCount": 12,
-      "participantCount": 17,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "IT之家（RSS）",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "latestAt": "2026-10-05T15:14:24.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "eqsd72krt75x22ruxjsncr81j",
-      "title": "华为与高通达成5G等专利交叉许可协议",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/eqsd72krt75x22ruxjsncr81j",
-        "original": "https://www.ithome.com/1/009/852.htm",
-        "story": "https://aihot.virxact.com/story/2db86cc5-e2f8-4e6f-b7c7-e987069aa6b0"
-      },
-      "sourceCount": 3,
-      "signalCount": 13,
-      "participantCount": 16,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "X：X.PIN (@thexpin)",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "latestAt": "2026-10-06T09:18:15.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "g59v2qb4tcs4ibikxg8uucify",
-      "title": "DeepSeek接近完成至少800亿元融资",
-      "source": {
-        "name": "IT之家（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/g59v2qb4tcs4ibikxg8uucify",
-        "original": "https://www.ithome.com/1/009/990.htm",
-        "story": "https://aihot.virxact.com/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4"
-      },
-      "sourceCount": 2,
-      "signalCount": 7,
-      "participantCount": 9,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-10-06T06:44:57.000Z"
+      "latestAt": "2026-10-06T20:50:32.000Z"
     },
     {
       "rank": 7,
-      "id": "d4b6q65qoah5zvlc5h0br4eb8",
-      "title": "施耐德电气226亿美元全现金收购PTC",
+      "id": "n4k46z7om6jpr0mqvpr7picv6",
+      "title": "SpaceX 宣布按任务选用最佳后端模型",
+      "source": {
+        "name": "X：Elon Musk (@elonmusk, xAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/n4k46z7om6jpr0mqvpr7picv6",
+        "original": "https://x.com/elonmusk/status/2107724314451878104",
+        "story": "https://aihot.virxact.com/story/d0ee11b2-3ace-4e23-9668-fb3c82550bdb"
+      },
+      "sourceCount": 2,
+      "signalCount": 10,
+      "participantCount": 12,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "latestAt": "2026-10-07T09:38:38.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "xoabqybtd9qrfmikalao9gba8",
+      "title": "SpaceX洽谈借款400亿美元采购英伟达芯片",
       "source": {
         "name": "IT之家（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/d4b6q65qoah5zvlc5h0br4eb8",
-        "original": "https://www.ithome.com/1/009/805.htm",
-        "story": "https://aihot.virxact.com/story/f4f04774-a627-409f-aeee-0bb78eff24cf"
-      },
-      "sourceCount": 1,
-      "signalCount": 11,
-      "participantCount": 12,
-      "sourceNames": [
-        "IT之家（RSS）"
-      ],
-      "latestAt": "2026-10-05T06:07:35.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "lcxzcuj920lvqlah60vj7utm1",
-      "title": "SemiAnalysis：Anthropic订阅API等价价值约为OpenAI五倍",
-      "source": {
-        "name": "SemiAnalysis 长文 RSS（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/lcxzcuj920lvqlah60vj7utm1",
-        "original": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-        "story": "https://aihot.virxact.com/story/aa02ac93-b059-4123-9fe0-8845706eb2e5"
+        "aihot": "https://aihot.news/items/xoabqybtd9qrfmikalao9gba8",
+        "original": "https://www.ithome.com/1/010/134.htm",
+        "story": "https://aihot.virxact.com/story/7e603124-6d1c-4e46-abf7-3c1b515383cb"
       },
       "sourceCount": 2,
-      "signalCount": 6,
-      "participantCount": 8,
-      "sourceNames": [
-        "X：SemiAnalysis (@SemiAnalysis_)",
-        "SemiAnalysis 长文 RSS（RSS）"
-      ],
-      "latestAt": "2026-10-05T23:30:07.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "cmu9lxijt04a1ro9b80vlc4th",
-      "title": "特朗普成立超级智能工作组，克莱顿牵头",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cmu9lxijt04a1ro9b80vlc4th",
-        "original": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth",
-        "story": "https://aihot.virxact.com/story/d5b32762-56e9-4fb8-8976-fef8dadd068a"
-      },
-      "sourceCount": 3,
-      "signalCount": 14,
-      "participantCount": 17,
-      "sourceNames": [
-        "IT之家（RSS）",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-10-05T04:39:32.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "m67js25rqsv5hjj902e3ly3yh",
-      "title": "奥尔特曼称AI效益值得承担部分风险",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/m67js25rqsv5hjj902e3ly3yh",
-        "original": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-        "story": "https://aihot.virxact.com/story/59b0b4d1-c1e5-4149-91c5-69f920c1845e"
-      },
-      "sourceCount": 3,
-      "signalCount": 7,
+      "signalCount": 8,
       "participantCount": 10,
       "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)",
-        "The Verge：AI（RSS）",
         "IT之家（RSS）"
       ],
-      "latestAt": "2026-10-06T06:38:27.000Z"
+      "latestAt": "2026-10-07T01:21:22.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "a96x4zt1tn3um8h49nz2kqgpc",
+      "title": "Anthropic扩展CVP，三档开放Claude网络能力",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/a96x4zt1tn3um8h49nz2kqgpc",
+        "original": "https://www.anthropic.com/news/cyber-verification-program",
+        "story": "https://aihot.virxact.com/story/edbb44d5-d114-49bc-8f13-575aca1d43b9"
+      },
+      "sourceCount": 3,
+      "signalCount": 8,
+      "participantCount": 11,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）",
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "latestAt": "2026-10-06T23:20:26.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "wbi0gsddrrfnavs6vvuqb2r7j",
+      "title": "DeepSeek接近完成至少800亿元融资",
+      "source": {
+        "name": "X：X.PIN (@thexpin)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
+        "original": "https://x.com/thexpin/status/2107524306058289533",
+        "story": "https://aihot.virxact.com/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4"
+      },
+      "sourceCount": 4,
+      "signalCount": 10,
+      "participantCount": 14,
+      "sourceNames": [
+        "X：X.PIN (@thexpin)",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家（RSS）"
+      ],
+      "latestAt": "2026-10-06T17:32:05.000Z"
     }
   ]
 }
