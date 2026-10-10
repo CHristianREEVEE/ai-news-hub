@@ -1,34 +1,32 @@
 {
-  "updatedAt": "2026-10-09T10:27:43.563363+00:00",
+  "updatedAt": "2026-10-10T09:44:51.849930+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "x8r8kta42au39pp06f02shk9f",
-      "title": "Anthropic 发布 Sonnet 5.5 与 Haiku 5.5，下调缓存读取价",
+      "id": "m77leauczmowax4odp8ql7dkl",
+      "title": "Grok Bot 新增专属邮箱功能",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "X：Grok (@grok)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/x8r8kta42au39pp06f02shk9f",
-        "original": "https://www.anthropic.com/claude-sonnet-5-5",
-        "story": "https://aihot.virxact.com/story/94903954-cf87-48d8-89a6-eff5deefeaa0"
+        "aihot": "https://aihot.news/items/m77leauczmowax4odp8ql7dkl",
+        "original": "https://x.com/grok/status/2108610528423842095",
+        "story": "https://aihot.virxact.com/story/d2b86a14-9162-49d5-9df2-0548df6c16a2"
       },
-      "sourceCount": 13,
-      "signalCount": 69,
-      "participantCount": 82,
+      "sourceCount": 6,
+      "signalCount": 23,
+      "participantCount": 29,
       "sourceNames": [
-        "X：Claude Devs (@ClaudeDevs)",
-        "X：Arena (@arena)",
         "IT之家·人工智能",
-        "X：Cognition (@cognition)",
-        "Simon Willison 博客",
-        "MarkTechPost（RSS）",
-        "X：opencode (@opencode)",
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Eric Zakariasson (@ericzakariasson)",
+        "X：Lauren Tan (@poteto)",
+        "X：Elon Musk (@elonmusk, xAI)",
+        "X：Grok (@grok)"
       ],
-      "latestAt": "2026-10-08T20:04:10.000Z"
+      "latestAt": "2026-10-10T00:10:15.320Z"
     },
     {
       "rank": 2,
@@ -42,74 +40,118 @@
         "original": "https://www.anthropic.com/news/2026-usage-policy-update",
         "story": "https://aihot.virxact.com/story/100cfaa3-4eb5-4ba9-8199-65be0d26b885"
       },
-      "sourceCount": 7,
-      "signalCount": 23,
-      "participantCount": 30,
+      "sourceCount": 6,
+      "signalCount": 35,
+      "participantCount": 41,
       "sourceNames": [
         "X：Yuchen Jin (@Yuchenj_UW)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：indigo (@indigox)",
         "IT之家·人工智能",
         "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "Anthropic：Newsroom（网页）"
+        "TechCrunch：AI（RSS）"
       ],
       "latestAt": "2026-10-09T03:10:42.000Z"
     },
     {
       "rank": 3,
-      "id": "uir31g728myjry383z17txvrw",
-      "title": "OpenAI向ChatGPT全量用户开放GPT-6与Intelligent UI",
+      "id": "atyp08chrii2nxc0vrxvjxv0y",
+      "title": "Anthropic 模型误报凶杀线索给费城警方",
       "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/uir31g728myjry383z17txvrw",
-        "original": "https://openai.com/index/gpt-6-for-everyone/",
-        "story": "https://aihot.virxact.com/story/829ad21a-7429-4a43-9cb1-3c5c8a46c051"
+        "aihot": "https://aihot.news/items/atyp08chrii2nxc0vrxvjxv0y",
+        "original": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "story": "https://aihot.virxact.com/story/4e124b64-1274-4d7e-8dfb-3e73663a850c"
       },
-      "sourceCount": 10,
-      "signalCount": 36,
-      "participantCount": 46,
+      "sourceCount": 6,
+      "signalCount": 11,
+      "participantCount": 17,
       "sourceNames": [
-        "X：邵猛 (@shao__meng)",
-        "IT之家·人工智能",
-        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Ethan Mollick (@emollick)",
-        "X：Testing Catalog (@testingcatalog)",
-        "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）"
+        "Simon Willison 博客",
+        "TechCrunch：AI（RSS）",
+        "X：Anthropic (@AnthropicAI)",
+        "Hacker News：AI 热帖",
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-10-08T02:22:43.000Z"
+      "latestAt": "2026-10-10T02:06:24.000Z"
     },
     {
       "rank": 4,
-      "id": "x4s3jss6ofplyvimq6213cv41",
-      "title": "谷歌云发布企业通用工作智能体 Gemini Agent",
+      "id": "qi3wpj7l1sqi28okj1xttkzse",
+      "title": "OpenAI解雇3名研究员，双方就指控各执一词",
       "source": {
-        "name": "TechCrunch：AI（RSS）"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/x4s3jss6ofplyvimq6213cv41",
-        "original": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "story": "https://aihot.virxact.com/story/3bf2f6a6-d5b4-4c93-bd4d-1977a01c157f"
+        "aihot": "https://aihot.news/items/qi3wpj7l1sqi28okj1xttkzse",
+        "original": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+        "story": "https://aihot.virxact.com/story/a2df69da-f530-4cf9-812f-48c246e2402e"
       },
-      "sourceCount": 6,
-      "signalCount": 19,
-      "participantCount": 25,
+      "sourceCount": 7,
+      "signalCount": 17,
+      "participantCount": 24,
       "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "TechCrunch：AI（RSS）",
-        "X：Sundar Pichai (@sundarpichai)",
+        "The Decoder：AI News（RSS）",
         "The Verge：AI（RSS）",
-        "IT之家·人工智能"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：OpenAI Newsroom (@OpenAINewsroom)",
+        "IT之家·人工智能",
+        "TechCrunch：AI（RSS）",
+        "X：马东锡 NLP (@dongxi_nlp)"
       ],
-      "latestAt": "2026-10-09T06:47:56.000Z"
+      "latestAt": "2026-10-09T11:45:04.000Z"
     },
     {
       "rank": 5,
+      "id": "b2mwouqv4jhfj70uho7s7guti",
+      "title": "OpenAI年化收入口径分歧：700亿还是500亿美元",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
+        "original": "https://www.ithome.com/1/010/751.htm",
+        "story": "https://aihot.virxact.com/story/d06a5836-f6cc-4ecf-a616-8dd42aceca87"
+      },
+      "sourceCount": 3,
+      "signalCount": 19,
+      "participantCount": 22,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家·人工智能",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-10T01:15:50.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "a7gbtbm6tcxqz7s7b369vdnvn",
+      "title": "微软发布决策模型 Microsoft-Decision-1",
+      "source": {
+        "name": "X：Satya Nadella (@satyanadella)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/a7gbtbm6tcxqz7s7b369vdnvn",
+        "original": "https://x.com/satyanadella/status/2108627925654503761",
+        "story": "https://aihot.virxact.com/story/cd73b967-8f2e-455c-b267-b0f1904a91c4"
+      },
+      "sourceCount": 5,
+      "signalCount": 10,
+      "participantCount": 15,
+      "sourceNames": [
+        "MarkTechPost（RSS）",
+        "IT之家·人工智能",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "latestAt": "2026-10-10T06:03:09.000Z"
+    },
+    {
+      "rank": 7,
       "id": "winsvtlfubhjfi0wnone83j5c",
       "title": "Claude 上线 Dashboards 与 Motion 两项测试功能",
       "source": {
@@ -121,8 +163,8 @@
         "story": "https://aihot.virxact.com/story/11746796-aea3-4e81-b36c-995f0cf5cdfe"
       },
       "sourceCount": 7,
-      "signalCount": 12,
-      "participantCount": 19,
+      "signalCount": 16,
+      "participantCount": 23,
       "sourceNames": [
         "IT之家·人工智能",
         "X：Higgsfield AI (@higgsfield)",
@@ -135,127 +177,74 @@
       "latestAt": "2026-10-09T06:57:33.323Z"
     },
     {
-      "rank": 6,
-      "id": "a1s641znzieiiyaoqnm2pf4x8",
-      "title": "OpenAI解雇3名研究员，双方就指控各执一词",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/a1s641znzieiiyaoqnm2pf4x8",
-        "original": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
-        "story": "https://aihot.virxact.com/story/a2df69da-f530-4cf9-812f-48c246e2402e"
-      },
-      "sourceCount": 6,
-      "signalCount": 10,
-      "participantCount": 16,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "IT之家·人工智能",
-        "TechCrunch：AI（RSS）",
-        "X：马东锡 NLP (@dongxi_nlp)"
-      ],
-      "latestAt": "2026-10-09T09:48:26.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "mjcipkmcvo0ofbl2tegerkjvi",
-      "title": "OpenAI 推出 GPT-6.1 Sol Ultrafast 模式",
-      "source": {
-        "name": "X：Tibo (@thsottiaux)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/mjcipkmcvo0ofbl2tegerkjvi",
-        "original": "https://x.com/thsottiaux/status/2108275041276420573",
-        "story": "https://aihot.virxact.com/story/bb1411a1-1201-48d6-b5f7-9cc58fa53d6c"
-      },
-      "sourceCount": 6,
-      "signalCount": 12,
-      "participantCount": 18,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：OpenRouter (@OpenRouter)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Tibo (@thsottiaux)",
-        "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "latestAt": "2026-10-09T00:04:37.203Z"
-    },
-    {
       "rank": 8,
-      "id": "i66buy8nl2n5fy63kgf9zr1v5",
-      "title": "OpenAI 数学成果引验证争议",
+      "id": "x4s3jss6ofplyvimq6213cv41",
+      "title": "谷歌云发布企业通用工作智能体 Gemini Agent",
       "source": {
-        "name": "X：马东锡 NLP (@dongxi_nlp)"
+        "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/i66buy8nl2n5fy63kgf9zr1v5",
-        "original": "https://x.com/dongxi_nlp/status/2107613901571420599",
-        "story": "https://aihot.virxact.com/story/92dbe44e-830d-4a67-807b-009cfcd5f38a"
+        "aihot": "https://aihot.news/items/x4s3jss6ofplyvimq6213cv41",
+        "original": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "story": "https://aihot.virxact.com/story/3bf2f6a6-d5b4-4c93-bd4d-1977a01c157f"
       },
       "sourceCount": 7,
-      "signalCount": 13,
-      "participantCount": 20,
+      "signalCount": 21,
+      "participantCount": 28,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Platformer（热点 RSS）",
+        "X：邵猛 (@shao__meng)",
+        "MarkTechPost（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
         "TechCrunch：AI（RSS）",
-        "X：Ethan Mollick (@emollick)",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "Azeem Azhar：Exponential View（RSS）"
+        "X：Sundar Pichai (@sundarpichai)",
+        "The Verge：AI（RSS）",
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-10-09T01:40:55.240Z"
+      "latestAt": "2026-10-10T02:37:52.000Z"
     },
     {
       "rank": 9,
-      "id": "b2mwouqv4jhfj70uho7s7guti",
-      "title": "OpenAI年化收入口径分歧：700亿还是500亿美元",
+      "id": "uob3jvsb97uh5achwaggjrhqh",
+      "title": "谷歌发布 Gemini 4 Argon 前沿模型",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "Google DeepMind：Blog（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
-        "original": "https://www.ithome.com/1/010/751.htm",
-        "story": "https://aihot.virxact.com/story/d06a5836-f6cc-4ecf-a616-8dd42aceca87"
+        "aihot": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
+        "original": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "story": "https://aihot.virxact.com/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
       },
-      "sourceCount": 3,
-      "signalCount": 13,
+      "sourceCount": 1,
+      "signalCount": 15,
       "participantCount": 16,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家·人工智能",
-        "TechCrunch：AI（RSS）"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-10-09T03:11:54.000Z"
+      "latestAt": "2026-10-09T22:51:52.157Z"
     },
     {
       "rank": 10,
-      "id": "don06si59xc143ed92gdmlnvo",
-      "title": "Google 全球开放 SynthID 水印检测器",
+      "id": "nop1nw81y2obkwa9apzdu3176",
+      "title": "a16z领投TypeSafe AI 8.7亿美元A轮",
       "source": {
-        "name": "X：Google (@Google)"
+        "name": "a16z：News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/don06si59xc143ed92gdmlnvo",
-        "original": "https://x.com/Google/status/2107836410254291345",
-        "story": "https://aihot.virxact.com/story/e0b8ed75-6851-478e-801d-e5d6189e66ac"
+        "aihot": "https://aihot.news/items/nop1nw81y2obkwa9apzdu3176",
+        "original": "https://www.a16z.news/p/investing-in-typesafe",
+        "story": "https://aihot.virxact.com/story/6667f027-8bc6-4ed3-b0e2-6e3b61e60803"
       },
-      "sourceCount": 6,
-      "signalCount": 24,
-      "participantCount": 30,
+      "sourceCount": 5,
+      "signalCount": 8,
+      "participantCount": 13,
       "sourceNames": [
-        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "The Decoder：AI News（RSS）",
         "IT之家·人工智能",
-        "X：Google AI (@GoogleAI)",
-        "Ars Technica：AI（RSS）",
-        "TechCrunch：AI（RSS）"
+        "TechCrunch：AI（RSS）",
+        "Hacker News：AI 热帖",
+        "X：TypeSafe AI (@typesafeai)",
+        "a16z：News（RSS）"
       ],
-      "latestAt": "2026-10-08T14:53:29.000Z"
+      "latestAt": "2026-10-09T23:28:29.367Z"
     }
   ]
 }
