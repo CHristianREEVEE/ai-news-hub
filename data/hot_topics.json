@@ -1,12 +1,62 @@
 {
-  "updatedAt": "2026-10-13T10:28:08.210585+00:00",
+  "updatedAt": "2026-10-14T08:37:38.639498+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "smxxtw5ca2c9jscojk4ppe5hf",
+      "title": "Google 发布 Gemini 4 Argon，仅付费用户可用",
+      "source": {
+        "name": "Google Blog：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
+        "original": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+        "story": "https://aihot.virxact.com/story/b9d1e480-fac1-479a-9209-5241ad001528"
+      },
+      "sourceCount": 20,
+      "signalCount": 63,
+      "participantCount": 83,
+      "sourceNames": [
+        "X：opencode (@opencode)",
+        "公众号：卡尔的AI沃茨",
+        "MarkTechPost（RSS）",
+        "X：indigo (@indigox)",
+        "IT之家·人工智能",
+        "X：Google (@Google)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "latestAt": "2026-10-14T07:39:37.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "fgxi5gwvctlssc05odpcyf6ov",
+      "title": "OpenAI工程师涉在会议室装窃听装置被捕",
+      "source": {
+        "name": "X：OpenAI Newsroom (@OpenAINewsroom)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov",
+        "original": "https://x.com/OpenAINewsroom/status/2110095403198849132",
+        "story": "https://aihot.virxact.com/story/99f5c3c4-2817-4634-b110-98b7db9ef40c"
+      },
+      "sourceCount": 4,
+      "signalCount": 53,
+      "participantCount": 57,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "The Verge：AI（RSS）",
+        "X：OpenAI Newsroom (@OpenAINewsroom)"
+      ],
+      "latestAt": "2026-10-14T04:21:51.000Z"
+    },
+    {
+      "rank": 3,
       "id": "v3pogrzxrk9oba4blox86d0w8",
-      "title": "Meta 发布 Muse Wonder 系列前沿模型",
+      "title": "Meta 发布首批前沿模型 Muse Wonder 系列",
       "source": {
         "name": "Artificial Analysis 完整文章（网页）"
       },
@@ -15,25 +65,74 @@
         "original": "https://artificialanalysis.ai/articles/muse-wonder",
         "story": "https://aihot.virxact.com/story/f7f99eb7-84e6-4450-a43f-668dca988b22"
       },
-      "sourceCount": 16,
-      "signalCount": 58,
-      "participantCount": 74,
+      "sourceCount": 17,
+      "signalCount": 66,
+      "participantCount": 83,
       "sourceNames": [
+        "MarkTechPost（RSS）",
         "X：Arena (@arena)",
         "X：邵猛 (@shao__meng)",
+        "Simon Willison 博客",
         "IT之家·人工智能",
+        "X：Christine Awad（Meta，Muse 设计） (@christinesed)",
         "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Ethan Mollick (@emollick)",
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "TechCrunch：AI（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-13T02:39:07.000Z"
+      "latestAt": "2026-10-13T22:53:44.000Z"
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "id": "fpyjwv3o9zwxc9zs7j1bmnw8i",
+      "title": "Anthropic自研Scion替换git并分享经验",
+      "source": {
+        "name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i",
+        "original": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "story": "https://aihot.virxact.com/story/dd9580d2-0aaa-4628-bab2-4e89974e44bb"
+      },
+      "sourceCount": 7,
+      "signalCount": 24,
+      "participantCount": 31,
+      "sourceNames": [
+        "X：indigo (@indigox)",
+        "X：邵猛 (@shao__meng)",
+        "X：马东锡 NLP (@dongxi_nlp)",
+        "Simon Willison 博客",
+        "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+        "X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "latestAt": "2026-10-14T06:23:52.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "kjcq4dywmvs5xijl4emac5o40",
+      "title": "苹果发布 HomeView 智能家居中枢",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
+        "original": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+        "story": "https://aihot.virxact.com/story/af69d9b9-5ada-463b-b9e9-39abe571b452"
+      },
+      "sourceCount": 4,
+      "signalCount": 31,
+      "participantCount": 35,
+      "sourceNames": [
+        "X：Oran Ge (@oran_ge)",
+        "The Verge：AI（RSS）",
+        "Apple：Newsroom（RSS）",
+        "X：X.PIN (@thexpin)"
+      ],
+      "latestAt": "2026-10-13T14:26:19.000Z"
+    },
+    {
+      "rank": 6,
       "id": "uy4hvoyz7fwtyycpu0p62dudn",
-      "title": "xAI 推出 The X Subscription，Cursor 并入其中",
+      "title": "xAI 推 The X Subscription，整合 Grok、Cursor 与 X Premium",
       "source": {
         "name": "xAI：News（网页）"
       },
@@ -42,23 +141,49 @@
         "original": "https://x.ai/news/x-subscription",
         "story": "https://aihot.virxact.com/story/650e9193-a6bd-489e-8151-e3cbc367002c"
       },
-      "sourceCount": 8,
-      "signalCount": 20,
-      "participantCount": 28,
+      "sourceCount": 9,
+      "signalCount": 27,
+      "participantCount": 36,
       "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "X：卡兹克 (@Khazix0918)",
         "IT之家·人工智能",
         "X：Testing Catalog (@testingcatalog)",
         "X：邵猛 (@shao__meng)",
-        "X：Lauren Tan (@poteto)",
+        "X：Peng Zheng（SpaceXSI，Grok Bot 设计负责人） (@pengzheng_)",
         "X：Cursor (@cursor_ai)",
-        "X：Grok (@grok)",
-        "X：Eric Zakariasson (@ericzakariasson)",
-        "xAI：News（网页）"
+        "X：Grok (@grok)"
       ],
-      "latestAt": "2026-10-13T09:32:28.967Z"
+      "latestAt": "2026-10-13T13:50:19.000Z"
     },
     {
-      "rank": 3,
+      "rank": 7,
+      "id": "vwu0li2nl5hztqeztnq8b5udc",
+      "title": "Character.AI申请破产 迪士尼2000万美元牵头竞购",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
+        "original": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+        "story": "https://aihot.virxact.com/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a"
+      },
+      "sourceCount": 7,
+      "signalCount": 20,
+      "participantCount": 27,
+      "sourceNames": [
+        "404 Media（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Ars Technica：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-10-13T20:06:53.000Z"
+    },
+    {
+      "rank": 8,
       "id": "zqlqer8tnl7ejg2ow3xoq7b9q",
       "title": "微软发布 Maia 300，2027 年扩至多吉瓦级部署",
       "source": {
@@ -70,8 +195,8 @@
         "story": "https://aihot.virxact.com/story/aa2f60b8-b006-4122-a457-546a28c7f58b"
       },
       "sourceCount": 6,
-      "signalCount": 22,
-      "participantCount": 28,
+      "signalCount": 29,
+      "participantCount": 35,
       "sourceNames": [
         "The Decoder：AI News（RSS）",
         "IT之家·人工智能",
@@ -83,55 +208,7 @@
       "latestAt": "2026-10-12T15:24:03.000Z"
     },
     {
-      "rank": 4,
-      "id": "lwchujhujmc1tdor61dn39irl",
-      "title": "Anthropic发布防御蒸馏攻击新方法",
-      "source": {
-        "name": "Anthropic：Research（发表成果 · 网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/lwchujhujmc1tdor61dn39irl",
-        "original": "https://www.anthropic.com/research/distillation-defenses",
-        "story": "https://aihot.virxact.com/story/b3fcb5e6-44bc-41e7-a9ee-6e03dbed65f3"
-      },
-      "sourceCount": 2,
-      "signalCount": 13,
-      "participantCount": 15,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "latestAt": "2026-10-13T03:32:28.883Z"
-    },
-    {
-      "rank": 5,
-      "id": "f572f90oc11zg6w7s815vz6m4",
-      "title": "Karpathy：LLM 能力认知鸿沟扩大为漏斗",
-      "source": {
-        "name": "X：Andrej Karpathy (@karpathy)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/f572f90oc11zg6w7s815vz6m4",
-        "original": "https://x.com/karpathy/status/2109361546505966046",
-        "story": "https://aihot.virxact.com/story/9ce2c8e5-8fa1-4763-b493-ddec042860cc"
-      },
-      "sourceCount": 8,
-      "signalCount": 17,
-      "participantCount": 25,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：邵猛 (@shao__meng)",
-        "X：Oran Ge (@oran_ge)",
-        "X：indigo (@indigox)",
-        "X：howie.serious (@howie_serious)",
-        "X：Ethan Mollick (@emollick)",
-        "X：马东锡 NLP (@dongxi_nlp)",
-        "X：Andrej Karpathy (@karpathy)"
-      ],
-      "latestAt": "2026-10-12T12:51:21.000Z"
-    },
-    {
-      "rank": 6,
+      "rank": 9,
       "id": "emc0djmqlomn6b5whge285x7l",
       "title": "Anthropic研究：小模型或可在IoT设备自我复制",
       "source": {
@@ -142,96 +219,43 @@
         "original": "https://www.anthropic.com/research/self-replicating-ai",
         "story": "https://aihot.virxact.com/story/12f4e6cb-604e-40cd-a3c8-eeb6fead61ce"
       },
-      "sourceCount": 2,
-      "signalCount": 11,
-      "participantCount": 13,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "latestAt": "2026-10-13T07:15:32.717Z"
-    },
-    {
-      "rank": 7,
-      "id": "rsq1f3ypz6q4t00v2mphgdxec",
-      "title": "Anthropic 洽谈在大阪建首座日本数据中心",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/rsq1f3ypz6q4t00v2mphgdxec",
-        "original": "https://www.ithome.com/1/012/333.htm",
-        "story": "https://aihot.virxact.com/story/06296e64-61e9-491e-99bc-0074421bdb06"
-      },
-      "sourceCount": 1,
-      "signalCount": 8,
-      "participantCount": 9,
-      "sourceNames": [
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-10-13T06:18:39.147Z"
-    },
-    {
-      "rank": 8,
-      "id": "uulqbw39adwk2f6uqdrit259l",
-      "title": "Character.AI申请破产 拟向迪士尼出售资产",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/uulqbw39adwk2f6uqdrit259l",
-        "original": "https://www.ithome.com/1/012/420.htm",
-        "story": "https://aihot.virxact.com/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a"
-      },
-      "sourceCount": 1,
-      "signalCount": 7,
-      "participantCount": 8,
-      "sourceNames": [
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-10-13T08:22:30.080Z"
-    },
-    {
-      "rank": 9,
-      "id": "yq7wqt5vmvcc23uv52ol3dt53",
-      "title": "亚马逊洽谈约70亿美元收购Decart",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/yq7wqt5vmvcc23uv52ol3dt53",
-        "original": "https://x.com/rohanpaul_ai/status/2109479701689565297",
-        "story": "https://aihot.virxact.com/story/03d4f9c6-4714-45e7-9db8-7af5df7e940a"
-      },
-      "sourceCount": 2,
-      "signalCount": 13,
-      "participantCount": 15,
+      "sourceCount": 4,
+      "signalCount": 18,
+      "participantCount": 22,
       "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Ethan Mollick (@emollick)",
+        "The Decoder：AI News（RSS）",
         "IT之家·人工智能"
       ],
-      "latestAt": "2026-10-12T03:02:07.000Z"
+      "latestAt": "2026-10-14T02:27:42.000Z"
     },
     {
       "rank": 10,
-      "id": "pc4l0dux8k9y1hsapoizv75zi",
-      "title": "阿里千问将发布Personal Agent“千问Go！”",
+      "id": "uob3jvsb97uh5achwaggjrhqh",
+      "title": "谷歌 Gemini 4 Argon 从定向开放走向全面上线",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "Google DeepMind：Blog（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/pc4l0dux8k9y1hsapoizv75zi",
-        "original": "https://www.ithome.com/1/012/244.htm",
-        "story": "https://aihot.virxact.com/story/e1cecd88-c647-4785-89a6-b446ae791bd5"
+        "aihot": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
+        "original": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "story": "https://aihot.virxact.com/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
       },
-      "sourceCount": 2,
-      "signalCount": 6,
-      "participantCount": 8,
+      "sourceCount": 8,
+      "signalCount": 8,
+      "participantCount": 16,
       "sourceNames": [
-        "公众号：千问APP（阿里）",
-        "IT之家·人工智能"
+        "X：卡兹克 (@Khazix0918)",
+        "公众号：数字生命卡兹克",
+        "X：Cursor (@cursor_ai)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Cognition (@cognition)",
+        "X：Testing Catalog (@testingcatalog)",
+        "Every：最新文章（网页）"
       ],
-      "latestAt": "2026-10-13T04:03:27.000Z"
+      "latestAt": "2026-10-14T01:02:59.000Z"
     }
   ]
 }
