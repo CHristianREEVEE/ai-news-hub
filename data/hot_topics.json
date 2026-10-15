@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T08:37:38.639498+00:00",
+  "updatedAt": "2026-10-15T08:13:08.747140+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -16,24 +16,24 @@
         "story": "https://aihot.virxact.com/story/b9d1e480-fac1-479a-9209-5241ad001528"
       },
       "sourceCount": 20,
-      "signalCount": 63,
-      "participantCount": 83,
+      "signalCount": 77,
+      "participantCount": 97,
       "sourceNames": [
+        "X：Gemini (@GeminiApp)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
+        "X：卡尔的 AI 沃茨 (@aiwarts)",
         "X：opencode (@opencode)",
         "公众号：卡尔的AI沃茨",
         "MarkTechPost（RSS）",
         "X：indigo (@indigox)",
-        "IT之家·人工智能",
-        "X：Google (@Google)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Elon Musk (@elonmusk, xAI)"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-10-14T07:39:37.000Z"
+      "latestAt": "2026-10-14T22:49:14.000Z"
     },
     {
       "rank": 2,
       "id": "fgxi5gwvctlssc05odpcyf6ov",
-      "title": "OpenAI工程师涉在会议室装窃听装置被捕",
+      "title": "OpenAI工程师涉装录音设备被捕",
       "source": {
         "name": "X：OpenAI Newsroom (@OpenAINewsroom)"
       },
@@ -42,48 +42,23 @@
         "original": "https://x.com/OpenAINewsroom/status/2110095403198849132",
         "story": "https://aihot.virxact.com/story/99f5c3c4-2817-4634-b110-98b7db9ef40c"
       },
-      "sourceCount": 4,
-      "signalCount": 53,
-      "participantCount": 57,
+      "sourceCount": 6,
+      "signalCount": 67,
+      "participantCount": 73,
       "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)",
+        "Ars Technica：AI（RSS）",
+        "The Decoder：AI News（RSS）",
         "X：马东锡 NLP (@dongxi_nlp)",
         "The Verge：AI（RSS）",
         "X：OpenAI Newsroom (@OpenAINewsroom)"
       ],
-      "latestAt": "2026-10-14T04:21:51.000Z"
+      "latestAt": "2026-10-15T07:47:53.000Z"
     },
     {
       "rank": 3,
-      "id": "v3pogrzxrk9oba4blox86d0w8",
-      "title": "Meta 发布首批前沿模型 Muse Wonder 系列",
-      "source": {
-        "name": "Artificial Analysis 完整文章（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
-        "original": "https://artificialanalysis.ai/articles/muse-wonder",
-        "story": "https://aihot.virxact.com/story/f7f99eb7-84e6-4450-a43f-668dca988b22"
-      },
-      "sourceCount": 17,
-      "signalCount": 66,
-      "participantCount": 83,
-      "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：Arena (@arena)",
-        "X：邵猛 (@shao__meng)",
-        "Simon Willison 博客",
-        "IT之家·人工智能",
-        "X：Christine Awad（Meta，Muse 设计） (@christinesed)",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-10-13T22:53:44.000Z"
-    },
-    {
-      "rank": 4,
       "id": "fpyjwv3o9zwxc9zs7j1bmnw8i",
-      "title": "Anthropic自研Scion替换git并分享经验",
+      "title": "Anthropic 自研 Scion 替换 git 并分享经验",
       "source": {
         "name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
       },
@@ -93,8 +68,8 @@
         "story": "https://aihot.virxact.com/story/dd9580d2-0aaa-4628-bab2-4e89974e44bb"
       },
       "sourceCount": 7,
-      "signalCount": 24,
-      "participantCount": 31,
+      "signalCount": 30,
+      "participantCount": 37,
       "sourceNames": [
         "X：indigo (@indigox)",
         "X：邵猛 (@shao__meng)",
@@ -107,7 +82,49 @@
       "latestAt": "2026-10-14T06:23:52.000Z"
     },
     {
+      "rank": 4,
+      "id": "v5sbitu4hw1bozz0nlopcl3t8",
+      "title": "八州起诉OpenAI称ChatGPT对儿童不安全",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/v5sbitu4hw1bozz0nlopcl3t8",
+        "original": "https://www.ithome.com/1/013/160.htm",
+        "story": "https://aihot.virxact.com/story/312fbbf1-b598-4d74-bbc7-6008a54387f3"
+      },
+      "sourceCount": 2,
+      "signalCount": 15,
+      "participantCount": 17,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-10-14T23:39:08.393Z"
+    },
+    {
       "rank": 5,
+      "id": "vo248l7ock6kltan370y7gmcd",
+      "title": "DeepSeek网页与API中断近5小时后恢复",
+      "source": {
+        "name": "X：邵猛 (@shao__meng)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vo248l7ock6kltan370y7gmcd",
+        "original": "https://x.com/shao__meng/status/2110628071615365330",
+        "story": "https://aihot.virxact.com/story/c69fcda4-6491-4827-9c2b-42579fd92447"
+      },
+      "sourceCount": 2,
+      "signalCount": 13,
+      "participantCount": 15,
+      "sourceNames": [
+        "X：邵猛 (@shao__meng)",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-10-15T07:05:20.000Z"
+    },
+    {
+      "rank": 6,
       "id": "kjcq4dywmvs5xijl4emac5o40",
       "title": "苹果发布 HomeView 智能家居中枢",
       "source": {
@@ -130,132 +147,93 @@
       "latestAt": "2026-10-13T14:26:19.000Z"
     },
     {
-      "rank": 6,
-      "id": "uy4hvoyz7fwtyycpu0p62dudn",
-      "title": "xAI 推 The X Subscription，整合 Grok、Cursor 与 X Premium",
+      "rank": 7,
+      "id": "g69dhqcydsst57wd512xudr1d",
+      "title": "苹果诉OpenAI窃密，法官令OpenAI交招聘材料",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/g69dhqcydsst57wd512xudr1d",
+        "original": "https://x.com/rohanpaul_ai/status/2110324532338893082",
+        "story": "https://aihot.virxact.com/story/1c82cb6d-b96b-4f08-a826-d2ea44910b33"
+      },
+      "sourceCount": 3,
+      "signalCount": 17,
+      "participantCount": 20,
+      "sourceNames": [
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-14T16:43:24.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "qld0z3p2gztpolbmviizsm66u",
+      "title": "xAI 发布 Grok Voice 3.0，登顶语音评测榜",
       "source": {
         "name": "xAI：News（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
-        "original": "https://x.ai/news/x-subscription",
-        "story": "https://aihot.virxact.com/story/650e9193-a6bd-489e-8151-e3cbc367002c"
-      },
-      "sourceCount": 9,
-      "signalCount": 27,
-      "participantCount": 36,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：卡兹克 (@Khazix0918)",
-        "IT之家·人工智能",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：邵猛 (@shao__meng)",
-        "X：Peng Zheng（SpaceXSI，Grok Bot 设计负责人） (@pengzheng_)",
-        "X：Cursor (@cursor_ai)",
-        "X：Grok (@grok)"
-      ],
-      "latestAt": "2026-10-13T13:50:19.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "vwu0li2nl5hztqeztnq8b5udc",
-      "title": "Character.AI申请破产 迪士尼2000万美元牵头竞购",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/vwu0li2nl5hztqeztnq8b5udc",
-        "original": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-        "story": "https://aihot.virxact.com/story/979b3da3-735e-4bc0-a4c0-148e8d72e73a"
-      },
-      "sourceCount": 7,
-      "signalCount": 20,
-      "participantCount": 27,
-      "sourceNames": [
-        "404 Media（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Ars Technica：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-10-13T20:06:53.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "zqlqer8tnl7ejg2ow3xoq7b9q",
-      "title": "微软发布 Maia 300，2027 年扩至多吉瓦级部署",
-      "source": {
-        "name": "X：Satya Nadella (@satyanadella)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q",
-        "original": "https://x.com/satyanadella/status/2109631106404487523",
-        "story": "https://aihot.virxact.com/story/aa2f60b8-b006-4122-a457-546a28c7f58b"
+        "aihot": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
+        "original": "https://x.ai/news/grok-voice-3",
+        "story": "https://aihot.virxact.com/story/fe6db43a-46f1-4dc3-9324-85138dc82596"
       },
       "sourceCount": 6,
-      "signalCount": 29,
-      "participantCount": 35,
+      "signalCount": 12,
+      "participantCount": 18,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）",
+        "X：Elon Musk (@elonmusk, xAI)",
         "IT之家·人工智能",
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "X：Rohan Paul (@rohanpaul_ai)",
         "X：Testing Catalog (@testingcatalog)",
-        "The Verge：AI（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
-      "latestAt": "2026-10-12T15:24:03.000Z"
+      "latestAt": "2026-10-15T05:18:54.000Z"
     },
     {
       "rank": 9,
-      "id": "emc0djmqlomn6b5whge285x7l",
-      "title": "Anthropic研究：小模型或可在IoT设备自我复制",
+      "id": "v3pogrzxrk9oba4blox86d0w8",
+      "title": "Meta 发布首批前沿模型 Muse Wonder 系列",
       "source": {
-        "name": "Anthropic：Research（发表成果 · 网页）"
+        "name": "Artificial Analysis 完整文章（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/emc0djmqlomn6b5whge285x7l",
-        "original": "https://www.anthropic.com/research/self-replicating-ai",
-        "story": "https://aihot.virxact.com/story/12f4e6cb-604e-40cd-a3c8-eeb6fead61ce"
+        "aihot": "https://aihot.news/items/v3pogrzxrk9oba4blox86d0w8",
+        "original": "https://artificialanalysis.ai/articles/muse-wonder",
+        "story": "https://aihot.virxact.com/story/f7f99eb7-84e6-4450-a43f-668dca988b22"
       },
-      "sourceCount": 4,
-      "signalCount": 18,
-      "participantCount": 22,
+      "sourceCount": 3,
+      "signalCount": 24,
+      "participantCount": 27,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Ethan Mollick (@emollick)",
-        "The Decoder：AI News（RSS）",
-        "IT之家·人工智能"
+        "X：AI at Meta (@AIatMeta)",
+        "X：Arena (@arena)",
+        "MarkTechPost（RSS）"
       ],
-      "latestAt": "2026-10-14T02:27:42.000Z"
+      "latestAt": "2026-10-14T23:46:15.000Z"
     },
     {
       "rank": 10,
-      "id": "uob3jvsb97uh5achwaggjrhqh",
-      "title": "谷歌 Gemini 4 Argon 从定向开放走向全面上线",
+      "id": "m3g8ouj0aocvboaot9bd2uta6",
+      "title": "Anthropic收入增速被指放缓，Q3约168亿美元",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "X：Oran Ge (@oran_ge)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/uob3jvsb97uh5achwaggjrhqh",
-        "original": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-        "story": "https://aihot.virxact.com/story/daf111a0-908f-4f9c-8639-fc469d9ec53b"
+        "aihot": "https://aihot.news/items/m3g8ouj0aocvboaot9bd2uta6",
+        "original": "https://x.com/oran_ge/status/2110600036476506158",
+        "story": "https://aihot.virxact.com/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
       },
-      "sourceCount": 8,
-      "signalCount": 8,
-      "participantCount": 16,
+      "sourceCount": 1,
+      "signalCount": 12,
+      "participantCount": 13,
       "sourceNames": [
-        "X：卡兹克 (@Khazix0918)",
-        "公众号：数字生命卡兹克",
-        "X：Cursor (@cursor_ai)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：OpenRouter (@OpenRouter)",
-        "X：Cognition (@cognition)",
-        "X：Testing Catalog (@testingcatalog)",
-        "Every：最新文章（网页）"
+        "X：Oran Ge (@oran_ge)"
       ],
-      "latestAt": "2026-10-14T01:02:59.000Z"
+      "latestAt": "2026-10-15T05:13:56.000Z"
     }
   ]
 }
