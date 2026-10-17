@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:05:51.183943+00:00",
+  "updatedAt": "2026-10-17T07:43:11.326426+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -15,23 +15,47 @@
         "original": "https://pytorch.org/blog/muse-spark-open/",
         "story": "https://aihot.virxact.com/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16"
       },
-      "sourceCount": 24,
-      "signalCount": 50,
-      "participantCount": 74,
+      "sourceCount": 17,
+      "signalCount": 65,
+      "participantCount": 82,
       "sourceNames": [
+        "X：Arena (@arena)",
         "MarkTechPost（RSS）",
         "IT之家·人工智能",
         "X：Artificial Analysis (@ArtificialAnlys)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "TechCrunch：AI（RSS）",
         "The Decoder：AI News（RSS）",
-        "X：Arena (@arena)",
         "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-10-16T02:26:04.000Z"
+      "latestAt": "2026-10-16T22:22:42.000Z"
     },
     {
       "rank": 2,
+      "id": "p11tj593iq5nrtiotvoxllop4",
+      "title": "商务部拟增列23项AI技术出口管制并答问",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
+        "original": "https://www.ithome.com/1/013/983.htm",
+        "story": "https://aihot.virxact.com/story/799a2a3d-ea41-4491-afaf-9e6c06aebe64"
+      },
+      "sourceCount": 5,
+      "signalCount": 13,
+      "participantCount": 18,
+      "sourceNames": [
+        "X：邵猛 (@shao__meng)",
+        "X：X.PIN (@thexpin)",
+        "The Decoder：AI News（RSS）",
+        "X：Nathan Lambert (@natolambert)",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-10-17T01:30:54.000Z"
+    },
+    {
+      "rank": 3,
       "id": "smxxtw5ca2c9jscojk4ppe5hf",
       "title": "Google 发布 Gemini 4 Argon，付费用户独享",
       "source": {
@@ -42,21 +66,44 @@
         "original": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
         "story": "https://aihot.virxact.com/story/b9d1e480-fac1-479a-9209-5241ad001528"
       },
-      "sourceCount": 6,
-      "signalCount": 38,
-      "participantCount": 44,
+      "sourceCount": 4,
+      "signalCount": 20,
+      "participantCount": 24,
       "sourceNames": [
         "IT之家·人工智能",
         "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
         "X：Testing Catalog (@testingcatalog)",
-        "X：Google (@Google)",
-        "X：Logan Kilpatrick (@OfficialLoganK)",
-        "X：卡尔的 AI 沃茨 (@aiwarts)"
+        "X：Google (@Google)"
       ],
       "latestAt": "2026-10-16T07:34:44.337Z"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "id": "rq32az1hr7zpbipiyega9ehjr",
+      "title": "NVIDIA RTX Spark 笔记本开售，起价 2599 美元",
+      "source": {
+        "name": "NVIDIA：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+        "original": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "story": "https://aihot.virxact.com/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765"
+      },
+      "sourceCount": 6,
+      "signalCount": 11,
+      "participantCount": 17,
+      "sourceNames": [
+        "X：Unsloth (@UnslothAI)",
+        "X：OpenClaw (@openclaw)",
+        "The Verge：AI（RSS）",
+        "X：卡兹克 (@Khazix0918)",
+        "NVIDIA：Newsroom（RSS）",
+        "NVIDIA Technical Blog：Agentic AI / Generative AI"
+      ],
+      "latestAt": "2026-10-16T23:54:20.000Z"
+    },
+    {
+      "rank": 5,
       "id": "allv4n9g9lhfy72m1pg725apv",
       "title": "Anthropic三季度收入168亿美元，增速放缓",
       "source": {
@@ -67,21 +114,20 @@
         "original": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
         "story": "https://aihot.virxact.com/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
       },
-      "sourceCount": 6,
-      "signalCount": 22,
-      "participantCount": 28,
+      "sourceCount": 5,
+      "signalCount": 14,
+      "participantCount": 19,
       "sourceNames": [
         "IT之家·人工智能",
         "Azeem Azhar：Exponential View（RSS）",
         "Simon Willison 博客",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "X：Oran Ge (@oran_ge)"
+        "The Decoder：AI News（RSS）"
       ],
       "latestAt": "2026-10-16T00:54:07.827Z"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
       "title": "英伟达开源 Nemotron 3.5 Super VL 多模态智能体模型",
       "source": {
@@ -92,9 +138,9 @@
         "original": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
         "story": "https://aihot.virxact.com/story/e1654a62-6c1b-40ba-be4a-032beae55011"
       },
-      "sourceCount": 20,
-      "signalCount": 8,
-      "participantCount": 28,
+      "sourceCount": 14,
+      "signalCount": 11,
+      "participantCount": 25,
       "sourceNames": [
         "MarkTechPost（RSS）",
         "X：opencode (@opencode)",
@@ -108,51 +154,58 @@
       "latestAt": "2026-10-15T19:53:50.000Z"
     },
     {
-      "rank": 5,
-      "id": "vo248l7ock6kltan370y7gmcd",
-      "title": "DeepSeek 服务中断近5小时 致歉并补偿API用户",
+      "rank": 7,
+      "id": "bme0mytjnlk0d2lk8hf7srzoh",
+      "title": "OpenAI 将 computer use 能力引入 Chrome",
       "source": {
-        "name": "X：邵猛 (@shao__meng)"
+        "name": "X：ChatGPT (@ChatGPT)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/vo248l7ock6kltan370y7gmcd",
-        "original": "https://x.com/shao__meng/status/2110628071615365330",
-        "story": "https://aihot.virxact.com/story/c69fcda4-6491-4827-9c2b-42579fd92447"
+        "aihot": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
+        "original": "https://x.com/ChatGPT/status/2110823738531037651",
+        "story": "https://aihot.virxact.com/story/13025e80-d645-4abb-87c1-f3e5ce826c4d"
       },
-      "sourceCount": 3,
-      "signalCount": 21,
-      "participantCount": 24,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Tianyi Cui（@tianyi）",
-        "X：邵猛 (@shao__meng)"
-      ],
-      "latestAt": "2026-10-16T04:37:32.940Z"
-    },
-    {
-      "rank": 6,
-      "id": "xl51s0hyyzi1krwrmown4hoqh",
-      "title": "Anthropic向METR六名评估员开放员工级访问",
-      "source": {
-        "name": "Anthropic：Newsroom（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/xl51s0hyyzi1krwrmown4hoqh",
-        "original": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-        "story": "https://aihot.virxact.com/story/b8e9eff6-993f-4d6a-bc2f-5062db89ac84"
-      },
-      "sourceCount": 3,
-      "signalCount": 12,
+      "sourceCount": 5,
+      "signalCount": 10,
       "participantCount": 15,
       "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Anthropic (@AnthropicAI)"
+        "IT之家·人工智能",
+        "The Decoder：AI News（RSS）",
+        "X：howie.serious (@howie_serious)",
+        "The Verge：AI（RSS）",
+        "X：ChatGPT (@ChatGPT)"
       ],
-      "latestAt": "2026-10-15T19:14:26.000Z"
+      "latestAt": "2026-10-17T00:31:53.593Z"
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "id": "qy7y0cfu1wbum1ej9urwylfxr",
+      "title": "Reflection 开源 501B 模型 Beam 上线 Hugging Face",
+      "source": {
+        "name": "Reflection Blog"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
+        "original": "https://reflection.ai/blog/introducing-beam",
+        "story": "https://aihot.virxact.com/story/553aab31-30b1-4787-bd62-3b006d83295e"
+      },
+      "sourceCount": 9,
+      "signalCount": 6,
+      "participantCount": 15,
+      "sourceNames": [
+        "X：Arena (@arena)",
+        "Reflection Blog",
+        "Baseten 工程博客（网页）",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "Hugging Face 官方团队博客",
+        "LMSYS Blog",
+        "Ollama：Blog（RSS）",
+        "vLLM 官方博客（RSS）"
+      ],
+      "latestAt": "2026-10-16T18:30:03.000Z"
+    },
+    {
+      "rank": 9,
       "id": "kbccvteado5kgzbk5ah9yv5ip",
       "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
       "source": {
@@ -164,80 +217,37 @@
         "story": "https://aihot.virxact.com/story/1b39529e-2c70-4f97-828f-ae4a508ebff2"
       },
       "sourceCount": 5,
-      "signalCount": 10,
-      "participantCount": 15,
+      "signalCount": 13,
+      "participantCount": 18,
       "sourceNames": [
+        "X：可灵 Kling AI (@Kling_ai)",
         "X：卡兹克 (@Khazix0918)",
         "IT之家·人工智能",
         "公众号：数字生命卡兹克",
-        "X：可灵 Kling AI (@Kling_ai)",
         "公众号：可灵AI（快手·视频）"
       ],
-      "latestAt": "2026-10-16T02:03:07.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "v5sbitu4hw1bozz0nlopcl3t8",
-      "title": "八州起诉OpenAI称ChatGPT对儿童不安全",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/v5sbitu4hw1bozz0nlopcl3t8",
-        "original": "https://www.ithome.com/1/013/160.htm",
-        "story": "https://aihot.virxact.com/story/312fbbf1-b598-4d74-bbc7-6008a54387f3"
-      },
-      "sourceCount": 3,
-      "signalCount": 18,
-      "participantCount": 21,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家·人工智能",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-10-15T09:11:28.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "fgxi5gwvctlssc05odpcyf6ov",
-      "title": "OpenAI工程师涉装录音设备被捕",
-      "source": {
-        "name": "X：OpenAI Newsroom (@OpenAINewsroom)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/fgxi5gwvctlssc05odpcyf6ov",
-        "original": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-        "story": "https://aihot.virxact.com/story/99f5c3c4-2817-4634-b110-98b7db9ef40c"
-      },
-      "sourceCount": 3,
-      "signalCount": 22,
-      "participantCount": 25,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Ars Technica：AI（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-10-15T09:31:52.000Z"
+      "latestAt": "2026-10-16T15:00:00.000Z"
     },
     {
       "rank": 10,
-      "id": "fpyjwv3o9zwxc9zs7j1bmnw8i",
-      "title": "Anthropic 自研 Scion 替换 git 并分享经验",
+      "id": "vo248l7ock6kltan370y7gmcd",
+      "title": "DeepSeek 服务中断近5小时 致歉并补偿API用户",
       "source": {
-        "name": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）"
+        "name": "X：邵猛 (@shao__meng)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i",
-        "original": "https://www.anthropic.com/engineering/redesigning-source-control",
-        "story": "https://aihot.virxact.com/story/dd9580d2-0aaa-4628-bab2-4e89974e44bb"
+        "aihot": "https://aihot.news/items/vo248l7ock6kltan370y7gmcd",
+        "original": "https://x.com/shao__meng/status/2110628071615365330",
+        "story": "https://aihot.virxact.com/story/c69fcda4-6491-4827-9c2b-42579fd92447"
       },
-      "sourceCount": 1,
+      "sourceCount": 2,
       "signalCount": 18,
-      "participantCount": 19,
+      "participantCount": 20,
       "sourceNames": [
-        "IT之家·人工智能"
+        "IT之家·人工智能",
+        "X：Tianyi Cui（@tianyi）"
       ],
-      "latestAt": "2026-10-15T14:42:13.093Z"
+      "latestAt": "2026-10-16T04:37:32.940Z"
     }
   ]
 }
