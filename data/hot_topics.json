@@ -1,10 +1,109 @@
 {
-  "updatedAt": "2026-10-17T07:43:11.326426+00:00",
+  "updatedAt": "2026-10-18T07:57:44.481820+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "w34qm27sedtziwxig5ub9wwhr",
+      "title": "DeepSeek 发布 V4.1-Flash-1017 并开放搜索 API",
+      "source": {
+        "name": "DeepSeek：API 更新日志"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
+        "original": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
+        "story": "https://aihot.virxact.com/story/f8045374-7106-49b1-8fd8-ce824a952e45"
+      },
+      "sourceCount": 15,
+      "signalCount": 35,
+      "participantCount": 50,
+      "sourceNames": [
+        "X：邵猛 (@shao__meng)",
+        "X：Yuchen Jin (@Yuchenj_UW)",
+        "X：Nathan Lambert (@natolambert)",
+        "The Decoder：AI News（RSS）",
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "X：Oran Ge (@oran_ge)",
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "latestAt": "2026-10-18T02:53:41.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "niwlbjnktvqnoi9st6lakhlo2",
+      "title": "OpenCode 遭攻击，Anthropic 撤销受影响密钥",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/niwlbjnktvqnoi9st6lakhlo2",
+        "original": "https://www.ithome.com/1/014/434.htm",
+        "story": "https://aihot.virxact.com/story/c3562486-19f9-44c5-9544-c3af3e3d43c5"
+      },
+      "sourceCount": 5,
+      "signalCount": 10,
+      "participantCount": 15,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "X：Nathan Lambert (@natolambert)",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：opencode (@opencode)"
+      ],
+      "latestAt": "2026-10-18T00:19:10.557Z"
+    },
+    {
+      "rank": 3,
+      "id": "rq32az1hr7zpbipiyega9ehjr",
+      "title": "NVIDIA RTX Spark 笔记本开售，起价说法不一",
+      "source": {
+        "name": "NVIDIA：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+        "original": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "story": "https://aihot.virxact.com/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765"
+      },
+      "sourceCount": 6,
+      "signalCount": 12,
+      "participantCount": 18,
+      "sourceNames": [
+        "X：卡兹克 (@Khazix0918)",
+        "NVIDIA Blog（RSS）",
+        "公众号：数字生命卡兹克",
+        "X：Unsloth (@UnslothAI)",
+        "X：OpenClaw (@openclaw)",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-10-18T02:04:38.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "oetmf0o04av0c4h7yrgfkb4zc",
+      "title": "Anthropic 发布内部 AI 经济影响研究",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+        "original": "https://www.anthropic.com/research/ai-expectations-gap",
+        "story": "https://aihot.virxact.com/story/4e5cc287-abde-4b0e-acf2-1ef380210117"
+      },
+      "sourceCount": 4,
+      "signalCount": 8,
+      "participantCount": 12,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家·人工智能",
+        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-18T06:27:48.000Z"
+    },
+    {
+      "rank": 5,
       "id": "s80tw5g2v22j1se4bmqejyaq4",
       "title": "Meta 开源 816B 模型 Muse Spark Open，Apple 演示 Mac Studio 本地运行",
       "source": {
@@ -15,23 +114,17 @@
         "original": "https://pytorch.org/blog/muse-spark-open/",
         "story": "https://aihot.virxact.com/story/2f0270d6-fc22-4747-af7c-a4f488d3cd16"
       },
-      "sourceCount": 17,
-      "signalCount": 65,
-      "participantCount": 82,
+      "sourceCount": 2,
+      "signalCount": 19,
+      "participantCount": 21,
       "sourceNames": [
-        "X：Arena (@arena)",
-        "MarkTechPost（RSS）",
-        "IT之家·人工智能",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "The Verge：AI（RSS）"
+        "X：Nathan Lambert (@natolambert)",
+        "X：Arena (@arena)"
       ],
-      "latestAt": "2026-10-16T22:22:42.000Z"
+      "latestAt": "2026-10-17T14:15:29.000Z"
     },
     {
-      "rank": 2,
+      "rank": 6,
       "id": "p11tj593iq5nrtiotvoxllop4",
       "title": "商务部拟增列23项AI技术出口管制并答问",
       "source": {
@@ -55,199 +148,92 @@
       "latestAt": "2026-10-17T01:30:54.000Z"
     },
     {
-      "rank": 3,
-      "id": "smxxtw5ca2c9jscojk4ppe5hf",
-      "title": "Google 发布 Gemini 4 Argon，付费用户独享",
-      "source": {
-        "name": "Google Blog：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/smxxtw5ca2c9jscojk4ppe5hf",
-        "original": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-        "story": "https://aihot.virxact.com/story/b9d1e480-fac1-479a-9209-5241ad001528"
-      },
-      "sourceCount": 4,
-      "signalCount": 20,
-      "participantCount": 24,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Google (@Google)"
-      ],
-      "latestAt": "2026-10-16T07:34:44.337Z"
-    },
-    {
-      "rank": 4,
-      "id": "rq32az1hr7zpbipiyega9ehjr",
-      "title": "NVIDIA RTX Spark 笔记本开售，起价 2599 美元",
-      "source": {
-        "name": "NVIDIA：Newsroom（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
-        "original": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-        "story": "https://aihot.virxact.com/story/44880c6f-8433-4c3b-8d6e-757e1b8ae765"
-      },
-      "sourceCount": 6,
-      "signalCount": 11,
-      "participantCount": 17,
-      "sourceNames": [
-        "X：Unsloth (@UnslothAI)",
-        "X：OpenClaw (@openclaw)",
-        "The Verge：AI（RSS）",
-        "X：卡兹克 (@Khazix0918)",
-        "NVIDIA：Newsroom（RSS）",
-        "NVIDIA Technical Blog：Agentic AI / Generative AI"
-      ],
-      "latestAt": "2026-10-16T23:54:20.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "allv4n9g9lhfy72m1pg725apv",
-      "title": "Anthropic三季度收入168亿美元，增速放缓",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-        "original": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-        "story": "https://aihot.virxact.com/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
-      },
-      "sourceCount": 5,
-      "signalCount": 14,
-      "participantCount": 19,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "Azeem Azhar：Exponential View（RSS）",
-        "Simon Willison 博客",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-10-16T00:54:07.827Z"
-    },
-    {
-      "rank": 6,
-      "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
-      "title": "英伟达开源 Nemotron 3.5 Super VL 多模态智能体模型",
-      "source": {
-        "name": "NVIDIA Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7",
-        "original": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-        "story": "https://aihot.virxact.com/story/e1654a62-6c1b-40ba-be4a-032beae55011"
-      },
-      "sourceCount": 14,
-      "signalCount": 11,
-      "participantCount": 25,
-      "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：opencode (@opencode)",
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "X：Perplexity (@perplexity_ai)",
-        "The Decoder：AI News（RSS）",
-        "X：fal (@fal)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "latestAt": "2026-10-15T19:53:50.000Z"
-    },
-    {
       "rank": 7,
-      "id": "bme0mytjnlk0d2lk8hf7srzoh",
-      "title": "OpenAI 将 computer use 能力引入 Chrome",
+      "id": "ckrtcqc9dnngil5ev7m60ns4v",
+      "title": "Claude 查明 NIST 椭圆曲线种子来源",
       "source": {
-        "name": "X：ChatGPT (@ChatGPT)"
+        "name": "Anthropic：Research（发表成果 · 网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
-        "original": "https://x.com/ChatGPT/status/2110823738531037651",
-        "story": "https://aihot.virxact.com/story/13025e80-d645-4abb-87c1-f3e5ce826c4d"
+        "aihot": "https://aihot.news/items/ckrtcqc9dnngil5ev7m60ns4v",
+        "original": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "story": "https://aihot.virxact.com/story/081bf642-6816-4c84-929e-3d3837dcfdb5"
       },
-      "sourceCount": 5,
+      "sourceCount": 3,
       "signalCount": 10,
-      "participantCount": 15,
+      "participantCount": 13,
       "sourceNames": [
-        "IT之家·人工智能",
         "The Decoder：AI News（RSS）",
-        "X：howie.serious (@howie_serious)",
-        "The Verge：AI（RSS）",
-        "X：ChatGPT (@ChatGPT)"
+        "IT之家·人工智能",
+        "X：Yuchen Jin (@Yuchenj_UW)"
       ],
-      "latestAt": "2026-10-17T00:31:53.593Z"
+      "latestAt": "2026-10-17T14:42:56.000Z"
     },
     {
       "rank": 8,
-      "id": "qy7y0cfu1wbum1ej9urwylfxr",
-      "title": "Reflection 开源 501B 模型 Beam 上线 Hugging Face",
+      "id": "ib3axwzp3wkqdd8teu8zpj7c9",
+      "title": "Meta 删除涉 AI 训练抓取争议条款",
       "source": {
-        "name": "Reflection Blog"
+        "name": "The Verge：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/qy7y0cfu1wbum1ej9urwylfxr",
-        "original": "https://reflection.ai/blog/introducing-beam",
-        "story": "https://aihot.virxact.com/story/553aab31-30b1-4787-bd62-3b006d83295e"
+        "aihot": "https://aihot.news/items/ib3axwzp3wkqdd8teu8zpj7c9",
+        "original": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+        "story": "https://aihot.virxact.com/story/278a9f24-bfd7-489e-98f4-958d6bbf2352"
       },
-      "sourceCount": 9,
-      "signalCount": 6,
-      "participantCount": 15,
+      "sourceCount": 4,
+      "signalCount": 4,
+      "participantCount": 8,
       "sourceNames": [
-        "X：Arena (@arena)",
-        "Reflection Blog",
-        "Baseten 工程博客（网页）",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "Hugging Face 官方团队博客",
-        "LMSYS Blog",
-        "Ollama：Blog（RSS）",
-        "vLLM 官方博客（RSS）"
+        "IT之家·人工智能",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "Ars Technica：AI（RSS）"
       ],
-      "latestAt": "2026-10-16T18:30:03.000Z"
+      "latestAt": "2026-10-18T00:00:43.787Z"
     },
     {
       "rank": 9,
-      "id": "kbccvteado5kgzbk5ah9yv5ip",
-      "title": "可灵 Kling 4.0 全量上线，单次生成最长 30 秒",
-      "source": {
-        "name": "X：卡兹克 (@Khazix0918)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
-        "original": "https://x.com/Khazix0918/status/2110914404393091205",
-        "story": "https://aihot.virxact.com/story/1b39529e-2c70-4f97-828f-ae4a508ebff2"
-      },
-      "sourceCount": 5,
-      "signalCount": 13,
-      "participantCount": 18,
-      "sourceNames": [
-        "X：可灵 Kling AI (@Kling_ai)",
-        "X：卡兹克 (@Khazix0918)",
-        "IT之家·人工智能",
-        "公众号：数字生命卡兹克",
-        "公众号：可灵AI（快手·视频）"
-      ],
-      "latestAt": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "vo248l7ock6kltan370y7gmcd",
-      "title": "DeepSeek 服务中断近5小时 致歉并补偿API用户",
+      "id": "x6s9la8005d0zobyd908cf5su",
+      "title": "腾讯混元发布并开源 Hy Memory 2.0",
       "source": {
         "name": "X：邵猛 (@shao__meng)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/vo248l7ock6kltan370y7gmcd",
-        "original": "https://x.com/shao__meng/status/2110628071615365330",
-        "story": "https://aihot.virxact.com/story/c69fcda4-6491-4827-9c2b-42579fd92447"
+        "aihot": "https://aihot.news/items/x6s9la8005d0zobyd908cf5su",
+        "original": "https://x.com/shao__meng/status/2111082839068246301",
+        "story": "https://aihot.virxact.com/story/a377431d-9822-42bd-a8d3-fd4ee14dc0b7"
       },
-      "sourceCount": 2,
-      "signalCount": 18,
-      "participantCount": 20,
+      "sourceCount": 4,
+      "signalCount": 9,
+      "participantCount": 13,
       "sourceNames": [
+        "X：邵猛 (@shao__meng)",
         "IT之家·人工智能",
-        "X：Tianyi Cui（@tianyi）"
+        "X：腾讯混元 (@TencentHunyuan)",
+        "公众号：腾讯混元"
       ],
-      "latestAt": "2026-10-16T04:37:32.940Z"
+      "latestAt": "2026-10-16T13:12:25.000Z"
+    },
+    {
+      "rank": 10,
+      "id": "noioo6ectkhpxnngwsnks37vv",
+      "title": "Anthropic 联创称 AI 到 2030 年可推高美国 GDP 近 50%",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/noioo6ectkhpxnngwsnks37vv",
+        "original": "https://www.ithome.com/1/014/483.htm",
+        "story": "https://aihot.virxact.com/story/415f8e37-5dad-489c-a6e0-2606ac179820"
+      },
+      "sourceCount": 1,
+      "signalCount": 4,
+      "participantCount": 5,
+      "sourceNames": [
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-10-18T04:27:27.713Z"
     }
   ]
 }
