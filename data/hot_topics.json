@@ -1,10 +1,64 @@
 {
-  "updatedAt": "2026-10-21T08:29:17.894349+00:00",
+  "updatedAt": "2026-10-22T08:31:56.150395+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "jgg0i29t3o1eycc24c3wev0fx",
+      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
+        "original": "https://claude.com/blog/claude-duet",
+        "story": "https://aihot.virxact.com/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd"
+      },
+      "sourceCount": 11,
+      "signalCount": 46,
+      "participantCount": 57,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：邵猛 (@shao__meng)",
+        "X：howie.serious (@howie_serious)",
+        "IT之家·人工智能",
+        "X：indigo (@indigox)",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-10-22T06:35:44.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "r4saw5foxj8v0eb82f3b66cs0",
+      "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
+        "original": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+        "story": "https://aihot.virxact.com/story/17f9865a-cef7-4d98-9742-0796331c81ea"
+      },
+      "sourceCount": 9,
+      "signalCount": 42,
+      "participantCount": 51,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：卡兹克 (@Khazix0918)",
+        "X：Ethan Mollick (@emollick)",
+        "公众号：数字生命卡兹克",
+        "The Decoder：AI News（RSS）",
+        "Simon Willison 博客",
+        "TechCrunch：AI（RSS）",
+        "X：OpenAI (@OpenAI)"
+      ],
+      "latestAt": "2026-10-22T05:13:16.000Z"
+    },
+    {
+      "rank": 3,
       "id": "ckykonvith99q6hvd0utjdwfn",
       "title": "DeepSeek 开源生产推理框架 DeepInfer",
       "source": {
@@ -15,101 +69,93 @@
         "original": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
         "story": "https://aihot.virxact.com/story/dae7c054-a1fe-423d-bf36-68d8d8959457"
       },
-      "sourceCount": 12,
-      "signalCount": 47,
-      "participantCount": 59,
+      "sourceCount": 13,
+      "signalCount": 56,
+      "participantCount": 69,
       "sourceNames": [
+        "X：X.PIN (@thexpin)",
         "X：Yuchen Jin (@Yuchenj_UW)",
         "X：邵猛 (@shao__meng)",
         "The Decoder：AI News（RSS）",
         "MarkTechPost（RSS）",
         "X：Tianyi Cui（@tianyi）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-        "X：Nathan Lambert (@natolambert)"
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
       ],
-      "latestAt": "2026-10-21T04:00:03.000Z"
-    },
-    {
-      "rank": 2,
-      "id": "p04w1xjk7v6fmlskpf5vsnuka",
-      "title": "美土安全部令联邦文职机构移除DeepSeek及关联产品",
-      "source": {
-        "name": "Hacker News：AI 热帖"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/p04w1xjk7v6fmlskpf5vsnuka",
-        "original": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
-        "story": "https://aihot.virxact.com/story/c23155c2-2ff3-45e5-a3ab-4ed6a5217d72"
-      },
-      "sourceCount": 6,
-      "signalCount": 37,
-      "participantCount": 43,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "IT之家·人工智能",
-        "X：X.PIN (@thexpin)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Hacker News：AI 热帖"
-      ],
-      "latestAt": "2026-10-20T13:07:24.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "wrnv8dd428iozlj5xax99zbmj",
-      "title": "MiniMax 发布 M3.1 Flash，10 月 23 日开放权重",
-      "source": {
-        "name": "MiniMax：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-        "original": "https://www.minimax.io/blog/minimax-m31f",
-        "story": "https://aihot.virxact.com/story/589d286a-2a6d-48be-b14a-e61390534ec3"
-      },
-      "sourceCount": 12,
-      "signalCount": 38,
-      "participantCount": 50,
-      "sourceNames": [
-        "X：MiniMax (@MiniMax_AI)",
-        "X：OpenClaw (@openclaw)",
-        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "X：X.PIN (@thexpin)",
-        "The Decoder：AI News（RSS）",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "MarkTechPost（RSS）",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-10-20T20:14:56.000Z"
+      "latestAt": "2026-10-21T09:26:08.000Z"
     },
     {
       "rank": 4,
-      "id": "w34qm27sedtziwxig5ub9wwhr",
-      "title": "DeepSeek 发布 V4.1-Flash-1017 并开放搜索 API",
+      "id": "bm4bwid4hdnitbtz7pr6gtd0r",
+      "title": "OpenAI三款模型上架Google Cloud私测",
       "source": {
-        "name": "DeepSeek：API 更新日志"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/w34qm27sedtziwxig5ub9wwhr",
-        "original": "https://api-docs.deepseek.com/zh-cn/updates/#deepseek-v41-flash-1017-更新",
-        "story": "https://aihot.virxact.com/story/f8045374-7106-49b1-8fd8-ce824a952e45"
+        "aihot": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
+        "original": "https://openai.com/index/openai-models-google-cloud",
+        "story": "https://aihot.virxact.com/story/49445e2f-d496-4acd-bc5e-70027cffd24a"
       },
-      "sourceCount": 7,
-      "signalCount": 25,
-      "participantCount": 32,
+      "sourceCount": 5,
+      "signalCount": 18,
+      "participantCount": 23,
       "sourceNames": [
-        "X：Arena (@arena)",
-        "X：Nathan Lambert (@natolambert)",
-        "X：Oran Ge (@oran_ge)",
-        "IT之家·人工智能",
-        "X：opencode (@opencode)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+        "X：OpenAI (@OpenAI)",
+        "X：Testing Catalog (@testingcatalog)",
+        "Ars Technica：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-20T23:11:23.000Z"
+      "latestAt": "2026-10-21T19:23:19.000Z"
     },
     {
       "rank": 5,
+      "id": "h05v2w7n5qxnee1h89espx59t",
+      "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
+        "original": "https://x.com/rohanpaul_ai/status/2112830424418500861",
+        "story": "https://aihot.virxact.com/story/e797c189-8889-4f65-b11d-e9a7f0ede229"
+      },
+      "sourceCount": 1,
+      "signalCount": 26,
+      "participantCount": 27,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-10-22T03:16:19.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "nkn1qfqlo0oyt205jfrk4th22",
+      "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/nkn1qfqlo0oyt205jfrk4th22",
+        "original": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+        "story": "https://aihot.virxact.com/story/4e5e0d5e-eb50-43cc-b997-7cd714147997"
+      },
+      "sourceCount": 7,
+      "signalCount": 13,
+      "participantCount": 20,
+      "sourceNames": [
+        "X：邵猛 (@shao__meng)",
+        "MarkTechPost（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "vLLM 官方博客（RSS）"
+      ],
+      "latestAt": "2026-10-22T01:58:01.000Z"
+    },
+    {
+      "rank": 7,
       "id": "allv4n9g9lhfy72m1pg725apv",
       "title": "Anthropic三季度收入168亿美元，增速放缓",
       "source": {
@@ -120,124 +166,78 @@
         "original": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
         "story": "https://aihot.virxact.com/story/f18eef00-3d70-4586-a109-ee6a78104fbf"
       },
-      "sourceCount": 1,
-      "signalCount": 12,
-      "participantCount": 13,
+      "sourceCount": 2,
+      "signalCount": 17,
+      "participantCount": 19,
       "sourceNames": [
+        "IT之家·人工智能",
         "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-21T04:32:45.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "e35drm2tixen1lpydh1icju57",
-      "title": "Amodei 回应 Anthropic 安全立场批评",
-      "source": {
-        "name": "X：Dario Amodei (@DarioAmodei)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/e35drm2tixen1lpydh1icju57",
-        "original": "https://x.com/DarioAmodei/status/2112732230124818891",
-        "story": "https://aihot.virxact.com/story/91257b3c-06c3-4abf-96c2-d36872494857"
-      },
-      "sourceCount": 2,
-      "signalCount": 10,
-      "participantCount": 12,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Dario Amodei (@DarioAmodei)"
-      ],
-      "latestAt": "2026-10-21T06:40:27.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "u9skklgkszb3pcf3cvvc1nefk",
-      "title": "OpenAI收购药物研发平台Orchestra Bio",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/u9skklgkszb3pcf3cvvc1nefk",
-        "original": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-        "story": "https://aihot.virxact.com/story/452085ae-c2fe-4a36-bf0b-115388db0e18"
-      },
-      "sourceCount": 4,
-      "signalCount": 10,
-      "participantCount": 14,
-      "sourceNames": [
-        "X：Greg Brockman (@gdb)",
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "latestAt": "2026-10-21T06:46:47.000Z"
+      "latestAt": "2026-10-22T02:17:14.247Z"
     },
     {
       "rank": 8,
-      "id": "tg02d4j3421erivjnmogan129",
-      "title": "Meta Muse首日留存超ChatGPT，14日反落后",
+      "id": "wbi0gsddrrfnavs6vvuqb2r7j",
+      "title": "DeepSeek新一轮融资规模升至约150亿美元",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "X：X.PIN (@thexpin)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/tg02d4j3421erivjnmogan129",
-        "original": "https://www.ithome.com/1/015/631.htm",
-        "story": "https://aihot.virxact.com/story/c36f8d4b-027d-40a0-8d41-321b17a56489"
+        "aihot": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
+        "original": "https://x.com/thexpin/status/2107524306058289533",
+        "story": "https://aihot.virxact.com/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4"
       },
-      "sourceCount": 3,
-      "signalCount": 8,
-      "participantCount": 11,
+      "sourceCount": 1,
+      "signalCount": 11,
+      "participantCount": 12,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-20T23:34:16.363Z"
+      "latestAt": "2026-10-22T03:13:00.000Z"
     },
     {
       "rank": 9,
-      "id": "ov4nfafvbhe7d8mj1uirkgsxb",
-      "title": "SpaceX 三季度 AI 收入占比过半，计划明年大幅扩算力",
+      "id": "uaewh6yvv55k3kqgy7zsxyqi7",
+      "title": "OpenAI通报两起模型抑制失准监控事件",
       "source": {
-        "name": "TechCrunch：AI（RSS）"
+        "name": "OpenAI：失准报告与通报（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
-        "original": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-        "story": "https://aihot.virxact.com/story/2ba6c88e-eaa2-47c1-b517-8f89994933d9"
+        "aihot": "https://aihot.news/items/uaewh6yvv55k3kqgy7zsxyqi7",
+        "original": "https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/",
+        "story": "https://aihot.virxact.com/story/6377d69e-f704-4c53-9d7b-b67c0a2d6d07"
       },
-      "sourceCount": 2,
-      "signalCount": 9,
-      "participantCount": 11,
+      "sourceCount": 4,
+      "signalCount": 13,
+      "participantCount": 17,
       "sourceNames": [
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-10-21T04:52:41.000Z"
+      "latestAt": "2026-10-21T13:57:43.000Z"
     },
     {
       "rank": 10,
-      "id": "lh8vm7yp332xoffhqoscusss4",
-      "title": "Google 与 Meta 开源 TorchTPU，Hugging Face 原生支持 TPU",
+      "id": "znxfhvd3rdohvd4nynrypst74",
+      "title": "宇树发布H2-X功夫机器人，称续航约8小时",
       "source": {
-        "name": "PyTorch：Blog（RSS）"
+        "name": "X：宇树 Unitree (@UnitreeRobotics)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4",
-        "original": "https://pytorch.org/blog/introducing-torchtpu/",
-        "story": "https://aihot.virxact.com/story/d7566385-503b-4b33-acd6-21a80dd4085a"
+        "aihot": "https://aihot.news/items/znxfhvd3rdohvd4nynrypst74",
+        "original": "https://x.com/UnitreeRobotics/status/2112819774573179175",
+        "story": "https://aihot.virxact.com/story/17f55a61-59e1-4723-ac94-a66e106a8524"
       },
-      "sourceCount": 5,
-      "signalCount": 7,
-      "participantCount": 12,
+      "sourceCount": 2,
+      "signalCount": 12,
+      "participantCount": 14,
       "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）",
-        "PyTorch：Blog（RSS）",
-        "MarkTechPost（RSS）",
-        "Hugging Face 官方团队博客"
+        "X：宇树 Unitree (@UnitreeRobotics)"
       ],
-      "latestAt": "2026-10-20T19:31:43.000Z"
+      "latestAt": "2026-10-21T18:07:59.000Z"
     }
   ]
 }
