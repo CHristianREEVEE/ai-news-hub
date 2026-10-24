@@ -1,37 +1,64 @@
 {
-  "updatedAt": "2026-10-23T08:27:55.829432+00:00",
+  "updatedAt": "2026-10-24T08:02:52.236164+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "jgg0i29t3o1eycc24c3wev0fx",
-      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
+      "id": "okgjn7r72wo7c5j0bu3o1vbie",
+      "title": "月之暗面发布 Kimi K3.1 Pro，权重定于 11 月 4 日前释出",
       "source": {
-        "name": "Claude：Blog（网页）"
+        "name": "Moonshot AI：Kimi Blog"
       },
       "links": {
-        "aihot": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
-        "original": "https://claude.com/blog/claude-duet",
-        "story": "https://aihot.virxact.com/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd"
+        "aihot": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
+        "original": "https://www.kimi.com/blog/kimi-k3-1-pro",
+        "story": "https://aihot.virxact.com/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190"
       },
-      "sourceCount": 11,
-      "signalCount": 67,
-      "participantCount": 78,
+      "sourceCount": 20,
+      "signalCount": 57,
+      "participantCount": 77,
       "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "X：卡兹克 (@Khazix0918)",
+        "公众号：数字生命卡兹克",
         "X：邵猛 (@shao__meng)",
-        "X：howie.serious (@howie_serious)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
         "IT之家·人工智能",
-        "X：indigo (@indigox)",
-        "X：Testing Catalog (@testingcatalog)"
+        "MarkTechPost（RSS）",
+        "X：Oran Ge (@oran_ge)"
       ],
-      "latestAt": "2026-10-22T13:53:26.000Z"
+      "latestAt": "2026-10-24T04:19:28.000Z"
     },
     {
       "rank": 2,
+      "id": "ss1c1fu81134agwcw2ae90gai",
+      "title": "OpenAI 前沿训练断网，红队测出 Brotli 漏洞",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
+        "original": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "story": "https://aihot.virxact.com/story/c83d8538-d103-4a28-bd4a-629a69136b90"
+      },
+      "sourceCount": 8,
+      "signalCount": 18,
+      "participantCount": 26,
+      "sourceNames": [
+        "X：Dex Horthy（HumanLayer）(@dexhorthy)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家·人工智能",
+        "TechCrunch：AI（RSS）",
+        "X：OpenAI (@OpenAI)",
+        "The Verge：AI（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "X：Noam Brown (@polynoamial)"
+      ],
+      "latestAt": "2026-10-24T06:46:06.000Z"
+    },
+    {
+      "rank": 3,
       "id": "r4saw5foxj8v0eb82f3b66cs0",
       "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
       "source": {
@@ -42,23 +69,80 @@
         "original": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
         "story": "https://aihot.virxact.com/story/17f9865a-cef7-4d98-9742-0796331c81ea"
       },
-      "sourceCount": 10,
-      "signalCount": 61,
-      "participantCount": 71,
+      "sourceCount": 1,
+      "signalCount": 38,
+      "participantCount": 39,
       "sourceNames": [
-        "Ars Technica：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：卡兹克 (@Khazix0918)",
-        "X：Ethan Mollick (@emollick)",
-        "公众号：数字生命卡兹克",
-        "The Decoder：AI News（RSS）",
-        "Simon Willison 博客",
-        "TechCrunch：AI（RSS）"
+        "Ars Technica：AI（RSS）"
       ],
       "latestAt": "2026-10-22T15:25:02.000Z"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "id": "ofhppbtjnzfrzbv2a11sl8u7h",
+      "title": "Apple折叠屏iPhone Duo发布并开售",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
+        "original": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
+        "story": "https://aihot.virxact.com/story/bd558c88-9573-4806-a1aa-67426d33a87c"
+      },
+      "sourceCount": 1,
+      "signalCount": 28,
+      "participantCount": 29,
+      "sourceNames": [
+        "Apple：Newsroom（RSS）"
+      ],
+      "latestAt": "2026-10-22T16:00:00.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "hhwasdljj9hnckutq2vvyei4i",
+      "title": "Claude Code 核心成员 Thariq 离开 Anthropic",
+      "source": {
+        "name": "X：Thariq (@trq212)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/hhwasdljj9hnckutq2vvyei4i",
+        "original": "https://x.com/trq212/status/2113844051938054167",
+        "story": "https://aihot.virxact.com/story/78e3c1cb-ca1a-451d-ba52-36ab86e1f68f"
+      },
+      "sourceCount": 3,
+      "signalCount": 11,
+      "participantCount": 14,
+      "sourceNames": [
+        "X：邵猛 (@shao__meng)",
+        "X：Thariq (@trq212)",
+        "X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "latestAt": "2026-10-24T04:40:34.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "jgg0i29t3o1eycc24c3wev0fx",
+      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
+        "original": "https://claude.com/blog/claude-duet",
+        "story": "https://aihot.virxact.com/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd"
+      },
+      "sourceCount": 3,
+      "signalCount": 28,
+      "participantCount": 31,
+      "sourceNames": [
+        "Claude：YouTube（RSS）",
+        "TechCrunch：AI（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-10-23T19:33:25.000Z"
+    },
+    {
+      "rank": 7,
       "id": "c7kz49ohg81rxi4ozxv046ttp",
       "title": "1Password 推出智能体代登录平台，多家接入",
       "source": {
@@ -69,9 +153,9 @@
         "original": "https://x.com/bot/status/2113332983226831339",
         "story": "https://aihot.virxact.com/story/8b1cc389-bb11-4612-9ea6-a04753eeb832"
       },
-      "sourceCount": 8,
-      "signalCount": 16,
-      "participantCount": 24,
+      "sourceCount": 7,
+      "signalCount": 20,
+      "participantCount": 27,
       "sourceNames": [
         "IT之家·人工智能",
         "X：baltaaazr（SpaceXSI，Grok Bot 初版作者之一） (@baltaaazr)",
@@ -79,165 +163,79 @@
         "X：Larsen Cundric（自述加入 SpaceXSI，Grok Bot） (@larsencc)",
         "TechCrunch：AI（RSS）",
         "X：David Singleton（Meta MSL 工程副总裁，Muse） (@dps)",
-        "The Verge：AI（RSS）",
-        "Browserbase / Stagehand 工程博客"
+        "The Verge：AI（RSS）"
       ],
       "latestAt": "2026-10-22T23:54:44.317Z"
     },
     {
-      "rank": 4,
-      "id": "ofhppbtjnzfrzbv2a11sl8u7h",
-      "title": "Apple发布折叠屏iPhone Duo并公布应用适配",
-      "source": {
-        "name": "Apple：Newsroom（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
-        "original": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-        "story": "https://aihot.virxact.com/story/bd558c88-9573-4806-a1aa-67426d33a87c"
-      },
-      "sourceCount": 1,
-      "signalCount": 18,
-      "participantCount": 19,
-      "sourceNames": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "latestAt": "2026-10-21T16:00:00.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "wbi0gsddrrfnavs6vvuqb2r7j",
-      "title": "DeepSeek新一轮融资升至约150亿美元",
-      "source": {
-        "name": "X：X.PIN (@thexpin)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/wbi0gsddrrfnavs6vvuqb2r7j",
-        "original": "https://x.com/thexpin/status/2107524306058289533",
-        "story": "https://aihot.virxact.com/story/3a7d611c-2b14-4b4f-9178-1bdea46c04b4"
-      },
-      "sourceCount": 3,
-      "signalCount": 21,
-      "participantCount": 24,
-      "sourceNames": [
-        "X：X.PIN (@thexpin)",
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-10-23T07:59:21.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "wg3g8yf3e8c11smv9q88k4poz",
-      "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/wg3g8yf3e8c11smv9q88k4poz",
-        "original": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-        "story": "https://aihot.virxact.com/story/15a36716-6a2a-4098-9854-ee6605f1d6bd"
-      },
-      "sourceCount": 2,
-      "signalCount": 15,
-      "participantCount": 17,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-10-23T04:16:06.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "h05v2w7n5qxnee1h89espx59t",
-      "title": "马斯克推动SpaceX与特斯拉以AI为核心合并",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/h05v2w7n5qxnee1h89espx59t",
-        "original": "https://x.com/rohanpaul_ai/status/2112830424418500861",
-        "story": "https://aihot.virxact.com/story/e797c189-8889-4f65-b11d-e9a7f0ede229"
-      },
-      "sourceCount": 2,
-      "signalCount": 17,
-      "participantCount": 19,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-10-22T19:45:00.000Z"
-    },
-    {
       "rank": 8,
-      "id": "nkn1qfqlo0oyt205jfrk4th22",
-      "title": "Recursive 发布 40B 编码模型 Flint，vLLM 首日支持",
+      "id": "wrnv8dd428iozlj5xax99zbmj",
+      "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
       "source": {
-        "name": "TechCrunch：AI（RSS）"
+        "name": "MiniMax：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/nkn1qfqlo0oyt205jfrk4th22",
-        "original": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-        "story": "https://aihot.virxact.com/story/4e5e0d5e-eb50-43cc-b997-7cd714147997"
+        "aihot": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
+        "original": "https://www.minimax.io/blog/minimax-m31f",
+        "story": "https://aihot.virxact.com/story/589d286a-2a6d-48be-b14a-e61390534ec3"
       },
-      "sourceCount": 7,
-      "signalCount": 19,
-      "participantCount": 26,
+      "sourceCount": 5,
+      "signalCount": 13,
+      "participantCount": 18,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：邵猛 (@shao__meng)",
-        "MarkTechPost（RSS）",
-        "TechCrunch：AI（RSS）",
+        "X：MiniMax (@MiniMax_AI)",
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
         "X：Testing Catalog (@testingcatalog)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+        "IT之家·人工智能",
+        "vLLM 官方博客（RSS）"
       ],
-      "latestAt": "2026-10-22T14:40:16.000Z"
+      "latestAt": "2026-10-23T21:02:37.000Z"
     },
     {
       "rank": 9,
-      "id": "why3g1nibbjkqtk0yg04ct1kr",
-      "title": "Kimi 官方预热 K3.1 模型，聚焦工程任务",
+      "id": "qexf6est4uitwd71p3ugedxo6",
+      "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
       "source": {
-        "name": "X：X.PIN (@thexpin)"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/why3g1nibbjkqtk0yg04ct1kr",
-        "original": "https://x.com/thexpin/status/2113528381660676298",
-        "story": "https://aihot.virxact.com/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190"
+        "aihot": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
+        "original": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+        "story": "https://aihot.virxact.com/story/15a36716-6a2a-4098-9854-ee6605f1d6bd"
       },
-      "sourceCount": 2,
-      "signalCount": 10,
-      "participantCount": 12,
+      "sourceCount": 3,
+      "signalCount": 16,
+      "participantCount": 19,
       "sourceNames": [
-        "X：X.PIN (@thexpin)",
-        "X：Testing Catalog (@testingcatalog)"
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-10-23T07:10:08.000Z"
+      "latestAt": "2026-10-23T09:49:38.000Z"
     },
     {
       "rank": 10,
-      "id": "r7uwz6n0sd6jr2r0tb1fu3o0u",
-      "title": "微软发布MAI-DxO诊断系统，称准确率超急诊医生",
+      "id": "poiju1x1007ttnz9cc4ioj6ro",
+      "title": "AISI与Anthropic复盘Mythos 5越权攻击真实项目",
       "source": {
-        "name": "Microsoft AI：官方博客（网页）"
+        "name": "Anthropic：Research（发表成果 · 网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/r7uwz6n0sd6jr2r0tb1fu3o0u",
-        "original": "https://microsoft.ai/news/building-medical-superintelligence/",
-        "story": "https://aihot.virxact.com/story/b02e8d53-6175-40cc-be57-9404e3aa0345"
+        "aihot": "https://aihot.news/items/poiju1x1007ttnz9cc4ioj6ro",
+        "original": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+        "story": "https://aihot.virxact.com/story/30ac3030-c989-445d-ac9d-ce83e90171bc"
       },
       "sourceCount": 5,
-      "signalCount": 9,
-      "participantCount": 14,
+      "signalCount": 7,
+      "participantCount": 12,
       "sourceNames": [
         "IT之家·人工智能",
-        "X：Satya Nadella (@satyanadella)",
-        "TechCrunch：AI（RSS）",
-        "Microsoft AI：官方博客（网页）",
-        "The Verge：AI（RSS）"
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Anthropic (@AnthropicAI)",
+        "英国 AI Security Institute：Blog（网页）"
       ],
-      "latestAt": "2026-10-22T23:23:36.967Z"
+      "latestAt": "2026-10-24T06:16:59.327Z"
     }
   ]
 }
