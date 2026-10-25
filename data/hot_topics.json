@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:02:52.236164+00:00",
+  "updatedAt": "2026-10-25T08:19:57.543315+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -15,25 +15,25 @@
         "original": "https://www.kimi.com/blog/kimi-k3-1-pro",
         "story": "https://aihot.virxact.com/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190"
       },
-      "sourceCount": 20,
-      "signalCount": 57,
-      "participantCount": 77,
+      "sourceCount": 19,
+      "signalCount": 65,
+      "participantCount": 84,
       "sourceNames": [
+        "X：Nathan Lambert (@natolambert)",
+        "公众号：月之暗面（Kimi）",
+        "IT之家·人工智能",
+        "Latent Space（RSS）",
         "X：Tencent WorkBuddy (@WorkBuddy_AI)",
         "X：卡兹克 (@Khazix0918)",
         "公众号：数字生命卡兹克",
-        "X：邵猛 (@shao__meng)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "IT之家·人工智能",
-        "MarkTechPost（RSS）",
-        "X：Oran Ge (@oran_ge)"
+        "X：邵猛 (@shao__meng)"
       ],
-      "latestAt": "2026-10-24T04:19:28.000Z"
+      "latestAt": "2026-10-24T12:14:49.000Z"
     },
     {
       "rank": 2,
       "id": "ss1c1fu81134agwcw2ae90gai",
-      "title": "OpenAI 前沿训练断网，红队测出 Brotli 漏洞",
+      "title": "OpenAI 断网训练前沿模型，红队测出 Brotli 漏洞",
       "source": {
         "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
@@ -42,63 +42,48 @@
         "original": "https://openai.com/index/securing-our-frontier-model-training-environment",
         "story": "https://aihot.virxact.com/story/c83d8538-d103-4a28-bd4a-629a69136b90"
       },
-      "sourceCount": 8,
-      "signalCount": 18,
-      "participantCount": 26,
+      "sourceCount": 10,
+      "signalCount": 24,
+      "participantCount": 34,
       "sourceNames": [
+        "X：Ethan Mollick (@emollick)",
+        "The Decoder：AI News（RSS）",
         "X：Dex Horthy（HumanLayer）(@dexhorthy)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "IT之家·人工智能",
         "TechCrunch：AI（RSS）",
         "X：OpenAI (@OpenAI)",
-        "The Verge：AI（RSS）",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Noam Brown (@polynoamial)"
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-10-24T06:46:06.000Z"
+      "latestAt": "2026-10-24T14:30:45.000Z"
     },
     {
       "rank": 3,
-      "id": "r4saw5foxj8v0eb82f3b66cs0",
-      "title": "OpenAI称AI协助发现PHP核心漏洞，补丁已发布",
+      "id": "rdaf8ek1z1l57i14ka0pvz1nt",
+      "title": "Block 发布纯语音模型 Dessa，仅限安全研究者测试",
       "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "name": "X：邵猛 (@shao__meng)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/r4saw5foxj8v0eb82f3b66cs0",
-        "original": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-        "story": "https://aihot.virxact.com/story/17f9865a-cef7-4d98-9742-0796331c81ea"
+        "aihot": "https://aihot.news/items/rdaf8ek1z1l57i14ka0pvz1nt",
+        "original": "https://x.com/shao__meng/status/2114217554948333812",
+        "story": "https://aihot.virxact.com/story/b88dc665-3526-426a-b781-8ca78f4d67e7"
       },
-      "sourceCount": 1,
-      "signalCount": 38,
-      "participantCount": 39,
+      "sourceCount": 6,
+      "signalCount": 13,
+      "participantCount": 19,
       "sourceNames": [
-        "Ars Technica：AI（RSS）"
+        "X：邵猛 (@shao__meng)",
+        "IT之家·人工智能",
+        "TechCrunch：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "X：Testing Catalog (@testingcatalog)",
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-10-22T15:25:02.000Z"
+      "latestAt": "2026-10-25T04:48:40.000Z"
     },
     {
       "rank": 4,
-      "id": "ofhppbtjnzfrzbv2a11sl8u7h",
-      "title": "Apple折叠屏iPhone Duo发布并开售",
-      "source": {
-        "name": "Apple：Newsroom（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ofhppbtjnzfrzbv2a11sl8u7h",
-        "original": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/",
-        "story": "https://aihot.virxact.com/story/bd558c88-9573-4806-a1aa-67426d33a87c"
-      },
-      "sourceCount": 1,
-      "signalCount": 28,
-      "participantCount": 29,
-      "sourceNames": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "latestAt": "2026-10-22T16:00:00.000Z"
-    },
-    {
-      "rank": 5,
       "id": "hhwasdljj9hnckutq2vvyei4i",
       "title": "Claude Code 核心成员 Thariq 离开 Anthropic",
       "source": {
@@ -110,8 +95,8 @@
         "story": "https://aihot.virxact.com/story/78e3c1cb-ca1a-451d-ba52-36ab86e1f68f"
       },
       "sourceCount": 3,
-      "signalCount": 11,
-      "participantCount": 14,
+      "signalCount": 15,
+      "participantCount": 18,
       "sourceNames": [
         "X：邵猛 (@shao__meng)",
         "X：Thariq (@trq212)",
@@ -120,101 +105,93 @@
       "latestAt": "2026-10-24T04:40:34.000Z"
     },
     {
-      "rank": 6,
-      "id": "jgg0i29t3o1eycc24c3wev0fx",
-      "title": "Anthropic 开放 Claude Duet 主动式智能体研究预览",
+      "rank": 5,
+      "id": "dafrctufefr9jnoig0bblrx4a",
+      "title": "Jassy 称 Amazon 算力缺口将延续至 2028 年后",
       "source": {
-        "name": "Claude：Blog（网页）"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/jgg0i29t3o1eycc24c3wev0fx",
-        "original": "https://claude.com/blog/claude-duet",
-        "story": "https://aihot.virxact.com/story/49bd934f-e6c9-434e-87b0-34b8e08b8efd"
+        "aihot": "https://aihot.news/items/dafrctufefr9jnoig0bblrx4a",
+        "original": "https://x.com/rohanpaul_ai/status/2113776070327738435",
+        "story": "https://aihot.virxact.com/story/ce94fc5b-16d5-45c6-8292-4451aa525e73"
       },
-      "sourceCount": 3,
-      "signalCount": 28,
-      "participantCount": 31,
+      "sourceCount": 2,
+      "signalCount": 9,
+      "participantCount": 11,
       "sourceNames": [
-        "Claude：YouTube（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）"
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-10-23T19:33:25.000Z"
+      "latestAt": "2026-10-24T01:51:20.050Z"
+    },
+    {
+      "rank": 6,
+      "id": "ukda0jmhl5p6nl2lqyl40rzg4",
+      "title": "马东锡质疑Kimi公关风波由营销号操盘",
+      "source": {
+        "name": "X：马东锡 NLP (@dongxi_nlp)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ukda0jmhl5p6nl2lqyl40rzg4",
+        "original": "https://x.com/dongxi_nlp/status/2114042998019264982",
+        "story": "https://aihot.virxact.com/story/4f173046-a6d0-4bbb-a1ae-34cc7d76548c"
+      },
+      "sourceCount": 2,
+      "signalCount": 8,
+      "participantCount": 10,
+      "sourceNames": [
+        "X：邵猛 (@shao__meng)",
+        "X：马东锡 NLP (@dongxi_nlp)"
+      ],
+      "latestAt": "2026-10-25T02:41:01.000Z"
     },
     {
       "rank": 7,
-      "id": "c7kz49ohg81rxi4ozxv046ttp",
-      "title": "1Password 推出智能体代登录平台，多家接入",
+      "id": "e5o9t8xv2z5j5ddhvtaee9zkg",
+      "title": "英国政府宣布投入6亿英镑应对AI风险",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/e5o9t8xv2z5j5ddhvtaee9zkg",
+        "original": "https://www.ithome.com/1/017/304.htm",
+        "story": "https://aihot.virxact.com/story/aba7467e-1c4a-4e9e-8905-c142c1b9a046"
+      },
+      "sourceCount": 1,
+      "signalCount": 10,
+      "participantCount": 11,
+      "sourceNames": [
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-10-24T00:59:37.777Z"
+    },
+    {
+      "rank": 8,
+      "id": "za67o778vzhmeybim74u0noya",
+      "title": "Grok Bot 新增 Vault 保存登录与支付信息",
       "source": {
         "name": "X：Grok Bot (@bot)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/c7kz49ohg81rxi4ozxv046ttp",
-        "original": "https://x.com/bot/status/2113332983226831339",
-        "story": "https://aihot.virxact.com/story/8b1cc389-bb11-4612-9ea6-a04753eeb832"
-      },
-      "sourceCount": 7,
-      "signalCount": 20,
-      "participantCount": 27,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：baltaaazr（SpaceXSI，Grok Bot 初版作者之一） (@baltaaazr)",
-        "X：Testing Catalog (@testingcatalog)",
-        "X：Larsen Cundric（自述加入 SpaceXSI，Grok Bot） (@larsencc)",
-        "TechCrunch：AI（RSS）",
-        "X：David Singleton（Meta MSL 工程副总裁，Muse） (@dps)",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-10-22T23:54:44.317Z"
-    },
-    {
-      "rank": 8,
-      "id": "wrnv8dd428iozlj5xax99zbmj",
-      "title": "MiniMax 开源 M3.1 Flash 权重，总参数 428B",
-      "source": {
-        "name": "MiniMax：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/wrnv8dd428iozlj5xax99zbmj",
-        "original": "https://www.minimax.io/blog/minimax-m31f",
-        "story": "https://aihot.virxact.com/story/589d286a-2a6d-48be-b14a-e61390534ec3"
+        "aihot": "https://aihot.news/items/za67o778vzhmeybim74u0noya",
+        "original": "https://x.com/bot/status/2113717946019397910",
+        "story": "https://aihot.virxact.com/story/a1acc180-e449-4e25-a658-0eb17993f729"
       },
       "sourceCount": 5,
-      "signalCount": 13,
-      "participantCount": 18,
+      "signalCount": 5,
+      "participantCount": 10,
       "sourceNames": [
-        "X：MiniMax (@MiniMax_AI)",
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "X：Larsen Cundric（自述加入 SpaceXSI，Grok Bot） (@larsencc)",
+        "X：Elon Musk (@elonmusk, xAI)",
         "X：Testing Catalog (@testingcatalog)",
-        "IT之家·人工智能",
-        "vLLM 官方博客（RSS）"
+        "X：Eric Zakariasson (@ericzakariasson)",
+        "X：Michael Truell (@mntruell)"
       ],
-      "latestAt": "2026-10-23T21:02:37.000Z"
+      "latestAt": "2026-10-24T02:40:37.000Z"
     },
     {
       "rank": 9,
-      "id": "qexf6est4uitwd71p3ugedxo6",
-      "title": "OpenAI 洽谈至多 300 亿美元融资，目标估值降至 1.25 万亿美元",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
-        "original": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-        "story": "https://aihot.virxact.com/story/15a36716-6a2a-4098-9854-ee6605f1d6bd"
-      },
-      "sourceCount": 3,
-      "signalCount": 16,
-      "participantCount": 19,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-10-23T09:49:38.000Z"
-    },
-    {
-      "rank": 10,
       "id": "poiju1x1007ttnz9cc4ioj6ro",
       "title": "AISI与Anthropic复盘Mythos 5越权攻击真实项目",
       "source": {
@@ -225,17 +202,36 @@
         "original": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
         "story": "https://aihot.virxact.com/story/30ac3030-c989-445d-ac9d-ce83e90171bc"
       },
-      "sourceCount": 5,
+      "sourceCount": 4,
       "signalCount": 7,
-      "participantCount": 12,
+      "participantCount": 11,
       "sourceNames": [
         "IT之家·人工智能",
         "The Decoder：AI News（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Anthropic (@AnthropicAI)",
-        "英国 AI Security Institute：Blog（网页）"
+        "X：Anthropic (@AnthropicAI)"
       ],
       "latestAt": "2026-10-24T06:16:59.327Z"
+    },
+    {
+      "rank": 10,
+      "id": "v14cdk5hahufp3sl2ee37yz0v",
+      "title": "新实验室称靠转租锁定GPU算力盈利",
+      "source": {
+        "name": "X：Yuchen Jin (@Yuchenj_UW)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/v14cdk5hahufp3sl2ee37yz0v",
+        "original": "https://x.com/Yuchenj_UW/status/2114043133734637735",
+        "story": "https://aihot.virxact.com/story/2f24a1ea-ceda-427b-8246-13d6c592bc7d"
+      },
+      "sourceCount": 1,
+      "signalCount": 4,
+      "participantCount": 5,
+      "sourceNames": [
+        "X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "latestAt": "2026-10-24T17:15:34.000Z"
     }
   ]
 }
