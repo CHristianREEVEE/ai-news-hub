@@ -1,52 +1,75 @@
 {
-  "updatedAt": "2026-10-25T08:19:55.057303+00:00",
+  "updatedAt": "2026-10-26T08:48:02.815376+00:00",
   "source": "aihot.virxact.com",
-  "total": 2,
+  "total": 3,
   "items": [
     {
-      "id": "d92mrmxvsfmnoyw3comncgz2c",
-      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-      "originalTitle": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
-      "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
+      "id": "he5bxeygbly5kef64gvs1tk6m",
+      "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+      "originalTitle": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
+      "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
       "source": {
-        "name": "X：Ethan Mollick (@emollick)"
+        "name": "X：可灵 Kling AI (@Kling_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c",
-        "original": "https://x.com/emollick/status/2114001653879672877"
+        "aihot": "https://aihot.news/items/he5bxeygbly5kef64gvs1tk6m",
+        "original": "https://x.com/Kling_ai/status/2114574035468386746"
       },
-      "publishedAt": "2026-10-24T14:30:45.000Z",
-      "discoveredAt": "2026-10-24T14:48:46.184Z",
-      "category": "opinion",
-      "score": 77,
+      "publishedAt": "2026-10-26T04:25:11.000Z",
+      "discoveredAt": "2026-10-26T04:49:38.059Z",
+      "category": "ai-products",
+      "score": 67,
       "selected": true,
-      "reason": "作者借 OpenAI 红队测试的具体案例，说明实验室关于 AI 网络安全的前瞻判断值得认真对待。",
+      "reason": "引用内容列出 Kling 4.0 上线 Runware API 的关键规格和限时价格，方便开发者评估接入与迁移成本。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/d92mrmxvsfmnoyw3comncgz2c"
+        "url": "https://aihot.news/items/he5bxeygbly5kef64gvs1tk6m"
       }
     },
     {
-      "id": "imgp55zxmw4jugt1a29ap9yo1",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-      "originalTitle": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
+      "id": "o1r046h1yurwlvv536eergn57",
+      "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+      "originalTitle": "手把手教你用AI逆向现实世界，把一切改成自己喜欢的样子。",
+      "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "X：卡兹克 (@Khazix0918)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-        "original": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/"
+        "aihot": "https://aihot.news/items/o1r046h1yurwlvv536eergn57",
+        "original": "https://x.com/Khazix0918/status/2114579883527655853"
       },
-      "publishedAt": "2026-10-24T11:12:36.000Z",
-      "discoveredAt": "2026-10-24T11:53:51.477Z",
-      "category": "paper",
-      "score": 82,
+      "publishedAt": "2026-10-26T04:48:25.000Z",
+      "discoveredAt": "2026-10-26T04:49:38.051Z",
+      "category": "tip",
+      "score": 67,
       "selected": true,
-      "reason": "文章梳理了 OpenAI 沙箱与红队机制的来龙去脉，隔离智能体通过 CPU 缓存通信的细节让抽象的包含问题变得具体。",
+      "reason": "作者以公司电视、补光灯、相机改造的完整过程为例，给出让 Agent 逆向硬件的可复用思路和备份提醒。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1"
+        "url": "https://aihot.news/items/o1r046h1yurwlvv536eergn57"
+      }
+    },
+    {
+      "id": "j5auxb780hddyh0hlgekuw03h",
+      "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
+      "originalTitle": "How to Let Your Coding Agent Use Your Logged-In Chrome (2026)",
+      "summary": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。",
+      "source": {
+        "name": "Browser Use"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/j5auxb780hddyh0hlgekuw03h",
+        "original": "https://browser-use.com/posts/coding-agent-logged-in-chrome"
+      },
+      "publishedAt": "2026-10-25T00:00:00.000Z",
+      "discoveredAt": "2026-10-25T23:59:19.584Z",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "reason": "作者按编程智能体逐一梳理接入已登录 Chrome 的方案与配置，并解释为何复制 Cookie 行不通，方法可直接迁移到自己的工具链。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/j5auxb780hddyh0hlgekuw03h"
       }
     }
   ]
