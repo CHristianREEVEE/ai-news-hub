@@ -1,10 +1,133 @@
 {
-  "updatedAt": "2026-10-26T08:48:04.705690+00:00",
+  "updatedAt": "2026-10-27T08:53:49.579904+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "original": "https://www.anthropic.com/news/s1-sec",
+        "story": "https://aihot.virxact.com/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+      },
+      "sourceCount": 14,
+      "signalCount": 71,
+      "participantCount": 85,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：卡兹克 (@Khazix0918)",
+        "X：indigo (@indigox)",
+        "公众号：数字生命卡兹克",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "latestAt": "2026-10-27T03:09:14.067Z"
+    },
+    {
+      "rank": 2,
+      "id": "xmpu9lo3lbzld3tqsyrcy5e2v",
+      "title": "OpenAI 发布 GPT-6.1 Terra，API 价格减半",
+      "source": {
+        "name": "X：Tibo (@thsottiaux)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
+        "original": "https://x.com/thsottiaux/status/2114800277677092936",
+        "story": "https://aihot.virxact.com/story/30e9a1ca-aae1-410a-b1c6-53893df398db"
+      },
+      "sourceCount": 12,
+      "signalCount": 53,
+      "participantCount": 65,
+      "sourceNames": [
+        "MarkTechPost（RSS）",
+        "Simon Willison 博客",
+        "IT之家·人工智能",
+        "X：OpenClaw (@openclaw)",
+        "X：Sam Altman (@sama)",
+        "The Decoder：AI News（RSS）",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Testing Catalog (@testingcatalog)"
+      ],
+      "latestAt": "2026-10-27T02:45:27.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "jxpzj0z4beg1r0cktwzc0tmwe",
+      "title": "OpenAI 称 AI 取得三项科学发现，细节未公开",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
+        "original": "https://www.ithome.com/1/018/203.htm",
+        "story": "https://aihot.virxact.com/story/d79cd457-4d11-436e-954d-430d2aab4438"
+      },
+      "sourceCount": 6,
+      "signalCount": 26,
+      "participantCount": 32,
+      "sourceNames": [
+        "X：Yuchen Jin (@Yuchenj_UW)",
+        "X：Ethan Mollick (@emollick)",
+        "IT之家·人工智能",
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Greg Brockman (@gdb)"
+      ],
+      "latestAt": "2026-10-27T04:03:33.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "m4l5hb0qhkn1zzgbqzxe6o510",
+      "title": "微软向约六万员工发出自愿离职邀约",
+      "source": {
+        "name": "X：Oran Ge (@oran_ge)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/m4l5hb0qhkn1zzgbqzxe6o510",
+        "original": "https://x.com/oran_ge/status/2114876309650497853",
+        "story": "https://aihot.virxact.com/story/1aa4aaac-b209-467a-98f0-a36afb168840"
+      },
+      "sourceCount": 1,
+      "signalCount": 30,
+      "participantCount": 31,
+      "sourceNames": [
+        "X：Oran Ge (@oran_ge)"
+      ],
+      "latestAt": "2026-10-27T00:43:54.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "c05wmjyq8b00trv4dmhnb0gen",
+      "title": "Cohere称Qwen模型在沙箱中尝试外传探针文件",
+      "source": {
+        "name": "Hacker News：AI 热帖"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/c05wmjyq8b00trv4dmhnb0gen",
+        "original": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "story": "https://aihot.virxact.com/story/6f5a6f0d-d929-4115-a812-e6c107707ea4"
+      },
+      "sourceCount": 5,
+      "signalCount": 17,
+      "participantCount": 22,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "X：Cohere（@cohere）",
+        "X：Nathan Lambert (@natolambert)",
+        "X：Testing Catalog (@testingcatalog)",
+        "Hacker News：AI 热帖"
+      ],
+      "latestAt": "2026-10-27T01:12:21.000Z"
+    },
+    {
+      "rank": 6,
       "id": "ji19kgoq8nfbm48kstr7gbs4g",
       "title": "债务市场收紧，200余家NeoCloud面临出清",
       "source": {
@@ -16,36 +139,57 @@
         "story": "https://aihot.virxact.com/story/7a938db4-1e60-49e0-8ca2-48894983a894"
       },
       "sourceCount": 1,
-      "signalCount": 17,
-      "participantCount": 18,
+      "signalCount": 26,
+      "participantCount": 27,
       "sourceNames": [
         "X：indigo (@indigox)"
       ],
       "latestAt": "2026-10-26T03:20:56.000Z"
     },
     {
-      "rank": 2,
-      "id": "okgjn7r72wo7c5j0bu3o1vbie",
-      "title": "月之暗面发布 Kimi K3.1 Pro，权重定于 11 月 4 日前释出",
+      "rank": 7,
+      "id": "bc44sjhr0zz2k4wv2d8wvn2sw",
+      "title": "Apple发布新款iPad mini：OLED屏、A20 Pro、699美元起",
       "source": {
-        "name": "Moonshot AI：Kimi Blog"
+        "name": "Apple：Newsroom（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/okgjn7r72wo7c5j0bu3o1vbie",
-        "original": "https://www.kimi.com/blog/kimi-k3-1-pro",
-        "story": "https://aihot.virxact.com/story/6cbe9dba-8fec-42b1-92ab-5a9ccf944190"
+        "aihot": "https://aihot.news/items/bc44sjhr0zz2k4wv2d8wvn2sw",
+        "original": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+        "story": "https://aihot.virxact.com/story/38f6f5e5-65a5-4b0c-b595-a0b875834cff"
       },
-      "sourceCount": 2,
-      "signalCount": 27,
-      "participantCount": 29,
+      "sourceCount": 1,
+      "signalCount": 19,
+      "participantCount": 20,
       "sourceNames": [
-        "X：Nathan Lambert (@natolambert)",
-        "公众号：月之暗面（Kimi）"
+        "Apple：Newsroom（RSS）"
       ],
-      "latestAt": "2026-10-24T12:14:49.000Z"
+      "latestAt": "2026-10-25T16:00:00.000Z"
     },
     {
-      "rank": 3,
+      "rank": 8,
+      "id": "el5ajsjzi2ya2wtygfxsp2iit",
+      "title": "Meta 设无投票权 C 类股并拟融资至多 950 亿美元",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/el5ajsjzi2ya2wtygfxsp2iit",
+        "original": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+        "story": "https://aihot.virxact.com/story/5e617f03-d353-4828-93ae-f98b563f3b2b"
+      },
+      "sourceCount": 3,
+      "signalCount": 16,
+      "participantCount": 19,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-10-26T18:40:26.000Z"
+    },
+    {
+      "rank": 9,
       "id": "qzp95at6fpxmnd251zsidaard",
       "title": "Kimi为K3.1 Pro限流致歉并补偿订阅用户",
       "source": {
@@ -57,8 +201,8 @@
         "story": "https://aihot.virxact.com/story/f8dac6dc-f133-47be-90ad-b17297774877"
       },
       "sourceCount": 3,
-      "signalCount": 7,
-      "participantCount": 10,
+      "signalCount": 14,
+      "participantCount": 17,
       "sourceNames": [
         "X：X.PIN (@thexpin)",
         "IT之家·人工智能",
@@ -67,151 +211,25 @@
       "latestAt": "2026-10-26T08:05:00.000Z"
     },
     {
-      "rank": 4,
-      "id": "nynsuh9lcuwhwja8718vd7ogb",
-      "title": "Claude被曝绕过付费墙调取佐治亚州选民数据",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/nynsuh9lcuwhwja8718vd7ogb",
-        "original": "https://www.ithome.com/1/017/732.htm",
-        "story": "https://aihot.virxact.com/story/1c275e41-27fa-4f1e-bc8d-f3fa9f452d1b"
-      },
-      "sourceCount": 1,
-      "signalCount": 7,
-      "participantCount": 8,
-      "sourceNames": [
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-10-25T23:56:18.833Z"
-    },
-    {
-      "rank": 5,
-      "id": "wg0d0d9p9tlca5uovrz43xqkp",
-      "title": "Apollo 经济学家称 AI 对科技业外公司零回报，遭反驳",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/wg0d0d9p9tlca5uovrz43xqkp",
-        "original": "https://www.ithome.com/1/017/838.htm",
-        "story": "https://aihot.virxact.com/story/1a60e1f6-2edf-4807-9aa8-5c0976126068"
-      },
-      "sourceCount": 3,
-      "signalCount": 6,
-      "participantCount": 9,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-10-26T04:30:20.203Z"
-    },
-    {
-      "rank": 6,
-      "id": "od27jhzlxxvnd0mrfnzua6ibd",
-      "title": "r/opensource 版规禁 AI 项目，引发分流",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/od27jhzlxxvnd0mrfnzua6ibd",
-        "original": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-        "story": "https://aihot.virxact.com/story/6bf5177b-7662-4c98-b119-b5265dce9136"
-      },
-      "sourceCount": 1,
-      "signalCount": 6,
-      "participantCount": 7,
-      "sourceNames": [
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-10-25T13:25:32.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "ss1c1fu81134agwcw2ae90gai",
-      "title": "OpenAI 断网训练前沿模型，红队测出 Brotli 漏洞",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ss1c1fu81134agwcw2ae90gai",
-        "original": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "story": "https://aihot.virxact.com/story/c83d8538-d103-4a28-bd4a-629a69136b90"
-      },
-      "sourceCount": 2,
-      "signalCount": 9,
-      "participantCount": 11,
-      "sourceNames": [
-        "X：Ethan Mollick (@emollick)",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-10-24T14:30:45.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "rdaf8ek1z1l57i14ka0pvz1nt",
-      "title": "Block 发布纯语音模型 Dessa，仅限安全研究者测试",
-      "source": {
-        "name": "X：邵猛 (@shao__meng)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/rdaf8ek1z1l57i14ka0pvz1nt",
-        "original": "https://x.com/shao__meng/status/2114217554948333812",
-        "story": "https://aihot.virxact.com/story/b88dc665-3526-426a-b781-8ca78f4d67e7"
-      },
-      "sourceCount": 4,
-      "signalCount": 7,
-      "participantCount": 11,
-      "sourceNames": [
-        "X：邵猛 (@shao__meng)",
-        "IT之家·人工智能",
-        "TechCrunch：AI（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-10-25T04:48:40.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "biakuagye3oijk0ydn1zcjwit",
-      "title": "英伟达下调Rubin GPU的HBM与NVLink带宽",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/biakuagye3oijk0ydn1zcjwit",
-        "original": "https://www.ithome.com/1/017/812.htm",
-        "story": "https://aihot.virxact.com/story/52563299-4eb9-4318-bf0b-755bee206692"
-      },
-      "sourceCount": 1,
-      "signalCount": 4,
-      "participantCount": 5,
-      "sourceNames": [
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-10-26T03:26:52.503Z"
-    },
-    {
       "rank": 10,
-      "id": "jwtivjvy2xmjcl81vm76l4apo",
-      "title": "南北阁发布33B开源模型，称多数基准领先",
+      "id": "r410j9jdvp6oavqqfzgtr6t7q",
+      "title": "蚂蚁发布灵光 2.0，AI 助理可跨会话持续办事",
       "source": {
-        "name": "MarkTechPost（RSS）"
+        "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/jwtivjvy2xmjcl81vm76l4apo",
-        "original": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-        "story": "https://aihot.virxact.com/story/c91a54ad-7c60-4add-9a60-24a2a9485ff6"
+        "aihot": "https://aihot.news/items/r410j9jdvp6oavqqfzgtr6t7q",
+        "original": "https://www.ithome.com/1/018/252.htm",
+        "story": "https://aihot.virxact.com/story/8bcf43d2-9952-471e-a73f-aba4f4e855ee"
       },
       "sourceCount": 2,
-      "signalCount": 4,
-      "participantCount": 6,
+      "signalCount": 8,
+      "participantCount": 10,
       "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：Testing Catalog (@testingcatalog)"
+        "公众号：卡尔的AI沃茨",
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-10-25T21:15:21.000Z"
+      "latestAt": "2026-10-27T06:14:00.000Z"
     }
   ]
 }
