@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T08:53:49.579904+00:00",
+  "updatedAt": "2026-10-28T09:33:38.102239+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -16,22 +16,49 @@
         "story": "https://aihot.virxact.com/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
       },
       "sourceCount": 14,
-      "signalCount": 71,
-      "participantCount": 85,
+      "signalCount": 83,
+      "participantCount": 97,
       "sourceNames": [
         "IT之家·人工智能",
-        "X：卡兹克 (@Khazix0918)",
-        "X：indigo (@indigox)",
-        "公众号：数字生命卡兹克",
         "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "Ars Technica：AI（RSS）",
+        "Azeem Azhar：Exponential View（RSS）",
         "The Verge：AI（RSS）",
         "The Decoder：AI News（RSS）",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "X：卡兹克 (@Khazix0918)"
       ],
-      "latestAt": "2026-10-27T03:09:14.067Z"
+      "latestAt": "2026-10-28T06:35:47.357Z"
     },
     {
       "rank": 2,
+      "id": "l74eacnb38ytvm5hm8om7h7cs",
+      "title": "Google DeepMind 发布 Genie 4 世界模型研究预览版",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
+        "original": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "story": "https://aihot.virxact.com/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180"
+      },
+      "sourceCount": 16,
+      "signalCount": 47,
+      "participantCount": 63,
+      "sourceNames": [
+        "MarkTechPost（RSS）",
+        "X：Ethan Mollick (@emollick)",
+        "X：indigo (@indigox)",
+        "X：卡兹克 (@Khazix0918)",
+        "公众号：数字生命卡兹克",
+        "X：Demis Hassabis (@demishassabis)",
+        "IT之家·人工智能",
+        "X：Oran Ge (@oran_ge)"
+      ],
+      "latestAt": "2026-10-28T07:34:58.000Z"
+    },
+    {
+      "rank": 3,
       "id": "xmpu9lo3lbzld3tqsyrcy5e2v",
       "title": "OpenAI 发布 GPT-6.1 Terra，API 价格减半",
       "source": {
@@ -43,24 +70,24 @@
         "story": "https://aihot.virxact.com/story/30e9a1ca-aae1-410a-b1c6-53893df398db"
       },
       "sourceCount": 12,
-      "signalCount": 53,
-      "participantCount": 65,
+      "signalCount": 75,
+      "participantCount": 87,
       "sourceNames": [
+        "IT之家·人工智能",
+        "X：Vaibhav Srivastav（OpenAI）(@reach_vb)",
+        "X：Arena (@arena)",
+        "X：卡兹克 (@Khazix0918)",
         "MarkTechPost（RSS）",
         "Simon Willison 博客",
-        "IT之家·人工智能",
         "X：OpenClaw (@openclaw)",
-        "X：Sam Altman (@sama)",
-        "The Decoder：AI News（RSS）",
-        "X：OpenRouter (@OpenRouter)",
-        "X：Testing Catalog (@testingcatalog)"
+        "X：Sam Altman (@sama)"
       ],
-      "latestAt": "2026-10-27T02:45:27.000Z"
+      "latestAt": "2026-10-28T02:01:04.710Z"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "jxpzj0z4beg1r0cktwzc0tmwe",
-      "title": "OpenAI 称 AI 取得三项科学发现，细节未公开",
+      "title": "OpenAI 称三项科学发现，物理证明未公开引呼吁",
       "source": {
         "name": "IT之家·人工智能"
       },
@@ -69,21 +96,23 @@
         "original": "https://www.ithome.com/1/018/203.htm",
         "story": "https://aihot.virxact.com/story/d79cd457-4d11-436e-954d-430d2aab4438"
       },
-      "sourceCount": 6,
-      "signalCount": 26,
-      "participantCount": 32,
+      "sourceCount": 8,
+      "signalCount": 34,
+      "participantCount": 42,
       "sourceNames": [
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）",
         "X：Yuchen Jin (@Yuchenj_UW)",
         "X：Ethan Mollick (@emollick)",
         "IT之家·人工智能",
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
         "X：Greg Brockman (@gdb)"
       ],
-      "latestAt": "2026-10-27T04:03:33.000Z"
+      "latestAt": "2026-10-27T20:48:58.000Z"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "m4l5hb0qhkn1zzgbqzxe6o510",
       "title": "微软向约六万员工发出自愿离职邀约",
       "source": {
@@ -95,15 +124,102 @@
         "story": "https://aihot.virxact.com/story/1aa4aaac-b209-467a-98f0-a36afb168840"
       },
       "sourceCount": 1,
-      "signalCount": 30,
-      "participantCount": 31,
+      "signalCount": 33,
+      "participantCount": 34,
       "sourceNames": [
         "X：Oran Ge (@oran_ge)"
       ],
       "latestAt": "2026-10-27T00:43:54.000Z"
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "id": "j9n2v4vucqk9r4mzddueppd2v",
+      "title": "英伟达与Meta扩大Muse合作并投资30亿美元",
+      "source": {
+        "name": "NVIDIA：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/j9n2v4vucqk9r4mzddueppd2v",
+        "original": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+        "story": "https://aihot.virxact.com/story/724567a6-6d89-45af-ac21-7ed9e27cce8b"
+      },
+      "sourceCount": 4,
+      "signalCount": 16,
+      "participantCount": 20,
+      "sourceNames": [
+        "X：Testing Catalog (@testingcatalog)",
+        "The Decoder：AI News（RSS）",
+        "IT之家·人工智能",
+        "NVIDIA：Newsroom（RSS）"
+      ],
+      "latestAt": "2026-10-27T12:10:02.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "o0okltd585bcx5lh6bkq53n59",
+      "title": "Apple发布搭载M6芯片的14英寸MacBook Pro",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/o0okltd585bcx5lh6bkq53n59",
+        "original": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+        "story": "https://aihot.virxact.com/story/93c5795b-86df-47b3-b461-db55ecc172a6"
+      },
+      "sourceCount": 1,
+      "signalCount": 17,
+      "participantCount": 18,
+      "sourceNames": [
+        "Apple：Newsroom（RSS）"
+      ],
+      "latestAt": "2026-10-26T16:00:00.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "jxc0l26zdfca6g34z6h20tfde",
+      "title": "OpenAI 拟采购谷歌 TPU 并招募工程师适配",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/jxc0l26zdfca6g34z6h20tfde",
+        "original": "https://x.com/rohanpaul_ai/status/2115261691906978233",
+        "story": "https://aihot.virxact.com/story/ff626510-f5f9-422e-afef-6eb6511db434"
+      },
+      "sourceCount": 2,
+      "signalCount": 11,
+      "participantCount": 13,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-10-28T01:59:45.637Z"
+    },
+    {
+      "rank": 9,
+      "id": "s06bmy25gmrtj73ordbvi4q9e",
+      "title": "Anthropic公布药物研发合作，并传收购Mithril Medicine",
+      "source": {
+        "name": "X：Anthropic (@AnthropicAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/s06bmy25gmrtj73ordbvi4q9e",
+        "original": "https://x.com/AnthropicAI/status/2115178675050307942",
+        "story": "https://aihot.virxact.com/story/37c4f934-a969-4d47-b4ab-d8394ef134ba"
+      },
+      "sourceCount": 4,
+      "signalCount": 11,
+      "participantCount": 15,
+      "sourceNames": [
+        "X：Oran Ge (@oran_ge)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Yuchen Jin (@Yuchenj_UW)",
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "latestAt": "2026-10-27T23:24:34.000Z"
+    },
+    {
+      "rank": 10,
       "id": "c05wmjyq8b00trv4dmhnb0gen",
       "title": "Cohere称Qwen模型在沙箱中尝试外传探针文件",
       "source": {
@@ -115,8 +231,8 @@
         "story": "https://aihot.virxact.com/story/6f5a6f0d-d929-4115-a812-e6c107707ea4"
       },
       "sourceCount": 5,
-      "signalCount": 17,
-      "participantCount": 22,
+      "signalCount": 20,
+      "participantCount": 25,
       "sourceNames": [
         "TechCrunch：AI（RSS）",
         "X：Cohere（@cohere）",
@@ -125,111 +241,6 @@
         "Hacker News：AI 热帖"
       ],
       "latestAt": "2026-10-27T01:12:21.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "ji19kgoq8nfbm48kstr7gbs4g",
-      "title": "债务市场收紧，200余家NeoCloud面临出清",
-      "source": {
-        "name": "X：indigo (@indigox)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ji19kgoq8nfbm48kstr7gbs4g",
-        "original": "https://x.com/indigox/status/2114557866967519523",
-        "story": "https://aihot.virxact.com/story/7a938db4-1e60-49e0-8ca2-48894983a894"
-      },
-      "sourceCount": 1,
-      "signalCount": 26,
-      "participantCount": 27,
-      "sourceNames": [
-        "X：indigo (@indigox)"
-      ],
-      "latestAt": "2026-10-26T03:20:56.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "bc44sjhr0zz2k4wv2d8wvn2sw",
-      "title": "Apple发布新款iPad mini：OLED屏、A20 Pro、699美元起",
-      "source": {
-        "name": "Apple：Newsroom（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/bc44sjhr0zz2k4wv2d8wvn2sw",
-        "original": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-        "story": "https://aihot.virxact.com/story/38f6f5e5-65a5-4b0c-b595-a0b875834cff"
-      },
-      "sourceCount": 1,
-      "signalCount": 19,
-      "participantCount": 20,
-      "sourceNames": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "latestAt": "2026-10-25T16:00:00.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "el5ajsjzi2ya2wtygfxsp2iit",
-      "title": "Meta 设无投票权 C 类股并拟融资至多 950 亿美元",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/el5ajsjzi2ya2wtygfxsp2iit",
-        "original": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-        "story": "https://aihot.virxact.com/story/5e617f03-d353-4828-93ae-f98b563f3b2b"
-      },
-      "sourceCount": 3,
-      "signalCount": 16,
-      "participantCount": 19,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-10-26T18:40:26.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "qzp95at6fpxmnd251zsidaard",
-      "title": "Kimi为K3.1 Pro限流致歉并补偿订阅用户",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/qzp95at6fpxmnd251zsidaard",
-        "original": "https://www.ithome.com/1/017/723.htm",
-        "story": "https://aihot.virxact.com/story/f8dac6dc-f133-47be-90ad-b17297774877"
-      },
-      "sourceCount": 3,
-      "signalCount": 14,
-      "participantCount": 17,
-      "sourceNames": [
-        "X：X.PIN (@thexpin)",
-        "IT之家·人工智能",
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "latestAt": "2026-10-26T08:05:00.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "r410j9jdvp6oavqqfzgtr6t7q",
-      "title": "蚂蚁发布灵光 2.0，AI 助理可跨会话持续办事",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/r410j9jdvp6oavqqfzgtr6t7q",
-        "original": "https://www.ithome.com/1/018/252.htm",
-        "story": "https://aihot.virxact.com/story/8bcf43d2-9952-471e-a73f-aba4f4e855ee"
-      },
-      "sourceCount": 2,
-      "signalCount": 8,
-      "participantCount": 10,
-      "sourceNames": [
-        "公众号：卡尔的AI沃茨",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-10-27T06:14:00.000Z"
     }
   ]
 }
