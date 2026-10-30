@@ -1,64 +1,86 @@
 {
-  "updatedAt": "2026-10-29T09:51:55.274396+00:00",
+  "updatedAt": "2026-10-30T09:55:45.162576+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
       "id": "fjeloaahylonpc0pv5tduusud",
-      "title": "谷歌发布 Gemini 4 Carbon，称登顶 AA v5",
+      "title": "AA v5 改版：私有测试集拉大开源闭源差距，Gemini 4 Carbon 登顶",
       "source": {
         "name": "Google DeepMind：Blog（RSS）"
       },
       "links": {
         "aihot": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
         "original": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-        "story": "https://aihot.virxact.com/story/62c69dca-91ed-4912-96ed-fb608f645ee7"
+        "story": "https://aihot.virxact.com/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb"
       },
-      "sourceCount": 15,
-      "signalCount": 66,
-      "participantCount": 81,
+      "sourceCount": 14,
+      "signalCount": 79,
+      "participantCount": 93,
       "sourceNames": [
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Rohan Paul (@rohanpaul_ai)",
         "X：Google (@Google)",
         "X：indigo (@indigox)",
         "X：Arena (@arena)",
         "IT之家·人工智能",
         "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "Ars Technica：AI（RSS）",
-        "MarkTechPost（RSS）"
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-10-28T22:30:11.000Z"
+      "latestAt": "2026-10-30T02:09:18.000Z"
     },
     {
       "rank": 2,
-      "id": "l74eacnb38ytvm5hm8om7h7cs",
-      "title": "Google DeepMind 发布 Genie 4 世界模型研究预览版",
+      "id": "funx6p4g0gju509j6n0oyxmqu",
+      "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "X：Tibo (@thsottiaux)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/l74eacnb38ytvm5hm8om7h7cs",
-        "original": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-        "story": "https://aihot.virxact.com/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180"
+        "aihot": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
+        "original": "https://x.com/thsottiaux/status/2115850175868727621",
+        "story": "https://aihot.virxact.com/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076"
       },
-      "sourceCount": 13,
-      "signalCount": 63,
-      "participantCount": 76,
+      "sourceCount": 3,
+      "signalCount": 28,
+      "participantCount": 31,
       "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：indigo (@indigox)",
-        "X：卡兹克 (@Khazix0918)",
-        "公众号：数字生命卡兹克",
-        "X：Demis Hassabis (@demishassabis)",
         "IT之家·人工智能",
         "The Decoder：AI News（RSS）",
-        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
+        "X：Tibo (@thsottiaux)"
       ],
-      "latestAt": "2026-10-28T07:34:58.000Z"
+      "latestAt": "2026-10-30T00:34:52.630Z"
     },
     {
       "rank": 3,
+      "id": "upsd8u37hkkquohy3w3sjvszi",
+      "title": "Mistral 开源万亿参数 Le Chonk，Unsloth 推 1-bit 量化版",
+      "source": {
+        "name": "Hugging Face 官方团队博客"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
+        "original": "https://huggingface.co/blog/mistral-large4",
+        "story": "https://aihot.virxact.com/story/95f84774-ef5a-41b7-9bd8-fc3d0cbc20ac"
+      },
+      "sourceCount": 11,
+      "signalCount": 21,
+      "participantCount": 32,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）",
+        "X：Arthur Mensch（Mistral CEO） (@arthurmensch)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Unsloth (@UnslothAI)",
+        "X：Mistral AI (@MistralAI)",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-30T01:09:09.660Z"
+    },
+    {
+      "rank": 4,
       "id": "urs0f8vvh3zel0gh18qvn8h09",
       "title": "Apple发布PROLED XDR屏MacBook Pro，首配触控",
       "source": {
@@ -69,18 +91,40 @@
         "original": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
         "story": "https://aihot.virxact.com/story/add1dde9-53ea-4f82-9daa-6d50735a149c"
       },
-      "sourceCount": 3,
-      "signalCount": 32,
-      "participantCount": 35,
+      "sourceCount": 2,
+      "signalCount": 34,
+      "participantCount": 36,
       "sourceNames": [
         "X：Dash (@dashhuang)",
-        "X：indigo (@indigox)",
-        "Apple：Newsroom（RSS）"
+        "X：indigo (@indigox)"
       ],
       "latestAt": "2026-10-29T00:31:38.000Z"
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "id": "m5st8pvirbas7phreshbzkrc9",
+      "title": "Alphabet Q3营收增25%，AI搜索变现承压",
+      "source": {
+        "name": "X：Sundar Pichai (@sundarpichai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
+        "original": "https://x.com/sundarpichai/status/2115535455156642066",
+        "story": "https://aihot.virxact.com/story/c432aa2e-0614-4744-8618-1769e016569b"
+      },
+      "sourceCount": 4,
+      "signalCount": 21,
+      "participantCount": 25,
+      "sourceNames": [
+        "Ars Technica：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "latestAt": "2026-10-29T16:24:55.000Z"
+    },
+    {
+      "rank": 6,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
       "title": "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
       "source": {
@@ -91,23 +135,19 @@
         "original": "https://www.anthropic.com/news/s1-sec",
         "story": "https://aihot.virxact.com/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
       },
-      "sourceCount": 9,
-      "signalCount": 34,
-      "participantCount": 43,
+      "sourceCount": 4,
+      "signalCount": 14,
+      "participantCount": 18,
       "sourceNames": [
-        "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Saito 硬地骇客 (@SaitoWu)",
-        "IT之家·人工智能",
-        "TechCrunch：AI（RSS）",
-        "Ars Technica：AI（RSS）",
-        "Azeem Azhar：Exponential View（RSS）",
-        "The Verge：AI（RSS）"
+        "Timothy B. Lee：Understanding AI（RSS）",
+        "The Verge：AI（RSS）",
+        "Ed Zitron 长文 / Where’s Your Ed At（RSS）"
       ],
-      "latestAt": "2026-10-28T17:51:00.000Z"
+      "latestAt": "2026-10-30T01:28:37.000Z"
     },
     {
-      "rank": 5,
+      "rank": 7,
       "id": "hb9hlobx48r7sz850swx62efv",
       "title": "NVIDIA 发布开放权重语音模型 Nemotron 3.5 Transcribe",
       "source": {
@@ -119,8 +159,8 @@
         "story": "https://aihot.virxact.com/story/0aff3bb1-44c6-45f9-92fa-d4d7e6ec3945"
       },
       "sourceCount": 6,
-      "signalCount": 11,
-      "participantCount": 17,
+      "signalCount": 16,
+      "participantCount": 22,
       "sourceNames": [
         "IT之家·人工智能",
         "MarkTechPost（RSS）",
@@ -132,29 +172,51 @@
       "latestAt": "2026-10-29T07:31:29.940Z"
     },
     {
-      "rank": 6,
-      "id": "p2duc8iee22e74ooyyvuch32d",
-      "title": "微软首披Azure单季营收332亿美元，超预期",
+      "rank": 8,
+      "id": "op2kjf327vilvhbxkjicxg5ec",
+      "title": "Reddit 转向登录优先，应对 AI 搜索流量下滑",
       "source": {
-        "name": "X：Satya Nadella (@satyanadella)"
+        "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/p2duc8iee22e74ooyyvuch32d",
-        "original": "https://x.com/satyanadella/status/2115577764300693644",
-        "story": "https://aihot.virxact.com/story/11d678b6-32a9-4107-b928-74a73608cd88"
+        "aihot": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
+        "original": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "story": "https://aihot.virxact.com/story/7d33bdf1-51cb-4135-bb00-02ee0f42123d"
       },
-      "sourceCount": 3,
-      "signalCount": 14,
-      "participantCount": 17,
+      "sourceCount": 2,
+      "signalCount": 9,
+      "participantCount": 11,
       "sourceNames": [
-        "X：Satya Nadella (@satyanadella)",
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-10-28T22:53:41.000Z"
+      "latestAt": "2026-10-30T06:59:22.000Z"
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "id": "lq97h52ctxw2nkri4qqxj5lbx",
+      "title": "纽时称中国情报人员接近黄仁勋，英伟达否认",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
+        "original": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
+        "story": "https://aihot.virxact.com/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
+      },
+      "sourceCount": 4,
+      "signalCount": 9,
+      "participantCount": 13,
+      "sourceNames": [
+        "Ars Technica：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-10-29T18:29:12.000Z"
+    },
+    {
+      "rank": 10,
       "id": "s0x0m11ny4wsnv6aydm6oqy39",
       "title": "OpenAI 向 Pro 与 Business 订阅者发放 API 额度",
       "source": {
@@ -165,78 +227,14 @@
         "original": "https://x.com/OpenAIDevs/status/2115583698074755078",
         "story": "https://aihot.virxact.com/story/08d907d8-e0b3-41bc-b07e-9b475c378c41"
       },
-      "sourceCount": 1,
-      "signalCount": 14,
-      "participantCount": 15,
+      "sourceCount": 2,
+      "signalCount": 15,
+      "participantCount": 17,
       "sourceNames": [
+        "Simon Willison 博客",
         "X：ChatGPT (@ChatGPT)"
       ],
-      "latestAt": "2026-10-29T00:26:29.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "xmpu9lo3lbzld3tqsyrcy5e2v",
-      "title": "OpenAI 发布 GPT-6.1 Terra，API 价格减半",
-      "source": {
-        "name": "X：Tibo (@thsottiaux)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/xmpu9lo3lbzld3tqsyrcy5e2v",
-        "original": "https://x.com/thsottiaux/status/2114800277677092936",
-        "story": "https://aihot.virxact.com/story/30e9a1ca-aae1-410a-b1c6-53893df398db"
-      },
-      "sourceCount": 3,
-      "signalCount": 29,
-      "participantCount": 32,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Arena (@arena)",
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "latestAt": "2026-10-28T02:01:04.710Z"
-    },
-    {
-      "rank": 9,
-      "id": "m5st8pvirbas7phreshbzkrc9",
-      "title": "Alphabet Q3营收增25%，云收入翻倍至307亿美元",
-      "source": {
-        "name": "X：Sundar Pichai (@sundarpichai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/m5st8pvirbas7phreshbzkrc9",
-        "original": "https://x.com/sundarpichai/status/2115535455156642066",
-        "story": "https://aihot.virxact.com/story/c432aa2e-0614-4744-8618-1769e016569b"
-      },
-      "sourceCount": 3,
-      "signalCount": 10,
-      "participantCount": 13,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Sundar Pichai (@sundarpichai)"
-      ],
-      "latestAt": "2026-10-28T21:48:37.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "s06bmy25gmrtj73ordbvi4q9e",
-      "title": "Anthropic公布药物研发合作，并传收购Mithril Medicine",
-      "source": {
-        "name": "X：Anthropic (@AnthropicAI)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/s06bmy25gmrtj73ordbvi4q9e",
-        "original": "https://x.com/AnthropicAI/status/2115178675050307942",
-        "story": "https://aihot.virxact.com/story/37c4f934-a969-4d47-b4ab-d8394ef134ba"
-      },
-      "sourceCount": 2,
-      "signalCount": 21,
-      "participantCount": 23,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "latestAt": "2026-10-27T20:54:24.000Z"
+      "latestAt": "2026-10-29T22:48:29.000Z"
     }
   ]
 }
