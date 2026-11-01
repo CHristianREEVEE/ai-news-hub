@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T09:32:00.666073+00:00",
+  "updatedAt": "2026-11-01T10:22:14.397629+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -13,11 +13,11 @@
       "links": {
         "aihot": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
         "original": "https://www.ithome.com/1/020/392.htm",
-        "story": "https://aihot.virxact.com/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c"
+        "story": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c"
       },
       "sourceCount": 3,
-      "signalCount": 22,
-      "participantCount": 25,
+      "signalCount": 27,
+      "participantCount": 30,
       "sourceNames": [
         "公众号：千问APP（阿里）",
         "IT之家·人工智能",
@@ -27,6 +27,75 @@
     },
     {
       "rank": 2,
+      "id": "oig5qkyz9fzkdpchgk7l2cmm3",
+      "title": "DeepSeek开源Super-agent双层架构原型",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
+        "original": "https://www.ithome.com/1/020/615.htm",
+        "story": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4"
+      },
+      "sourceCount": 2,
+      "signalCount": 16,
+      "participantCount": 18,
+      "sourceNames": [
+        "MarkTechPost（RSS）",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-11-01T07:47:17.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "qexf6est4uitwd71p3ugedxo6",
+      "title": "OpenAI 融资目标缩至约 200 亿美元，估值约 1.25 万亿",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
+        "original": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+        "story": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd"
+      },
+      "sourceCount": 4,
+      "signalCount": 17,
+      "participantCount": 21,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-10-31T16:12:55.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "cms82puwtmpssdpbjmajoopr9",
+      "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
+      "source": {
+        "name": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+        "original": "https://x.com/_philschmid/status/2116235686445502608",
+        "story": "https://aihot.news/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad"
+      },
+      "sourceCount": 6,
+      "signalCount": 20,
+      "participantCount": 26,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Google (@Google)",
+        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+        "The Verge：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-10-30T23:51:47.903Z"
+    },
+    {
+      "rank": 5,
       "id": "pd3dehdyyhzkyrjsw4b6bmcyj",
       "title": "Claude Max 套餐更名，Ultra 取消 5 小时限制",
       "source": {
@@ -35,7 +104,7 @@
       "links": {
         "aihot": "https://aihot.news/items/pd3dehdyyhzkyrjsw4b6bmcyj",
         "original": "https://x.com/adocomplete/status/2116224220539883992",
-        "story": "https://aihot.virxact.com/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb"
+        "story": "https://aihot.news/story/2eb1efd4-facd-475f-99c8-b0ba853cb5fb"
       },
       "sourceCount": 3,
       "signalCount": 23,
@@ -48,102 +117,49 @@
       "latestAt": "2026-10-30T23:26:41.593Z"
     },
     {
-      "rank": 3,
-      "id": "cms82puwtmpssdpbjmajoopr9",
-      "title": "Google 卫星在轨 TPU 首次完成 AI 推理并回传俳句",
-      "source": {
-        "name": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
-        "original": "https://x.com/_philschmid/status/2116235686445502608",
-        "story": "https://aihot.virxact.com/story/97a8dc0e-3eed-4ad8-b4f8-9e0d65eda0ad"
-      },
-      "sourceCount": 6,
-      "signalCount": 16,
-      "participantCount": 22,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Google (@Google)",
-        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-10-30T23:51:47.903Z"
-    },
-    {
-      "rank": 4,
-      "id": "funx6p4g0gju509j6n0oyxmqu",
-      "title": "OpenAI 付费档用量上限翻倍，Pro 200 取消下调",
-      "source": {
-        "name": "X：Tibo (@thsottiaux)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
-        "original": "https://x.com/thsottiaux/status/2115850175868727621",
-        "story": "https://aihot.virxact.com/story/ac67a6d8-48ee-4878-9ed7-e15bf3701076"
-      },
-      "sourceCount": 3,
-      "signalCount": 31,
-      "participantCount": 34,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "The Decoder：AI News（RSS）",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "latestAt": "2026-10-30T00:34:52.630Z"
-    },
-    {
-      "rank": 5,
-      "id": "upsd8u37hkkquohy3w3sjvszi",
-      "title": "Mistral 开放万亿参数 Le Chonk 权重，Unsloth 推 1-bit 量化版",
-      "source": {
-        "name": "Hugging Face 官方团队博客"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/upsd8u37hkkquohy3w3sjvszi",
-        "original": "https://huggingface.co/blog/mistral-large4",
-        "story": "https://aihot.virxact.com/story/95f84774-ef5a-41b7-9bd8-fc3d0cbc20ac"
-      },
-      "sourceCount": 9,
-      "signalCount": 26,
-      "participantCount": 35,
-      "sourceNames": [
-        "X：Mistral AI (@MistralAI)",
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "X：Arthur Mensch（Mistral CEO） (@arthurmensch)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Unsloth (@UnslothAI)",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-10-30T09:48:50.000Z"
-    },
-    {
       "rank": 6,
-      "id": "fjeloaahylonpc0pv5tduusud",
-      "title": "AA v5 改版：私有测试集拉大开源闭源差距，Gemini 4 Carbon 登顶",
+      "id": "xa6snded4wd516h4jrk06yzs3",
+      "title": "Altman 称本地推理浪费 DRAM 与算力",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "The Verge：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/fjeloaahylonpc0pv5tduusud",
-        "original": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-        "story": "https://aihot.virxact.com/story/5a5e06d1-56d2-4b17-a50e-bc07029f84fb"
+        "aihot": "https://aihot.news/items/xa6snded4wd516h4jrk06yzs3",
+        "original": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+        "story": "https://aihot.news/story/a44b16b7-7b97-41d0-bb96-59c6565a7b2c"
       },
-      "sourceCount": 2,
-      "signalCount": 25,
-      "participantCount": 27,
+      "sourceCount": 1,
+      "signalCount": 17,
+      "participantCount": 18,
       "sourceNames": [
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-10-31T00:01:04.000Z"
+      "latestAt": "2026-10-30T20:48:43.000Z"
     },
     {
       "rank": 7,
+      "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
+      "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
+      "source": {
+        "name": "公众号：数字生命卡兹克"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/f6dxzur6d4pwjdhvm1x6m5rfp",
+        "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
+        "story": "https://aihot.news/story/786af214-142a-4d8c-b5b6-e545df7bb57b"
+      },
+      "sourceCount": 3,
+      "signalCount": 8,
+      "participantCount": 11,
+      "sourceNames": [
+        "公众号：数字生命卡兹克",
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-11-01T00:22:41.000Z"
+    },
+    {
+      "rank": 8,
       "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
       "title": "Cursor 扩展市场现恶意 Claude Code 包",
       "source": {
@@ -152,40 +168,17 @@
       "links": {
         "aihot": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
         "original": "https://x.com/cursor_ai/status/2116074289053175808",
-        "story": "https://aihot.virxact.com/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6"
+        "story": "https://aihot.news/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6"
       },
-      "sourceCount": 4,
-      "signalCount": 10,
-      "participantCount": 14,
+      "sourceCount": 3,
+      "signalCount": 13,
+      "participantCount": 16,
       "sourceNames": [
         "IT之家·人工智能",
         "Ars Technica：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：Cursor (@cursor_ai)"
+        "The Decoder：AI News（RSS）"
       ],
       "latestAt": "2026-10-31T05:36:34.647Z"
-    },
-    {
-      "rank": 8,
-      "id": "v4uwaucyf64u7bkzsyvri08w4",
-      "title": "Reddit 转向登录优先，应对搜索流量流失",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/v4uwaucyf64u7bkzsyvri08w4",
-        "original": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-        "story": "https://aihot.virxact.com/story/7d33bdf1-51cb-4135-bb00-02ee0f42123d"
-      },
-      "sourceCount": 3,
-      "signalCount": 16,
-      "participantCount": 19,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-10-30T17:15:24.000Z"
     },
     {
       "rank": 9,
@@ -197,39 +190,35 @@
       "links": {
         "aihot": "https://aihot.news/items/c0e1dz7rmmvy9vbujs0u6qmc8",
         "original": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-        "story": "https://aihot.virxact.com/story/a28f10be-5030-4347-b3a3-38356ffe393f"
+        "story": "https://aihot.news/story/a28f10be-5030-4347-b3a3-38356ffe393f"
       },
-      "sourceCount": 2,
-      "signalCount": 10,
-      "participantCount": 12,
+      "sourceCount": 1,
+      "signalCount": 13,
+      "participantCount": 14,
       "sourceNames": [
-        "The Verge：AI（RSS）",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "The Verge：AI（RSS）"
       ],
       "latestAt": "2026-10-30T20:26:10.000Z"
     },
     {
       "rank": 10,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 递交 S-1，拟以 ANT 登陆纳斯达克",
+      "id": "cidpyw0855mhgn19kz8esp1l9",
+      "title": "Apple CEO 回应 AI 落后论：不为 AI 而 AI",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "original": "https://www.anthropic.com/news/s1-sec",
-        "story": "https://aihot.virxact.com/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+        "aihot": "https://aihot.news/items/cidpyw0855mhgn19kz8esp1l9",
+        "original": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "story": "https://aihot.news/story/207ade13-0ae1-4360-9475-06d279a7e5a5"
       },
-      "sourceCount": 4,
-      "signalCount": 11,
-      "participantCount": 15,
+      "sourceCount": 1,
+      "signalCount": 7,
+      "participantCount": 8,
       "sourceNames": [
-        "IT之家·人工智能",
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Timothy B. Lee：Understanding AI（RSS）"
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-10-31T03:25:09.697Z"
+      "latestAt": "2026-10-31T21:41:00.000Z"
     }
   ]
 }
