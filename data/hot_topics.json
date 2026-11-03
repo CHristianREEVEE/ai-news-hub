@@ -1,33 +1,77 @@
 {
-  "updatedAt": "2026-11-02T10:55:32.927318+00:00",
+  "updatedAt": "2026-11-03T10:45:33.261359+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "oig5qkyz9fzkdpchgk7l2cmm3",
-      "title": "DeepSeek开源Super-agent双层架构原型",
+      "id": "zdajxfep092u90haul1cu9if9",
+      "title": "MIT 称 GPT-6 Astra 可直接改写模型权重",
       "source": {
         "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
-        "original": "https://www.ithome.com/1/020/615.htm",
-        "story": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4"
+        "aihot": "https://aihot.news/items/zdajxfep092u90haul1cu9if9",
+        "original": "https://www.ithome.com/1/021/337.htm",
+        "story": "https://aihot.news/story/6967bf9e-459b-487f-93ce-2804c3605d57"
       },
       "sourceCount": 4,
-      "signalCount": 32,
-      "participantCount": 36,
+      "signalCount": 44,
+      "participantCount": 48,
       "sourceNames": [
-        "X：X.PIN (@thexpin)",
-        "X：Tianyi Cui（@tianyi）",
-        "MarkTechPost（RSS）",
-        "IT之家·人工智能"
+        "IT之家·人工智能",
+        "X：indigo (@indigox)",
+        "X：Dominik Kundel（OpenAI 开发者体验，Codex） (@dkundel)",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-11-01T16:05:52.000Z"
+      "latestAt": "2026-11-03T02:00:55.937Z"
     },
     {
       "rank": 2,
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "original": "https://www.anthropic.com/news/s1-sec",
+        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+      },
+      "sourceCount": 3,
+      "signalCount": 33,
+      "participantCount": 36,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-11-03T08:03:19.683Z"
+    },
+    {
+      "rank": 3,
+      "id": "wrmi17szf006yhdo1g9uufn74",
+      "title": "马斯克承认Grok Bot成本高于收入并下调限额",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/wrmi17szf006yhdo1g9uufn74",
+        "original": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
+        "story": "https://aihot.news/story/8b71dc45-4e03-41aa-a2e0-97b2a37915dc"
+      },
+      "sourceCount": 3,
+      "signalCount": 20,
+      "participantCount": 23,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-11-02T18:15:39.000Z"
+    },
+    {
+      "rank": 4,
       "id": "k02hyr58q45b0ip29mm5bfxkf",
       "title": "Karpathy用Claude从HN评论筛出6454个视频",
       "source": {
@@ -39,8 +83,8 @@
         "story": "https://aihot.news/story/6e51648d-3894-48aa-8f3d-1a81b5ecd218"
       },
       "sourceCount": 3,
-      "signalCount": 19,
-      "participantCount": 22,
+      "signalCount": 25,
+      "participantCount": 28,
       "sourceNames": [
         "X：indigo (@indigox)",
         "X：Rohan Paul (@rohanpaul_ai)",
@@ -49,7 +93,28 @@
       "latestAt": "2026-11-02T02:29:50.000Z"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "id": "oig5qkyz9fzkdpchgk7l2cmm3",
+      "title": "DeepSeek 开源 Super-agent 双层架构原型",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/oig5qkyz9fzkdpchgk7l2cmm3",
+        "original": "https://www.ithome.com/1/020/615.htm",
+        "story": "https://aihot.news/story/2c2767a9-6b79-436a-abe0-8b35fcf156b4"
+      },
+      "sourceCount": 2,
+      "signalCount": 24,
+      "participantCount": 26,
+      "sourceNames": [
+        "X：X.PIN (@thexpin)",
+        "X：Tianyi Cui（@tianyi）"
+      ],
+      "latestAt": "2026-11-02T14:30:00.000Z"
+    },
+    {
+      "rank": 6,
       "id": "f6dxzur6d4pwjdhvm1x6m5rfp",
       "title": "OpenAI 12月起ChatGPT与Codex共享Token额度",
       "source": {
@@ -60,59 +125,37 @@
         "original": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647688028&idx=1&sn=e509269da2e0e0b4d4dfbb121b42204b",
         "story": "https://aihot.news/story/786af214-142a-4d8c-b5b6-e545df7bb57b"
       },
-      "sourceCount": 4,
-      "signalCount": 15,
-      "participantCount": 19,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "公众号：数字生命卡兹克",
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-01T09:51:06.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "qexf6est4uitwd71p3ugedxo6",
-      "title": "OpenAI 融资目标缩至约 200 亿美元，估值约 1.25 万亿",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/qexf6est4uitwd71p3ugedxo6",
-        "original": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-        "story": "https://aihot.news/story/15a36716-6a2a-4098-9854-ee6605f1d6bd"
-      },
       "sourceCount": 1,
-      "signalCount": 15,
-      "participantCount": 16,
+      "signalCount": 18,
+      "participantCount": 19,
       "sourceNames": [
         "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-10-31T16:12:55.000Z"
+      "latestAt": "2026-11-02T13:57:53.000Z"
     },
     {
-      "rank": 5,
-      "id": "lnc48gxlu5nv0he3mw57lzmc6",
-      "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
+      "rank": 7,
+      "id": "renaizbi0xzvltnhnz8mummjt",
+      "title": "DeepSeek Harness 推出 Creator Mode",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "X：Tianyi Cui（@tianyi）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/lnc48gxlu5nv0he3mw57lzmc6",
-        "original": "https://www.ithome.com/1/020/392.htm",
-        "story": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c"
+        "aihot": "https://aihot.news/items/renaizbi0xzvltnhnz8mummjt",
+        "original": "https://x.com/tianyi/status/2117258349649780737",
+        "story": "https://aihot.news/story/c4a01cfb-6d94-4845-a8b3-636ddead765f"
       },
-      "sourceCount": 1,
-      "signalCount": 12,
+      "sourceCount": 2,
+      "signalCount": 11,
       "participantCount": 13,
       "sourceNames": [
-        "X：X.PIN (@thexpin)"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Tianyi Cui（@tianyi）"
       ],
-      "latestAt": "2026-11-01T15:05:52.000Z"
+      "latestAt": "2026-11-02T17:50:56.000Z"
     },
     {
-      "rank": 6,
+      "rank": 8,
       "id": "acf7r1s4jnc5uean49urp6sj5",
       "title": "美团龙猫发布 LongCat-2.5 原生多模态模型",
       "source": {
@@ -123,98 +166,59 @@
         "original": "https://www.ithome.com/1/020/873.htm",
         "story": "https://aihot.news/story/e3ffefd6-5164-4d6a-99a8-7637c4fa57aa"
       },
-      "sourceCount": 2,
-      "signalCount": 6,
-      "participantCount": 8,
+      "sourceCount": 3,
+      "signalCount": 12,
+      "participantCount": 15,
       "sourceNames": [
+        "X：美团 LongCat (@Meituan_LongCat)",
         "IT之家·人工智能",
         "公众号：龙猫LongCat（美团）"
       ],
-      "latestAt": "2026-11-02T01:18:38.433Z"
-    },
-    {
-      "rank": 7,
-      "id": "apioobuo772gw6rynva9a573j",
-      "title": "OpenAI中期选举后启动公关攻势并拟更名数据中心",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/apioobuo772gw6rynva9a573j",
-        "original": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-        "story": "https://aihot.news/story/2d1c9f85-c83f-4755-8376-821ee9e72d27"
-      },
-      "sourceCount": 3,
-      "signalCount": 6,
-      "participantCount": 9,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-01T22:58:19.947Z"
-    },
-    {
-      "rank": 8,
-      "id": "lh7v29sdrprupeo4ntzf344wq",
-      "title": "SemiAnalysis发布GDPx通用智能体基准，最佳模型仅得12%",
-      "source": {
-        "name": "SemiAnalysis 长文 RSS（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/lh7v29sdrprupeo4ntzf344wq",
-        "original": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
-        "story": "https://aihot.news/story/b31095b6-9e19-45e6-91ba-88cbdcc0dc85"
-      },
-      "sourceCount": 2,
-      "signalCount": 4,
-      "participantCount": 6,
-      "sourceNames": [
-        "X：Sundar Pichai (@sundarpichai)",
-        "SemiAnalysis 长文 RSS（RSS）"
-      ],
-      "latestAt": "2026-11-02T04:34:36.000Z"
+      "latestAt": "2026-11-02T14:35:23.000Z"
     },
     {
       "rank": 9,
-      "id": "u0icl9u1j0rleehslmzq89pe5",
-      "title": "四家AI公司支持robots.txt统一退出信号",
+      "id": "kok1qlnli1qd48t9soqgk6c3x",
+      "title": "OpenAI发布LifeVal日常任务基准并公布模型得分",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/u0icl9u1j0rleehslmzq89pe5",
-        "original": "https://www.ithome.com/1/020/837.htm",
-        "story": "https://aihot.news/story/a28f10be-5030-4347-b3a3-38356ffe393f"
+        "aihot": "https://aihot.news/items/kok1qlnli1qd48t9soqgk6c3x",
+        "original": "https://openai.com/index/lifeval",
+        "story": "https://aihot.news/story/666615a0-647a-4836-a86a-30f2a2fedf5c"
       },
-      "sourceCount": 1,
-      "signalCount": 7,
-      "participantCount": 8,
+      "sourceCount": 3,
+      "signalCount": 9,
+      "participantCount": 12,
       "sourceNames": [
-        "IT之家·人工智能"
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：OpenAI (@OpenAI)"
       ],
-      "latestAt": "2026-11-01T14:19:52.347Z"
+      "latestAt": "2026-11-03T01:54:54.450Z"
     },
     {
       "rank": 10,
-      "id": "ivv9w3bhrzbnnakdcrhhzc34h",
-      "title": "Suleyman 发文反对构建有意识的超级智能",
+      "id": "k0xci1tn1nue1lop6rwik8l8v",
+      "title": "Anthropic 禁止 Claude Code 复刻现有游戏",
       "source": {
-        "name": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/ivv9w3bhrzbnnakdcrhhzc34h",
-        "original": "https://x.com/mustafasuleyman/status/2116913722878820528",
-        "story": "https://aihot.news/story/bfbdc7a2-2d46-49e0-bd11-b4a9d80ebf3d"
+        "aihot": "https://aihot.news/items/k0xci1tn1nue1lop6rwik8l8v",
+        "original": "https://x.com/rohanpaul_ai/status/2116195938456965611",
+        "story": "https://aihot.news/story/d45eae25-a69c-47b6-81b2-cc5f83aff926"
       },
-      "sourceCount": 2,
-      "signalCount": 4,
-      "participantCount": 6,
+      "sourceCount": 3,
+      "signalCount": 12,
+      "participantCount": 15,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+        "The Decoder：AI News（RSS）",
+        "The Verge：AI（RSS）",
+        "Ars Technica：AI（RSS）"
       ],
-      "latestAt": "2026-11-01T23:36:08.600Z"
+      "latestAt": "2026-11-03T09:48:08.000Z"
     }
   ]
 }
