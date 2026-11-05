@@ -1,58 +1,152 @@
 {
-  "updatedAt": "2026-11-04T10:48:23.949339+00:00",
+  "updatedAt": "2026-11-05T10:45:50.657112+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "zdajxfep092u90haul1cu9if9",
-      "title": "MIT 称 GPT-6 Astra 可直接改写模型权重",
+      "id": "wwltahauj3uhzwy9yizi2i6f3",
+      "title": "OpenAI 发布 Images 2.6：ChatGPT 可生成 GIF，API 上线两款模型",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/zdajxfep092u90haul1cu9if9",
-        "original": "https://www.ithome.com/1/021/337.htm",
-        "story": "https://aihot.news/story/6967bf9e-459b-487f-93ce-2804c3605d57"
+        "aihot": "https://aihot.news/items/wwltahauj3uhzwy9yizi2i6f3",
+        "original": "https://openai.com/index/introducing-images-2-6",
+        "story": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e"
       },
-      "sourceCount": 4,
-      "signalCount": 54,
-      "participantCount": 58,
+      "sourceCount": 8,
+      "signalCount": 39,
+      "participantCount": 47,
       "sourceNames": [
+        "MarkTechPost（RSS）",
+        "X：Greg Brockman (@gdb)",
+        "X：Arena (@arena)",
+        "X：Higgsfield AI (@higgsfield)",
+        "X：fal (@fal)",
         "IT之家·人工智能",
-        "X：indigo (@indigox)",
-        "X：Dominik Kundel（OpenAI 开发者体验，Codex） (@dkundel)",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "The Decoder：AI News（RSS）",
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-11-03T02:00:55.937Z"
+      "latestAt": "2026-11-05T07:03:17.000Z"
     },
     {
       "rank": 2,
-      "id": "mzlmev2zje7yj8qvnlzu0ewz4",
-      "title": "Google将引导学习引入Search和Classroom，K-12学生AI工具默认关闭",
+      "id": "jsdt72s1n09hnlezc2uqqg1da",
+      "title": "Claude Code 产品负责人 Cat Wu 转投 OpenAI",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "X：Tibo (@thsottiaux)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/mzlmev2zje7yj8qvnlzu0ewz4",
-        "original": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
+        "aihot": "https://aihot.news/items/jsdt72s1n09hnlezc2uqqg1da",
+        "original": "https://x.com/thsottiaux/status/2118138648214585591",
+        "story": "https://aihot.news/story/0b20bea7-a1d4-451e-bb1b-38c63fadf89f"
+      },
+      "sourceCount": 2,
+      "signalCount": 29,
+      "participantCount": 31,
+      "sourceNames": [
+        "X：Tibo (@thsottiaux)",
+        "X：Cat Wu（Anthropic，Claude Code 产品负责人） (@_catwu)"
+      ],
+      "latestAt": "2026-11-05T00:29:41.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "z6j7q1gcuwsjjpx3qbtnvl2b3",
+      "title": "腾讯混元 Hy4 正式发布，首增视觉与电脑操作",
+      "source": {
+        "name": "公众号：腾讯混元"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
+        "original": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
+        "story": "https://aihot.news/story/491d220c-9d57-4295-af9f-e4382561b3f7"
+      },
+      "sourceCount": 7,
+      "signalCount": 28,
+      "participantCount": 35,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：腾讯混元 (@TencentHunyuan)",
+        "X：X.PIN (@thexpin)",
+        "X：OpenClaw (@openclaw)",
+        "X：Arena (@arena)",
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "公众号：腾讯混元"
+      ],
+      "latestAt": "2026-11-05T10:04:57.680Z"
+    },
+    {
+      "rank": 4,
+      "id": "c39s97tylya5njp0nro6dwvbx",
+      "title": "OpenAI宣布收购Pierre，工具将并入Codex",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/c39s97tylya5njp0nro6dwvbx",
+        "original": "https://openai.com/index/openai-to-acquire-pierre",
+        "story": "https://aihot.news/story/eb3a8a76-8af1-48fb-8fa0-67903c2b1174"
+      },
+      "sourceCount": 3,
+      "signalCount": 24,
+      "participantCount": 27,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "The Decoder：AI News（RSS）",
+        "X：Greg Brockman (@gdb)"
+      ],
+      "latestAt": "2026-11-05T07:06:27.400Z"
+    },
+    {
+      "rank": 5,
+      "id": "ewubpx7n7eojfvgdx6bbrd7vl",
+      "title": "OpenAI称AI管线单次运行发现并修补948个Linux内核提权漏洞",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ewubpx7n7eojfvgdx6bbrd7vl",
+        "original": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "story": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34"
+      },
+      "sourceCount": 2,
+      "signalCount": 19,
+      "participantCount": 21,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "latestAt": "2026-11-05T01:06:09.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "j99nj0yitnbi20hvpezfh3jwd",
+      "title": "Google将AI学习功能引入Search和Classroom，学校禁用AI即失去搜索",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/j99nj0yitnbi20hvpezfh3jwd",
+        "original": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
         "story": "https://aihot.news/story/956471b6-c78b-44c7-b4d4-e00583803aca"
       },
       "sourceCount": 6,
-      "signalCount": 22,
-      "participantCount": 28,
+      "signalCount": 29,
+      "participantCount": 35,
       "sourceNames": [
+        "TechCrunch：AI（RSS）",
         "The Decoder：AI News（RSS）",
         "IT之家·人工智能",
         "Ars Technica：AI（RSS）",
         "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）",
         "Hacker News：AI 热帖"
       ],
-      "latestAt": "2026-11-04T10:06:23.000Z"
+      "latestAt": "2026-11-04T16:17:22.000Z"
     },
     {
-      "rank": 3,
+      "rank": 7,
       "id": "lnc48gxlu5nv0he3mw57lzmc6",
       "title": "苹果 Apple 智能随 iOS 27.3 入华，接入阿里千问",
       "source": {
@@ -63,17 +157,40 @@
         "original": "https://www.ithome.com/1/020/392.htm",
         "story": "https://aihot.news/story/50f0b947-7493-4da9-95c7-bfad63bb5a8c"
       },
-      "sourceCount": 2,
-      "signalCount": 24,
-      "participantCount": 26,
+      "sourceCount": 3,
+      "signalCount": 29,
+      "participantCount": 32,
       "sourceNames": [
+        "X：X.PIN (@thexpin)",
         "IT之家·人工智能",
         "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-11-03T20:31:34.443Z"
+      "latestAt": "2026-11-04T17:17:16.000Z"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "id": "a4rxrr84ifhtp0l9hlc1hx3hl",
+      "title": "Meta收购Conductor，产品将逐步关停",
+      "source": {
+        "name": "Conductor 官方更新"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/a4rxrr84ifhtp0l9hlc1hx3hl",
+        "original": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+        "story": "https://aihot.news/story/dfa910ce-d2f0-4f43-844a-e8798fd89b9e"
+      },
+      "sourceCount": 3,
+      "signalCount": 12,
+      "participantCount": 15,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "TechCrunch：AI（RSS）",
+        "X：Charlie Holtz（@charlieholtz）"
+      ],
+      "latestAt": "2026-11-05T07:19:12.717Z"
+    },
+    {
+      "rank": 9,
       "id": "kxvpm36cquem6hg00nbzleoxs",
       "title": "Anthropic 开源 FlashProve 可验证推理原型",
       "source": {
@@ -84,149 +201,38 @@
         "original": "https://www.anthropic.com/research/provable-inference",
         "story": "https://aihot.news/story/f33dbd76-b66f-428a-a7ec-f89e1db4f51b"
       },
-      "sourceCount": 5,
-      "signalCount": 19,
-      "participantCount": 24,
+      "sourceCount": 6,
+      "signalCount": 20,
+      "participantCount": 26,
       "sourceNames": [
+        "The Decoder：AI News（RSS）",
         "IT之家·人工智能",
         "TechCrunch：AI（RSS）",
         "MarkTechPost（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Anthropic (@AnthropicAI)"
       ],
-      "latestAt": "2026-11-04T08:04:16.943Z"
+      "latestAt": "2026-11-04T15:23:49.000Z"
     },
     {
-      "rank": 5,
-      "id": "z6j7q1gcuwsjjpx3qbtnvl2b3",
-      "title": "腾讯混元 Hy4 正式发布，首次引入视觉与电脑操作",
+      "rank": 10,
+      "id": "m7gpmuxbkmaguxesyq1b13zae",
+      "title": "GPT-6.2 Astra 疑灰度测试，传最快周五发布",
       "source": {
-        "name": "公众号：腾讯混元"
+        "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
-        "original": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
-        "story": "https://aihot.news/story/491d220c-9d57-4295-af9f-e4382561b3f7"
-      },
-      "sourceCount": 4,
-      "signalCount": 13,
-      "participantCount": 17,
-      "sourceNames": [
-        "X：Arena (@arena)",
-        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "IT之家·人工智能",
-        "公众号：腾讯混元"
-      ],
-      "latestAt": "2026-11-04T07:15:01.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克",
-      "source": {
-        "name": "Anthropic：Newsroom（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "original": "https://www.anthropic.com/news/s1-sec",
-        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
-      },
-      "sourceCount": 4,
-      "signalCount": 35,
-      "participantCount": 39,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Tomasz Tunguz 博客（VC 分析）"
-      ],
-      "latestAt": "2026-11-03T17:07:01.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "abv1492kvkjfo2kba1wzbxf1y",
-      "title": "Claude Code 产品负责人 Cat Wu 宣布离开 Anthropic",
-      "source": {
-        "name": "X：Cat Wu（Anthropic，Claude Code 产品负责人） (@_catwu)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/abv1492kvkjfo2kba1wzbxf1y",
-        "original": "https://x.com/_catwu/status/2117731934340337676",
-        "story": "https://aihot.news/story/dbad8163-0b5e-4bbf-958a-b5ba34b8f2c9"
+        "aihot": "https://aihot.news/items/m7gpmuxbkmaguxesyq1b13zae",
+        "original": "https://www.ithome.com/1/021/352.htm",
+        "story": "https://aihot.news/story/19a3dc92-fd4a-4b56-a50a-4ee4f0146f69"
       },
       "sourceCount": 1,
       "signalCount": 16,
       "participantCount": 17,
       "sourceNames": [
-        "X：Cat Wu（Anthropic，Claude Code 产品负责人） (@_catwu)"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-03T21:33:33.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "ir9nzccipff0uowu3tghi4n3o",
-      "title": "AMD发布三季度财报，预计2027年营收增长超80%",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ir9nzccipff0uowu3tghi4n3o",
-        "original": "https://x.com/rohanpaul_ai/status/2117757237557088263",
-        "story": "https://aihot.news/story/afb1ed66-7ecc-4d15-b9d1-90b835f6e985"
-      },
-      "sourceCount": 1,
-      "signalCount": 13,
-      "participantCount": 14,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-03T23:14:06.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "na7x9iqa4x7spmk4ircfbjb0m",
-      "title": "OpenAI 称 ChatGPT 搜索量达 Google 两成、周活 12 亿",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/na7x9iqa4x7spmk4ircfbjb0m",
-        "original": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-        "story": "https://aihot.news/story/9c7379d1-14a9-4bd6-9974-018637abc036"
-      },
-      "sourceCount": 3,
-      "signalCount": 10,
-      "participantCount": 13,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "The Verge：AI（RSS）",
-        "Big Technology（热点 RSS）"
-      ],
-      "latestAt": "2026-11-03T23:16:23.803Z"
-    },
-    {
-      "rank": 10,
-      "id": "k0xci1tn1nue1lop6rwik8l8v",
-      "title": "Anthropic 禁 Claude Code 复刻游戏后放宽",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/k0xci1tn1nue1lop6rwik8l8v",
-        "original": "https://x.com/rohanpaul_ai/status/2116195938456965611",
-        "story": "https://aihot.news/story/d45eae25-a69c-47b6-81b2-cc5f83aff926"
-      },
-      "sourceCount": 5,
-      "signalCount": 10,
-      "participantCount": 15,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Addy Osmani (@addyosmani)",
-        "The Decoder：AI News（RSS）",
-        "The Verge：AI（RSS）",
-        "Ars Technica：AI（RSS）"
-      ],
-      "latestAt": "2026-11-04T09:30:28.693Z"
+      "latestAt": "2026-11-05T01:28:58.147Z"
     }
   ]
 }
