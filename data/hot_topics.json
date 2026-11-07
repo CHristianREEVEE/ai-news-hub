@@ -1,35 +1,10 @@
 {
-  "updatedAt": "2026-11-06T10:46:28.538731+00:00",
+  "updatedAt": "2026-11-07T09:58:50.568778+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "u904yv6dn7sw6lwjgxxedqd3b",
-      "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
-        "original": "https://openai.com/index/introducing-gpt-6-cyber",
-        "story": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34"
-      },
-      "sourceCount": 6,
-      "signalCount": 39,
-      "participantCount": 45,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "X：Greg Brockman (@gdb)",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-11-05T23:22:55.767Z"
-    },
-    {
-      "rank": 2,
       "id": "yjwroxww17lcg4ntcu9ruo105",
       "title": "Google 发布 Omni 1.2 Flash，视频生成提至 15 秒",
       "source": {
@@ -41,8 +16,8 @@
         "story": "https://aihot.news/story/e765b639-baae-42e1-8cb8-b76d31655219"
       },
       "sourceCount": 11,
-      "signalCount": 27,
-      "participantCount": 38,
+      "signalCount": 36,
+      "participantCount": 47,
       "sourceNames": [
         "X：Higgsfield AI (@higgsfield)",
         "X：Krea AI (@krea_ai)",
@@ -56,9 +31,105 @@
       "latestAt": "2026-11-06T02:29:44.000Z"
     },
     {
+      "rank": 2,
+      "id": "u904yv6dn7sw6lwjgxxedqd3b",
+      "title": "OpenAI称AI管线单次运行修补948个Linux内核提权漏洞",
+      "source": {
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/u904yv6dn7sw6lwjgxxedqd3b",
+        "original": "https://openai.com/index/introducing-gpt-6-cyber",
+        "story": "https://aihot.news/story/4ff5060c-160a-4d65-bf28-706c0d53ec34"
+      },
+      "sourceCount": 6,
+      "signalCount": 37,
+      "participantCount": 43,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Greg Brockman (@gdb)",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-05T23:22:55.767Z"
+    },
+    {
       "rank": 3,
+      "id": "bu8612ca3e1uyxjppk56ef1wl",
+      "title": "Thinking Machines 发布 Inkling 2 Small，权重下周开源",
+      "source": {
+        "name": "Thinking Machines Lab：News（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/bu8612ca3e1uyxjppk56ef1wl",
+        "original": "https://thinkingmachines.ai/news/inkling-2-small/",
+        "story": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5"
+      },
+      "sourceCount": 8,
+      "signalCount": 17,
+      "participantCount": 25,
+      "sourceNames": [
+        "X：Arena (@arena)",
+        "X：ARC Prize (@arcprize)",
+        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）",
+        "X：Karina Nguyen（@karinanguyen）",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Mira Murati（@miramurati）",
+        "X：Thinking Machines (@thinkymachines)"
+      ],
+      "latestAt": "2026-11-06T21:41:38.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic 递交 S-1 拟以 ANT 登陆纳斯达克，IPO 估值遇投资者压价",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "original": "https://www.anthropic.com/news/s1-sec",
+        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+      },
+      "sourceCount": 3,
+      "signalCount": 16,
+      "participantCount": 19,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-07T01:36:48.637Z"
+    },
+    {
+      "rank": 5,
+      "id": "m45kaixmfb2554qlzxbpnir36",
+      "title": "OpenAI 110亿美元首笔融资到账，估值1.25万亿",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/m45kaixmfb2554qlzxbpnir36",
+        "original": "https://x.com/rohanpaul_ai/status/2118813225336873181",
+        "story": "https://aihot.news/story/fba07069-fd3e-44bd-ad2d-f347f820dab3"
+      },
+      "sourceCount": 3,
+      "signalCount": 11,
+      "participantCount": 14,
+      "sourceNames": [
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-11-06T23:46:18.000Z"
+    },
+    {
+      "rank": 6,
       "id": "wwltahauj3uhzwy9yizi2i6f3",
-      "title": "OpenAI 发布 Images 2.6：ChatGPT 可生成 GIF，API 上线两款模型",
+      "title": "OpenAI 发布 Images 2.6，ChatGPT 可直接生成 GIF",
       "source": {
         "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
@@ -67,25 +138,44 @@
         "original": "https://openai.com/index/introducing-images-2-6",
         "story": "https://aihot.news/story/37046dc2-8e44-4949-965c-ef07dbd0b13e"
       },
-      "sourceCount": 8,
-      "signalCount": 52,
-      "participantCount": 60,
+      "sourceCount": 4,
+      "signalCount": 20,
+      "participantCount": 24,
       "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：Greg Brockman (@gdb)",
-        "X：Arena (@arena)",
-        "X：Higgsfield AI (@higgsfield)",
-        "X：fal (@fal)",
-        "IT之家·人工智能",
-        "The Decoder：AI News（RSS）",
-        "The Verge：AI（RSS）"
+        "X：OpenAI Developers (@OpenAIDevs)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Krea AI (@krea_ai)",
+        "X：fal (@fal)"
       ],
-      "latestAt": "2026-11-05T07:03:17.000Z"
+      "latestAt": "2026-11-06T23:46:33.000Z"
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "id": "f3hogz1c4bmgbcwblqblumxpv",
+      "title": "Meta在Muse推出spaces并升级模型",
+      "source": {
+        "name": "Meta：Newsroom · AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/f3hogz1c4bmgbcwblqblumxpv",
+        "original": "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/",
+        "story": "https://aihot.news/story/5bb5d3ee-b9ff-4cb4-8df8-d487d6bc5b78"
+      },
+      "sourceCount": 4,
+      "signalCount": 10,
+      "participantCount": 14,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Christine Awad（Meta，Muse 设计） (@christinesed)",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-07T07:40:53.263Z"
+    },
+    {
+      "rank": 8,
       "id": "m70cbaxy1ew2sgmlkernbvi68",
-      "title": "Anthropic 在美国推出 Claude 个人财务测试版",
+      "title": "Anthropic 在美推出 Claude 个人财务测试版",
       "source": {
         "name": "Claude：Blog（网页）"
       },
@@ -94,93 +184,42 @@
         "original": "https://claude.com/blog/introducing-personal-finance-in-claude",
         "story": "https://aihot.news/story/16df653b-997f-4488-afe7-4f9c0779fc05"
       },
-      "sourceCount": 5,
-      "signalCount": 18,
-      "participantCount": 23,
+      "sourceCount": 6,
+      "signalCount": 21,
+      "participantCount": 27,
       "sourceNames": [
+        "The Decoder：AI News（RSS）",
         "IT之家·人工智能",
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
         "TechCrunch：AI（RSS）",
         "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-11-06T00:37:10.937Z"
+      "latestAt": "2026-11-06T11:33:13.000Z"
     },
     {
-      "rank": 5,
-      "id": "jsdt72s1n09hnlezc2uqqg1da",
-      "title": "Claude Code 产品负责人 Cat Wu 转投 OpenAI",
+      "rank": 9,
+      "id": "d28mrqwr7h7tl8b8jcse4b449",
+      "title": "Anthropic 发布研究拆解 Claude 智能体记忆机制",
       "source": {
-        "name": "X：Tibo (@thsottiaux)"
+        "name": "Anthropic：Research（发表成果 · 网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/jsdt72s1n09hnlezc2uqqg1da",
-        "original": "https://x.com/thsottiaux/status/2118138648214585591",
-        "story": "https://aihot.news/story/0b20bea7-a1d4-451e-bb1b-38c63fadf89f"
+        "aihot": "https://aihot.news/items/d28mrqwr7h7tl8b8jcse4b449",
+        "original": "https://www.anthropic.com/research/components-of-agent-memory",
+        "story": "https://aihot.news/story/a983842e-37eb-436c-9026-711d2fa63657"
       },
-      "sourceCount": 3,
-      "signalCount": 33,
-      "participantCount": 36,
+      "sourceCount": 2,
+      "signalCount": 8,
+      "participantCount": 10,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Tibo (@thsottiaux)",
-        "X：Cat Wu（Anthropic，Claude Code 产品负责人） (@_catwu)"
-      ],
-      "latestAt": "2026-11-05T12:20:35.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "j2wy2avc7gqke53hk08kztvy1",
-      "title": "Thinking Machines 发布 Inkling 2 Small，先闭源上线 Tinker",
-      "source": {
-        "name": "X：Thinking Machines (@thinkymachines)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/j2wy2avc7gqke53hk08kztvy1",
-        "original": "https://x.com/thinkymachines/status/2118489528424104201",
-        "story": "https://aihot.news/story/d6acd01b-e9cc-4a1f-9732-6f49b5859ee5"
-      },
-      "sourceCount": 7,
-      "signalCount": 11,
-      "participantCount": 18,
-      "sourceNames": [
-        "MarkTechPost（RSS）",
-        "X：Karina Nguyen（@karinanguyen）",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Arena (@arena)",
-        "X：Mira Murati（@miramurati）",
-        "X：Thinking Machines (@thinkymachines)",
-        "Artificial Analysis 完整文章（网页）"
-      ],
-      "latestAt": "2026-11-06T04:25:07.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "z6j7q1gcuwsjjpx3qbtnvl2b3",
-      "title": "腾讯混元 Hy4 正式发布，首增视觉与电脑操作",
-      "source": {
-        "name": "公众号：腾讯混元"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
-        "original": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
-        "story": "https://aihot.news/story/491d220c-9d57-4295-af9f-e4382561b3f7"
-      },
-      "sourceCount": 6,
-      "signalCount": 21,
-      "participantCount": 27,
-      "sourceNames": [
-        "X：腾讯混元 (@TencentHunyuan)",
-        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "The Decoder：AI News（RSS）",
         "IT之家·人工智能",
-        "X：X.PIN (@thexpin)",
-        "X：OpenClaw (@openclaw)"
+        "X：Anthropic (@AnthropicAI)"
       ],
-      "latestAt": "2026-11-06T09:18:42.000Z"
+      "latestAt": "2026-11-06T23:25:14.860Z"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "id": "pmd4ouy6vz2ly0p14tkhszbqc",
       "title": "Meta 在美区 Muse 应用上线实时语音与表情头像",
       "source": {
@@ -192,62 +231,16 @@
         "story": "https://aihot.news/story/53c3f1bf-cba4-48c4-a7a3-2af0fcb95380"
       },
       "sourceCount": 5,
-      "signalCount": 10,
-      "participantCount": 15,
+      "signalCount": 11,
+      "participantCount": 16,
       "sourceNames": [
+        "X：Christine Awad（Meta，Muse 设计） (@christinesed)",
         "IT之家·人工智能",
         "X：Rohan Paul (@rohanpaul_ai)",
         "TechCrunch：AI（RSS）",
-        "X：David Singleton（Meta MSL 工程副总裁，Muse） (@dps)",
         "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-11-06T01:35:06.637Z"
-    },
-    {
-      "rank": 9,
-      "id": "r3360gkpmqpyyt2ii9cp1k9rz",
-      "title": "百度开源 280B 参数 ERNIE 5.5 Flash Base 基座模型",
-      "source": {
-        "name": "百度文心 ERNIE 官方博客"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/r3360gkpmqpyyt2ii9cp1k9rz",
-        "original": "https://ernie.baidu.com/zh/release/ernie-5-5-flash-base/",
-        "story": "https://aihot.news/story/0c969c38-7969-4bd9-9c91-f3cdf9b4a9cd"
-      },
-      "sourceCount": 4,
-      "signalCount": 14,
-      "participantCount": 18,
-      "sourceNames": [
-        "X：百度 Baidu (@Baidu_Inc)",
-        "MarkTechPost（RSS）",
-        "The Decoder：AI News（RSS）",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-06T02:49:21.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "ucjc4bgt94880kx1drc9czbqp",
-      "title": "OpenAI中期选举后推公关攻势并更名数据中心",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ucjc4bgt94880kx1drc9czbqp",
-        "original": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-        "story": "https://aihot.news/story/2d1c9f85-c83f-4755-8376-821ee9e72d27"
-      },
-      "sourceCount": 4,
-      "signalCount": 11,
-      "participantCount": 15,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-06T00:37:56.000Z"
+      "latestAt": "2026-11-06T18:43:12.000Z"
     }
   ]
 }
