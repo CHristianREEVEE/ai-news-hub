@@ -1,29 +1,121 @@
 {
-  "updatedAt": "2026-11-08T10:11:55.420803+00:00",
+  "updatedAt": "2026-11-09T11:23:36.854558+00:00",
   "source": "aihot.virxact.com",
-  "total": 1,
+  "total": 5,
   "items": [
     {
-      "id": "okhx4jjwucd647299qwzsl6ua",
-      "title": "Anthropic 拟感恩节前 IPO，接受低于预期的估值，募资 800–1000 亿美元",
-      "originalTitle": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
-      "summary": "据《金融时报》援引投资者的消息，Anthropic 计划在感恩节前 IPO，拟募资 800–1000 亿美元，估值 1.25–1.75 万亿美元，低于最乐观投资者期望的 2 万亿美元，但高于当前 9650 亿美元。",
+      "id": "xsvt2hlwuovul9sdvazcw7cxk",
+      "title": "字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出",
+      "originalTitle": "生成更真实，百轮编辑更稳定｜Seedream 5.5 发布",
+      "summary": "字节 Seed 发布新一代图像创作模型 Seedream 5.5，带来三项升级：非编辑区域像素级保持、支持围绕同一作品多达 100 轮连续编辑；新增原生 RGBA 透明素材生成，直接输出带 Alpha 通道的图像，省去抠图；改善光照材质与皮肤纹理表现，并显著提升文字渲染能力。",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "字节 Seed：Research Feed（网页内嵌数据）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua",
-        "original": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/"
+        "aihot": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
+        "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83"
       },
-      "publishedAt": "2026-11-07T17:37:25.000Z",
-      "discoveredAt": "2026-11-07T17:41:53.921Z",
-      "category": "industry",
-      "score": 76,
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "discoveredAt": "2026-11-09T09:11:31.264Z",
+      "category": "ai-models",
+      "score": 70,
       "selected": true,
-      "reason": "文中给出 Anthropic IPO 的估值区间、募资规模和最新的年化营收数字，可对照 OpenAI 融资动向看当前 AI 市场降温。",
+      "reason": "官方原文给出多轮编辑稳定性、RGBA 透明输出和文字崩坏率等具体评测数据，可据此判断其在专业生产流程中的可用性。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/okhx4jjwucd647299qwzsl6ua"
+        "url": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk"
+      }
+    },
+    {
+      "id": "h6vimc0xpjwbjfampr34ym5ol",
+      "title": "百度发布 ERNIE Evolve 自动研究系统，公开任务超最好纪录并落地 ERNIE-5.5-Flash 推理优化",
+      "originalTitle": "ERNIE Evolve：让自动研究走进真实 AI 研发",
+      "summary": "百度文心团队发布自动研究系统 ERNIE Evolve，用双层循环组织研究方向选择与实验迭代，由 Director、Selector、Executor、Evaluator 和 Reviewer 分工推进研究。",
+      "source": {
+        "name": "百度文心 ERNIE 官方博客"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol",
+        "original": "https://ernie.baidu.com/zh/research/posts/ernie-evolve/"
+      },
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "discoveredAt": "2026-11-09T08:58:32.532Z",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "reason": "官方详解自动研究系统的双层循环架构，并用公开榜单和生产级推理优化结果说明其实际收益。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol"
+      }
+    },
+    {
+      "id": "i8df3mmfly47axpbbr1p6ivh5",
+      "title": "黄仁勋职位悬了？耶鲁教授 Sonnenfeld 估计去留概率约五五开",
+      "originalTitle": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "summary": "TechCrunch 编辑专访耶鲁管理学院教授 Jeffrey Sonnenfeld，评估 Nvidia CEO 黄仁勋因与涉嫌为中国收集情报的 Megaspeed 高管 Alice Huang 有染而面临的职位风险，Sonnenfeld 称其能否保住职位概率约五五开。",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5",
+        "original": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+      },
+      "publishedAt": "2026-11-09T05:26:29.000Z",
+      "discoveredAt": "2026-11-09T05:49:20.143Z",
+      "category": "opinion",
+      "score": 83,
+      "selected": true,
+      "reason": "作者独家访谈 Sonnenfeld 分析黄仁勋去留，结合 Nvidia 融资生态和董事会调查给出具体情境下的判断依据。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5"
+      }
+    },
+    {
+      "id": "e80fmjdp23n217sd6e7ky52om",
+      "title": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
+      "originalTitle": "我做了一个监控全网免费Token的网站，今天向所有人免费开放。",
+      "summary": "数字生命卡兹克上线免费聚合网站 Token羊毛（aihot.news/free-tokens），把各厂商公开的免费额度、签到积分、限时免费等活动汇总到一页，页面显示今日可领金额并按日、周、月分组，还设计了随领取次数升级亮度的卡片收集玩法。",
+      "source": {
+        "name": "公众号：数字生命卡兹克"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
+        "original": "https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg"
+      },
+      "publishedAt": "2026-11-08T23:56:00.000Z",
+      "discoveredAt": "2026-11-09T00:01:36.109Z",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "reason": "作者自建聚合页免费开放，并把筛选、核实、巡查整套 Agent 流程公开，读者可了解信息聚合类工具的实现思路。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om"
+      }
+    },
+    {
+      "id": "mg4znyraf1xbbwg1vd915wqoi",
+      "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
+      "originalTitle": "NVIDIA officially released a statement from its board of directors.",
+      "summary": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi",
+        "original": "https://x.com/rohanpaul_ai/status/2119540787147059491"
+      },
+      "publishedAt": "2026-11-08T21:21:17.000Z",
+      "discoveredAt": "2026-11-08T21:43:26.332Z",
+      "category": "industry",
+      "score": 84,
+      "selected": true,
+      "reason": "作者转述 NVIDIA 董事会官方声明全文，读者可以直接核对董事会调查的安排口径和官方表态。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi"
       }
     }
   ]
