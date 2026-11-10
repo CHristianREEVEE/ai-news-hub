@@ -1,78 +1,117 @@
 {
-  "updatedAt": "2026-11-09T11:23:39.368476+00:00",
+  "updatedAt": "2026-11-10T11:03:28.096682+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "lq97h52ctxw2nkri4qqxj5lbx",
-      "title": "纽时称中国情报人员接近黄仁勋，英伟达否认后董事会启动调查",
+      "id": "va9trgwaw3r4por6vdqbjxrhd",
+      "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，多项评测登顶",
       "source": {
-        "name": "The Decoder：AI News（RSS）"
+        "name": "Anthropic：Newsroom（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/lq97h52ctxw2nkri4qqxj5lbx",
-        "original": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
-        "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
+        "aihot": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
+        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "story": "https://aihot.news/story/760e0591-91c2-4b7a-aea8-5a33ba5d86b1"
       },
-      "sourceCount": 5,
-      "signalCount": 57,
-      "participantCount": 62,
+      "sourceCount": 22,
+      "signalCount": 105,
+      "participantCount": 127,
       "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
         "X：indigo (@indigox)",
-        "The Verge：AI（RSS）"
+        "IT之家·人工智能",
+        "X：Arena (@arena)",
+        "Simon Willison 博客",
+        "X：卡兹克 (@Khazix0918)",
+        "公众号：数字生命卡兹克",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Addy Osmani (@addyosmani)"
       ],
-      "latestAt": "2026-11-09T05:26:29.000Z"
+      "latestAt": "2026-11-10T07:49:56.000Z"
     },
     {
       "rank": 2,
-      "id": "svii78aucgrcj4ccd1gzmtsq0",
-      "title": "xAI 连夜修复 Grok Bot，承诺次日显著改善",
+      "id": "kci32x4hgxrdl0v5o4xrjlxri",
+      "title": "英伟达董事会调查黄仁勋涉情报事件",
       "source": {
-        "name": "X：Elon Musk (@elonmusk, xAI)"
+        "name": "The Verge：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/svii78aucgrcj4ccd1gzmtsq0",
-        "original": "https://x.com/elonmusk/status/2119419126045454531",
-        "story": "https://aihot.news/story/0d0f5f1f-b3ea-4b0f-bd3c-f6735cd0b4dc"
+        "aihot": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
+        "original": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+        "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
       },
-      "sourceCount": 2,
-      "signalCount": 8,
-      "participantCount": 10,
+      "sourceCount": 8,
+      "signalCount": 64,
+      "participantCount": 72,
       "sourceNames": [
+        "The Verge：AI（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Elon Musk (@elonmusk, xAI)"
+        "TechCrunch：AI（RSS）",
+        "Ars Technica：AI（RSS）",
+        "Big Technology（热点 RSS）",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "The Decoder：AI News（RSS）",
+        "X：indigo (@indigox)"
       ],
-      "latestAt": "2026-11-09T02:33:58.000Z"
+      "latestAt": "2026-11-09T23:51:58.000Z"
     },
     {
       "rank": 3,
-      "id": "fhtzzpeq9pxo021k0uk7s034p",
-      "title": "Anthropic 34亿美元接手1.7GW燃气发电机组",
+      "id": "cox936nwax49rkiimi1oicgzu",
+      "title": "Meta 发布轻量模型 Muse Ember，主打低成本智能体任务",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "Meta AI：Research Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/fhtzzpeq9pxo021k0uk7s034p",
-        "original": "https://x.com/rohanpaul_ai/status/2119431232165683269",
-        "story": "https://aihot.news/story/8fc0b0a8-b3ab-41e8-a159-697ec636264d"
+        "aihot": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu",
+        "original": "https://research.meta.ai/blog/muse-ember",
+        "story": "https://aihot.news/story/c9508ded-f5e2-404c-b983-fdd61423c85a"
       },
-      "sourceCount": 2,
-      "signalCount": 9,
-      "participantCount": 11,
+      "sourceCount": 11,
+      "signalCount": 23,
+      "participantCount": 34,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家·人工智能"
+        "Simon Willison 博客",
+        "MarkTechPost（RSS）",
+        "IT之家·人工智能",
+        "The Decoder：AI News（RSS）",
+        "X：OpenRouter (@OpenRouter)",
+        "X：opencode (@opencode)",
+        "X：Arena (@arena)",
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
-      "latestAt": "2026-11-08T14:05:57.000Z"
+      "latestAt": "2026-11-10T07:28:21.000Z"
     },
     {
       "rank": 4,
+      "id": "phwieennfk1nppru29uek1b0y",
+      "title": "Google 一年内交付四款第八代 TPU",
+      "source": {
+        "name": "X：Google (@Google)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/phwieennfk1nppru29uek1b0y",
+        "original": "https://x.com/Google/status/2119788086490001906",
+        "story": "https://aihot.news/story/4a64f241-8892-4af9-9d8a-d75c99724c71"
+      },
+      "sourceCount": 5,
+      "signalCount": 25,
+      "participantCount": 30,
+      "sourceNames": [
+        "X：Sundar Pichai (@sundarpichai)",
+        "MarkTechPost（RSS）",
+        "X：Lisa Su（AMD CEO） (@LisaSu)",
+        "Hacker News：AI 热帖",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-09T18:19:08.000Z"
+    },
+    {
+      "rank": 5,
       "id": "xsvt2hlwuovul9sdvazcw7cxk",
-      "title": "字节发布 Seedream 5.5 图像模型",
+      "title": "字节发布 Seedream 5.5 图像模型，豆包接入",
       "source": {
         "name": "字节 Seed：Research Feed（网页内嵌数据）"
       },
@@ -81,20 +120,22 @@
         "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83",
         "story": "https://aihot.news/story/2b6190d7-3612-47d1-9e63-d75e50b8604d"
       },
-      "sourceCount": 3,
-      "signalCount": 3,
-      "participantCount": 6,
+      "sourceCount": 5,
+      "signalCount": 20,
+      "participantCount": 25,
       "sourceNames": [
+        "公众号：卡尔的AI沃茨",
         "IT之家·人工智能",
+        "The Decoder：AI News（RSS）",
         "公众号：火山引擎",
         "字节 Seed：Research Feed（网页内嵌数据）"
       ],
-      "latestAt": "2026-11-09T09:35:33.007Z"
+      "latestAt": "2026-11-10T10:12:00.000Z"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 拟感恩节前 IPO，估值预期下调至 1.25–1.75 万亿美元",
+      "title": "Anthropic 拟感恩节前 IPO，估值预期降至 1.25–1.75 万亿美元",
       "source": {
         "name": "Anthropic：Newsroom（网页）"
       },
@@ -103,115 +144,100 @@
         "original": "https://www.anthropic.com/news/s1-sec",
         "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
       },
-      "sourceCount": 2,
-      "signalCount": 10,
+      "sourceCount": 1,
+      "signalCount": 16,
+      "participantCount": 17,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-11-10T01:27:12.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "d56toetc3hcdjd4hwas283saz",
+      "title": "xAI 连夜修复 Grok Bot 并重置周限额",
+      "source": {
+        "name": "X：Grok Bot (@bot)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/d56toetc3hcdjd4hwas283saz",
+        "original": "https://x.com/bot/status/2119871982946971659",
+        "story": "https://aihot.news/story/0d0f5f1f-b3ea-4b0f-bd3c-f6735cd0b4dc"
+      },
+      "sourceCount": 3,
+      "signalCount": 13,
+      "participantCount": 16,
+      "sourceNames": [
+        "X：Lingxi Li（SpaceXSI，Grok Bot 工程） (@lingxi)",
+        "X：Eric Zakariasson (@ericzakariasson)",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-11-09T22:22:30.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "mna5obim9zs439keyauqnh8nb",
+      "title": "迪士尼与Adobe合作开发定制生成式AI模型",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/mna5obim9zs439keyauqnh8nb",
+        "original": "https://www.ithome.com/1/024/731.htm",
+        "story": "https://aihot.news/story/1f7bc83b-0722-496f-bb5c-73f3f496580a"
+      },
+      "sourceCount": 3,
+      "signalCount": 9,
       "participantCount": 12,
       "sourceNames": [
         "IT之家·人工智能",
-        "The Decoder：AI News（RSS）"
+        "The Decoder：AI News（RSS）",
+        "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-11-08T00:44:04.537Z"
+      "latestAt": "2026-11-10T03:26:36.530Z"
     },
     {
-      "rank": 6,
-      "id": "hegqek9bt5a6qp3b0qlxhuckq",
-      "title": "特朗普谈AI监管：不介意设护栏，称美国不能居第二",
+      "rank": 9,
+      "id": "fhtzzpeq9pxo021k0uk7s034p",
+      "title": "Anthropic 34亿美元购入1.7GW燃气发电机组",
       "source": {
         "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/hegqek9bt5a6qp3b0qlxhuckq",
-        "original": "https://x.com/rohanpaul_ai/status/2119616928297943209",
-        "story": "https://aihot.news/story/2c5e59d8-79e4-428f-95f4-c77ab76e64f9"
+        "aihot": "https://aihot.news/items/fhtzzpeq9pxo021k0uk7s034p",
+        "original": "https://x.com/rohanpaul_ai/status/2119431232165683269",
+        "story": "https://aihot.news/story/8fc0b0a8-b3ab-41e8-a159-697ec636264d"
       },
-      "sourceCount": 2,
-      "signalCount": 4,
-      "participantCount": 6,
+      "sourceCount": 3,
+      "signalCount": 14,
+      "participantCount": 17,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-09T02:43:18.707Z"
-    },
-    {
-      "rank": 7,
-      "id": "q6psufsqgmqptgolwesk08dw9",
-      "title": "阿里千问办公2.0发布，支持多人与Agent协作",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/q6psufsqgmqptgolwesk08dw9",
-        "original": "https://www.ithome.com/1/024/350.htm",
-        "story": "https://aihot.news/story/b7a32f59-262c-4fdc-a9c3-87ac393965c3"
-      },
-      "sourceCount": 1,
-      "signalCount": 4,
-      "participantCount": 5,
-      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
         "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-09T08:15:13.763Z"
-    },
-    {
-      "rank": 8,
-      "id": "ejr2q49gzg0sc8kxu0hnewu5j",
-      "title": "DeepSeek Harness日活154万，将建插件市场",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ejr2q49gzg0sc8kxu0hnewu5j",
-        "original": "https://www.ithome.com/1/023/011.htm",
-        "story": "https://aihot.news/story/beeed02c-39ef-4d69-8610-5a1fba11d413"
-      },
-      "sourceCount": 1,
-      "signalCount": 5,
-      "participantCount": 6,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-08T18:47:19.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "jxpzj0z4beg1r0cktwzc0tmwe",
-      "title": "OpenAI 称三项科学突破，物理证明未公开引呼吁",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/jxpzj0z4beg1r0cktwzc0tmwe",
-        "original": "https://www.ithome.com/1/018/203.htm",
-        "story": "https://aihot.news/story/d79cd457-4d11-436e-954d-430d2aab4438"
-      },
-      "sourceCount": 1,
-      "signalCount": 4,
-      "participantCount": 5,
-      "sourceNames": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "latestAt": "2026-11-08T22:42:59.000Z"
+      "latestAt": "2026-11-09T16:56:54.000Z"
     },
     {
       "rank": 10,
-      "id": "zfppu2891lc7ztftb5und4di2",
-      "title": "阿里云 Token Plan 上调额度，Pro 套餐降价",
+      "id": "v2kttogijk2w2kuk3ip43brpo",
+      "title": "蚂蚁灵波开源触觉基础模型 LingBot-Touch",
       "source": {
         "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/zfppu2891lc7ztftb5und4di2",
-        "original": "https://www.ithome.com/1/024/250.htm",
-        "story": "https://aihot.news/story/dfe5c711-0b1e-4dd3-bf97-5e081c978444"
+        "aihot": "https://aihot.news/items/v2kttogijk2w2kuk3ip43brpo",
+        "original": "https://www.ithome.com/1/024/701.htm",
+        "story": "https://aihot.news/story/3ef2e80e-4464-431f-bc60-e1c5e7d77933"
       },
-      "sourceCount": 1,
-      "signalCount": 3,
-      "participantCount": 4,
+      "sourceCount": 2,
+      "signalCount": 7,
+      "participantCount": 9,
       "sourceNames": [
-        "IT之家·人工智能"
+        "IT之家·人工智能",
+        "Robbyant 蚂蚁灵波（官方 X）"
       ],
-      "latestAt": "2026-11-09T06:31:04.750Z"
+      "latestAt": "2026-11-10T02:46:47.257Z"
     }
   ]
 }

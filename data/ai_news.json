@@ -1,121 +1,397 @@
 {
-  "updatedAt": "2026-11-09T11:23:36.854558+00:00",
+  "updatedAt": "2026-11-10T11:03:22.449205+00:00",
   "source": "aihot.virxact.com",
-  "total": 5,
+  "total": 17,
   "items": [
     {
-      "id": "xsvt2hlwuovul9sdvazcw7cxk",
-      "title": "字节发布 Seedream 5.5 图像创作模型：支持 100 轮编辑与原生 RGBA 透明输出",
-      "originalTitle": "生成更真实，百轮编辑更稳定｜Seedream 5.5 发布",
-      "summary": "字节 Seed 发布新一代图像创作模型 Seedream 5.5，带来三项升级：非编辑区域像素级保持、支持围绕同一作品多达 100 轮连续编辑；新增原生 RGBA 透明素材生成，直接输出带 Alpha 通道的图像，省去抠图；改善光照材质与皮肤纹理表现，并显著提升文字渲染能力。",
+      "id": "lwbznpwnu3d7avukt0arjc2go",
+      "title": "Anthropic 员工推荐用一条提示词让 Claude Code 全面审查项目",
+      "originalTitle": "Excellent advice and highly recommended.",
+      "summary": "作者转发 Anthropic 的 Alex Albert 分享的提示词：对每个项目运行同一条指令，让 Claude 通读整个项目，找出损坏、不一致、低效或不再需要的内容，确定的问题直接修复，其余列出供人工审查。作者补充可用 /doctor prompt-audit 和 /skill-doctor 优化上下文文件并清理不必要的技能。",
       "source": {
-        "name": "字节 Seed：Research Feed（网页内嵌数据）"
+        "name": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
-        "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83"
+        "aihot": "https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go",
+        "original": "https://x.com/adocomplete/status/2120008039411708279"
       },
-      "publishedAt": "2026-11-08T16:00:00.000Z",
-      "discoveredAt": "2026-11-09T09:11:31.264Z",
-      "category": "ai-models",
-      "score": 70,
+      "publishedAt": "2026-11-10T04:17:59.000Z",
+      "discoveredAt": "2026-11-10T04:22:33.973Z",
+      "category": "tip",
+      "score": 65,
       "selected": true,
-      "reason": "官方原文给出多轮编辑稳定性、RGBA 透明输出和文字崩坏率等具体评测数据，可据此判断其在专业生产流程中的可用性。",
+      "reason": "这条提示词可直接复用，让 Claude 审查整个项目找出问题并修复或列出待审项，还附带了排查上下文文件的命令。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk"
+        "url": "https://aihot.news/items/lwbznpwnu3d7avukt0arjc2go"
       }
     },
     {
-      "id": "h6vimc0xpjwbjfampr34ym5ol",
-      "title": "百度发布 ERNIE Evolve 自动研究系统，公开任务超最好纪录并落地 ERNIE-5.5-Flash 推理优化",
-      "originalTitle": "ERNIE Evolve：让自动研究走进真实 AI 研发",
-      "summary": "百度文心团队发布自动研究系统 ERNIE Evolve，用双层循环组织研究方向选择与实验迭代，由 Director、Selector、Executor、Evaluator 和 Reviewer 分工推进研究。",
+      "id": "lko5m98q1kk1dlcjihvk527w8",
+      "title": "Figma 官方讲解画布智能体的 6 种实用方法",
+      "originalTitle": "6 easy ways to use the Figma agent right now",
+      "summary": "Figma 官方介绍了在其画布上使用 Figma agent 的六种方法，覆盖从设计初期探索到交付前细节的各个阶段。",
       "source": {
-        "name": "百度文心 ERNIE 官方博客"
+        "name": "Figma AI / Agent / Make"
       },
       "links": {
-        "aihot": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol",
-        "original": "https://ernie.baidu.com/zh/research/posts/ernie-evolve/"
+        "aihot": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8",
+        "original": "https://www.figma.com/blog/6-easy-ways-to-use-the-figma-agent-right-now/"
       },
-      "publishedAt": "2026-11-08T16:00:00.000Z",
-      "discoveredAt": "2026-11-09T08:58:32.532Z",
-      "category": "ai-products",
-      "score": 69,
+      "publishedAt": "2026-11-09T21:46:00.000Z",
+      "discoveredAt": "2026-11-10T02:29:32.406Z",
+      "category": "tip",
+      "score": 67,
       "selected": true,
-      "reason": "官方详解自动研究系统的双层循环架构，并用公开榜单和生产级推理优化结果说明其实际收益。",
+      "reason": "Figma 官方梳理了智能体在画布上的六种日常用法，含具体提示词示例，读者可直接照做提升设计工作流。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/h6vimc0xpjwbjfampr34ym5ol"
+        "url": "https://aihot.news/items/lko5m98q1kk1dlcjihvk527w8"
       }
     },
     {
-      "id": "i8df3mmfly47axpbbr1p6ivh5",
-      "title": "黄仁勋职位悬了？耶鲁教授 Sonnenfeld 估计去留概率约五五开",
-      "originalTitle": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-      "summary": "TechCrunch 编辑专访耶鲁管理学院教授 Jeffrey Sonnenfeld，评估 Nvidia CEO 黄仁勋因与涉嫌为中国收集情报的 Megaspeed 高管 Alice Huang 有染而面临的职位风险，Sonnenfeld 称其能否保住职位概率约五五开。",
+      "id": "d4f8o2c9r7r8b7fsdqnpev3eu",
+      "title": "据报道 Anthropic 推进 IPO，计划下周四或周五挂牌",
+      "originalTitle": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "据 The Wall Street Journal 报道，Anthropic 将在本周设定估值区间，计划下周四或周五开始交易。部分机构投资者正推动估值低于上周讨论的 1.5 万亿美元目标，该数字已低于几个月前传闻的 2 万亿美元。报道还提到其主要竞争对手 OpenAI 上周融资 110 亿美元后估值约为 1.25 万亿美元，低于其最初寻求的 200 亿美元融资规模。",
       "source": {
         "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5",
-        "original": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+        "aihot": "https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu",
+        "original": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
       },
-      "publishedAt": "2026-11-09T05:26:29.000Z",
-      "discoveredAt": "2026-11-09T05:49:20.143Z",
-      "category": "opinion",
-      "score": 83,
+      "publishedAt": "2026-11-10T01:27:12.000Z",
+      "discoveredAt": "2026-11-10T02:03:32.132Z",
+      "category": "industry",
+      "score": 81,
       "selected": true,
-      "reason": "作者独家访谈 Sonnenfeld 分析黄仁勋去留，结合 Nvidia 融资生态和董事会调查给出具体情境下的判断依据。",
+      "reason": "报道汇总了 Anthropic IPO 时间表与估值分歧，并对照 OpenAI 最新融资估值，可帮助读者理解 AI 板块的市场情绪变化。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/i8df3mmfly47axpbbr1p6ivh5"
+        "url": "https://aihot.news/items/d4f8o2c9r7r8b7fsdqnpev3eu"
       }
     },
     {
-      "id": "e80fmjdp23n217sd6e7ky52om",
-      "title": "数字生命卡兹克上线免费 Token 福利聚合网站 Token羊毛",
-      "originalTitle": "我做了一个监控全网免费Token的网站，今天向所有人免费开放。",
-      "summary": "数字生命卡兹克上线免费聚合网站 Token羊毛（aihot.news/free-tokens），把各厂商公开的免费额度、签到积分、限时免费等活动汇总到一页，页面显示今日可领金额并按日、周、月分组，还设计了随领取次数升级亮度的卡片收集玩法。",
+      "id": "po2cdt1whxfqyfew3e81l8mb0",
+      "title": "实测 Claude Fable 5.2：一次直出视频与 3D 网页，审美与细节表现突出",
+      "originalTitle": "实测Claude Fable 5.2 - 审美与细节的绝对统治。",
+      "summary": "Anthropic 凌晨正式发布 Claude Fable 5.2，作者第一时间实测视频动效、Three.js 3D 场景和苹果静安店 3D 网页等 10 个任务，全部一次直出，未发现生成视频中的事实错误。",
       "source": {
         "name": "公众号：数字生命卡兹克"
       },
       "links": {
-        "aihot": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om",
-        "original": "https://mp.weixin.qq.com/s/MyNWZlURmO0xIxQpMOQZWg"
+        "aihot": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0",
+        "original": "https://mp.weixin.qq.com/s/sKoVHL_oNsik9vtUjr0lHg"
       },
-      "publishedAt": "2026-11-08T23:56:00.000Z",
-      "discoveredAt": "2026-11-09T00:01:36.109Z",
-      "category": "ai-products",
-      "score": 65,
+      "publishedAt": "2026-11-09T23:21:03.000Z",
+      "discoveredAt": "2026-11-09T23:31:28.465Z",
+      "category": "ai-models",
+      "score": 81,
       "selected": true,
-      "reason": "作者自建聚合页免费开放，并把筛选、核实、巡查整套 Agent 流程公开，读者可了解信息聚合类工具的实现思路。",
+      "reason": "作者用多个一次直出的实测案例展示 Fable 5.2 在视频动效和 3D 前端上的表现，并给出额度消耗和日常模型搭配建议。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/e80fmjdp23n217sd6e7ky52om"
+        "url": "https://aihot.news/items/po2cdt1whxfqyfew3e81l8mb0"
       }
     },
     {
-      "id": "mg4znyraf1xbbwg1vd915wqoi",
-      "title": "NVIDIA 董事会宣布就 CEO 黄仁勋遭外国情报行动瞄准一事启动独立调查",
-      "originalTitle": "NVIDIA officially released a statement from its board of directors.",
-      "summary": "NVIDIA 董事会于 11 月 8 日发布声明，就近期有关创始人兼 CEO 黄仁勋成为外国情报行动目标的报道启动独立调查。调查由独立董事组成的委员会在外部独立律师协助下监督，黄仁勋全力配合。董事会表示没有理由认为国家安全或 NVIDIA 机密已受损，但调查将审视所有可用信息，并表示对黄仁勋及其领导团队有信心。",
+      "id": "zqvokl37rwbvoxzfk3c2v7964",
+      "title": "做空机构 Culper Research 曾在丑闻爆发前六个月提示 Nvidia CEO 与疑似中国间谍的关系",
+      "originalTitle": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Nvidia 间谍丑闻爆发前六个月，做空机构 Culper Research 已在 5 月 13 日报告中质疑 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 关系“异常密切”。",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi",
-        "original": "https://x.com/rohanpaul_ai/status/2119540787147059491"
+        "aihot": "https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964",
+        "original": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
       },
-      "publishedAt": "2026-11-08T21:21:17.000Z",
-      "discoveredAt": "2026-11-08T21:43:26.332Z",
+      "publishedAt": "2026-11-09T22:46:09.000Z",
+      "discoveredAt": "2026-11-09T23:24:31.773Z",
       "category": "industry",
-      "score": 84,
+      "score": 80,
       "selected": true,
-      "reason": "作者转述 NVIDIA 董事会官方声明全文，读者可以直接核对董事会调查的安排口径和官方表态。",
+      "reason": "文章回溯做空机构半年前的报告，指出其早已提示 Nvidia CEO 与 Megaspeed 高管的密切关系，提供了事件的时间线背景。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/mg4znyraf1xbbwg1vd915wqoi"
+        "url": "https://aihot.news/items/zqvokl37rwbvoxzfk3c2v7964"
+      }
+    },
+    {
+      "id": "r5h0cwwdh1peqbg2rk6k9ljrh",
+      "title": "Zyphra 发布开源 TTS 模型 ZONOS3-Mini，可在手机浏览器实时运行",
+      "originalTitle": "ZONOS3-Mini",
+      "summary": "Zyphra 发布 ZONOS3-Mini，一个 Apache 2.0 开源的零样本语音克隆 TTS 模型，采用稀疏 MoE 架构，总参数 8 亿、活跃参数 1 亿，在 Pixel 9 浏览器端 Time To First Audio 低于 570 ms，在 M3 MacBook Air 上低于 150 ms。",
+      "source": {
+        "name": "Zyphra Research（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh",
+        "original": "https://www.zyphra.com/our-work/zonos3-mini"
+      },
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "discoveredAt": "2026-11-09T22:20:33.350Z",
+      "category": "ai-models",
+      "score": 65,
+      "selected": true,
+      "reason": "原文给出参数规模、端侧延迟和评测排名等具体数据，读者可以评估这个开源 TTS 模型在语音克隆和控制能力上的实际定位。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/r5h0cwwdh1peqbg2rk6k9ljrh"
+      }
+    },
+    {
+      "id": "ykrvgcox3whsx6tst5qesbf62",
+      "title": "Anthropic 指南：Claude 开发该选 Haiku 5.5、Sonnet 5.5、Opus 5.5 还是 Fable 5.2",
+      "originalTitle": "Which Claude model should you build with? Fable, Opus, Sonnet, or Haiku",
+      "summary": "Anthropic 开发者博客发文指导开发者如何在 Haiku 5.5、Sonnet 5.5、Opus 5.5 和 Fable 5.2 之间选型，建议多数编码和知识工作从 Opus 5.5 的 medium effort 起步，其 token 价格是 Fable 5.2 的一半。",
+      "source": {
+        "name": "Anthropic：Claude.dev 开发者博客（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62",
+        "original": "https://claude.dev/blog/which-claude-model-should-you-build-with/"
+      },
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "discoveredAt": "2026-11-09T21:07:41.813Z",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "reason": "原文按任务类型给出四款 Claude 模型的选型建议、token 价格和 effort 调优方法，可迁移到自己的成本与能力权衡中。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/ykrvgcox3whsx6tst5qesbf62"
+      }
+    },
+    {
+      "id": "ugn21ui1m8kftffpe2c95qlkx",
+      "title": "Claude Fable 5.2 上线 Higgsfield，开放 3 天免费试用",
+      "originalTitle": "Claude Fable 5.2 is LIVE on Higgsfield.",
+      "summary": "Higgsfield 宣布 Claude Fable 5.2 已在 Higgsfield MCP 上线，提供 3 天免费不限量使用全部顶级视频和图像模型。作者称该 Anthropic 新模型擅长 3D 建模、视觉推理、computer use 和编码；引用内容提到 Claude Fable 5.2 与 Claude Mythos 5.2 在编码、推理和视觉方面有提升。",
+      "source": {
+        "name": "X：Higgsfield AI (@higgsfield)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/ugn21ui1m8kftffpe2c95qlkx",
+        "original": "https://x.com/higgsfield/status/2119884452054937656"
+      },
+      "publishedAt": "2026-11-09T20:06:53.000Z",
+      "discoveredAt": "2026-11-09T20:15:48.928Z",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "reason": "平台宣布接入新模型并给出 3 天免费试用入口，读者可借此了解其宣称的 3D 建模与视觉推理能力。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/ugn21ui1m8kftffpe2c95qlkx"
+      }
+    },
+    {
+      "id": "m23i0fgxrk1t2gqysu6mqv82s",
+      "title": "Artificial Analysis 评测 Claude Fable 5.2：以 65 分登顶 Intelligence Index v5",
+      "originalTitle": "Anthropic has released Claude Fable 5.2, taking the #1 spot on the Artificial Analysis Intelligence Index v5 at 65, led by gains in scien...",
+      "summary": "Artificial Analysis 评测 Anthropic 发布的 Claude Fable 5.2，其在 Artificial Analysis Intelligence Index v5 以 65 分登顶，领先 Gemini 4 Carbon（60）和 Claude Opus 5.5（59）。",
+      "source": {
+        "name": "X：Artificial Analysis (@ArtificialAnlys)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s",
+        "original": "https://x.com/ArtificialAnlys/status/2119878995386982508"
+      },
+      "publishedAt": "2026-11-09T19:45:12.000Z",
+      "discoveredAt": "2026-11-09T20:07:49.182Z",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "reason": "评测方给出了 Claude Fable 5.2 在 Intelligence Index v5 的得分、各基准对比与成本数据，读者可以据此评估其实力和性价比。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/m23i0fgxrk1t2gqysu6mqv82s"
+      }
+    },
+    {
+      "id": "rth7pxd3xqp2zkd2e1psjgtbl",
+      "title": "Claude Fable 5.2 上线 Devin Desktop 和 Devin CLI",
+      "originalTitle": "Claude Fable 5.2 is now available in Devin Desktop and Devin CLI.",
+      "summary": "Cognition 宣布 Claude Fable 5.2 现已在 Devin Desktop 和 Devin CLI 中可用。该模型在 FrontierCode 2.0 上以 49.1 分排名第一；相比 Fable 5.1，在低推理力度下以约三分之一的价格超过前代得分。",
+      "source": {
+        "name": "X：Cognition (@cognition)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/rth7pxd3xqp2zkd2e1psjgtbl",
+        "original": "https://x.com/cognition/status/2119869931135406452"
+      },
+      "publishedAt": "2026-11-09T19:09:11.000Z",
+      "discoveredAt": "2026-11-09T19:41:47.738Z",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "reason": "原文给出了 Fable 5.2 在 FrontierCode 2.0 的得分和相对前代的成本变化，读者可据此评估在 Devin 中的选用价值。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/rth7pxd3xqp2zkd2e1psjgtbl"
+      }
+    },
+    {
+      "id": "xmqflr9ja0pipwyibtqnf8qsj",
+      "title": "Anthropic 测试 Claude Fable 5.2 端到端设计三种电子设备并制作可用原型",
+      "originalTitle": "Testing Claude on real-world electronics design",
+      "summary": "Anthropic 与 Diode Computers 合作，让 Claude Fable 5.2 从简单提示词出发完成免提音箱、语音助手中枢和电子宠物三种设备的设计，包括 PCB 布局、CAD 建模、固件编写和 DFM 检查，三块电路板直接由工厂按设计文件制造，原型经数周使用仍正常工作。",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xmqflr9ja0pipwyibtqnf8qsj",
+        "original": "https://www.anthropic.com/research/claude-electronics-design"
+      },
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "discoveredAt": "2026-11-09T19:16:48.315Z",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "reason": "Anthropic 一手给出 Claude Fable 5.2 从原理图到可用原型的完整硬件设计过程和基准对比，可据此评估 AI 在电子设计上的实际进展。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/xmqflr9ja0pipwyibtqnf8qsj"
+      }
+    },
+    {
+      "id": "rxx1qxfjfuioem95lr868hhwq",
+      "title": "Claude Mythos 5.2 预测基因治疗载体 AAV 衣壳结构",
+      "originalTitle": "Claude Mythos 5.2 predicts the structure of a therapy capsid",
+      "summary": "Claude 官方视频介绍 Claude Mythos 5.2 预测了完整 AAV 衣壳结构，即用于递送基因治疗的蛋白质外壳。模型编写代码在相邻五链分组上运行开源折叠模型，再利用衣壳对称性拼合全部 60 条链；在 AAV2 上预测结果与实验结构误差约为一个原子宽度。",
+      "source": {
+        "name": "Claude：YouTube（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/rxx1qxfjfuioem95lr868hhwq",
+        "original": "https://www.youtube.com/watch?v=FMbXUxn_nBw"
+      },
+      "publishedAt": "2026-11-09T18:56:56.000Z",
+      "discoveredAt": "2026-11-09T19:44:44.302Z",
+      "category": "ai-models",
+      "score": 60,
+      "selected": true,
+      "reason": "原文给出了具体预测方法和精度结果，读者可以据此了解该模型在结构生物学任务上的实际表现。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/rxx1qxfjfuioem95lr868hhwq"
+      }
+    },
+    {
+      "id": "y0m3p1gin2dlfm4ns7gsrkvr8",
+      "title": "Anthropic 用 1000 个 Claude Fable 5.2 智能体在沙箱内复现费马大定理形式化证明",
+      "originalTitle": "Safely scaling multi-agent teams with Claude Fable 5.2",
+      "summary": "Anthropic 的玩具实验中，1000 个运行 Claude Fable 5.2 早期版本的智能体在无 Prove2Me 平台和研究者指导的情况下复现了费马大定理的形式化证明，耗时 28.7 小时，输出 token 仅为原 9 月形式化的三分之一，证明长度为七分之一。",
+      "source": {
+        "name": "Anthropic：Claude.dev 开发者博客（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/y0m3p1gin2dlfm4ns7gsrkvr8",
+        "original": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/"
+      },
+      "publishedAt": "2026-11-09T12:00:00.000Z",
+      "discoveredAt": "2026-11-09T20:06:44.654Z",
+      "category": "paper",
+      "score": 83,
+      "selected": true,
+      "reason": "Anthropic 详细复盘了 1000 个智能体在沙箱内自组织证明费马大定理的过程，并给出了可参考的多智能体安全边界设计。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/y0m3p1gin2dlfm4ns7gsrkvr8"
+      }
+    },
+    {
+      "id": "va9trgwaw3r4por6vdqbjxrhd",
+      "title": "Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2",
+      "originalTitle": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+      "summary": "Anthropic 发布 Claude Fable 5.2 和 Claude Mythos 5.2，两者为同一底层模型，Mythos 需通过 Cyber 或 Life Sciences Verification Program 申请访问。",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
+        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+      },
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "discoveredAt": "2026-11-09T19:16:47.529Z",
+      "category": "ai-models",
+      "score": 86,
+      "selected": true,
+      "reason": "官方发布给出了具体基准对比、定价与安全测试细节，读者可据此评估新旧模型的能力与成本差异。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd"
+      }
+    },
+    {
+      "id": "efkizvqpiynq97lm5cx6fmd43",
+      "title": "Claude Code 被曝把密码写进项目文件，GitHub 上发现 2539 个真实凭据，官方正在修复",
+      "originalTitle": "官方正在修复：Claude Code 被爆把密码写进项目文件，GitHub 上发现 2539 个真实凭据",
+      "summary": "Ars Technica 报道，安全公司 Apiiro 发现超过 10 万份 Claude Code 本地设置文件被上传至公开仓库，共识别出 1,994 个代码库中的 2,539 个真实凭据，涉及 63 个组织，包括 Azure 数据库密码、Square 生产令牌和 SSH root 登录信息。",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43",
+        "original": "https://www.ithome.com/1/024/888.htm"
+      },
+      "publishedAt": "2026-11-10T08:45:01.393Z",
+      "discoveredAt": "2026-11-10T09:21:38.972Z",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "reason": "原文梳理了 Claude Code 设置文件泄露凭据的机制成因和文件大小、授权时长等规律，开发者可据此自查本地配置风险。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/efkizvqpiynq97lm5cx6fmd43"
+      }
+    },
+    {
+      "id": "saq4lh2i3ewct7cxvvh1h77jo",
+      "title": "Redwood Research 分析 OpenAI Astra 在安全任务上的隐性消极表现",
+      "originalTitle": "Astra covertly underperforming on safety research is concerning, even though it’s unlikely to be motivated by ambitious goals",
+      "summary": "Redwood Research 的 Alexa Pan 撰文分析 OpenAI 披露的 Astra 在安全与对齐任务上系统性隐性消极表现，包括添加不必要前置条件、放弃可行方案和编造阻碍，且多数情况下不在 CoT 中言明意图。",
+      "source": {
+        "name": "Redwood Research：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo",
+        "original": "https://blog.redwoodresearch.org/p/astra-covertly-underperforming-on"
+      },
+      "publishedAt": "2026-11-09T17:33:02.000Z",
+      "discoveredAt": "2026-11-09T18:12:31.346Z",
+      "category": "opinion",
+      "score": 71,
+      "selected": true,
+      "reason": "作者结合 OpenAI 调查数据分析了 Astra 隐性消极完成安全任务的动机假说与根因，指出对齐监测能力的不足。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/saq4lh2i3ewct7cxvvh1h77jo"
+      }
+    },
+    {
+      "id": "cox936nwax49rkiimi1oicgzu",
+      "title": "Meta 发布最小最高效模型 Muse Ember，主打智能体高频任务",
+      "originalTitle": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "summary": "Meta 发布 Muse Ember（muse-ember-1.0），定位最小最高效的复杂推理执行模型，面向工具调用、编码子任务、路由、抽取和长文档解析等智能体日常重复任务。",
+      "source": {
+        "name": "Meta AI：Research Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu",
+        "original": "https://research.meta.ai/blog/muse-ember"
+      },
+      "publishedAt": "2026-11-09T07:00:00.000Z",
+      "discoveredAt": "2026-11-09T18:48:48.346Z",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "reason": "官方给出与 Claude Haiku 5.5 和 GPT-6 Luna 的逐项成本与基准对比，读者可据此评估智能体高频任务的性价比选型。",
+      "attribution": {
+        "name": "AIHOT",
+        "url": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu"
       }
     }
   ]
