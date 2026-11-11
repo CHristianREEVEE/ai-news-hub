@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:03:28.096682+00:00",
+  "updatedAt": "2026-11-11T10:48:10.581196+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -16,22 +16,75 @@
         "story": "https://aihot.news/story/760e0591-91c2-4b7a-aea8-5a33ba5d86b1"
       },
       "sourceCount": 22,
-      "signalCount": 105,
-      "participantCount": 127,
+      "signalCount": 127,
+      "participantCount": 149,
       "sourceNames": [
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "MarkTechPost（RSS）",
+        "The Decoder：AI News（RSS）",
         "X：indigo (@indigox)",
         "IT之家·人工智能",
         "X：Arena (@arena)",
         "Simon Willison 博客",
-        "X：卡兹克 (@Khazix0918)",
-        "公众号：数字生命卡兹克",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Addy Osmani (@addyosmani)"
+        "X：卡兹克 (@Khazix0918)"
       ],
-      "latestAt": "2026-11-10T07:49:56.000Z"
+      "latestAt": "2026-11-10T22:12:54.000Z"
     },
     {
       "rank": 2,
+      "id": "w8cvkd1j2o1c3m8ikh8x2kpfx",
+      "title": "Google 开放 Gemini 4 Carbon，Perplexity 同步上线",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/w8cvkd1j2o1c3m8ikh8x2kpfx",
+        "original": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+        "story": "https://aihot.news/story/e16f5d00-5477-42b8-83d3-4162e0262249"
+      },
+      "sourceCount": 11,
+      "signalCount": 44,
+      "participantCount": 55,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "Simon Willison 博客",
+        "The Decoder：AI News（RSS）",
+        "X：Google DeepMind (@GoogleDeepMind)",
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-10T22:43:37.660Z"
+    },
+    {
+      "rank": 3,
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "original": "https://www.anthropic.com/news/s1-sec",
+        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+      },
+      "sourceCount": 7,
+      "signalCount": 44,
+      "participantCount": 51,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "The Verge：AI（RSS）",
+        "The Decoder：AI News（RSS）",
+        "IT之家·人工智能",
+        "Anthropic：Newsroom（网页）"
+      ],
+      "latestAt": "2026-11-11T05:47:04.000Z"
+    },
+    {
+      "rank": 4,
       "id": "kci32x4hgxrdl0v5o4xrjlxri",
       "title": "英伟达董事会调查黄仁勋涉情报事件",
       "source": {
@@ -43,22 +96,72 @@
         "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
       },
       "sourceCount": 8,
-      "signalCount": 64,
-      "participantCount": 72,
+      "signalCount": 47,
+      "participantCount": 55,
       "sourceNames": [
-        "The Verge：AI（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
+        "The Verge：AI（RSS）",
+        "ChinaTalk（RSS）",
         "TechCrunch：AI（RSS）",
         "Ars Technica：AI（RSS）",
         "Big Technology（热点 RSS）",
         "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：indigo (@indigox)"
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-11-09T23:51:58.000Z"
+      "latestAt": "2026-11-11T05:42:06.000Z"
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "id": "c1fodrvts3po1pprz70weooju",
+      "title": "Claude 新增白板、表格与数据三类 artifact",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/c1fodrvts3po1pprz70weooju",
+        "original": "https://claude.com/blog/sheets-whiteboards-data",
+        "story": "https://aihot.news/story/29e37b58-ab35-4bcf-b318-20b0e5a3290d"
+      },
+      "sourceCount": 6,
+      "signalCount": 30,
+      "participantCount": 36,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "Claude：YouTube（RSS）"
+      ],
+      "latestAt": "2026-11-10T22:43:46.407Z"
+    },
+    {
+      "rank": 6,
+      "id": "eel6o8sxfldx5itfa8f8wigc0",
+      "title": "MiniMax 开源 H3-Image，多平台接入",
+      "source": {
+        "name": "MiniMax：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/eel6o8sxfldx5itfa8f8wigc0",
+        "original": "https://www.minimax.io/blog/minimax-h3-image",
+        "story": "https://aihot.news/story/7c20f4ef-fe04-4eca-8355-554fa5df4366"
+      },
+      "sourceCount": 6,
+      "signalCount": 16,
+      "participantCount": 22,
+      "sourceNames": [
+        "X：MiniMax Design (H3) (@Hailuo_AI)",
+        "X：MiniMax (@MiniMax_AI)",
+        "IT之家·人工智能",
+        "X：Arena (@arena)",
+        "X：fal (@fal)",
+        "Comfy Blog"
+      ],
+      "latestAt": "2026-11-11T10:16:11.000Z"
+    },
+    {
+      "rank": 7,
       "id": "cox936nwax49rkiimi1oicgzu",
       "title": "Meta 发布轻量模型 Muse Ember，主打低成本智能体任务",
       "source": {
@@ -69,9 +172,9 @@
         "original": "https://research.meta.ai/blog/muse-ember",
         "story": "https://aihot.news/story/c9508ded-f5e2-404c-b983-fdd61423c85a"
       },
-      "sourceCount": 11,
-      "signalCount": 23,
-      "participantCount": 34,
+      "sourceCount": 10,
+      "signalCount": 28,
+      "participantCount": 38,
       "sourceNames": [
         "Simon Willison 博客",
         "MarkTechPost（RSS）",
@@ -85,7 +188,57 @@
       "latestAt": "2026-11-10T07:28:21.000Z"
     },
     {
-      "rank": 4,
+      "rank": 8,
+      "id": "xsvt2hlwuovul9sdvazcw7cxk",
+      "title": "字节发布 Seedream 5.5，多平台接入",
+      "source": {
+        "name": "字节 Seed：Research Feed（网页内嵌数据）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
+        "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83",
+        "story": "https://aihot.news/story/2b6190d7-3612-47d1-9e63-d75e50b8604d"
+      },
+      "sourceCount": 7,
+      "signalCount": 22,
+      "participantCount": 29,
+      "sourceNames": [
+        "X：PixVerse (@PixVerse)",
+        "X：卡尔的 AI 沃茨 (@aiwarts)",
+        "Comfy Blog",
+        "X：Krea AI (@krea_ai)",
+        "公众号：卡尔的AI沃茨",
+        "IT之家·人工智能",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-11T09:06:01.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "vhu2xtpasbm5mewe5r7qdqkgi",
+      "title": "OpenAI 在 ChatGPT 测试企业智能体与 Business Hub",
+      "source": {
+        "name": "X：Tibo (@thsottiaux)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vhu2xtpasbm5mewe5r7qdqkgi",
+        "original": "https://x.com/thsottiaux/status/2120267268517249036",
+        "story": "https://aihot.news/story/8bb21e7d-6819-4abf-ae87-88ce17d9088a"
+      },
+      "sourceCount": 5,
+      "signalCount": 13,
+      "participantCount": 18,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Tibo (@thsottiaux)",
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-10T22:55:36.787Z"
+    },
+    {
+      "rank": 10,
       "id": "phwieennfk1nppru29uek1b0y",
       "title": "Google 一年内交付四款第八代 TPU",
       "source": {
@@ -96,148 +249,18 @@
         "original": "https://x.com/Google/status/2119788086490001906",
         "story": "https://aihot.news/story/4a64f241-8892-4af9-9d8a-d75c99724c71"
       },
-      "sourceCount": 5,
-      "signalCount": 25,
-      "participantCount": 30,
+      "sourceCount": 6,
+      "signalCount": 26,
+      "participantCount": 32,
       "sourceNames": [
+        "TechCrunch：AI（RSS）",
         "X：Sundar Pichai (@sundarpichai)",
         "MarkTechPost（RSS）",
         "X：Lisa Su（AMD CEO） (@LisaSu)",
         "Hacker News：AI 热帖",
         "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-11-09T18:19:08.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "xsvt2hlwuovul9sdvazcw7cxk",
-      "title": "字节发布 Seedream 5.5 图像模型，豆包接入",
-      "source": {
-        "name": "字节 Seed：Research Feed（网页内嵌数据）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
-        "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83",
-        "story": "https://aihot.news/story/2b6190d7-3612-47d1-9e63-d75e50b8604d"
-      },
-      "sourceCount": 5,
-      "signalCount": 20,
-      "participantCount": 25,
-      "sourceNames": [
-        "公众号：卡尔的AI沃茨",
-        "IT之家·人工智能",
-        "The Decoder：AI News（RSS）",
-        "公众号：火山引擎",
-        "字节 Seed：Research Feed（网页内嵌数据）"
-      ],
-      "latestAt": "2026-11-10T10:12:00.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic 拟感恩节前 IPO，估值预期降至 1.25–1.75 万亿美元",
-      "source": {
-        "name": "Anthropic：Newsroom（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "original": "https://www.anthropic.com/news/s1-sec",
-        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
-      },
-      "sourceCount": 1,
-      "signalCount": 16,
-      "participantCount": 17,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-11-10T01:27:12.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "d56toetc3hcdjd4hwas283saz",
-      "title": "xAI 连夜修复 Grok Bot 并重置周限额",
-      "source": {
-        "name": "X：Grok Bot (@bot)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/d56toetc3hcdjd4hwas283saz",
-        "original": "https://x.com/bot/status/2119871982946971659",
-        "story": "https://aihot.news/story/0d0f5f1f-b3ea-4b0f-bd3c-f6735cd0b4dc"
-      },
-      "sourceCount": 3,
-      "signalCount": 13,
-      "participantCount": 16,
-      "sourceNames": [
-        "X：Lingxi Li（SpaceXSI，Grok Bot 工程） (@lingxi)",
-        "X：Eric Zakariasson (@ericzakariasson)",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-09T22:22:30.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "mna5obim9zs439keyauqnh8nb",
-      "title": "迪士尼与Adobe合作开发定制生成式AI模型",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/mna5obim9zs439keyauqnh8nb",
-        "original": "https://www.ithome.com/1/024/731.htm",
-        "story": "https://aihot.news/story/1f7bc83b-0722-496f-bb5c-73f3f496580a"
-      },
-      "sourceCount": 3,
-      "signalCount": 9,
-      "participantCount": 12,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "The Decoder：AI News（RSS）",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-11-10T03:26:36.530Z"
-    },
-    {
-      "rank": 9,
-      "id": "fhtzzpeq9pxo021k0uk7s034p",
-      "title": "Anthropic 34亿美元购入1.7GW燃气发电机组",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/fhtzzpeq9pxo021k0uk7s034p",
-        "original": "https://x.com/rohanpaul_ai/status/2119431232165683269",
-        "story": "https://aihot.news/story/8fc0b0a8-b3ab-41e8-a159-697ec636264d"
-      },
-      "sourceCount": 3,
-      "signalCount": 14,
-      "participantCount": 17,
-      "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-09T16:56:54.000Z"
-    },
-    {
-      "rank": 10,
-      "id": "v2kttogijk2w2kuk3ip43brpo",
-      "title": "蚂蚁灵波开源触觉基础模型 LingBot-Touch",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/v2kttogijk2w2kuk3ip43brpo",
-        "original": "https://www.ithome.com/1/024/701.htm",
-        "story": "https://aihot.news/story/3ef2e80e-4464-431f-bc60-e1c5e7d77933"
-      },
-      "sourceCount": 2,
-      "signalCount": 7,
-      "participantCount": 9,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "Robbyant 蚂蚁灵波（官方 X）"
-      ],
-      "latestAt": "2026-11-10T02:46:47.257Z"
+      "latestAt": "2026-11-10T15:54:08.000Z"
     }
   ]
 }
