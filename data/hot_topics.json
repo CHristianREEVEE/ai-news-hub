@@ -1,37 +1,62 @@
 {
-  "updatedAt": "2026-11-11T10:48:10.581196+00:00",
+  "updatedAt": "2026-11-12T10:57:53.447896+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "va9trgwaw3r4por6vdqbjxrhd",
-      "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，多项评测登顶",
+      "id": "kci32x4hgxrdl0v5o4xrjlxri",
+      "title": "英伟达董事会调查黄仁勋涉外国情报事件",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "The Verge：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
-        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-        "story": "https://aihot.news/story/760e0591-91c2-4b7a-aea8-5a33ba5d86b1"
+        "aihot": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
+        "original": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+        "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
       },
-      "sourceCount": 22,
-      "signalCount": 127,
-      "participantCount": 149,
+      "sourceCount": 6,
+      "signalCount": 54,
+      "participantCount": 60,
       "sourceNames": [
-        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-        "MarkTechPost（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：indigo (@indigox)",
         "IT之家·人工智能",
-        "X：Arena (@arena)",
-        "Simon Willison 博客",
-        "X：卡兹克 (@Khazix0918)"
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "ChinaTalk（RSS）"
       ],
-      "latestAt": "2026-11-10T22:12:54.000Z"
+      "latestAt": "2026-11-12T04:15:28.377Z"
     },
     {
       "rank": 2,
+      "id": "r8hsm3m3munjwk1n3u885zszw",
+      "title": "Google发布Gemini Decision 1决策模型，评测得66分",
+      "source": {
+        "name": "Google Blog：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
+        "original": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+        "story": "https://aihot.news/story/8febc4b1-e8fa-4418-97c6-eb03dfa73f42"
+      },
+      "sourceCount": 11,
+      "signalCount": 22,
+      "participantCount": 33,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "Simon Willison 博客",
+        "MarkTechPost（RSS）",
+        "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+        "The Decoder：AI News（RSS）",
+        "X：Google (@Google)",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "latestAt": "2026-11-12T00:55:39.970Z"
+    },
+    {
+      "rank": 3,
       "id": "w8cvkd1j2o1c3m8ikh8x2kpfx",
       "title": "Google 开放 Gemini 4 Carbon，Perplexity 同步上线",
       "source": {
@@ -42,23 +67,23 @@
         "original": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
         "story": "https://aihot.news/story/e16f5d00-5477-42b8-83d3-4162e0262249"
       },
-      "sourceCount": 11,
-      "signalCount": 44,
-      "participantCount": 55,
+      "sourceCount": 8,
+      "signalCount": 50,
+      "participantCount": 58,
       "sourceNames": [
+        "X：Google (@Google)",
         "IT之家·人工智能",
         "Simon Willison 博客",
         "The Decoder：AI News（RSS）",
-        "X：Google DeepMind (@GoogleDeepMind)",
         "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Logan Kilpatrick (@OfficialLoganK)",
         "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-11-10T22:43:37.660Z"
+      "latestAt": "2026-11-11T22:53:02.000Z"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
       "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
       "source": {
@@ -70,50 +95,48 @@
         "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
       },
       "sourceCount": 7,
-      "signalCount": 44,
-      "participantCount": 51,
+      "signalCount": 43,
+      "participantCount": 50,
       "sourceNames": [
+        "Simon Willison 博客",
         "X：Rohan Paul (@rohanpaul_ai)",
         "TechCrunch：AI（RSS）",
         "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "The Verge：AI（RSS）",
         "The Decoder：AI News（RSS）",
-        "IT之家·人工智能",
-        "Anthropic：Newsroom（网页）"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-11T05:47:04.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "kci32x4hgxrdl0v5o4xrjlxri",
-      "title": "英伟达董事会调查黄仁勋涉情报事件",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/kci32x4hgxrdl0v5o4xrjlxri",
-        "original": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-        "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
-      },
-      "sourceCount": 8,
-      "signalCount": 47,
-      "participantCount": 55,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Verge：AI（RSS）",
-        "ChinaTalk（RSS）",
-        "TechCrunch：AI（RSS）",
-        "Ars Technica：AI（RSS）",
-        "Big Technology（热点 RSS）",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-11-11T05:42:06.000Z"
+      "latestAt": "2026-11-11T15:11:59.000Z"
     },
     {
       "rank": 5,
+      "id": "va9trgwaw3r4por6vdqbjxrhd",
+      "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，多项评测登顶",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
+        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "story": "https://aihot.news/story/760e0591-91c2-4b7a-aea8-5a33ba5d86b1"
+      },
+      "sourceCount": 6,
+      "signalCount": 43,
+      "participantCount": 49,
+      "sourceNames": [
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Arena (@arena)",
+        "X：OpenClaw (@openclaw)",
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "MarkTechPost（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-12T02:00:20.000Z"
+    },
+    {
+      "rank": 6,
       "id": "c1fodrvts3po1pprz70weooju",
-      "title": "Claude 新增白板、表格与数据三类 artifact",
+      "title": "Anthropic 为 Claude 新增白板、表格与数据三类 artifact",
       "source": {
         "name": "Claude：Blog（网页）"
       },
@@ -122,10 +145,11 @@
         "original": "https://claude.com/blog/sheets-whiteboards-data",
         "story": "https://aihot.news/story/29e37b58-ab35-4bcf-b318-20b0e5a3290d"
       },
-      "sourceCount": 6,
-      "signalCount": 30,
-      "participantCount": 36,
+      "sourceCount": 7,
+      "signalCount": 31,
+      "participantCount": 38,
       "sourceNames": [
+        "X：Noah Zweben（@noahzweben）",
         "IT之家·人工智能",
         "The Decoder：AI News（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
@@ -133,12 +157,12 @@
         "The Verge：AI（RSS）",
         "Claude：YouTube（RSS）"
       ],
-      "latestAt": "2026-11-10T22:43:46.407Z"
+      "latestAt": "2026-11-11T18:38:50.000Z"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "eel6o8sxfldx5itfa8f8wigc0",
-      "title": "MiniMax 开源 H3-Image，多平台接入",
+      "title": "MiniMax 开源 H3-Image，多平台接入并完成芯片适配",
       "source": {
         "name": "MiniMax：Blog（网页）"
       },
@@ -147,120 +171,83 @@
         "original": "https://www.minimax.io/blog/minimax-h3-image",
         "story": "https://aihot.news/story/7c20f4ef-fe04-4eca-8355-554fa5df4366"
       },
-      "sourceCount": 6,
-      "signalCount": 16,
-      "participantCount": 22,
+      "sourceCount": 7,
+      "signalCount": 20,
+      "participantCount": 27,
       "sourceNames": [
         "X：MiniMax Design (H3) (@Hailuo_AI)",
+        "vLLM 官方博客（RSS）",
         "X：MiniMax (@MiniMax_AI)",
         "IT之家·人工智能",
         "X：Arena (@arena)",
         "X：fal (@fal)",
         "Comfy Blog"
       ],
-      "latestAt": "2026-11-11T10:16:11.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "cox936nwax49rkiimi1oicgzu",
-      "title": "Meta 发布轻量模型 Muse Ember，主打低成本智能体任务",
-      "source": {
-        "name": "Meta AI：Research Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cox936nwax49rkiimi1oicgzu",
-        "original": "https://research.meta.ai/blog/muse-ember",
-        "story": "https://aihot.news/story/c9508ded-f5e2-404c-b983-fdd61423c85a"
-      },
-      "sourceCount": 10,
-      "signalCount": 28,
-      "participantCount": 38,
-      "sourceNames": [
-        "Simon Willison 博客",
-        "MarkTechPost（RSS）",
-        "IT之家·人工智能",
-        "The Decoder：AI News（RSS）",
-        "X：OpenRouter (@OpenRouter)",
-        "X：opencode (@opencode)",
-        "X：Arena (@arena)",
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "latestAt": "2026-11-10T07:28:21.000Z"
+      "latestAt": "2026-11-12T07:58:29.000Z"
     },
     {
       "rank": 8,
-      "id": "xsvt2hlwuovul9sdvazcw7cxk",
-      "title": "字节发布 Seedream 5.5，多平台接入",
+      "id": "lri5bifxkd8qgt8rtecq6zvti",
+      "title": "美联航禁止个人AI智能体代客购票",
       "source": {
-        "name": "字节 Seed：Research Feed（网页内嵌数据）"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xsvt2hlwuovul9sdvazcw7cxk",
-        "original": "https://seed.bytedance.com/zh/blog/%E7%94%9F%E6%88%90%E6%9B%B4%E7%9C%9F%E5%AE%9E-%E7%99%BE%E8%BD%AE%E7%BC%96%E8%BE%91%E6%9B%B4%E7%A8%B3%E5%AE%9A-seedream-5-5-%E5%8F%91%E5%B8%83",
-        "story": "https://aihot.news/story/2b6190d7-3612-47d1-9e63-d75e50b8604d"
+        "aihot": "https://aihot.news/items/lri5bifxkd8qgt8rtecq6zvti",
+        "original": "https://x.com/rohanpaul_ai/status/2120584444247760983",
+        "story": "https://aihot.news/story/532d299f-c029-4fd3-8dcf-d821dd59a569"
       },
-      "sourceCount": 7,
-      "signalCount": 22,
-      "participantCount": 29,
+      "sourceCount": 4,
+      "signalCount": 11,
+      "participantCount": 15,
       "sourceNames": [
-        "X：PixVerse (@PixVerse)",
-        "X：卡尔的 AI 沃茨 (@aiwarts)",
-        "Comfy Blog",
-        "X：Krea AI (@krea_ai)",
-        "公众号：卡尔的AI沃茨",
         "IT之家·人工智能",
-        "The Decoder：AI News（RSS）"
+        "The Verge：AI（RSS）",
+        "X：Lingxi Li（SpaceXSI，Grok Bot 工程） (@lingxi)",
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-11-11T09:06:01.000Z"
+      "latestAt": "2026-11-12T01:39:34.963Z"
     },
     {
       "rank": 9,
-      "id": "vhu2xtpasbm5mewe5r7qdqkgi",
-      "title": "OpenAI 在 ChatGPT 测试企业智能体与 Business Hub",
+      "id": "yl9gdujoqcqyf76ih8c75nnx3",
+      "title": "xAI发布Grok Bot 1.0，定位团队AI队友",
       "source": {
-        "name": "X：Tibo (@thsottiaux)"
+        "name": "X：Grok Bot (@bot)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/vhu2xtpasbm5mewe5r7qdqkgi",
-        "original": "https://x.com/thsottiaux/status/2120267268517249036",
-        "story": "https://aihot.news/story/8bb21e7d-6819-4abf-ae87-88ce17d9088a"
+        "aihot": "https://aihot.news/items/yl9gdujoqcqyf76ih8c75nnx3",
+        "original": "https://x.com/bot/status/2120582957782200586",
+        "story": "https://aihot.news/story/6644da24-0d0a-42b1-888b-7805ed5edc3a"
       },
-      "sourceCount": 5,
+      "sourceCount": 2,
       "signalCount": 13,
-      "participantCount": 18,
+      "participantCount": 15,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Tibo (@thsottiaux)",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）"
+        "X：Michael Truell (@mntruell)",
+        "X：Lauren Tan（SpaceXSI，Grok Bot 工程负责人） (@poteto)"
       ],
-      "latestAt": "2026-11-10T22:55:36.787Z"
+      "latestAt": "2026-11-12T04:31:18.000Z"
     },
     {
       "rank": 10,
-      "id": "phwieennfk1nppru29uek1b0y",
-      "title": "Google 一年内交付四款第八代 TPU",
+      "id": "gh6y2lbtyon3hs6wrpg3ibzys",
+      "title": "字节跳动拟推AI助手，张一鸣称追平需到2029年",
       "source": {
-        "name": "X：Google (@Google)"
+        "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/phwieennfk1nppru29uek1b0y",
-        "original": "https://x.com/Google/status/2119788086490001906",
-        "story": "https://aihot.news/story/4a64f241-8892-4af9-9d8a-d75c99724c71"
+        "aihot": "https://aihot.news/items/gh6y2lbtyon3hs6wrpg3ibzys",
+        "original": "https://www.ithome.com/1/025/726.htm",
+        "story": "https://aihot.news/story/3577b882-baf2-4e0b-b413-a1f68356a60f"
       },
-      "sourceCount": 6,
-      "signalCount": 26,
-      "participantCount": 32,
+      "sourceCount": 1,
+      "signalCount": 13,
+      "participantCount": 14,
       "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "X：Sundar Pichai (@sundarpichai)",
-        "MarkTechPost（RSS）",
-        "X：Lisa Su（AMD CEO） (@LisaSu)",
-        "Hacker News：AI 热帖",
-        "The Decoder：AI News（RSS）"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-10T15:54:08.000Z"
+      "latestAt": "2026-11-11T10:45:49.170Z"
     }
   ]
 }
