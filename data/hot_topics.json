@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:52:33.297917+00:00",
+  "updatedAt": "2026-11-14T10:14:58.837435+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -16,8 +16,8 @@
         "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
       },
       "sourceCount": 15,
-      "signalCount": 111,
-      "participantCount": 126,
+      "signalCount": 110,
+      "participantCount": 125,
       "sourceNames": [
         "X：卡尔的 AI 沃茨 (@aiwarts)",
         "Platformer（热点 RSS）",
@@ -42,74 +42,138 @@
         "original": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
         "story": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d"
       },
-      "sourceCount": 17,
-      "signalCount": 55,
-      "participantCount": 72,
+      "sourceCount": 16,
+      "signalCount": 66,
+      "participantCount": 82,
       "sourceNames": [
+        "X：Gemini (@GeminiApp)",
+        "MarkTechPost（RSS）",
         "X：OpenClaw (@openclaw)",
-        "X：Google (@Google)",
         "Simon Willison 博客",
         "The Verge：AI（RSS）",
         "X：Artificial Analysis (@ArtificialAnlys)",
         "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "Ars Technica：AI（RSS）"
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-11-13T04:31:12.000Z"
+      "latestAt": "2026-11-13T22:05:33.000Z"
     },
     {
       "rank": 3,
-      "id": "l36ne5q2gsdx6thyia7fi10kn",
-      "title": "Anthropic 向 Team 和 Enterprise 推出 Claude Meetings beta",
+      "id": "h2nxkfqpvkcqzof1dlta9j5w0",
+      "title": "微软365故障波及Claude，Anthropic通报中断",
       "source": {
-        "name": "Claude：Blog（网页）"
+        "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
-        "original": "https://claude.com/blog/claude-meetings",
-        "story": "https://aihot.news/story/dad94af2-7539-4652-a661-03cc5494c71b"
+        "aihot": "https://aihot.news/items/h2nxkfqpvkcqzof1dlta9j5w0",
+        "original": "https://www.ithome.com/1/026/948.htm",
+        "story": "https://aihot.news/story/d6f453c1-9dce-4af5-8a9a-ff7b8642493c"
       },
-      "sourceCount": 5,
-      "signalCount": 20,
-      "participantCount": 25,
+      "sourceCount": 1,
+      "signalCount": 31,
+      "participantCount": 32,
       "sourceNames": [
-        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-        "X：Noah Zweben（@noahzweben）",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Claude 应用发布说明"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-12T22:36:29.000Z"
+      "latestAt": "2026-11-13T13:10:18.303Z"
     },
     {
       "rank": 4,
-      "id": "r8hsm3m3munjwk1n3u885zszw",
-      "title": "Google发布Gemini Decision 1决策模型与Decisions API",
+      "id": "vot1htumxjgnb0i88rbq3zsuq",
+      "title": "OpenAI推出ChatGPT Wallet，智能体可代用户购物",
       "source": {
-        "name": "Google Blog：AI（RSS）"
+        "name": "X：ChatGPT (@ChatGPT)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/r8hsm3m3munjwk1n3u885zszw",
-        "original": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-        "story": "https://aihot.news/story/8febc4b1-e8fa-4418-97c6-eb03dfa73f42"
+        "aihot": "https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq",
+        "original": "https://x.com/ChatGPT/status/2121283151729496235",
+        "story": "https://aihot.news/story/e5b4067f-6f2e-4f04-8799-21e4fbd9b590"
       },
-      "sourceCount": 10,
-      "signalCount": 28,
-      "participantCount": 38,
+      "sourceCount": 6,
+      "signalCount": 19,
+      "participantCount": 25,
       "sourceNames": [
-        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "IT之家·人工智能",
-        "Simon Willison 博客",
-        "MarkTechPost（RSS）",
-        "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+        "The Verge：AI（RSS）",
         "The Decoder：AI News（RSS）",
-        "X：Google (@Google)",
-        "X：OpenRouter (@OpenRouter)"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Greg Brockman (@gdb)",
+        "TechCrunch：AI（RSS）",
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-13T01:10:07.000Z"
+      "latestAt": "2026-11-13T20:45:10.000Z"
     },
     {
       "rank": 5,
+      "id": "nnbnoebf6mvo97usmwj5wziyl",
+      "title": "DeepSeek 开放 App 能力 API，扩展调用另收费",
+      "source": {
+        "name": "DeepSeek：API 更新日志"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl",
+        "original": "https://api-docs.deepseek.com/zh-cn/updates/#发布全家桶应用-api",
+        "story": "https://aihot.news/story/77f8b937-8e1a-4b05-b3eb-b609445fedd4"
+      },
+      "sourceCount": 4,
+      "signalCount": 18,
+      "participantCount": 22,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Tianyi Cui（@tianyi）",
+        "IT之家·人工智能",
+        "X：DeepSeek (@deepseek_ai)"
+      ],
+      "latestAt": "2026-11-13T20:31:51.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "w9235nqq0senjfvm8lz7g51aa",
+      "title": "NVIDIA员工联署要求董事会辞职，董事会另寻继任者",
+      "source": {
+        "name": "X：X.PIN (@thexpin)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/w9235nqq0senjfvm8lz7g51aa",
+        "original": "https://x.com/thexpin/status/2121156882064937448",
+        "story": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
+      },
+      "sourceCount": 4,
+      "signalCount": 11,
+      "participantCount": 15,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "X：X.PIN (@thexpin)"
+      ],
+      "latestAt": "2026-11-13T20:07:34.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "um8pmpa91qn1ymvx3pux0sq1x",
+      "title": "llama.cpp 与 ggml 发布首个大版本 v1.0.0",
+      "source": {
+        "name": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x",
+        "original": "https://x.com/ClementDelangue/status/2121260104913768931",
+        "story": "https://aihot.news/story/44c4eb23-1f37-4994-a66d-7a06ff7a74ba"
+      },
+      "sourceCount": 5,
+      "signalCount": 9,
+      "participantCount": 14,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Cohere（@cohere）",
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "X：Georgi Gerganov（llama.cpp） (@ggerganov)",
+        "Hugging Face 社区博客（混合发现）"
+      ],
+      "latestAt": "2026-11-14T00:14:06.727Z"
+    },
+    {
+      "rank": 8,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
       "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
       "source": {
@@ -120,124 +184,58 @@
         "original": "https://www.anthropic.com/news/s1-sec",
         "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
       },
-      "sourceCount": 3,
-      "signalCount": 25,
-      "participantCount": 28,
-      "sourceNames": [
-        "X：Anthropic (@AnthropicAI)",
-        "Simon Willison 博客",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-12T11:30:46.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "lwol7ih78afft10fpv5rxphes",
-      "title": "李彦宏在百度世界2026提出“智能组织”",
-      "source": {
-        "name": "X：百度 Baidu (@Baidu_Inc)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/lwol7ih78afft10fpv5rxphes",
-        "original": "https://x.com/Baidu_Inc/status/2116168259728974202",
-        "story": "https://aihot.news/story/ee2e9a50-8def-4105-994e-06f5d0926408"
-      },
       "sourceCount": 2,
-      "signalCount": 16,
-      "participantCount": 18,
+      "signalCount": 19,
+      "participantCount": 21,
       "sourceNames": [
-        "X：百度 Baidu (@Baidu_Inc)",
-        "IT之家·人工智能"
+        "The Decoder：AI News（RSS）",
+        "X：Anthropic (@AnthropicAI)"
       ],
-      "latestAt": "2026-11-12T07:01:37.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "umle6dgudhf73hxhvypmv4qk8",
-      "title": "豆包工作向企业开放第三方模型并推限时优惠",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/umle6dgudhf73hxhvypmv4qk8",
-        "original": "https://www.ithome.com/1/019/733.htm",
-        "story": "https://aihot.news/story/60c71184-5d0c-4286-94d2-52e32d087f39"
-      },
-      "sourceCount": 1,
-      "signalCount": 16,
-      "participantCount": 17,
-      "sourceNames": [
-        "公众号：豆包（字节）"
-      ],
-      "latestAt": "2026-11-12T02:31:16.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "p9g8alrjslao3dn6von37647l",
-      "title": "前OpenAI工程师称四家中国AI实验室用Blackwell训练模型",
-      "source": {
-        "name": "X：indigo (@indigox)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/p9g8alrjslao3dn6von37647l",
-        "original": "https://x.com/indigox/status/2121040986256109987",
-        "story": "https://aihot.news/story/d7ab817c-174b-469d-8150-f55f492570e4"
-      },
-      "sourceCount": 1,
-      "signalCount": 11,
-      "participantCount": 12,
-      "sourceNames": [
-        "X：indigo (@indigox)"
-      ],
-      "latestAt": "2026-11-13T00:42:32.000Z"
+      "latestAt": "2026-11-13T18:01:53.000Z"
     },
     {
       "rank": 9,
-      "id": "vsfksfgk0lbaxg53ohn53hh73",
-      "title": "美联航封禁个人AI智能体代客订票",
+      "id": "l36ne5q2gsdx6thyia7fi10kn",
+      "title": "Anthropic 向 Team 和 Enterprise 推出 Claude Meetings beta",
       "source": {
-        "name": "TechCrunch：AI（RSS）"
+        "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/vsfksfgk0lbaxg53ohn53hh73",
-        "original": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-        "story": "https://aihot.news/story/532d299f-c029-4fd3-8dcf-d821dd59a569"
+        "aihot": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
+        "original": "https://claude.com/blog/claude-meetings",
+        "story": "https://aihot.news/story/dad94af2-7539-4652-a661-03cc5494c71b"
       },
-      "sourceCount": 5,
-      "signalCount": 15,
-      "participantCount": 20,
+      "sourceCount": 4,
+      "signalCount": 20,
+      "participantCount": 24,
       "sourceNames": [
-        "TechCrunch：AI（RSS）",
-        "IT之家·人工智能",
-        "The Verge：AI（RSS）",
-        "X：Lingxi Li（SpaceXSI，Grok Bot 工程） (@lingxi)",
+        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+        "X：Noah Zweben（@noahzweben）",
+        "The Decoder：AI News（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-11-12T17:17:58.000Z"
+      "latestAt": "2026-11-12T22:36:29.000Z"
     },
     {
       "rank": 10,
-      "id": "wp91dm5fgirnzvh99js3vv6j2",
-      "title": "DeepMind 发布 AlphaGenome 2 基因组模型",
+      "id": "vtbzlrc5srvma7dycld0ovk9f",
+      "title": "Gemini 接入 Google Wallet，仅可读取账户",
       "source": {
-        "name": "Google DeepMind：Blog（RSS）"
+        "name": "X：Google (@Google)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/wp91dm5fgirnzvh99js3vv6j2",
-        "original": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-        "story": "https://aihot.news/story/315f4328-e4b0-4d44-bc5e-e317e0b0f8f6"
+        "aihot": "https://aihot.news/items/vtbzlrc5srvma7dycld0ovk9f",
+        "original": "https://x.com/Google/status/2121293826908197347",
+        "story": "https://aihot.news/story/f39357ff-614c-4933-bc75-31ede55ae3b2"
       },
-      "sourceCount": 5,
-      "signalCount": 13,
-      "participantCount": 18,
+      "sourceCount": 2,
+      "signalCount": 9,
+      "participantCount": 11,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Google DeepMind (@GoogleDeepMind)",
         "IT之家·人工智能",
-        "MarkTechPost（RSS）",
-        "The Verge：AI（RSS）"
+        "X：Google (@Google)"
       ],
-      "latestAt": "2026-11-12T12:09:43.000Z"
+      "latestAt": "2026-11-14T06:57:17.463Z"
     }
   ]
 }
