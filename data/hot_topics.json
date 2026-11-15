@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T10:14:58.837435+00:00",
+  "updatedAt": "2026-11-15T10:44:42.131080+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -15,70 +15,16 @@
         "original": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
       },
-      "sourceCount": 15,
-      "signalCount": 110,
-      "participantCount": 125,
+      "sourceCount": 1,
+      "signalCount": 42,
+      "participantCount": 43,
       "sourceNames": [
-        "X：卡尔的 AI 沃茨 (@aiwarts)",
-        "Platformer（热点 RSS）",
-        "公众号：卡尔的AI沃茨",
-        "X：卡兹克 (@Khazix0918)",
-        "IT之家·人工智能",
-        "公众号：数字生命卡兹克",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）"
+        "X：X.PIN (@thexpin)"
       ],
-      "latestAt": "2026-11-13T04:17:46.000Z"
+      "latestAt": "2026-11-14T14:49:22.000Z"
     },
     {
       "rank": 2,
-      "id": "uy1ayrrlqx1snqsv4lub7whsa",
-      "title": "Google 发布 Gemini 4 Hydrogen，接入搜索与编程工具",
-      "source": {
-        "name": "Google DeepMind：Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-        "original": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-        "story": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d"
-      },
-      "sourceCount": 16,
-      "signalCount": 66,
-      "participantCount": 82,
-      "sourceNames": [
-        "X：Gemini (@GeminiApp)",
-        "MarkTechPost（RSS）",
-        "X：OpenClaw (@openclaw)",
-        "Simon Willison 博客",
-        "The Verge：AI（RSS）",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-11-13T22:05:33.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "h2nxkfqpvkcqzof1dlta9j5w0",
-      "title": "微软365故障波及Claude，Anthropic通报中断",
-      "source": {
-        "name": "IT之家·人工智能"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/h2nxkfqpvkcqzof1dlta9j5w0",
-        "original": "https://www.ithome.com/1/026/948.htm",
-        "story": "https://aihot.news/story/d6f453c1-9dce-4af5-8a9a-ff7b8642493c"
-      },
-      "sourceCount": 1,
-      "signalCount": 31,
-      "participantCount": 32,
-      "sourceNames": [
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-13T13:10:18.303Z"
-    },
-    {
-      "rank": 4,
       "id": "vot1htumxjgnb0i88rbq3zsuq",
       "title": "OpenAI推出ChatGPT Wallet，智能体可代用户购物",
       "source": {
@@ -90,8 +36,8 @@
         "story": "https://aihot.news/story/e5b4067f-6f2e-4f04-8799-21e4fbd9b590"
       },
       "sourceCount": 6,
-      "signalCount": 19,
-      "participantCount": 25,
+      "signalCount": 23,
+      "participantCount": 29,
       "sourceNames": [
         "The Verge：AI（RSS）",
         "The Decoder：AI News（RSS）",
@@ -103,7 +49,7 @@
       "latestAt": "2026-11-13T20:45:10.000Z"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "id": "nnbnoebf6mvo97usmwj5wziyl",
       "title": "DeepSeek 开放 App 能力 API，扩展调用另收费",
       "source": {
@@ -115,8 +61,8 @@
         "story": "https://aihot.news/story/77f8b937-8e1a-4b05-b3eb-b609445fedd4"
       },
       "sourceCount": 4,
-      "signalCount": 18,
-      "participantCount": 22,
+      "signalCount": 24,
+      "participantCount": 28,
       "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)",
         "X：Tianyi Cui（@tianyi）",
@@ -126,9 +72,9 @@
       "latestAt": "2026-11-13T20:31:51.000Z"
     },
     {
-      "rank": 6,
+      "rank": 4,
       "id": "w9235nqq0senjfvm8lz7g51aa",
-      "title": "NVIDIA员工联署要求董事会辞职，董事会另寻继任者",
+      "title": "NVIDIA员工与投资者施压董事会，董事会另寻继任者",
       "source": {
         "name": "X：X.PIN (@thexpin)"
       },
@@ -137,19 +83,78 @@
         "original": "https://x.com/thexpin/status/2121156882064937448",
         "story": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
       },
-      "sourceCount": 4,
-      "signalCount": 11,
-      "participantCount": 15,
+      "sourceCount": 3,
+      "signalCount": 13,
+      "participantCount": 16,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）",
-        "X：X.PIN (@thexpin)"
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-11-13T20:07:34.000Z"
+      "latestAt": "2026-11-14T19:38:34.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "zvo2ciiibpmh00lmqkggnsl5r",
+      "title": "OpenAI解散机器人团队，研究人员并入其他部门",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/zvo2ciiibpmh00lmqkggnsl5r",
+        "original": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+        "story": "https://aihot.news/story/4d02a2b5-ec70-4631-a88c-702e78e77fc0"
+      },
+      "sourceCount": 1,
+      "signalCount": 15,
+      "participantCount": 16,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-14T11:40:51.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "uy1ayrrlqx1snqsv4lub7whsa",
+      "title": "Google 发布 Gemini 4 Hydrogen，接入搜索与编程工具",
+      "source": {
+        "name": "Google DeepMind：Blog（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
+        "original": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+        "story": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d"
+      },
+      "sourceCount": 1,
+      "signalCount": 18,
+      "participantCount": 19,
+      "sourceNames": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "latestAt": "2026-11-13T22:05:33.000Z"
     },
     {
       "rank": 7,
+      "id": "h2nxkfqpvkcqzof1dlta9j5w0",
+      "title": "微软365故障波及Claude，Anthropic通报中断",
+      "source": {
+        "name": "IT之家·人工智能"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/h2nxkfqpvkcqzof1dlta9j5w0",
+        "original": "https://www.ithome.com/1/026/948.htm",
+        "story": "https://aihot.news/story/d6f453c1-9dce-4af5-8a9a-ff7b8642493c"
+      },
+      "sourceCount": 1,
+      "signalCount": 17,
+      "participantCount": 18,
+      "sourceNames": [
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-11-13T13:10:18.303Z"
+    },
+    {
+      "rank": 8,
       "id": "um8pmpa91qn1ymvx3pux0sq1x",
       "title": "llama.cpp 与 ggml 发布首个大版本 v1.0.0",
       "source": {
@@ -161,8 +166,8 @@
         "story": "https://aihot.news/story/44c4eb23-1f37-4994-a66d-7a06ff7a74ba"
       },
       "sourceCount": 5,
-      "signalCount": 9,
-      "participantCount": 14,
+      "signalCount": 12,
+      "participantCount": 17,
       "sourceNames": [
         "IT之家·人工智能",
         "X：Cohere（@cohere）",
@@ -173,69 +178,45 @@
       "latestAt": "2026-11-14T00:14:06.727Z"
     },
     {
-      "rank": 8,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
+      "rank": 9,
+      "id": "pg7avew3q9ekdp3ydzhiuh9y4",
+      "title": "Cursor 扩展市场现恶意 Claude Code 包，调查指向 Fireworks 密钥泄露",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "Cursor Blog"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "original": "https://www.anthropic.com/news/s1-sec",
-        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+        "aihot": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+        "original": "https://cursor.com/blog/claude-code-extension-security-notice",
+        "story": "https://aihot.news/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6"
       },
       "sourceCount": 2,
-      "signalCount": 19,
-      "participantCount": 21,
+      "signalCount": 8,
+      "participantCount": 10,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：Anthropic (@AnthropicAI)"
+        "IT之家·人工智能",
+        "X：Cursor (@cursor_ai)"
       ],
-      "latestAt": "2026-11-13T18:01:53.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "l36ne5q2gsdx6thyia7fi10kn",
-      "title": "Anthropic 向 Team 和 Enterprise 推出 Claude Meetings beta",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/l36ne5q2gsdx6thyia7fi10kn",
-        "original": "https://claude.com/blog/claude-meetings",
-        "story": "https://aihot.news/story/dad94af2-7539-4652-a661-03cc5494c71b"
-      },
-      "sourceCount": 4,
-      "signalCount": 20,
-      "participantCount": 24,
-      "sourceNames": [
-        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-        "X：Noah Zweben（@noahzweben）",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-12T22:36:29.000Z"
+      "latestAt": "2026-11-14T10:52:39.180Z"
     },
     {
       "rank": 10,
-      "id": "vtbzlrc5srvma7dycld0ovk9f",
-      "title": "Gemini 接入 Google Wallet，仅可读取账户",
+      "id": "dazmxe02wryrfcx3kb3l1sze2",
+      "title": "Claude Code 桌面版上线本地会话自定义主题",
       "source": {
-        "name": "X：Google (@Google)"
+        "name": "X：Claude Devs (@ClaudeDevs)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/vtbzlrc5srvma7dycld0ovk9f",
-        "original": "https://x.com/Google/status/2121293826908197347",
-        "story": "https://aihot.news/story/f39357ff-614c-4933-bc75-31ede55ae3b2"
+        "aihot": "https://aihot.news/items/dazmxe02wryrfcx3kb3l1sze2",
+        "original": "https://x.com/ClaudeDevs/status/2121392666244186327",
+        "story": "https://aihot.news/story/4be4c14d-784f-462e-bf3d-e88b8e5b615a"
       },
-      "sourceCount": 2,
-      "signalCount": 9,
+      "sourceCount": 1,
+      "signalCount": 10,
       "participantCount": 11,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Google (@Google)"
+        "X：Addy Osmani (@addyosmani)"
       ],
-      "latestAt": "2026-11-14T06:57:17.463Z"
+      "latestAt": "2026-11-14T06:26:00.000Z"
     }
   ]
 }
