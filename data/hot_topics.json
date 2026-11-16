@@ -1,12 +1,39 @@
 {
-  "updatedAt": "2026-11-15T10:44:42.131080+00:00",
+  "updatedAt": "2026-11-16T11:03:15.239519+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "nqcfrkilrh7nhnpd03t9q1zfh",
+      "title": "阿里发布 Qwen4-Max，预览版先行接入多产品",
+      "source": {
+        "name": "Qwen：Blog Retrieval（API）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
+        "original": "https://qwen.ai/blog?id=qwen4-max",
+        "story": "https://aihot.news/story/6b019bba-08b7-42da-8fe4-769d638f5ba7"
+      },
+      "sourceCount": 9,
+      "signalCount": 33,
+      "participantCount": 42,
+      "sourceNames": [
+        "MarkTechPost（RSS）",
+        "X：X.PIN (@thexpin)",
+        "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：opencode (@opencode)",
+        "X：OpenRouter (@OpenRouter)",
+        "X：Arena (@arena)",
+        "X：Unsloth (@UnslothAI)"
+      ],
+      "latestAt": "2026-11-16T09:44:17.000Z"
+    },
+    {
+      "rank": 2,
       "id": "qsbjbz754aodhcijq56puh6va",
-      "title": "黄仁勋辞任英伟达CEO并退出董事会",
+      "title": "黄仁勋辞任英伟达CEO，CFO克雷斯临时接任",
       "source": {
         "name": "NVIDIA：Newsroom（RSS）"
       },
@@ -15,64 +42,17 @@
         "original": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
         "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
       },
-      "sourceCount": 1,
-      "signalCount": 42,
-      "participantCount": 43,
-      "sourceNames": [
-        "X：X.PIN (@thexpin)"
-      ],
-      "latestAt": "2026-11-14T14:49:22.000Z"
-    },
-    {
-      "rank": 2,
-      "id": "vot1htumxjgnb0i88rbq3zsuq",
-      "title": "OpenAI推出ChatGPT Wallet，智能体可代用户购物",
-      "source": {
-        "name": "X：ChatGPT (@ChatGPT)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/vot1htumxjgnb0i88rbq3zsuq",
-        "original": "https://x.com/ChatGPT/status/2121283151729496235",
-        "story": "https://aihot.news/story/e5b4067f-6f2e-4f04-8799-21e4fbd9b590"
-      },
-      "sourceCount": 6,
-      "signalCount": 23,
-      "participantCount": 29,
+      "sourceCount": 2,
+      "signalCount": 28,
+      "participantCount": 30,
       "sourceNames": [
         "The Verge：AI（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Greg Brockman (@gdb)",
-        "TechCrunch：AI（RSS）",
-        "IT之家·人工智能"
+        "X：X.PIN (@thexpin)"
       ],
-      "latestAt": "2026-11-13T20:45:10.000Z"
+      "latestAt": "2026-11-15T13:00:00.000Z"
     },
     {
       "rank": 3,
-      "id": "nnbnoebf6mvo97usmwj5wziyl",
-      "title": "DeepSeek 开放 App 能力 API，扩展调用另收费",
-      "source": {
-        "name": "DeepSeek：API 更新日志"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/nnbnoebf6mvo97usmwj5wziyl",
-        "original": "https://api-docs.deepseek.com/zh-cn/updates/#发布全家桶应用-api",
-        "story": "https://aihot.news/story/77f8b937-8e1a-4b05-b3eb-b609445fedd4"
-      },
-      "sourceCount": 4,
-      "signalCount": 24,
-      "participantCount": 28,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Tianyi Cui（@tianyi）",
-        "IT之家·人工智能",
-        "X：DeepSeek (@deepseek_ai)"
-      ],
-      "latestAt": "2026-11-13T20:31:51.000Z"
-    },
-    {
-      "rank": 4,
       "id": "w9235nqq0senjfvm8lz7g51aa",
       "title": "NVIDIA员工与投资者施压董事会，董事会另寻继任者",
       "source": {
@@ -83,18 +63,104 @@
         "original": "https://x.com/thexpin/status/2121156882064937448",
         "story": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
       },
-      "sourceCount": 3,
-      "signalCount": 13,
-      "participantCount": 16,
+      "sourceCount": 1,
+      "signalCount": 22,
+      "participantCount": 23,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "latestAt": "2026-11-14T19:38:34.000Z"
     },
     {
+      "rank": 4,
+      "id": "u36vxmxeopbsx4if4lap30899",
+      "title": "腾讯混元发布 Hy4 flash，WorkBuddy 与 OpenCode 接入",
+      "source": {
+        "name": "腾讯混元：Research（API）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
+        "original": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
+        "story": "https://aihot.news/story/f54f5245-d324-4798-af1d-ca328fcdf9f3"
+      },
+      "sourceCount": 6,
+      "signalCount": 11,
+      "participantCount": 17,
+      "sourceNames": [
+        "X：opencode (@opencode)",
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "X：腾讯混元 (@TencentHunyuan)",
+        "IT之家·人工智能",
+        "公众号：腾讯混元",
+        "腾讯混元：Research（API）"
+      ],
+      "latestAt": "2026-11-16T09:19:46.000Z"
+    },
+    {
       "rank": 5,
+      "id": "va9trgwaw3r4por6vdqbjxrhd",
+      "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，多项评测登顶",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/va9trgwaw3r4por6vdqbjxrhd",
+        "original": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "story": "https://aihot.news/story/760e0591-91c2-4b7a-aea8-5a33ba5d86b1"
+      },
+      "sourceCount": 2,
+      "signalCount": 12,
+      "participantCount": 14,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-16T01:01:05.343Z"
+    },
+    {
+      "rank": 6,
+      "id": "txbnasfrp3d0w6wqmor5rp8fk",
+      "title": "苹果联合 OpenEvidence 启动健康 AI 使用研究",
+      "source": {
+        "name": "Apple：Newsroom（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/txbnasfrp3d0w6wqmor5rp8fk",
+        "original": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+        "story": "https://aihot.news/story/191bfb56-33e5-4bfb-847f-c387d9c59be1"
+      },
+      "sourceCount": 3,
+      "signalCount": 7,
+      "participantCount": 10,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）",
+        "Apple：Newsroom（RSS）"
+      ],
+      "latestAt": "2026-11-16T01:30:00.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "umoosrbjhi12kj7lv51qan4ju",
+      "title": "马斯克等联署请愿要求英伟达恢复黄仁勋职务",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
+        "original": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "story": "https://aihot.news/story/aef05bb0-3b6a-4fb9-a717-a5a5aee6ba5c"
+      },
+      "sourceCount": 1,
+      "signalCount": 8,
+      "participantCount": 9,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-11-14T21:41:22.000Z"
+    },
+    {
+      "rank": 8,
       "id": "zvo2ciiibpmh00lmqkggnsl5r",
       "title": "OpenAI解散机器人团队，研究人员并入其他部门",
       "source": {
@@ -106,117 +172,52 @@
         "story": "https://aihot.news/story/4d02a2b5-ec70-4631-a88c-702e78e77fc0"
       },
       "sourceCount": 1,
-      "signalCount": 15,
-      "participantCount": 16,
+      "signalCount": 9,
+      "participantCount": 10,
       "sourceNames": [
         "The Decoder：AI News（RSS）"
       ],
       "latestAt": "2026-11-14T11:40:51.000Z"
     },
     {
-      "rank": 6,
-      "id": "uy1ayrrlqx1snqsv4lub7whsa",
-      "title": "Google 发布 Gemini 4 Hydrogen，接入搜索与编程工具",
-      "source": {
-        "name": "Google DeepMind：Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-        "original": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-        "story": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d"
-      },
-      "sourceCount": 1,
-      "signalCount": 18,
-      "participantCount": 19,
-      "sourceNames": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "latestAt": "2026-11-13T22:05:33.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "h2nxkfqpvkcqzof1dlta9j5w0",
-      "title": "微软365故障波及Claude，Anthropic通报中断",
+      "rank": 9,
+      "id": "zhza6qwp4ylvz6iclzncpqxqh",
+      "title": "豆包工作上线「工作台」功能",
       "source": {
         "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/h2nxkfqpvkcqzof1dlta9j5w0",
-        "original": "https://www.ithome.com/1/026/948.htm",
-        "story": "https://aihot.news/story/d6f453c1-9dce-4af5-8a9a-ff7b8642493c"
+        "aihot": "https://aihot.news/items/zhza6qwp4ylvz6iclzncpqxqh",
+        "original": "https://www.ithome.com/1/027/608.htm",
+        "story": "https://aihot.news/story/7d88a903-9f3a-422d-832c-a253f28def8d"
       },
       "sourceCount": 1,
-      "signalCount": 17,
-      "participantCount": 18,
+      "signalCount": 4,
+      "participantCount": 5,
       "sourceNames": [
         "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-13T13:10:18.303Z"
-    },
-    {
-      "rank": 8,
-      "id": "um8pmpa91qn1ymvx3pux0sq1x",
-      "title": "llama.cpp 与 ggml 发布首个大版本 v1.0.0",
-      "source": {
-        "name": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/um8pmpa91qn1ymvx3pux0sq1x",
-        "original": "https://x.com/ClementDelangue/status/2121260104913768931",
-        "story": "https://aihot.news/story/44c4eb23-1f37-4994-a66d-7a06ff7a74ba"
-      },
-      "sourceCount": 5,
-      "signalCount": 12,
-      "participantCount": 17,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Cohere（@cohere）",
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "X：Georgi Gerganov（llama.cpp） (@ggerganov)",
-        "Hugging Face 社区博客（混合发现）"
-      ],
-      "latestAt": "2026-11-14T00:14:06.727Z"
-    },
-    {
-      "rank": 9,
-      "id": "pg7avew3q9ekdp3ydzhiuh9y4",
-      "title": "Cursor 扩展市场现恶意 Claude Code 包，调查指向 Fireworks 密钥泄露",
-      "source": {
-        "name": "Cursor Blog"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
-        "original": "https://cursor.com/blog/claude-code-extension-security-notice",
-        "story": "https://aihot.news/story/2bf3a441-7478-435f-9c80-951f7cb5a2f6"
-      },
-      "sourceCount": 2,
-      "signalCount": 8,
-      "participantCount": 10,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "X：Cursor (@cursor_ai)"
-      ],
-      "latestAt": "2026-11-14T10:52:39.180Z"
+      "latestAt": "2026-11-16T04:27:33.803Z"
     },
     {
       "rank": 10,
-      "id": "dazmxe02wryrfcx3kb3l1sze2",
-      "title": "Claude Code 桌面版上线本地会话自定义主题",
+      "id": "xvpw4jy89d3ie6cf9z4utjs4u",
+      "title": "韩国税务师考试头名承认用AI作弊，政府扩大调查",
       "source": {
-        "name": "X：Claude Devs (@ClaudeDevs)"
+        "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/dazmxe02wryrfcx3kb3l1sze2",
-        "original": "https://x.com/ClaudeDevs/status/2121392666244186327",
-        "story": "https://aihot.news/story/4be4c14d-784f-462e-bf3d-e88b8e5b615a"
+        "aihot": "https://aihot.news/items/xvpw4jy89d3ie6cf9z4utjs4u",
+        "original": "https://www.ithome.com/1/027/303.htm",
+        "story": "https://aihot.news/story/dbbc8a4e-38b0-4ece-a3da-f584e55c7813"
       },
       "sourceCount": 1,
-      "signalCount": 10,
-      "participantCount": 11,
+      "signalCount": 6,
+      "participantCount": 7,
       "sourceNames": [
-        "X：Addy Osmani (@addyosmani)"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-14T06:26:00.000Z"
+      "latestAt": "2026-11-15T13:42:51.953Z"
     }
   ]
 }

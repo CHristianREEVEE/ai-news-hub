@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T10:44:27.430390+00:00",
+  "updatedAt": "2026-11-16T11:03:03.117790+00:00",
   "boardCount": 4,
   "sources": [
     "AIHOT",
@@ -10,7 +10,7 @@
       "id": "aihot-overall",
       "name": "AIHOT 总榜",
       "source": "aihot.cn",
-      "updatedAt": "2026-11-15T10:44:27.430404+00:00",
+      "updatedAt": "2026-11-16T11:03:03.117806+00:00",
       "metricLabel": "综合分",
       "items": [
         {
@@ -129,7 +129,7 @@
       "id": "vellum-overall",
       "name": "Vellum · Best Overall",
       "source": "vellum.ai",
-      "updatedAt": "2026-11-15T10:44:27.430410+00:00",
+      "updatedAt": "2026-11-16T11:03:03.117813+00:00",
       "metricLabel": "综合分",
       "items": [
         {
@@ -208,7 +208,7 @@
       "id": "vellum-reasoning",
       "name": "Vellum · Reasoning",
       "source": "vellum.ai",
-      "updatedAt": "2026-11-15T10:44:27.430413+00:00",
+      "updatedAt": "2026-11-16T11:03:03.117817+00:00",
       "metricLabel": "推理分",
       "items": [
         {
@@ -252,7 +252,7 @@
       "id": "vellum-coding",
       "name": "Vellum · Coding",
       "source": "vellum.ai",
-      "updatedAt": "2026-11-15T10:44:27.430415+00:00",
+      "updatedAt": "2026-11-16T11:03:03.117820+00:00",
       "metricLabel": "代码分",
       "items": [
         {
