@@ -1,57 +1,154 @@
 {
-  "updatedAt": "2026-11-17T11:44:09.713887+00:00",
+  "updatedAt": "2026-11-18T11:31:44.224671+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "nqcfrkilrh7nhnpd03t9q1zfh",
-      "title": "阿里发布 Qwen4-Max，预览版先行接入多产品",
+      "id": "jr7fqw95e5ihuevr1rzib208l",
+      "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol 两款模型",
       "source": {
-        "name": "Qwen：Blog Retrieval（API）"
+        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/nqcfrkilrh7nhnpd03t9q1zfh",
-        "original": "https://qwen.ai/blog?id=qwen4-max",
-        "story": "https://aihot.news/story/6b019bba-08b7-42da-8fe4-769d638f5ba7"
+        "aihot": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
+        "original": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "story": "https://aihot.news/story/2254fd74-e05d-4b8b-861e-9d14e940f4bc"
       },
       "sourceCount": 10,
-      "signalCount": 47,
-      "participantCount": 57,
+      "signalCount": 98,
+      "participantCount": 108,
       "sourceNames": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "The Decoder：AI News（RSS）",
+        "X：卡兹克 (@Khazix0918)",
+        "Simon Willison 博客",
+        "公众号：数字生命卡兹克",
+        "IT之家·人工智能",
         "MarkTechPost（RSS）",
-        "X：X.PIN (@thexpin)",
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：opencode (@opencode)",
-        "X：OpenRouter (@OpenRouter)",
-        "X：Arena (@arena)"
+        "X：Sam Altman (@sama)",
+        "The Decoder：AI News（RSS）",
+        "X：fal (@fal)"
       ],
-      "latestAt": "2026-11-17T09:31:09.000Z"
+      "latestAt": "2026-11-18T01:04:01.000Z"
     },
     {
       "rank": 2,
-      "id": "qsbjbz754aodhcijq56puh6va",
-      "title": "黄仁勋辞任英伟达CEO，CFO克雷斯临时接任",
+      "id": "mkahdchhxfc4z36augopprdh9",
+      "title": "黄仁勋辞任英伟达CEO，称愿在董事会决定下回归",
       "source": {
-        "name": "NVIDIA：Newsroom（RSS）"
+        "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/qsbjbz754aodhcijq56puh6va",
-        "original": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-        "story": "https://aihot.news/story/d01448e7-e6ef-4224-9e13-5f4b350dd6ed"
+        "aihot": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
+        "original": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+        "story": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1"
       },
-      "sourceCount": 1,
-      "signalCount": 30,
-      "participantCount": 31,
+      "sourceCount": 4,
+      "signalCount": 70,
+      "participantCount": 74,
       "sourceNames": [
-        "The Verge：AI（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：Jim Fan (@DrJimFan)",
+        "IT之家·人工智能",
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-11-15T13:00:00.000Z"
+      "latestAt": "2026-11-17T20:34:07.000Z"
     },
     {
       "rank": 3,
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic启动IPO路演，估值预期回落至1.25–1.75万亿美元",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "original": "https://www.anthropic.com/news/s1-sec",
+        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+      },
+      "sourceCount": 3,
+      "signalCount": 21,
+      "participantCount": 24,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家·人工智能",
+        "X：Kate Clark (@KateClarkTweets)"
+      ],
+      "latestAt": "2026-11-18T00:15:01.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "vgopllkh4so1p1q01nefg1364",
+      "title": "英伟达Q3营收1158亿美元，董事会明确不恢复黄仁勋职务",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
+        "original": "https://x.com/rohanpaul_ai/status/2122812619379900579",
+        "story": "https://aihot.news/story/e79088af-89d6-42e0-8947-05fbb16ede38"
+      },
+      "sourceCount": 4,
+      "signalCount": 16,
+      "participantCount": 20,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：indigo (@indigox)",
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-18T05:30:49.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "u36vxmxeopbsx4if4lap30899",
+      "title": "腾讯混元发布 Hy4 flash 并开源、接入多平台",
+      "source": {
+        "name": "腾讯混元：Research（API）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
+        "original": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
+        "story": "https://aihot.news/story/f54f5245-d324-4798-af1d-ca328fcdf9f3"
+      },
+      "sourceCount": 7,
+      "signalCount": 12,
+      "participantCount": 19,
+      "sourceNames": [
+        "X：腾讯混元 (@TencentHunyuan)",
+        "IT之家·人工智能",
+        "公众号：腾讯混元",
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "公众号：腾讯元宝",
+        "X：OpenClaw (@openclaw)",
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "latestAt": "2026-11-18T04:39:34.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "x6msqkehvwzry0904un629cqg",
+      "title": "美商务部推进远程算力管制，Nvidia曾游说反对",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
+        "original": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+        "story": "https://aihot.news/story/b8207c3b-2989-4532-a8b6-b763529a43fe"
+      },
+      "sourceCount": 4,
+      "signalCount": 18,
+      "participantCount": 22,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "ChinaTalk（RSS）",
+        "Ars Technica：AI（RSS）",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-11-18T03:53:46.000Z"
+    },
+    {
+      "rank": 7,
       "id": "t1ol5cc73f6teh8f32wvri1cn",
       "title": "加州总检察长起诉OpenAI智能体失控",
       "source": {
@@ -62,169 +159,83 @@
         "original": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
         "story": "https://aihot.news/story/fd9e7181-a93c-45bd-affd-922e09cdcd5a"
       },
-      "sourceCount": 3,
-      "signalCount": 20,
-      "participantCount": 23,
+      "sourceCount": 4,
+      "signalCount": 22,
+      "participantCount": 26,
       "sourceNames": [
+        "The Decoder：AI News（RSS）",
         "The Verge：AI（RSS）",
         "X：Rohan Paul (@rohanpaul_ai)",
         "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-11-16T20:46:01.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "u36vxmxeopbsx4if4lap30899",
-      "title": "腾讯混元 Hy4 flash 发布并接入多平台",
-      "source": {
-        "name": "腾讯混元：Research（API）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/u36vxmxeopbsx4if4lap30899",
-        "original": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
-        "story": "https://aihot.news/story/f54f5245-d324-4798-af1d-ca328fcdf9f3"
-      },
-      "sourceCount": 9,
-      "signalCount": 17,
-      "participantCount": 26,
-      "sourceNames": [
-        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "公众号：腾讯元宝",
-        "X：OpenClaw (@openclaw)",
-        "X：OpenRouter (@OpenRouter)",
-        "X：腾讯混元 (@TencentHunyuan)",
-        "X：opencode (@opencode)",
-        "IT之家·人工智能",
-        "公众号：腾讯混元"
-      ],
-      "latestAt": "2026-11-17T09:38:07.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "z7hs74i3gy5lelr41tobcp2vz",
-      "title": "AMD宣布收购World Labs，李飞飞确认加入",
-      "source": {
-        "name": "X：Fei-Fei Li (@drfeifei, World Labs)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/z7hs74i3gy5lelr41tobcp2vz",
-        "original": "https://x.com/drfeifei/status/2122375532163866756",
-        "story": "https://aihot.news/story/90fbec66-535f-474f-ac44-fcf2ccd28e38"
-      },
-      "sourceCount": 3,
-      "signalCount": 16,
-      "participantCount": 19,
-      "sourceNames": [
-        "X：Fei-Fei Li (@drfeifei, World Labs)",
-        "X：World Labs (@theworldlabs)",
-        "X：Lisa Su（AMD CEO） (@LisaSu)"
-      ],
-      "latestAt": "2026-11-16T17:15:00.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "x6msqkehvwzry0904un629cqg",
-      "title": "Nvidia游说反对远程访问芯片管制，美商务部推进新规",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/x6msqkehvwzry0904un629cqg",
-        "original": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-        "story": "https://aihot.news/story/b8207c3b-2989-4532-a8b6-b763529a43fe"
-      },
-      "sourceCount": 3,
-      "signalCount": 12,
-      "participantCount": 15,
-      "sourceNames": [
-        "ChinaTalk（RSS）",
-        "Ars Technica：AI（RSS）",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-11-17T11:03:33.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "mkahdchhxfc4z36augopprdh9",
-      "title": "黄仁勋辞任英伟达CEO，业界关注继任与AI融资",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
-        "original": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-        "story": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1"
-      },
-      "sourceCount": 2,
-      "signalCount": 12,
-      "participantCount": 14,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-11-17T01:03:01.430Z"
+      "latestAt": "2026-11-17T14:54:10.000Z"
     },
     {
       "rank": 8,
-      "id": "yzjhilf6f2s4exh150c4paypo",
-      "title": "美商务部搁置将Megaspeed列入出口黑名单",
+      "id": "ulwhtxvx986i1rjdkk2mxgzdl",
+      "title": "Nvidia停售H200芯片，结束对华出口通道",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "TechCrunch：AI（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/yzjhilf6f2s4exh150c4paypo",
-        "original": "https://x.com/rohanpaul_ai/status/2120345806855348459",
-        "story": "https://aihot.news/story/b8056250-7988-49be-a8a0-4c9425a3b63c"
+        "aihot": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
+        "original": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "story": "https://aihot.news/story/fbb613d2-1a33-467d-87ff-5e666f2e2b9d"
       },
       "sourceCount": 1,
       "signalCount": 10,
       "participantCount": 11,
       "sourceNames": [
-        "X：indigo (@indigox)"
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-11-17T05:08:52.000Z"
+      "latestAt": "2026-11-17T23:37:48.000Z"
     },
     {
       "rank": 9,
-      "id": "of63oyzwqinzjr11tie2r9ww0",
-      "title": "英伟达发布 Rubin HPC GPU，预计 2028 年上市",
+      "id": "e871ammlz8gpx1oozsswidzt0",
+      "title": "可灵发布Kling Image 4.0并开放API",
       "source": {
-        "name": "NVIDIA Blog（RSS）"
+        "name": "公众号：可灵AI（快手·视频）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/of63oyzwqinzjr11tie2r9ww0",
-        "original": "https://blogs.nvidia.com/blog/rubin-hpc/",
-        "story": "https://aihot.news/story/00595280-2d90-4865-b292-2b23e704705c"
+        "aihot": "https://aihot.news/items/e871ammlz8gpx1oozsswidzt0",
+        "original": "https://mp.weixin.qq.com/s/p3_DIBRUUgmxShjD5Wp27w",
+        "story": "https://aihot.news/story/00140fdc-ef32-4b30-85a6-6fd84ab70de4"
       },
-      "sourceCount": 2,
-      "signalCount": 9,
-      "participantCount": 11,
+      "sourceCount": 4,
+      "signalCount": 8,
+      "participantCount": 12,
       "sourceNames": [
+        "X：可灵 Kling AI (@Kling_ai)",
         "IT之家·人工智能",
-        "NVIDIA Blog（RSS）"
+        "X：fal (@fal)",
+        "公众号：可灵AI（快手·视频）"
       ],
-      "latestAt": "2026-11-16T23:52:18.900Z"
+      "latestAt": "2026-11-18T10:33:54.000Z"
     },
     {
       "rank": 10,
-      "id": "x16jyhot9r3q6gmrs5gzjhyxb",
-      "title": "Corma获1.25亿美元A轮融资，估值10亿美元",
+      "id": "uy1ayrrlqx1snqsv4lub7whsa",
+      "title": "Google 发布 Gemini 4 Hydrogen，接入搜索并免费开放任务代办",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "Google DeepMind：Blog（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/x16jyhot9r3q6gmrs5gzjhyxb",
-        "original": "https://x.com/rohanpaul_ai/status/2122386603608060127",
-        "story": "https://aihot.news/story/1876f686-a6e0-498d-a334-5366c0817311"
+        "aihot": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
+        "original": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+        "story": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d"
       },
-      "sourceCount": 2,
-      "signalCount": 11,
-      "participantCount": 13,
+      "sourceCount": 5,
+      "signalCount": 9,
+      "participantCount": 14,
       "sourceNames": [
+        "X：Gemini (@GeminiApp)",
+        "X：Rohan Paul (@rohanpaul_ai)",
         "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "The Verge：AI（RSS）",
+        "X：Josh Woodward (@joshwoodward, Google Labs VP)"
       ],
-      "latestAt": "2026-11-16T23:32:32.000Z"
+      "latestAt": "2026-11-18T00:05:40.000Z"
     }
   ]
 }
