@@ -1,10 +1,37 @@
 {
-  "updatedAt": "2026-11-19T11:30:29.731082+00:00",
+  "updatedAt": "2026-11-20T11:26:59.033011+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "title": "Anthropic 上市：83 美元定价，首日收涨 17%",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "original": "https://www.anthropic.com/news/s1-sec",
+        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+      },
+      "sourceCount": 11,
+      "signalCount": 85,
+      "participantCount": 96,
+      "sourceNames": [
+        "Platformer（热点 RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "IT之家·人工智能",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "Newcomer 新闻长文（RSS）",
+        "X：indigo (@indigox)",
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "latestAt": "2026-11-20T01:37:44.000Z"
+    },
+    {
+      "rank": 2,
       "id": "lp0snt9lfrx5ju7mg3wma6hnw",
       "title": "Google 发布 Gemini 4 Neon，API 可直传 Office 文件",
       "source": {
@@ -15,189 +42,69 @@
         "original": "https://deepmind.google/blog/introducing-gemini-4-neon/",
         "story": "https://aihot.news/story/74578987-a1ed-4ce0-96b8-658226459865"
       },
-      "sourceCount": 19,
-      "signalCount": 67,
-      "participantCount": 86,
+      "sourceCount": 17,
+      "signalCount": 94,
+      "participantCount": 111,
       "sourceNames": [
+        "X：OpenClaw (@openclaw)",
+        "X：Google (@Google)",
+        "X：Arena (@arena)",
+        "The Decoder：AI News（RSS）",
         "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
         "MarkTechPost（RSS）",
         "X：卡尔的 AI 沃茨 (@aiwarts)",
-        "Simon Willison 博客",
-        "IT之家·人工智能",
-        "X：Cursor (@cursor_ai)",
-        "X：Logan Kilpatrick (@OfficialLoganK)",
-        "X：indigo (@indigox)"
+        "Simon Willison 博客"
       ],
-      "latestAt": "2026-11-19T09:34:24.000Z"
-    },
-    {
-      "rank": 2,
-      "id": "jr7fqw95e5ihuevr1rzib208l",
-      "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol 两款模型",
-      "source": {
-        "name": "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/jr7fqw95e5ihuevr1rzib208l",
-        "original": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-        "story": "https://aihot.news/story/2254fd74-e05d-4b8b-861e-9d14e940f4bc"
-      },
-      "sourceCount": 9,
-      "signalCount": 114,
-      "participantCount": 123,
-      "sourceNames": [
-        "X：卡兹克 (@Khazix0918)",
-        "Simon Willison 博客",
-        "公众号：数字生命卡兹克",
-        "IT之家·人工智能",
-        "MarkTechPost（RSS）",
-        "X：Sam Altman (@sama)",
-        "The Decoder：AI News（RSS）",
-        "X：fal (@fal)"
-      ],
-      "latestAt": "2026-11-18T01:04:01.000Z"
+      "latestAt": "2026-11-20T04:52:33.000Z"
     },
     {
       "rank": 3,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "title": "Anthropic IPO 定价 83 美元，估值约 1.5 万亿美元",
+      "id": "h5xjk79bhcu8vgnbrynj208uj",
+      "title": "Google 为 Mac 版 Gemini 上线电脑操作功能",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "X：Josh Woodward (@joshwoodward, Google Labs VP)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "original": "https://www.anthropic.com/news/s1-sec",
-        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+        "aihot": "https://aihot.news/items/h5xjk79bhcu8vgnbrynj208uj",
+        "original": "https://x.com/joshwoodward/status/2123534862569324703",
+        "story": "https://aihot.news/story/2442138c-3137-45fd-9a2a-9c1b159c49ae"
       },
-      "sourceCount": 6,
-      "signalCount": 55,
-      "participantCount": 61,
+      "sourceCount": 4,
+      "signalCount": 19,
+      "participantCount": 23,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：indigo (@indigox)",
-        "X：Anthropic (@AnthropicAI)",
-        "TechCrunch：AI（RSS）",
-        "X：Kate Clark (@KateClarkTweets)",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-19T00:15:51.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "mkahdchhxfc4z36augopprdh9",
-      "title": "黄仁勋辞任英伟达CEO，称若董事会决定愿回归",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/mkahdchhxfc4z36augopprdh9",
-        "original": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-        "story": "https://aihot.news/story/25f30555-1283-4773-8161-58d48e3d86e1"
-      },
-      "sourceCount": 3,
-      "signalCount": 68,
-      "participantCount": 71,
-      "sourceNames": [
-        "The Verge：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：Jim Fan (@DrJimFan)"
-      ],
-      "latestAt": "2026-11-18T19:30:00.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "vgopllkh4so1p1q01nefg1364",
-      "title": "英伟达Q3营收1158亿美元，董事会拒绝恢复黄仁勋职务",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/vgopllkh4so1p1q01nefg1364",
-        "original": "https://x.com/rohanpaul_ai/status/2122812619379900579",
-        "story": "https://aihot.news/story/e79088af-89d6-42e0-8947-05fbb16ede38"
-      },
-      "sourceCount": 5,
-      "signalCount": 24,
-      "participantCount": 29,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "The Verge：AI（RSS）",
-        "TechCrunch：AI（RSS）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：indigo (@indigox)"
-      ],
-      "latestAt": "2026-11-19T05:08:33.010Z"
-    },
-    {
-      "rank": 6,
-      "id": "pvzjd4v1c1b50ly6yf0vkv26h",
-      "title": "Nvidia临时CEO提前加薪并承诺路线不变",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/pvzjd4v1c1b50ly6yf0vkv26h",
-        "original": "https://x.com/rohanpaul_ai/status/2123300206922133979",
-        "story": "https://aihot.news/story/c5899d4d-282f-4d24-9aa7-43f7b133d229"
-      },
-      "sourceCount": 1,
-      "signalCount": 13,
-      "participantCount": 14,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "latestAt": "2026-11-19T06:19:52.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "uy1ayrrlqx1snqsv4lub7whsa",
-      "title": "Google 发布 Gemini 4 Hydrogen，接入搜索并免费开放任务代办",
-      "source": {
-        "name": "Google DeepMind：Blog（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/uy1ayrrlqx1snqsv4lub7whsa",
-        "original": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-        "story": "https://aihot.news/story/2ff1f46f-7e98-4965-a5b2-87329632ca5d"
-      },
-      "sourceCount": 5,
-      "signalCount": 15,
-      "participantCount": 20,
-      "sourceNames": [
+        "X：Josh Woodward (@joshwoodward, Google Labs VP)",
         "X：Gemini (@GeminiApp)",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）",
-        "X：Josh Woodward (@joshwoodward, Google Labs VP)"
-      ],
-      "latestAt": "2026-11-18T00:05:40.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "ulwhtxvx986i1rjdkk2mxgzdl",
-      "title": "Nvidia停售H200芯片，结束对华出口通道",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/ulwhtxvx986i1rjdkk2mxgzdl",
-        "original": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-        "story": "https://aihot.news/story/fbb613d2-1a33-467d-87ff-5e666f2e2b9d"
-      },
-      "sourceCount": 3,
-      "signalCount": 15,
-      "participantCount": 18,
-      "sourceNames": [
-        "X：X.PIN (@thexpin)",
         "The Verge：AI（RSS）",
         "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-11-19T09:50:00.000Z"
+      "latestAt": "2026-11-19T21:52:19.000Z"
     },
     {
-      "rank": 9,
+      "rank": 4,
+      "id": "pbsmf70cnjk0h578776eylwm1",
+      "title": "苹果被曝加速Siri智能体化并招聘工程师",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/pbsmf70cnjk0h578776eylwm1",
+        "original": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "story": "https://aihot.news/story/a1b6af96-fbdf-4779-80a9-0ca55270818c"
+      },
+      "sourceCount": 2,
+      "signalCount": 12,
+      "participantCount": 14,
+      "sourceNames": [
+        "TechCrunch：AI（RSS）",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-20T00:56:01.000Z"
+    },
+    {
+      "rank": 5,
       "id": "l74eacnb38ytvm5hm8om7h7cs",
-      "title": "Google 将 Genie 4 开放给 AI Ultra 订阅者",
+      "title": "Google 将 Genie 4 开放给 AI Ultra 订阅者并上线 API",
       "source": {
         "name": "Google DeepMind：Blog（RSS）"
       },
@@ -206,38 +113,124 @@
         "original": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "story": "https://aihot.news/story/d9a88c5c-1b99-4e5b-af6c-dec4f752f180"
       },
-      "sourceCount": 5,
-      "signalCount": 8,
-      "participantCount": 13,
+      "sourceCount": 6,
+      "signalCount": 12,
+      "participantCount": 18,
       "sourceNames": [
+        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+        "X：Logan Kilpatrick (@OfficialLoganK)",
         "X：Sundar Pichai (@sundarpichai)",
         "IT之家·人工智能",
         "The Decoder：AI News（RSS）",
-        "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-        "Hacker News：AI 热帖"
+        "X：Josh Woodward (@joshwoodward, Google Labs VP)"
       ],
-      "latestAt": "2026-11-19T02:25:37.000Z"
+      "latestAt": "2026-11-19T21:12:59.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "f6lqwdjk5x80bwats1fvxagsu",
+      "title": "OpenAI报告：编码智能体加速研发但进展不均",
+      "source": {
+        "name": "X：OpenAI (@OpenAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/f6lqwdjk5x80bwats1fvxagsu",
+        "original": "https://x.com/OpenAI/status/2123191365983248653",
+        "story": "https://aihot.news/story/7208f05f-6fa1-4aec-9c4a-84bd96219f87"
+      },
+      "sourceCount": 3,
+      "signalCount": 11,
+      "participantCount": 14,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "X：OpenAI (@OpenAI)"
+      ],
+      "latestAt": "2026-11-19T13:08:35.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "z6j7q1gcuwsjjpx3qbtnvl2b3",
+      "title": "腾讯混元 Hy4 正式开源权重并发布 System Card",
+      "source": {
+        "name": "公众号：腾讯混元"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/z6j7q1gcuwsjjpx3qbtnvl2b3",
+        "original": "https://mp.weixin.qq.com/s/JrQeiqx3PXBDSGish2IzwA",
+        "story": "https://aihot.news/story/491d220c-9d57-4295-af9f-e4382561b3f7"
+      },
+      "sourceCount": 4,
+      "signalCount": 5,
+      "participantCount": 9,
+      "sourceNames": [
+        "X：腾讯混元 (@TencentHunyuan)",
+        "IT之家·人工智能",
+        "公众号：腾讯混元",
+        "Together AI 研究与产品博客（RSS）"
+      ],
+      "latestAt": "2026-11-20T09:31:00.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "qoekdl4jf95kwb6cau1i3mltn",
+      "title": "OpenAI 向 Plus 与 Business 用户测试 dots",
+      "source": {
+        "name": "X：Tibo (@thsottiaux)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/qoekdl4jf95kwb6cau1i3mltn",
+        "original": "https://x.com/thsottiaux/status/2123556256392847657",
+        "story": "https://aihot.news/story/9ba36bba-3cd1-40c9-b311-35e022a99425"
+      },
+      "sourceCount": 2,
+      "signalCount": 7,
+      "participantCount": 9,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "latestAt": "2026-11-20T01:20:21.430Z"
+    },
+    {
+      "rank": 9,
+      "id": "kl6usb0zdu045w9bedy6qyzvf",
+      "title": "涉华芯片关联公司投资DeepSeek融资",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/kl6usb0zdu045w9bedy6qyzvf",
+        "original": "https://x.com/rohanpaul_ai/status/2120991673878786311",
+        "story": "https://aihot.news/story/c4010e0b-ceb4-4081-bb9a-9c40af7f311e"
+      },
+      "sourceCount": 1,
+      "signalCount": 10,
+      "participantCount": 11,
+      "sourceNames": [
+        "X：X.PIN (@thexpin)"
+      ],
+      "latestAt": "2026-11-20T11:00:05.000Z"
     },
     {
       "rank": 10,
-      "id": "bbq5540gooev6rr4uo6d3poaj",
-      "title": "腾讯WorkBuddy日活超千万，年化收入逾5亿美元",
+      "id": "ol8ctywbqhvlrp8kulkz2qome",
+      "title": "谷歌联手蓝色起源2029年发射AI服务器卫星",
       "source": {
         "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/bbq5540gooev6rr4uo6d3poaj",
-        "original": "https://www.ithome.com/1/028/914.htm",
-        "story": "https://aihot.news/story/f9f27ce5-c259-4268-9c72-3cdc38699171"
+        "aihot": "https://aihot.news/items/ol8ctywbqhvlrp8kulkz2qome",
+        "original": "https://www.ithome.com/1/029/695.htm",
+        "story": "https://aihot.news/story/96cb1044-2367-4e11-a021-d0ceccdc6520"
       },
-      "sourceCount": 2,
-      "signalCount": 12,
-      "participantCount": 14,
+      "sourceCount": 1,
+      "signalCount": 10,
+      "participantCount": 11,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：X.PIN (@thexpin)"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-18T14:15:02.887Z"
+      "latestAt": "2026-11-19T14:26:06.037Z"
     }
   ]
 }
