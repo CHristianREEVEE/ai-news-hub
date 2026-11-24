@@ -1,62 +1,36 @@
 {
-  "updatedAt": "2026-11-23T12:22:14.085364+00:00",
+  "updatedAt": "2026-11-24T13:34:26.841897+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "w6aesnkh72hkkxhr4ptrhddd9",
-      "storyPublicId": "c5ab5cf5-6316-4ad6-9d74-f0b378a2b064",
-      "title": "OpenAI 提议以困惑度设共同安全上限，微软公布可比数据",
+      "id": "ajcxs84uezjqgsgxpdtr31o0l",
+      "storyPublicId": "68ccf963-6e38-4e86-b2f3-289bd70774fb",
+      "title": "英伟达董事会全票恢复黄仁勋职务",
       "source": {
-        "name": "TechCrunch：AI（RSS）"
+        "name": "X：X.PIN (@thexpin)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/w6aesnkh72hkkxhr4ptrhddd9",
-        "original": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-        "story": "https://aihot.news/story/c5ab5cf5-6316-4ad6-9d74-f0b378a2b064"
+        "aihot": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
+        "original": "https://x.com/thexpin/status/2124866686025400819",
+        "story": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
       },
-      "sourceCount": 7,
-      "signalCount": 30,
-      "participantCount": 37,
+      "sourceCount": 6,
+      "signalCount": 117,
+      "participantCount": 123,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "X：indigo (@indigox)",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "The Verge：AI（RSS）",
+        "公众号：卡尔的AI沃茨",
         "TechCrunch：AI（RSS）",
-        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-        "X：Dan Hendrycks (@hendrycks)",
-        "X：Noam Brown (@polynoamial)"
+        "X：indigo (@indigox)",
+        "X：X.PIN (@thexpin)"
       ],
-      "latestAt": "2026-11-23T01:00:23.127Z"
+      "latestAt": "2026-11-23T20:46:15.000Z"
     },
     {
       "rank": 2,
-      "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
-      "storyPublicId": "647b0945-9244-4f55-b509-0f3fa0f6fe51",
-      "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
-      "source": {
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-        "original": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
-        "story": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51"
-      },
-      "sourceCount": 5,
-      "signalCount": 45,
-      "participantCount": 50,
-      "sourceNames": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "The Decoder：AI News（RSS）",
-        "IT之家·人工智能",
-        "X：Saito 硬地骇客 (@SaitoWu)",
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "latestAt": "2026-11-22T18:37:02.000Z"
-    },
-    {
-      "rank": 3,
       "id": "d4hhqnlmrclsx7d6idtvq95wz",
       "storyPublicId": "fc5a905b-54af-4de4-9c7c-a366a60a9f84",
       "title": "智谱发布GLM-5.4旗舰模型并上线Coding Plan",
@@ -68,137 +42,72 @@
         "original": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
         "story": "https://aihot.news/story/fc5a905b-54af-4de4-9c7c-a366a60a9f84"
       },
-      "sourceCount": 2,
-      "signalCount": 19,
-      "participantCount": 21,
+      "sourceCount": 5,
+      "signalCount": 46,
+      "participantCount": 51,
       "sourceNames": [
+        "Simon Willison 博客",
+        "MarkTechPost（RSS）",
+        "The Decoder：AI News（RSS）",
         "X：智谱 Z.ai (@Zai_org)",
         "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-23T10:27:11.000Z"
+      "latestAt": "2026-11-23T23:40:49.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "t7jlbaldqf2zcliuva1sofoks",
+      "storyPublicId": "9474636b-5271-405b-91d7-b469bdf1aa8f",
+      "title": "Anthropic 发布 Claude Ship 测试版，自动审查并批准 PR",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
+        "original": "https://claude.com/blog/introducing-claude-ship",
+        "story": "https://aihot.news/story/9474636b-5271-405b-91d7-b469bdf1aa8f"
+      },
+      "sourceCount": 7,
+      "signalCount": 24,
+      "participantCount": 31,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "MarkTechPost（RSS）",
+        "IT之家·人工智能",
+        "X：Noah Zweben（@noahzweben）",
+        "TechCrunch：AI（RSS）",
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-24T11:26:23.000Z"
     },
     {
       "rank": 4,
-      "id": "y7nk77dxae51qwi826gpmvbho",
-      "storyPublicId": "0cf0f02a-0464-43db-b253-ed1878937b74",
-      "title": "Thinking Machines 开源循环模型 Inkling 2 Mini",
+      "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
+      "storyPublicId": "647b0945-9244-4f55-b509-0f3fa0f6fe51",
+      "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
       "source": {
-        "name": "Thinking Machines Lab：News（网页）"
+        "name": "公众号：数字生命卡兹克"
       },
       "links": {
-        "aihot": "https://aihot.news/items/y7nk77dxae51qwi826gpmvbho",
-        "original": "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "story": "https://aihot.news/story/0cf0f02a-0464-43db-b253-ed1878937b74"
+        "aihot": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
+        "original": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
+        "story": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51"
       },
       "sourceCount": 2,
-      "signalCount": 20,
-      "participantCount": 22,
+      "signalCount": 30,
+      "participantCount": 32,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+        "The Decoder：AI News（RSS）",
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
       ],
-      "latestAt": "2026-11-23T06:55:25.030Z"
+      "latestAt": "2026-11-23T13:59:36.000Z"
     },
     {
       "rank": 5,
-      "id": "xriwds9rtl5niekinxe2uwxsu",
-      "storyPublicId": "fcbdc9a0-bdf5-473c-9f26-7a51a8deb2e3",
-      "title": "特斯拉FSD v15下月推送，马斯克介绍天空箭头导航",
-      "source": {
-        "name": "X：indigo (@indigox)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/xriwds9rtl5niekinxe2uwxsu",
-        "original": "https://x.com/indigox/status/2124264257273643371",
-        "story": "https://aihot.news/story/fcbdc9a0-bdf5-473c-9f26-7a51a8deb2e3"
-      },
-      "sourceCount": 3,
-      "signalCount": 17,
-      "participantCount": 20,
-      "sourceNames": [
-        "X：Dash (@dashhuang)",
-        "X：Elon Musk (@elonmusk, xAI)",
-        "X：indigo (@indigox)"
-      ],
-      "latestAt": "2026-11-22T23:40:36.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "q0jpjfgyy1mkaupvp0j18y127",
-      "storyPublicId": "7a64c34c-2019-47e0-9ceb-2faff7425307",
-      "title": "蚂蚁开源首个多模态医疗大模型 LingSante-3.1-air-VL",
-      "source": {
-        "name": "蚂蚁百灵：Developer Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/q0jpjfgyy1mkaupvp0j18y127",
-        "original": "https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-air-vl",
-        "story": "https://aihot.news/story/7a64c34c-2019-47e0-9ceb-2faff7425307"
-      },
-      "sourceCount": 5,
-      "signalCount": 7,
-      "participantCount": 12,
-      "sourceNames": [
-        "公众号：蚂蚁百灵（Ling）",
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：蚂蚁百灵 (@AntLingAGI)",
-        "蚂蚁百灵：Developer Blog（网页）"
-      ],
-      "latestAt": "2026-11-23T03:00:00.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "hzy9ajwl8139dnxk4sh56kjon",
-      "storyPublicId": "5e931c88-3e7c-4f18-be7f-6c6902aa59b2",
-      "title": "蚂蚁开源560B医疗MoE模型LingSante-3.1-flash",
-      "source": {
-        "name": "蚂蚁百灵：Developer Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/hzy9ajwl8139dnxk4sh56kjon",
-        "original": "https://developer.ant-ling.com/zh-CN/blogs/lingsante-3.1-flash",
-        "story": "https://aihot.news/story/5e931c88-3e7c-4f18-be7f-6c6902aa59b2"
-      },
-      "sourceCount": 5,
-      "signalCount": 6,
-      "participantCount": 11,
-      "sourceNames": [
-        "公众号：蚂蚁百灵（Ling）",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "X：蚂蚁百灵 (@AntLingAGI)",
-        "蚂蚁 inclusionAI：HuggingFace 新模型",
-        "蚂蚁百灵：Developer Blog（网页）"
-      ],
-      "latestAt": "2026-11-23T03:00:00.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "agm7klro03kcu9weuix1bt4su",
-      "storyPublicId": "2d0a9c1a-2a0a-41b6-a7ef-776ef03a783b",
-      "title": "200万诱饵请求测出AI服务链数据外泄",
-      "source": {
-        "name": "Ars Technica：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/agm7klro03kcu9weuix1bt4su",
-        "original": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-        "story": "https://aihot.news/story/2d0a9c1a-2a0a-41b6-a7ef-776ef03a783b"
-      },
-      "sourceCount": 2,
-      "signalCount": 8,
-      "participantCount": 10,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "latestAt": "2026-11-22T12:07:56.000Z"
-    },
-    {
-      "rank": 9,
       "id": "eg97pyuem4incr7vpqsklw36v",
       "storyPublicId": "51379310-d375-40d8-88e1-a8112bca2c10",
-      "title": "亚马逊深入谈判收购Decart，估值约75亿美元",
+      "title": "亚马逊75亿美元收购Decart大部分业务",
       "source": {
         "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
@@ -208,34 +117,129 @@
         "story": "https://aihot.news/story/51379310-d375-40d8-88e1-a8112bca2c10"
       },
       "sourceCount": 2,
-      "signalCount": 7,
-      "participantCount": 9,
+      "signalCount": 21,
+      "participantCount": 23,
       "sourceNames": [
         "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-11-23T03:35:46.710Z"
+      "latestAt": "2026-11-24T00:13:49.970Z"
+    },
+    {
+      "rank": 6,
+      "id": "crw4tsq5rknyz5r8urr18du0y",
+      "storyPublicId": "c5ab5cf5-6316-4ad6-9d74-f0b378a2b064",
+      "title": "OpenAI 提议以困惑度设共同安全上限，微软公布可比数据",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/crw4tsq5rknyz5r8urr18du0y",
+        "original": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+        "story": "https://aihot.news/story/c5ab5cf5-6316-4ad6-9d74-f0b378a2b064"
+      },
+      "sourceCount": 8,
+      "signalCount": 33,
+      "participantCount": 41,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "IT之家·人工智能",
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "X：indigo (@indigox)",
+        "TechCrunch：AI（RSS）",
+        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
+        "X：Dan Hendrycks (@hendrycks)",
+        "X：Noam Brown (@polynoamial)"
+      ],
+      "latestAt": "2026-11-23T18:42:38.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "d41p6k2h48zm8u2kl5xdzqx5h",
+      "storyPublicId": "68abb2b5-1d0f-4c37-8ad9-72fcbc771eef",
+      "title": "OpenAI与Cisco开源Shirudo：eBPF护住补丁窗口",
+      "source": {
+        "name": "X：Tibo (@thsottiaux)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
+        "original": "https://x.com/thsottiaux/status/2125141302501417232",
+        "story": "https://aihot.news/story/68abb2b5-1d0f-4c37-8ad9-72fcbc771eef"
+      },
+      "sourceCount": 2,
+      "signalCount": 15,
+      "participantCount": 17,
+      "sourceNames": [
+        "X：Tibo (@thsottiaux)",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-11-24T08:15:44.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "gl6fl6hsisrt26tg83li0j4gk",
+      "storyPublicId": "ee282aa9-469a-4555-8fbb-d171abad1e4d",
+      "title": "OpenAI在Chat标签页推送GPT-6.2 Sol对话版",
+      "source": {
+        "name": "X：Tibo (@thsottiaux)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
+        "original": "https://x.com/thsottiaux/status/2124998553856844186",
+        "story": "https://aihot.news/story/ee282aa9-469a-4555-8fbb-d171abad1e4d"
+      },
+      "sourceCount": 3,
+      "signalCount": 11,
+      "participantCount": 14,
+      "sourceNames": [
+        "X：Greg Brockman (@gdb)",
+        "IT之家·人工智能",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-24T07:42:05.000Z"
+    },
+    {
+      "rank": 9,
+      "id": "p4xkctditdd1tntt466jm8r0a",
+      "storyPublicId": "b8056250-7988-49be-a8a0-4c9425a3b63c",
+      "title": "美国商务部将新加坡Megaspeed列入实体清单",
+      "source": {
+        "name": "TechCrunch：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/p4xkctditdd1tntt466jm8r0a",
+        "original": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "story": "https://aihot.news/story/b8056250-7988-49be-a8a0-4c9425a3b63c"
+      },
+      "sourceCount": 2,
+      "signalCount": 12,
+      "participantCount": 14,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-11-23T21:48:25.000Z"
     },
     {
       "rank": 10,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "storyPublicId": "82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-      "title": "Anthropic 上市首日收涨 17%，次日回落",
+      "id": "vihx23ecky4iwwqfrzv47xhad",
+      "storyPublicId": "50791fe9-0b68-466e-8922-3219704de57a",
+      "title": "豆包AI个人助理“小豆”开启邀请制公测",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "IT之家·人工智能"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "original": "https://www.anthropic.com/news/s1-sec",
-        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+        "aihot": "https://aihot.news/items/vihx23ecky4iwwqfrzv47xhad",
+        "original": "https://www.ithome.com/1/031/329.htm",
+        "story": "https://aihot.news/story/50791fe9-0b68-466e-8922-3219704de57a"
       },
       "sourceCount": 1,
-      "signalCount": 9,
-      "participantCount": 10,
+      "signalCount": 11,
+      "participantCount": 12,
       "sourceNames": [
-        "The Verge：AI（RSS）"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-21T15:00:00.000Z"
+      "latestAt": "2026-11-24T03:06:48.833Z"
     }
   ]
 }
