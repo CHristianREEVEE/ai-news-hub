@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:34:26.841897+00:00",
+  "updatedAt": "2026-11-25T12:43:32.028580+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
@@ -17,8 +17,8 @@
         "story": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
       },
       "sourceCount": 6,
-      "signalCount": 117,
-      "participantCount": 123,
+      "signalCount": 123,
+      "participantCount": 129,
       "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)",
         "The Verge：AI（RSS）",
@@ -31,31 +31,6 @@
     },
     {
       "rank": 2,
-      "id": "d4hhqnlmrclsx7d6idtvq95wz",
-      "storyPublicId": "fc5a905b-54af-4de4-9c7c-a366a60a9f84",
-      "title": "智谱发布GLM-5.4旗舰模型并上线Coding Plan",
-      "source": {
-        "name": "公众号：智谱（GLM）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-        "original": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
-        "story": "https://aihot.news/story/fc5a905b-54af-4de4-9c7c-a366a60a9f84"
-      },
-      "sourceCount": 5,
-      "signalCount": 46,
-      "participantCount": 51,
-      "sourceNames": [
-        "Simon Willison 博客",
-        "MarkTechPost（RSS）",
-        "The Decoder：AI News（RSS）",
-        "X：智谱 Z.ai (@Zai_org)",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-23T23:40:49.000Z"
-    },
-    {
-      "rank": 3,
       "id": "t7jlbaldqf2zcliuva1sofoks",
       "storyPublicId": "9474636b-5271-405b-91d7-b469bdf1aa8f",
       "title": "Anthropic 发布 Claude Ship 测试版，自动审查并批准 PR",
@@ -68,21 +43,67 @@
         "story": "https://aihot.news/story/9474636b-5271-405b-91d7-b469bdf1aa8f"
       },
       "sourceCount": 7,
-      "signalCount": 24,
-      "participantCount": 31,
+      "signalCount": 33,
+      "participantCount": 40,
       "sourceNames": [
+        "X：Addy Osmani (@addyosmani)",
         "The Decoder：AI News（RSS）",
         "MarkTechPost（RSS）",
         "IT之家·人工智能",
         "X：Noah Zweben（@noahzweben）",
         "TechCrunch：AI（RSS）",
-        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
         "The Verge：AI（RSS）"
       ],
-      "latestAt": "2026-11-24T11:26:23.000Z"
+      "latestAt": "2026-11-25T07:30:08.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "d4hhqnlmrclsx7d6idtvq95wz",
+      "storyPublicId": "fc5a905b-54af-4de4-9c7c-a366a60a9f84",
+      "title": "智谱发布GLM-5.4旗舰模型，采用循环Transformer架构",
+      "source": {
+        "name": "公众号：智谱（GLM）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
+        "original": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
+        "story": "https://aihot.news/story/fc5a905b-54af-4de4-9c7c-a366a60a9f84"
+      },
+      "sourceCount": 3,
+      "signalCount": 38,
+      "participantCount": 41,
+      "sourceNames": [
+        "Simon Willison 博客",
+        "MarkTechPost（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-23T23:40:49.000Z"
     },
     {
       "rank": 4,
+      "id": "xywgx35ocbe6mzl2pnajw8ruu",
+      "storyPublicId": "82c796c0-3bf1-4c3a-8368-56913b4bf85d",
+      "title": "Anthropic 上市首日涨 17%，一周内跌破发行价",
+      "source": {
+        "name": "Anthropic：Newsroom（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
+        "original": "https://www.anthropic.com/news/s1-sec",
+        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+      },
+      "sourceCount": 3,
+      "signalCount": 23,
+      "participantCount": 26,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）"
+      ],
+      "latestAt": "2026-11-25T03:29:13.877Z"
+    },
+    {
+      "rank": 5,
       "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
       "storyPublicId": "647b0945-9244-4f55-b509-0f3fa0f6fe51",
       "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
@@ -94,67 +115,89 @@
         "original": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
         "story": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51"
       },
-      "sourceCount": 2,
-      "signalCount": 30,
-      "participantCount": 32,
+      "sourceCount": 3,
+      "signalCount": 28,
+      "participantCount": 31,
       "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "Timothy B. Lee：Understanding AI（RSS）",
+        "Ars Technica：AI（RSS）",
+        "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-11-23T13:59:36.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "eg97pyuem4incr7vpqsklw36v",
-      "storyPublicId": "51379310-d375-40d8-88e1-a8112bca2c10",
-      "title": "亚马逊75亿美元收购Decart大部分业务",
-      "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/eg97pyuem4incr7vpqsklw36v",
-        "original": "https://x.com/rohanpaul_ai/status/2124294348712092061",
-        "story": "https://aihot.news/story/51379310-d375-40d8-88e1-a8112bca2c10"
-      },
-      "sourceCount": 2,
-      "signalCount": 21,
-      "participantCount": 23,
-      "sourceNames": [
-        "IT之家·人工智能",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-11-24T00:13:49.970Z"
+      "latestAt": "2026-11-24T21:43:33.000Z"
     },
     {
       "rank": 6,
-      "id": "crw4tsq5rknyz5r8urr18du0y",
-      "storyPublicId": "c5ab5cf5-6316-4ad6-9d74-f0b378a2b064",
-      "title": "OpenAI 提议以困惑度设共同安全上限，微软公布可比数据",
+      "id": "zcpto4b7qb8sr6v6n223kd2sx",
+      "storyPublicId": "3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac",
+      "title": "Claude artifacts 可安装为 Mac 和 Windows 桌面应用",
+      "source": {
+        "name": "Claude：Blog（网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
+        "original": "https://claude.com/blog/install-as-app",
+        "story": "https://aihot.news/story/3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac"
+      },
+      "sourceCount": 3,
+      "signalCount": 17,
+      "participantCount": 20,
+      "sourceNames": [
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "IT之家·人工智能",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-25T00:56:27.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "u71y2i8e6zhwauu7gpuyxrp4z",
+      "storyPublicId": "c241df7c-8594-4077-8325-8fb43645c8ae",
+      "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
+      "source": {
+        "name": "公众号：数字生命卡兹克"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+        "original": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
+        "story": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae"
+      },
+      "sourceCount": 5,
+      "signalCount": 11,
+      "participantCount": 16,
+      "sourceNames": [
+        "公众号：卡尔的AI沃茨",
+        "IT之家·人工智能",
+        "X：卡兹克 (@Khazix0918)",
+        "公众号：数字生命卡兹克",
+        "X：Higgsfield AI (@higgsfield)"
+      ],
+      "latestAt": "2026-11-25T09:16:41.000Z"
+    },
+    {
+      "rank": 8,
+      "id": "lq87k55eq302bk57xq3o5orsv",
+      "storyPublicId": "352fff72-a318-46a8-9820-a84e33ea566a",
+      "title": "OpenAI与Anthropic员工警告内部模型难安全发布",
       "source": {
         "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/crw4tsq5rknyz5r8urr18du0y",
-        "original": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
-        "story": "https://aihot.news/story/c5ab5cf5-6316-4ad6-9d74-f0b378a2b064"
+        "aihot": "https://aihot.news/items/lq87k55eq302bk57xq3o5orsv",
+        "original": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+        "story": "https://aihot.news/story/352fff72-a318-46a8-9820-a84e33ea566a"
       },
-      "sourceCount": 8,
-      "signalCount": 33,
-      "participantCount": 41,
+      "sourceCount": 3,
+      "signalCount": 16,
+      "participantCount": 19,
       "sourceNames": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "The Decoder：AI News（RSS）",
-        "IT之家·人工智能",
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "X：indigo (@indigox)",
-        "TechCrunch：AI（RSS）",
-        "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-        "X：Dan Hendrycks (@hendrycks)",
-        "X：Noam Brown (@polynoamial)"
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-23T18:42:38.000Z"
+      "latestAt": "2026-11-24T16:06:27.000Z"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "id": "d41p6k2h48zm8u2kl5xdzqx5h",
       "storyPublicId": "68abb2b5-1d0f-4c37-8ad9-72fcbc771eef",
       "title": "OpenAI与Cisco开源Shirudo：eBPF护住补丁窗口",
@@ -166,80 +209,37 @@
         "original": "https://x.com/thsottiaux/status/2125141302501417232",
         "story": "https://aihot.news/story/68abb2b5-1d0f-4c37-8ad9-72fcbc771eef"
       },
-      "sourceCount": 2,
-      "signalCount": 15,
-      "participantCount": 17,
-      "sourceNames": [
-        "X：Tibo (@thsottiaux)",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-24T08:15:44.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "gl6fl6hsisrt26tg83li0j4gk",
-      "storyPublicId": "ee282aa9-469a-4555-8fbb-d171abad1e4d",
-      "title": "OpenAI在Chat标签页推送GPT-6.2 Sol对话版",
-      "source": {
-        "name": "X：Tibo (@thsottiaux)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/gl6fl6hsisrt26tg83li0j4gk",
-        "original": "https://x.com/thsottiaux/status/2124998553856844186",
-        "story": "https://aihot.news/story/ee282aa9-469a-4555-8fbb-d171abad1e4d"
-      },
       "sourceCount": 3,
-      "signalCount": 11,
-      "participantCount": 14,
+      "signalCount": 22,
+      "participantCount": 25,
       "sourceNames": [
         "X：Greg Brockman (@gdb)",
-        "IT之家·人工智能",
-        "The Decoder：AI News（RSS）"
+        "MarkTechPost（RSS）",
+        "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-24T07:42:05.000Z"
-    },
-    {
-      "rank": 9,
-      "id": "p4xkctditdd1tntt466jm8r0a",
-      "storyPublicId": "b8056250-7988-49be-a8a0-4c9425a3b63c",
-      "title": "美国商务部将新加坡Megaspeed列入实体清单",
-      "source": {
-        "name": "TechCrunch：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/p4xkctditdd1tntt466jm8r0a",
-        "original": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-        "story": "https://aihot.news/story/b8056250-7988-49be-a8a0-4c9425a3b63c"
-      },
-      "sourceCount": 2,
-      "signalCount": 12,
-      "participantCount": 14,
-      "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）"
-      ],
-      "latestAt": "2026-11-23T21:48:25.000Z"
+      "latestAt": "2026-11-25T09:41:02.000Z"
     },
     {
       "rank": 10,
-      "id": "vihx23ecky4iwwqfrzv47xhad",
-      "storyPublicId": "50791fe9-0b68-466e-8922-3219704de57a",
-      "title": "豆包AI个人助理“小豆”开启邀请制公测",
+      "id": "eg97pyuem4incr7vpqsklw36v",
+      "storyPublicId": "51379310-d375-40d8-88e1-a8112bca2c10",
+      "title": "亚马逊约75亿美元收购Decart技术与团队",
       "source": {
-        "name": "IT之家·人工智能"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/vihx23ecky4iwwqfrzv47xhad",
-        "original": "https://www.ithome.com/1/031/329.htm",
-        "story": "https://aihot.news/story/50791fe9-0b68-466e-8922-3219704de57a"
+        "aihot": "https://aihot.news/items/eg97pyuem4incr7vpqsklw36v",
+        "original": "https://x.com/rohanpaul_ai/status/2124294348712092061",
+        "story": "https://aihot.news/story/51379310-d375-40d8-88e1-a8112bca2c10"
       },
-      "sourceCount": 1,
-      "signalCount": 11,
-      "participantCount": 12,
+      "sourceCount": 2,
+      "signalCount": 25,
+      "participantCount": 27,
       "sourceNames": [
+        "TechCrunch：AI（RSS）",
         "IT之家·人工智能"
       ],
-      "latestAt": "2026-11-24T03:06:48.833Z"
+      "latestAt": "2026-11-24T15:51:07.000Z"
     }
   ]
 }
