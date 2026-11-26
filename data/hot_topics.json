@@ -1,86 +1,176 @@
 {
-  "updatedAt": "2026-11-25T12:43:32.028580+00:00",
+  "updatedAt": "2026-11-26T12:18:24.133432+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "ajcxs84uezjqgsgxpdtr31o0l",
-      "storyPublicId": "68ccf963-6e38-4e86-b2f3-289bd70774fb",
-      "title": "英伟达董事会全票恢复黄仁勋职务",
+      "id": "u71y2i8e6zhwauu7gpuyxrp4z",
+      "storyPublicId": "c241df7c-8594-4077-8325-8fb43645c8ae",
+      "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
       "source": {
-        "name": "X：X.PIN (@thexpin)"
+        "name": "公众号：数字生命卡兹克"
       },
       "links": {
-        "aihot": "https://aihot.news/items/ajcxs84uezjqgsgxpdtr31o0l",
-        "original": "https://x.com/thexpin/status/2124866686025400819",
-        "story": "https://aihot.news/story/68ccf963-6e38-4e86-b2f3-289bd70774fb"
+        "aihot": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+        "original": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
+        "story": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae"
       },
-      "sourceCount": 6,
-      "signalCount": 123,
-      "participantCount": 129,
+      "sourceCount": 7,
+      "signalCount": 22,
+      "participantCount": 29,
       "sourceNames": [
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "The Verge：AI（RSS）",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Higgsfield AI (@higgsfield)",
+        "X：卡尔的 AI 沃茨 (@aiwarts)",
         "公众号：卡尔的AI沃茨",
-        "TechCrunch：AI（RSS）",
-        "X：indigo (@indigox)",
-        "X：X.PIN (@thexpin)"
+        "IT之家·人工智能",
+        "X：卡兹克 (@Khazix0918)",
+        "公众号：数字生命卡兹克"
       ],
-      "latestAt": "2026-11-23T20:46:15.000Z"
+      "latestAt": "2026-11-26T01:13:12.000Z"
     },
     {
       "rank": 2,
-      "id": "t7jlbaldqf2zcliuva1sofoks",
-      "storyPublicId": "9474636b-5271-405b-91d7-b469bdf1aa8f",
-      "title": "Anthropic 发布 Claude Ship 测试版，自动审查并批准 PR",
+      "id": "jn299ef1fht5fbf4q4h28uoja",
+      "storyPublicId": "9dbfd26c-982c-409f-9e94-a22a3bde77ed",
+      "title": "FCC批准SpaceX部署百万颗AI卫星",
+      "source": {
+        "name": "The Verge：AI（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/jn299ef1fht5fbf4q4h28uoja",
+        "original": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "story": "https://aihot.news/story/9dbfd26c-982c-409f-9e94-a22a3bde77ed"
+      },
+      "sourceCount": 1,
+      "signalCount": 21,
+      "participantCount": 22,
+      "sourceNames": [
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-25T17:44:51.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "zcpto4b7qb8sr6v6n223kd2sx",
+      "storyPublicId": "3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac",
+      "title": "Claude artifacts 可安装为 Mac 和 Windows 桌面应用",
       "source": {
         "name": "Claude：Blog（网页）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/t7jlbaldqf2zcliuva1sofoks",
-        "original": "https://claude.com/blog/introducing-claude-ship",
-        "story": "https://aihot.news/story/9474636b-5271-405b-91d7-b469bdf1aa8f"
-      },
-      "sourceCount": 7,
-      "signalCount": 33,
-      "participantCount": 40,
-      "sourceNames": [
-        "X：Addy Osmani (@addyosmani)",
-        "The Decoder：AI News（RSS）",
-        "MarkTechPost（RSS）",
-        "IT之家·人工智能",
-        "X：Noah Zweben（@noahzweben）",
-        "TechCrunch：AI（RSS）",
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-11-25T07:30:08.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "d4hhqnlmrclsx7d6idtvq95wz",
-      "storyPublicId": "fc5a905b-54af-4de4-9c7c-a366a60a9f84",
-      "title": "智谱发布GLM-5.4旗舰模型，采用循环Transformer架构",
-      "source": {
-        "name": "公众号：智谱（GLM）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/d4hhqnlmrclsx7d6idtvq95wz",
-        "original": "https://mp.weixin.qq.com/s/D-IZr-QaT1or_chminK8IQ",
-        "story": "https://aihot.news/story/fc5a905b-54af-4de4-9c7c-a366a60a9f84"
+        "aihot": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
+        "original": "https://claude.com/blog/install-as-app",
+        "story": "https://aihot.news/story/3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac"
       },
       "sourceCount": 3,
-      "signalCount": 38,
-      "participantCount": 41,
+      "signalCount": 28,
+      "participantCount": 31,
       "sourceNames": [
-        "Simon Willison 博客",
-        "MarkTechPost（RSS）",
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "IT之家·人工智能",
         "The Decoder：AI News（RSS）"
       ],
-      "latestAt": "2026-11-23T23:40:49.000Z"
+      "latestAt": "2026-11-25T00:56:27.000Z"
     },
     {
       "rank": 4,
+      "id": "e6gp31eup40d99unaon9umnpo",
+      "storyPublicId": "99a822a0-0b83-4aff-8f65-02c408205578",
+      "title": "杨立昆指阿莫迪炒作AI危险论，阿莫迪否认",
+      "source": {
+        "name": "X：Elon Musk (@elonmusk, xAI)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+        "original": "https://x.com/elonmusk/status/2125669066388209784",
+        "story": "https://aihot.news/story/99a822a0-0b83-4aff-8f65-02c408205578"
+      },
+      "sourceCount": 5,
+      "signalCount": 16,
+      "participantCount": 21,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Elon Musk (@elonmusk, xAI)",
+        "X：Dario Amodei (@DarioAmodei)",
+        "IT之家·人工智能"
+      ],
+      "latestAt": "2026-11-25T20:15:50.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "rlt60gq96bl1cf5b88o8rbj30",
+      "storyPublicId": "86e2fa50-91df-43e8-ab8a-6948255ec46f",
+      "title": "Nvidia 暂停向东南亚四国发运服务器",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/rlt60gq96bl1cf5b88o8rbj30",
+        "original": "https://x.com/rohanpaul_ai/status/2125847124600656142",
+        "story": "https://aihot.news/story/86e2fa50-91df-43e8-ab8a-6948255ec46f"
+      },
+      "sourceCount": 2,
+      "signalCount": 12,
+      "participantCount": 14,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "latestAt": "2026-11-26T11:21:16.000Z"
+    },
+    {
+      "rank": 6,
+      "id": "h1ja45355xx1xf9rqf89cv1if",
+      "storyPublicId": "c38b8a26-309e-4ed2-841e-c4821cf589fe",
+      "title": "Anthropic 将 Claude Messages API 从 Python 迁至 Rust",
+      "source": {
+        "name": "Anthropic：Research（发表成果 · 网页）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/h1ja45355xx1xf9rqf89cv1if",
+        "original": "https://www.anthropic.com/research/migrating-api-to-rust",
+        "story": "https://aihot.news/story/c38b8a26-309e-4ed2-841e-c4821cf589fe"
+      },
+      "sourceCount": 3,
+      "signalCount": 14,
+      "participantCount": 17,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Pragmatic Engineer（RSS）",
+        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
+      ],
+      "latestAt": "2026-11-25T20:52:14.000Z"
+    },
+    {
+      "rank": 7,
+      "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
+      "storyPublicId": "647b0945-9244-4f55-b509-0f3fa0f6fe51",
+      "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
+      "source": {
+        "name": "公众号：数字生命卡兹克"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
+        "original": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
+        "story": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51"
+      },
+      "sourceCount": 5,
+      "signalCount": 17,
+      "participantCount": 22,
+      "sourceNames": [
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "Timothy B. Lee：Understanding AI（RSS）",
+        "Ars Technica：AI（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-26T03:01:11.990Z"
+    },
+    {
+      "rank": 8,
       "id": "xywgx35ocbe6mzl2pnajw8ruu",
       "storyPublicId": "82c796c0-3bf1-4c3a-8368-56913b4bf85d",
       "title": "Anthropic 上市首日涨 17%，一周内跌破发行价",
@@ -103,143 +193,49 @@
       "latestAt": "2026-11-25T03:29:13.877Z"
     },
     {
-      "rank": 5,
-      "id": "vu6fw8wmrs3xcln4u9gwzf1f4",
-      "storyPublicId": "647b0945-9244-4f55-b509-0f3fa0f6fe51",
-      "title": "Lean 社区确认阿尔波格黎曼猜想证明正确",
-      "source": {
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/vu6fw8wmrs3xcln4u9gwzf1f4",
-        "original": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
-        "story": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51"
-      },
-      "sourceCount": 3,
-      "signalCount": 28,
-      "participantCount": 31,
-      "sourceNames": [
-        "Timothy B. Lee：Understanding AI（RSS）",
-        "Ars Technica：AI（RSS）",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-11-24T21:43:33.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "zcpto4b7qb8sr6v6n223kd2sx",
-      "storyPublicId": "3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac",
-      "title": "Claude artifacts 可安装为 Mac 和 Windows 桌面应用",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
-        "original": "https://claude.com/blog/install-as-app",
-        "story": "https://aihot.news/story/3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac"
-      },
-      "sourceCount": 3,
-      "signalCount": 17,
-      "participantCount": 20,
-      "sourceNames": [
-        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-        "IT之家·人工智能",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-11-25T00:56:27.000Z"
-    },
-    {
-      "rank": 7,
-      "id": "u71y2i8e6zhwauu7gpuyxrp4z",
-      "storyPublicId": "c241df7c-8594-4077-8325-8fb43645c8ae",
-      "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
-      "source": {
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-        "original": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
-        "story": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae"
-      },
-      "sourceCount": 5,
-      "signalCount": 11,
-      "participantCount": 16,
-      "sourceNames": [
-        "公众号：卡尔的AI沃茨",
-        "IT之家·人工智能",
-        "X：卡兹克 (@Khazix0918)",
-        "公众号：数字生命卡兹克",
-        "X：Higgsfield AI (@higgsfield)"
-      ],
-      "latestAt": "2026-11-25T09:16:41.000Z"
-    },
-    {
-      "rank": 8,
-      "id": "lq87k55eq302bk57xq3o5orsv",
-      "storyPublicId": "352fff72-a318-46a8-9820-a84e33ea566a",
-      "title": "OpenAI与Anthropic员工警告内部模型难安全发布",
-      "source": {
-        "name": "The Decoder：AI News（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/lq87k55eq302bk57xq3o5orsv",
-        "original": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-        "story": "https://aihot.news/story/352fff72-a318-46a8-9820-a84e33ea566a"
-      },
-      "sourceCount": 3,
-      "signalCount": 16,
-      "participantCount": 19,
-      "sourceNames": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "The Decoder：AI News（RSS）",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-24T16:06:27.000Z"
-    },
-    {
       "rank": 9,
-      "id": "d41p6k2h48zm8u2kl5xdzqx5h",
-      "storyPublicId": "68abb2b5-1d0f-4c37-8ad9-72fcbc771eef",
-      "title": "OpenAI与Cisco开源Shirudo：eBPF护住补丁窗口",
+      "id": "reedvq9m1fb7xktmvk0dnqqpk",
+      "storyPublicId": "cc2d9727-4547-44f7-b2fe-f16bdbf84b42",
+      "title": "OpenAI修复GPT-6.2计费错误并补偿用户",
       "source": {
         "name": "X：Tibo (@thsottiaux)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/d41p6k2h48zm8u2kl5xdzqx5h",
-        "original": "https://x.com/thsottiaux/status/2125141302501417232",
-        "story": "https://aihot.news/story/68abb2b5-1d0f-4c37-8ad9-72fcbc771eef"
+        "aihot": "https://aihot.news/items/reedvq9m1fb7xktmvk0dnqqpk",
+        "original": "https://x.com/thsottiaux/status/2125784147889393806",
+        "story": "https://aihot.news/story/cc2d9727-4547-44f7-b2fe-f16bdbf84b42"
       },
-      "sourceCount": 3,
-      "signalCount": 22,
-      "participantCount": 25,
+      "sourceCount": 1,
+      "signalCount": 11,
+      "participantCount": 12,
       "sourceNames": [
-        "X：Greg Brockman (@gdb)",
-        "MarkTechPost（RSS）",
-        "IT之家·人工智能"
+        "X：Tibo (@thsottiaux)"
       ],
-      "latestAt": "2026-11-25T09:41:02.000Z"
+      "latestAt": "2026-11-26T07:26:16.000Z"
     },
     {
       "rank": 10,
-      "id": "eg97pyuem4incr7vpqsklw36v",
-      "storyPublicId": "51379310-d375-40d8-88e1-a8112bca2c10",
-      "title": "亚马逊约75亿美元收购Decart技术与团队",
+      "id": "xwuysq1sz8l3ufe8bv87w2kf4",
+      "storyPublicId": "a3ed4d02-699a-4ae5-9b89-a2d4794da4fc",
+      "title": "OpenAI 合并 Chat 与 Work，Pro 用户先行试用",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "X：Tibo (@thsottiaux)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/eg97pyuem4incr7vpqsklw36v",
-        "original": "https://x.com/rohanpaul_ai/status/2124294348712092061",
-        "story": "https://aihot.news/story/51379310-d375-40d8-88e1-a8112bca2c10"
+        "aihot": "https://aihot.news/items/xwuysq1sz8l3ufe8bv87w2kf4",
+        "original": "https://x.com/thsottiaux/status/2125284868414394550",
+        "story": "https://aihot.news/story/a3ed4d02-699a-4ae5-9b89-a2d4794da4fc"
       },
-      "sourceCount": 2,
-      "signalCount": 25,
-      "participantCount": 27,
+      "sourceCount": 4,
+      "signalCount": 11,
+      "participantCount": 15,
       "sourceNames": [
+        "IT之家·人工智能",
+        "X：Rohan Paul (@rohanpaul_ai)",
         "TechCrunch：AI（RSS）",
-        "IT之家·人工智能"
+        "X：Tibo (@thsottiaux)"
       ],
-      "latestAt": "2026-11-24T15:51:07.000Z"
+      "latestAt": "2026-11-26T02:30:00.343Z"
     }
   ]
 }
