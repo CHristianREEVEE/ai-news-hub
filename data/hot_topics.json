@@ -1,106 +1,10 @@
 {
-  "updatedAt": "2026-11-26T12:18:24.133432+00:00",
+  "updatedAt": "2026-11-27T12:06:19.014433+00:00",
   "source": "aihot.virxact.com",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "id": "u71y2i8e6zhwauu7gpuyxrp4z",
-      "storyPublicId": "c241df7c-8594-4077-8325-8fb43645c8ae",
-      "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
-      "source": {
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
-        "original": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
-        "story": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae"
-      },
-      "sourceCount": 7,
-      "signalCount": 22,
-      "participantCount": 29,
-      "sourceNames": [
-        "X：Artificial Analysis (@ArtificialAnlys)",
-        "X：Higgsfield AI (@higgsfield)",
-        "X：卡尔的 AI 沃茨 (@aiwarts)",
-        "公众号：卡尔的AI沃茨",
-        "IT之家·人工智能",
-        "X：卡兹克 (@Khazix0918)",
-        "公众号：数字生命卡兹克"
-      ],
-      "latestAt": "2026-11-26T01:13:12.000Z"
-    },
-    {
-      "rank": 2,
-      "id": "jn299ef1fht5fbf4q4h28uoja",
-      "storyPublicId": "9dbfd26c-982c-409f-9e94-a22a3bde77ed",
-      "title": "FCC批准SpaceX部署百万颗AI卫星",
-      "source": {
-        "name": "The Verge：AI（RSS）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/jn299ef1fht5fbf4q4h28uoja",
-        "original": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-        "story": "https://aihot.news/story/9dbfd26c-982c-409f-9e94-a22a3bde77ed"
-      },
-      "sourceCount": 1,
-      "signalCount": 21,
-      "participantCount": 22,
-      "sourceNames": [
-        "The Verge：AI（RSS）"
-      ],
-      "latestAt": "2026-11-25T17:44:51.000Z"
-    },
-    {
-      "rank": 3,
-      "id": "zcpto4b7qb8sr6v6n223kd2sx",
-      "storyPublicId": "3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac",
-      "title": "Claude artifacts 可安装为 Mac 和 Windows 桌面应用",
-      "source": {
-        "name": "Claude：Blog（网页）"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/zcpto4b7qb8sr6v6n223kd2sx",
-        "original": "https://claude.com/blog/install-as-app",
-        "story": "https://aihot.news/story/3e6c5690-bc7f-4ed5-b970-1fd6b1c2edac"
-      },
-      "sourceCount": 3,
-      "signalCount": 28,
-      "participantCount": 31,
-      "sourceNames": [
-        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-        "IT之家·人工智能",
-        "The Decoder：AI News（RSS）"
-      ],
-      "latestAt": "2026-11-25T00:56:27.000Z"
-    },
-    {
-      "rank": 4,
-      "id": "e6gp31eup40d99unaon9umnpo",
-      "storyPublicId": "99a822a0-0b83-4aff-8f65-02c408205578",
-      "title": "杨立昆指阿莫迪炒作AI危险论，阿莫迪否认",
-      "source": {
-        "name": "X：Elon Musk (@elonmusk, xAI)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
-        "original": "https://x.com/elonmusk/status/2125669066388209784",
-        "story": "https://aihot.news/story/99a822a0-0b83-4aff-8f65-02c408205578"
-      },
-      "sourceCount": 5,
-      "signalCount": 16,
-      "participantCount": 21,
-      "sourceNames": [
-        "The Decoder：AI News（RSS）",
-        "TechCrunch：AI（RSS）",
-        "X：Elon Musk (@elonmusk, xAI)",
-        "X：Dario Amodei (@DarioAmodei)",
-        "IT之家·人工智能"
-      ],
-      "latestAt": "2026-11-25T20:15:50.000Z"
-    },
-    {
-      "rank": 5,
       "id": "rlt60gq96bl1cf5b88o8rbj30",
       "storyPublicId": "86e2fa50-91df-43e8-ab8a-6948255ec46f",
       "title": "Nvidia 暂停向东南亚四国发运服务器",
@@ -112,14 +16,103 @@
         "original": "https://x.com/rohanpaul_ai/status/2125847124600656142",
         "story": "https://aihot.news/story/86e2fa50-91df-43e8-ab8a-6948255ec46f"
       },
+      "sourceCount": 3,
+      "signalCount": 26,
+      "participantCount": 29,
+      "sourceNames": [
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "TechCrunch：AI（RSS）",
+        "The Decoder：AI News（RSS）"
+      ],
+      "latestAt": "2026-11-27T07:07:27.000Z"
+    },
+    {
+      "rank": 2,
+      "id": "oysonctc1s0cizth9lunf32y5",
+      "storyPublicId": "9dbfd26c-982c-409f-9e94-a22a3bde77ed",
+      "title": "FCC批准SpaceX部署百万颗AI卫星",
+      "source": {
+        "name": "The Decoder：AI News（RSS）"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/oysonctc1s0cizth9lunf32y5",
+        "original": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+        "story": "https://aihot.news/story/9dbfd26c-982c-409f-9e94-a22a3bde77ed"
+      },
       "sourceCount": 2,
-      "signalCount": 12,
-      "participantCount": 14,
+      "signalCount": 30,
+      "participantCount": 32,
       "sourceNames": [
         "The Decoder：AI News（RSS）",
+        "The Verge：AI（RSS）"
+      ],
+      "latestAt": "2026-11-26T13:41:07.000Z"
+    },
+    {
+      "rank": 3,
+      "id": "reedvq9m1fb7xktmvk0dnqqpk",
+      "storyPublicId": "cc2d9727-4547-44f7-b2fe-f16bdbf84b42",
+      "title": "OpenAI修复GPT-6.2计费错误并补偿用户",
+      "source": {
+        "name": "X：Tibo (@thsottiaux)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/reedvq9m1fb7xktmvk0dnqqpk",
+        "original": "https://x.com/thsottiaux/status/2125784147889393806",
+        "story": "https://aihot.news/story/cc2d9727-4547-44f7-b2fe-f16bdbf84b42"
+      },
+      "sourceCount": 2,
+      "signalCount": 23,
+      "participantCount": 25,
+      "sourceNames": [
+        "The Decoder：AI News（RSS）",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "latestAt": "2026-11-26T17:28:56.000Z"
+    },
+    {
+      "rank": 4,
+      "id": "u71y2i8e6zhwauu7gpuyxrp4z",
+      "storyPublicId": "c241df7c-8594-4077-8325-8fb43645c8ae",
+      "title": "Sand.ai 发布 MAGI-2，上线渠道与定价说法不一",
+      "source": {
+        "name": "公众号：数字生命卡兹克"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/u71y2i8e6zhwauu7gpuyxrp4z",
+        "original": "https://mp.weixin.qq.com/s/JkZM9s6tC_Wz5MKeYcccxw",
+        "story": "https://aihot.news/story/c241df7c-8594-4077-8325-8fb43645c8ae"
+      },
+      "sourceCount": 3,
+      "signalCount": 19,
+      "participantCount": 22,
+      "sourceNames": [
+        "X：Higgsfield AI (@higgsfield)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：卡尔的 AI 沃茨 (@aiwarts)"
+      ],
+      "latestAt": "2026-11-26T17:11:25.000Z"
+    },
+    {
+      "rank": 5,
+      "id": "srpo49fnds5wrj0b8csrot4ve",
+      "storyPublicId": "03ddd2b0-2237-47fa-a85c-8b3981cde081",
+      "title": "SAP拟在AI重组中裁员至少1万人",
+      "source": {
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
+      },
+      "links": {
+        "aihot": "https://aihot.news/items/srpo49fnds5wrj0b8csrot4ve",
+        "original": "https://x.com/rohanpaul_ai/status/2126041605144739986",
+        "story": "https://aihot.news/story/03ddd2b0-2237-47fa-a85c-8b3981cde081"
+      },
+      "sourceCount": 1,
+      "signalCount": 12,
+      "participantCount": 13,
+      "sourceNames": [
         "X：Rohan Paul (@rohanpaul_ai)"
       ],
-      "latestAt": "2026-11-26T11:21:16.000Z"
+      "latestAt": "2026-11-26T19:53:13.000Z"
     },
     {
       "rank": 6,
@@ -135,14 +128,14 @@
         "story": "https://aihot.news/story/c38b8a26-309e-4ed2-841e-c4821cf589fe"
       },
       "sourceCount": 3,
-      "signalCount": 14,
-      "participantCount": 17,
+      "signalCount": 18,
+      "participantCount": 21,
       "sourceNames": [
+        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "Pragmatic Engineer（RSS）",
-        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
+        "Pragmatic Engineer（RSS）"
       ],
-      "latestAt": "2026-11-25T20:52:14.000Z"
+      "latestAt": "2026-11-26T17:04:31.000Z"
     },
     {
       "rank": 7,
@@ -157,85 +150,84 @@
         "original": "https://mp.weixin.qq.com/s/8Zi3nfwddzFy6cZsK2_KxA",
         "story": "https://aihot.news/story/647b0945-9244-4f55-b509-0f3fa0f6fe51"
       },
-      "sourceCount": 5,
-      "signalCount": 17,
-      "participantCount": 22,
+      "sourceCount": 2,
+      "signalCount": 15,
+      "participantCount": 17,
       "sourceNames": [
         "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "Timothy B. Lee：Understanding AI（RSS）",
-        "Ars Technica：AI（RSS）",
-        "The Decoder：AI News（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "latestAt": "2026-11-26T03:01:11.990Z"
     },
     {
       "rank": 8,
-      "id": "xywgx35ocbe6mzl2pnajw8ruu",
-      "storyPublicId": "82c796c0-3bf1-4c3a-8368-56913b4bf85d",
-      "title": "Anthropic 上市首日涨 17%，一周内跌破发行价",
+      "id": "e6gp31eup40d99unaon9umnpo",
+      "storyPublicId": "99a822a0-0b83-4aff-8f65-02c408205578",
+      "title": "杨立昆指阿莫迪炒作AI危险论，阿莫迪否认",
       "source": {
-        "name": "Anthropic：Newsroom（网页）"
+        "name": "X：Elon Musk (@elonmusk, xAI)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xywgx35ocbe6mzl2pnajw8ruu",
-        "original": "https://www.anthropic.com/news/s1-sec",
-        "story": "https://aihot.news/story/82c796c0-3bf1-4c3a-8368-56913b4bf85d"
+        "aihot": "https://aihot.news/items/e6gp31eup40d99unaon9umnpo",
+        "original": "https://x.com/elonmusk/status/2125669066388209784",
+        "story": "https://aihot.news/story/99a822a0-0b83-4aff-8f65-02c408205578"
       },
-      "sourceCount": 3,
-      "signalCount": 23,
-      "participantCount": 26,
+      "sourceCount": 4,
+      "signalCount": 17,
+      "participantCount": 21,
       "sourceNames": [
-        "IT之家·人工智能",
-        "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）"
+        "The Decoder：AI News（RSS）",
+        "TechCrunch：AI（RSS）",
+        "X：Elon Musk (@elonmusk, xAI)",
+        "X：Dario Amodei (@DarioAmodei)"
       ],
-      "latestAt": "2026-11-25T03:29:13.877Z"
+      "latestAt": "2026-11-25T20:15:50.000Z"
     },
     {
       "rank": 9,
-      "id": "reedvq9m1fb7xktmvk0dnqqpk",
-      "storyPublicId": "cc2d9727-4547-44f7-b2fe-f16bdbf84b42",
-      "title": "OpenAI修复GPT-6.2计费错误并补偿用户",
+      "id": "c1522cdies4nnn8g5o2nwzbsi",
+      "storyPublicId": "fe966e0f-8db8-449a-9770-2a3a5c63c37d",
+      "title": "亚马逊与Meta洽谈解封AI购物智能体Muse",
       "source": {
-        "name": "X：Tibo (@thsottiaux)"
+        "name": "The Decoder：AI News（RSS）"
       },
       "links": {
-        "aihot": "https://aihot.news/items/reedvq9m1fb7xktmvk0dnqqpk",
-        "original": "https://x.com/thsottiaux/status/2125784147889393806",
-        "story": "https://aihot.news/story/cc2d9727-4547-44f7-b2fe-f16bdbf84b42"
+        "aihot": "https://aihot.news/items/c1522cdies4nnn8g5o2nwzbsi",
+        "original": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+        "story": "https://aihot.news/story/fe966e0f-8db8-449a-9770-2a3a5c63c37d"
       },
-      "sourceCount": 1,
-      "signalCount": 11,
-      "participantCount": 12,
+      "sourceCount": 4,
+      "signalCount": 12,
+      "participantCount": 16,
       "sourceNames": [
-        "X：Tibo (@thsottiaux)"
+        "The Decoder：AI News（RSS）",
+        "IT之家·人工智能",
+        "The Verge：AI（RSS）",
+        "TechCrunch：AI（RSS）"
       ],
-      "latestAt": "2026-11-26T07:26:16.000Z"
+      "latestAt": "2026-11-25T16:44:37.000Z"
     },
     {
       "rank": 10,
-      "id": "xwuysq1sz8l3ufe8bv87w2kf4",
-      "storyPublicId": "a3ed4d02-699a-4ae5-9b89-a2d4794da4fc",
-      "title": "OpenAI 合并 Chat 与 Work，Pro 用户先行试用",
+      "id": "h384ogtv753wauyc14tvweq5b",
+      "storyPublicId": "1f457523-63e7-48f2-9c9c-1871165c4fb0",
+      "title": "蚂蚁灵波发布 LingBot-Map 2.0 并开源导航模型 LingBot-Navi",
       "source": {
-        "name": "X：Tibo (@thsottiaux)"
+        "name": "X：Rohan Paul (@rohanpaul_ai)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/xwuysq1sz8l3ufe8bv87w2kf4",
-        "original": "https://x.com/thsottiaux/status/2125284868414394550",
-        "story": "https://aihot.news/story/a3ed4d02-699a-4ae5-9b89-a2d4794da4fc"
+        "aihot": "https://aihot.news/items/h384ogtv753wauyc14tvweq5b",
+        "original": "https://x.com/rohanpaul_ai/status/2126019340525056182",
+        "story": "https://aihot.news/story/1f457523-63e7-48f2-9c9c-1871165c4fb0"
       },
-      "sourceCount": 4,
-      "signalCount": 11,
-      "participantCount": 15,
+      "sourceCount": 2,
+      "signalCount": 7,
+      "participantCount": 9,
       "sourceNames": [
-        "IT之家·人工智能",
         "X：Rohan Paul (@rohanpaul_ai)",
-        "TechCrunch：AI（RSS）",
-        "X：Tibo (@thsottiaux)"
+        "Robbyant 蚂蚁灵波（官方 X）"
       ],
-      "latestAt": "2026-11-26T02:30:00.343Z"
+      "latestAt": "2026-11-26T21:05:18.000Z"
     }
   ]
 }
