@@ -1,75 +1,29 @@
 {
-  "updatedAt": "2026-11-27T12:06:13.685860+00:00",
+  "updatedAt": "2026-11-28T11:38:12.908518+00:00",
   "source": "aihot.virxact.com",
-  "total": 3,
+  "total": 1,
   "items": [
     {
-      "id": "v5fxjqr2vapkk9vn1j9a8ke96",
-      "title": "Dragos 调查称 MiniMax 在用户请求不存储的情况下仍打开提示词中的私有链接",
-      "originalTitle": "According to US security firm Dragos, MiniMax collected private links from user prompts and opened them, even under no-storage requests.",
-      "summary": "据美国安全公司 Dragos，MiniMax 收集并打开了用户提示词中的私有链接，即便用户要求不存储数据。",
+      "id": "tiqf353lek6sib8ktn8uvc6nc",
+      "title": "Antigravity 实用技巧：在 GEMINI.md 加一句话让模型边干活边汇报",
+      "originalTitle": "分享个Antigravity的小技巧。",
+      "summary": "卡兹克分享一个 Antigravity 使用技巧，针对模型长时间闷头干活不输出信息的问题，只需在 GEMINI.md 中加一句话，要求动手前说要做什么、有发现、换方向、卡住或连干四五步时再说一句，即可获得类似 Claude 或 Codex 那种实时汇报进度的交互体验。",
       "source": {
-        "name": "X：Rohan Paul (@rohanpaul_ai)"
+        "name": "X：卡兹克 (@Khazix0918)"
       },
       "links": {
-        "aihot": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96",
-        "original": "https://x.com/rohanpaul_ai/status/2126214860421914884"
+        "aihot": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc",
+        "original": "https://x.com/Khazix0918/status/2126294658431201385"
       },
-      "publishedAt": "2026-11-27T07:21:40.000Z",
-      "discoveredAt": "2026-11-27T07:30:35.954Z",
-      "category": "industry",
-      "score": 84,
-      "selected": true,
-      "reason": "转述 Dragos 的金丝雀测试细节，读者可以据此评估把敏感数据交给 AI 服务商的风险和供应商的隐私承诺可信度。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/v5fxjqr2vapkk9vn1j9a8ke96"
-      }
-    },
-    {
-      "id": "cdkswjz368inpelrz3f52rekx",
-      "title": "实测支付宝 SkillPay：手把手教你怎么把 Skill 挂上去卖钱",
-      "originalTitle": null,
-      "summary": "作者完整实测支付宝 SkillPay 平台的 Skill 变现流程，该平台7月上线，支持买断和订阅两种售卖模式。买断制将 Skill 完整内容交付本地，订阅制把 Skill 保留在云端沙盒中、Agent 看不到明文；买断定价 0.01-50 元，订阅按周月季度收费上限 50 元，免费试用最低 5 次。",
-      "source": {
-        "name": "公众号：数字生命卡兹克"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx",
-        "original": "https://mp.weixin.qq.com/s/x7Yt237NPL-sLvkUJlwESw"
-      },
-      "publishedAt": "2026-11-26T23:56:00.000Z",
-      "discoveredAt": "2026-11-27T00:02:10.632Z",
+      "publishedAt": "2026-11-27T12:38:45.000Z",
+      "discoveredAt": "2026-11-27T12:45:40.577Z",
       "category": "tip",
-      "score": 71,
+      "score": 69,
       "selected": true,
-      "reason": "作者以买家和卖家双视角实测支付宝 SkillPay 的买断与订阅两种模式，给出了从签约、定价到收款的上架流程和费用细节。",
+      "reason": "原文给出了可直接复用的 GEMINI.md 提示词，让 Antigravity 边干活边汇报进度，改善交互掌控感。",
       "attribution": {
         "name": "AIHOT",
-        "url": "https://aihot.news/items/cdkswjz368inpelrz3f52rekx"
-      }
-    },
-    {
-      "id": "jcdfpftbam647yhc210dbace9",
-      "title": "Philipp Schmid 撰文解释为何在 Skills 与 CLI 兴起后仍更看好 MCP",
-      "originalTitle": "Everyone hated on MCP when Skills and CLIs took over. I'm more bullish on MCP than ever",
-      "summary": "Philipp Schmid 撰文解释为何在 Skills 和 CLI 流行后依然看好 MCP：Linear 和 Notion 的 agent 每周创建约 240 万条 issue 和页面，Atlassian 每天 MCP 工具调用超 500 万次，其中 44% 用户来自软件团队之外，Notion 报告 60 倍 MCP 流量增长。",
-      "source": {
-        "name": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
-      },
-      "links": {
-        "aihot": "https://aihot.news/items/jcdfpftbam647yhc210dbace9",
-        "original": "https://x.com/_philschmid/status/2125945282072297794"
-      },
-      "publishedAt": "2026-11-26T13:30:28.000Z",
-      "discoveredAt": "2026-11-26T13:48:42.406Z",
-      "category": "opinion",
-      "score": 65,
-      "selected": true,
-      "reason": "作者基于 Linear、Notion、Atlassian 等真实用量数据解释为何依然看好 MCP，并梳理 Code Mode、Skills、Events、MCP Apps 四个方向。",
-      "attribution": {
-        "name": "AIHOT",
-        "url": "https://aihot.news/items/jcdfpftbam647yhc210dbace9"
+        "url": "https://aihot.news/items/tiqf353lek6sib8ktn8uvc6nc"
       }
     }
   ]
